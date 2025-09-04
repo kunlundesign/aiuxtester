@@ -8,9 +8,8 @@ const nextConfig = {
     GEMINI_API_KEY: process.env.GEMINI_API_KEY,
     ZHIPU_API_KEY: process.env.ZHIPU_API_KEY,
   },
-  serverRuntimeConfig: {
-    port: 8080,
-  },
+  // Configure for Azure App Service
+  output: 'standalone',
 };
 
 module.exports = nextConfig;
