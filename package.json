@@ -7,9 +7,12 @@
     "build": "next build",
     "start": "next start -p 8080",
     "lint": "next lint",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "postinstall": "echo 'Install completed'"
   },
   "dependencies": {
+    "@fluentui/react-components": "^9.69.0",
+    "@fluentui/react-icons": "^2.0.308",
     "@google/generative-ai": "^0.2.0",
     "axios": "^1.6.0",
     "next": "^14.0.0",
@@ -20,8 +23,6 @@
     "zod": "^3.22.0"
   },
   "devDependencies": {
-    "@fluentui/react-components": "^9.69.0",
-    "@fluentui/react-icons": "^2.0.308",
     "@types/node": "^20.8.0",
     "@types/react": "^18.2.0",
     "@types/react-beautiful-dnd": "^13.1.6",
@@ -29,5 +30,9 @@
     "eslint": "^8.51.0",
     "eslint-config-next": "^14.0.0",
     "typescript": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
   }
 }
