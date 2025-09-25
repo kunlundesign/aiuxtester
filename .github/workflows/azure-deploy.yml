@@ -36,6 +36,13 @@ jobs:
       - name: Build
         run: npm run build
 
+      # 验证构建结果
+      - name: Verify build
+        run: |
+          ls -la .next/
+          test -f .next/BUILD_ID
+          echo "Build verification successful"
+
       # 暂时不要 prune，保持 node_modules 完整
       # - run: npm prune --production
 

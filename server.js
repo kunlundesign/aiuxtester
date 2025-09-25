@@ -10,7 +10,11 @@ const port = process.env.PORT || 8080
 const hasBuild = fs.existsSync('.next/BUILD_ID')
 const dev = !hasBuild
 
-console.log(`Starting server: dev=${dev}, port=${port}, NODE_ENV=${process.env.NODE_ENV}, hasBuild=${hasBuild}`)
+// Azure environment detection
+const isAzure = process.env.WEBSITE_SITE_NAME || process.env.AZURE_WEBAPP_NAME
+
+console.log(`Starting server: dev=${dev}, port=${port}, NODE_ENV=${process.env.NODE_ENV}, hasBuild=${hasBuild}, isAzure=${!!isAzure}`)
+console.log(`Environment variables: PORT=${process.env.PORT}, WEBSITE_SITE_NAME=${process.env.WEBSITE_SITE_NAME}`)
 
 const app = next({ dev, hostname, port })
 const handle = app.getRequestHandler()
