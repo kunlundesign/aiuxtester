@@ -1,18 +1,26 @@
 const { createServer } = require('http')
 const { parse } = require('url')
 const next = require('next')
+const fs = require('fs')
 
-const dev = process.env.NODE_ENV !== 'production'
 const hostname = '0.0.0.0'
 const port = process.env.PORT || 8080
 
-console.log(`Starting server: dev=${dev}, port=${port}`)
+// Check if production build exists
+const hasBuild = fs.existsSync('.next/BUILD_ID')
+const dev = !hasBuild
+
+console.log(`Starting server: dev=${dev}, port=${port}, NODE_ENV=${process.env.NODE_ENV}, hasBuild=${hasBuild}`)
 
 const app = next({ dev, hostname, port })
 const handle = app.getRequestHandler()
 
+console.log('Next.js app created, preparing...')
+
 app.prepare().then(() => {
-  createServer(async (req, res) => {
+  console.log('Next.js app prepared, creating server...')
+  
+  const server = createServer(async (req, res) => {
     try {
       const parsedUrl = parse(req.url, true)
       await handle(req, res, parsedUrl)
@@ -22,14 +30,19 @@ app.prepare().then(() => {
       res.end('internal server error')
     }
   })
-    .once('error', (err) => {
-      console.error('Server error:', err)
-      process.exit(1)
-    })
-    .listen(port, hostname, () => {
-      console.log(`> Ready on http://${hostname}:${port}`)
-    })
+
+  server.once('error', (err) => {
+    console.error('Server error:', err)
+    process.exit(1)
+  })
+
+  server.listen(port, hostname, () => {
+    console.log(`> Ready on http://${hostname}:${port}`)
+    console.log('Server is listening and ready to accept connections')
+  })
+
 }).catch((err) => {
   console.error('Failed to start server:', err)
+  console.error('Error details:', err.stack)
   process.exit(1)
 })
