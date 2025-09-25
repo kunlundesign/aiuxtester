@@ -22,19 +22,37 @@ jobs:
 
       # 安装依赖（根据 package-lock 一致性）
       - name: Install deps
-        run: npm ci
+        run: |
+          pwd && ls -la
+          npm ci
 
       # 自检：必须能找到 next
       - name: Check next version
-        run: npx next --version
+        run: |
+          pwd && ls -la
+          npx next --version
 
       # 构建 Next.js
       - name: Build
-        run: npm run build
+        run: |
+          pwd && ls -la
+          npm run build
+
+      # 校验 next 依赖存在
+      - name: Verify next dependency
+        run: |
+          pwd && ls -la
+          npm ls next
+
+      # 校验 next 可执行文件
+      - name: Verify next executable
+        run: |
+          pwd && ls -la
+          test -x node_modules/.bin/next && node_modules/.bin/next --version
 
       # 精简到生产依赖（next 在 dependencies 中会被保留）
-      - name: Prune to production deps
-        run: npm prune --production
+      # - name: Prune to production deps
+      #   run: npm prune --production
 
       # 登录 Azure（OIDC）
       - name: Azure login
