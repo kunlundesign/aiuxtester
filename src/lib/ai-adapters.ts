@@ -8,11 +8,12 @@ import { personaFeedbackFrameworks, generatePersonaPrompt } from '@/data/persona
 // Type normalization helper
 type AllowedAnalysisType = 'single' | 'flow';
 
-function normalizeAnalysisType(t: unknown): AllowedAnalysisType {
-  // 将 undefined 或未知值默认为 'single'
-  if (t === 'flow') return 'flow';
-  // 兼容 'side-by-side' 和其他字符串
-  return 'single';
+function normalizeAnalysisType(t: unknown): { type: AllowedAnalysisType; isSideBySide: boolean } {
+  // 把未知/undefined 都当成 'single'
+  if (t === 'flow') return { type: 'flow', isSideBySide: false };
+  // 记录是否是 'side-by-side'，但返回的 type 仍然是 AllowedAnalysisType
+  if (t === 'side-by-side') return { type: 'single', isSideBySide: true };
+  return { type: 'single', isSideBySide: false };
 }
 
 export interface AIAdapter {
@@ -180,19 +181,22 @@ IMPORTANT: Include ALL highlights and issues you identify - typically 3-8 highli
     
     let personaPrompt: string;
     
+    // 规范化 analysisType
+    const { type: safeType, isSideBySide } = normalizeAnalysisType(analysisType);
+    
     if (framework) {
       // Use the new persona-specific prompt for built-in personas
       personaPrompt = generatePersonaPrompt(persona, framework, {
-        analysisType: normalizeAnalysisType(analysisType),
+        analysisType: safeType,
         designBackground,
         imageCount: images.length
       });
     } else {
       // Handle custom personas with detailed information
-      personaPrompt = this.generateCustomPersonaPrompt(persona, designBackground, normalizeAnalysisType(analysisType), images.length);
+      personaPrompt = this.generateCustomPersonaPrompt(persona, designBackground, safeType, images.length);
     }
       
-    const analysisInstructions = analysisType === 'flow' ? 
+    const analysisInstructions = safeType === 'flow' ? 
       `Analyze these ${images.length} images as a user flow/journey. Consider:
 - How well the flow guides users through the process
 - Consistency across screens  
@@ -200,7 +204,7 @@ IMPORTANT: Include ALL highlights and issues you identify - typically 3-8 highli
 - Overall user journey experience
 
 Evaluate each image individually but also consider the flow as a whole.` :
-      analysisType === 'side-by-side' ?
+      isSideBySide ?
       `COMPARATIVE ANALYSIS: Compare these ${images.length} designs side by side.
 
 CRITICAL COMPARISON REQUIREMENTS:
@@ -408,9 +412,12 @@ Design Context & Background:
 ${designBackground}
 ` : '';
 
-    const analysisContext = analysisType === 'flow' ? 
+    // 需要重新规范化 analysisType 以获取 isSideBySide 信息
+    const { type: safeType, isSideBySide } = normalizeAnalysisType(analysisType);
+    
+    const analysisContext = safeType === 'flow' ? 
       'user flow/journey analysis' :
-      analysisType === 'side-by-side' ?
+      isSideBySide ?
       'side-by-side comparison analysis' :
       'individual interface design analysis';
 
