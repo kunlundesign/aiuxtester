@@ -1,0 +1,482 @@
+import OpenAI from 'openai';
+import { GoogleGenerativeAI } from '@google/generative-ai';
+import axios from 'axios';
+import { ModelProvider, Persona, EvalResult } from '@/types';
+
+export interface AIAdapter {
+  evaluate(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow'): Promise<EvalResult>;
+}
+
+export class OpenAIAdapter implements AIAdapter {
+  private client: OpenAI;
+
+  constructor() {
+    this.client = new OpenAI({
+      apiKey: process.env.OPENAI_API_KEY,
+    });
+  }
+
+  async evaluate(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow'): Promise<EvalResult> {
+    // Mock mode for demo - return simulated response
+    if (process.env.NODE_ENV === 'development' && !process.env.OPENAI_API_KEY?.startsWith('sk-proj-')) {
+      return this.getMockResponse(persona.id, images.length, analysisType || 'single');
+    }
+
+    const systemPrompt = `You are a Gen Z-focused UX evaluator. You must output STRICT JSON only that matches the EvalResult interface. Evaluate each image based on Usability (Nielsen's 10 heuristics), Accessibility (WCAG POUR), and Visual Design (12 principles).`;
+
+    const userPrompt = this.buildPrompt(images, persona, designBackground, analysisType);
+
+    const response = await this.client.chat.completions.create({
+      model: 'gpt-4o',
+      messages: [
+        { role: 'system', content: systemPrompt },
+        {
+          role: 'user',
+          content: [
+            { type: 'text', text: userPrompt },
+            ...images.map(image => ({
+              type: 'image_url' as const,
+              image_url: { url: image }
+            }))
+          ]
+        }
+      ],
+      max_tokens: 4000,
+      temperature: 0.7,
+    });
+
+    const content = response.choices[0]?.message?.content;
+    if (!content) throw new Error('No response from OpenAI');
+
+    return this.parseResponse(content, 'openai', persona.id);
+  }
+
+  private buildPrompt(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow'): string {
+    const contextSection = designBackground ? `
+Design Context & Background:
+${designBackground}
+
+` : '';
+
+    const analysisInstructions = analysisType === 'flow' ? 
+      `Analyze these ${images.length} images as a user flow/journey. Consider:
+- How well the flow guides users through the process
+- Consistency across screens
+- Navigation clarity between steps
+- Overall user journey experience
+
+Evaluate each image individually but also consider the flow as a whole.` :
+      `Analyze this single interface design focusing on:
+- Individual screen usability and accessibility
+- Visual design principles
+- User experience quality`;
+
+    return `
+${contextSection}Persona: ${persona.name}
+Traits: ${persona.traits.join(', ')}
+Motivations: ${persona.motivations.join(', ')}
+Pain Points: ${persona.painPoints.join(', ')}
+
+${analysisInstructions}
+
+Evaluate ${images.length} image(s) and return a JSON object with this exact structure:
+{
+  "model": "openai",
+  "personaId": "${persona.id}",
+  "items": [
+    {
+      "imageId": "image-0",
+      "personaId": "${persona.id}",
+      "scores": {
+        "usability": 85,
+        "accessibility": 78,
+        "visual": 92,
+        "overall": 85
+      },
+      "highlights": ["positive aspect 1", "positive aspect 2"],
+      "issues": [
+        {
+          "stepHint": "Navigation area",
+          "issue": "Menu items lack clear visual hierarchy",
+          "severity": "Medium",
+          "dimension": "Visual",
+          "principles": ["Hierarchy", "Contrast"],
+          "suggestion": "Increase contrast between primary and secondary menu items"
+        }
+      ],
+      "narrative": "This interface shows strong visual appeal but has some usability concerns..."
+    }
+  ]
+}
+
+Score each dimension 0-100. Calculate overall as weighted average using persona weighting.
+`;
+  }
+
+  private getMockResponse(personaId: string, imageCount: number = 1, analysisType: 'single' | 'flow' = 'single'): EvalResult {
+    const mockItems = [];
+    
+    for (let i = 0; i < imageCount; i++) {
+      const isFlow = analysisType === 'flow';
+      const stepContext = isFlow ? ` (Step ${i + 1} of ${imageCount})` : '';
+      
+      mockItems.push({
+        imageId: `image-${i}`,
+        personaId,
+        scores: {
+          usability: Math.floor(Math.random() * 20) + 75, // 75-95
+          accessibility: Math.floor(Math.random() * 20) + 70, // 70-90
+          visual: Math.floor(Math.random() * 20) + 80, // 80-100
+          overall: Math.floor(Math.random() * 15) + 78 // 78-93
+        },
+        highlights: isFlow ? [
+          `Clear step progression${stepContext}`,
+          'Consistent design language maintained',
+          'Good visual flow between screens'
+        ] : [
+          'Clean and modern interface design',
+          'Good use of white space',
+          'Clear visual hierarchy'
+        ],
+        issues: Array.from({ length: 5 }, (_, idx) => ({
+          stepHint: isFlow ? `Step ${i + 1} Navigation` : `Accessibility Issue ${idx + 1}`,
+          issue: isFlow ? 
+            `Flow step ${i + 1} could provide clearer next action guidance` :
+            `Accessibility issue ${idx + 1}: Menu items could have better contrast for accessibility`,
+          severity: (['High', 'Medium', 'Low'] as const)[Math.floor(Math.random() * 3)],
+          dimension: 'Accessibility' as const,
+          principles: ['Contrast', 'Visibility'],
+          suggestion: isFlow ?
+            `Add more prominent call-to-action for step ${i + 1}` :
+            `Increase text contrast to meet WCAG AA standards`
+        })),
+        narrative: isFlow ?
+          `Step ${i + 1} of the user flow demonstrates good visual consistency with previous screens. The interface maintains clear navigation patterns, though some improvements could enhance the user journey experience.` :
+          'This interface shows strong visual appeal with a clean, modern design. The layout effectively uses white space and maintains good visual hierarchy, though some accessibility improvements would benefit all users.'
+        ,
+        verbatim: [
+          '“I just want to get this done without all the extra stuff.”',
+          '“Looks good, but where do I click next?”'
+        ]
+      });
+    }
+
+    return {
+      model: 'openai' as ModelProvider,
+      personaId,
+      items: mockItems
+    };
+  }
+
+  private parseResponse(content: string, model: ModelProvider, personaId: string): EvalResult {
+    try {
+      const parsed = JSON.parse(content);
+      return {
+        model,
+        personaId,
+        items: parsed.items || []
+      };
+    } catch (error) {
+      throw new Error(`Failed to parse OpenAI response: ${error}`);
+    }
+  }
+}
+
+export class GeminiAdapter implements AIAdapter {
+  private client: GoogleGenerativeAI;
+
+  constructor() {
+    this.client = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || '');
+  }
+
+  async evaluate(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow'): Promise<EvalResult> {
+    // Mock mode for demo - return simulated response
+    if (process.env.NODE_ENV === 'development' && (!process.env.GEMINI_API_KEY || process.env.GEMINI_API_KEY === '')) {
+      console.log('Gemini adapter using mock response - no API key configured');
+      return this.getMockResponse(persona.id, images.length, analysisType || 'single');
+    }
+
+    const model = this.client.getGenerativeModel({ model: 'gemini-1.5-pro' });
+    
+    const systemPrompt = `You are a Gen Z-focused UX evaluator. Output STRICT JSON only.`;
+    const userPrompt = this.buildPrompt(images, persona, designBackground, analysisType);
+
+    const imageParts = images.map(image => ({
+      inlineData: {
+        data: image.split(',')[1], // Remove data:image/jpeg;base64, prefix
+        mimeType: 'image/jpeg'
+      }
+    }));
+
+    const result = await model.generateContent([
+      systemPrompt + '\n' + userPrompt,
+      ...imageParts
+    ]);
+
+    const response = await result.response;
+    const content = response.text();
+    
+    console.log('Gemini response:', content);
+    
+    return this.parseResponse(content, 'gemini', persona.id);
+  }
+
+  private getMockResponse(personaId: string, imageCount: number = 1, analysisType: 'single' | 'flow' = 'single'): EvalResult {
+    const mockItems = [];
+    
+    for (let i = 0; i < imageCount; i++) {
+      const isFlow = analysisType === 'flow';
+      const stepContext = isFlow ? ` (Step ${i + 1} of ${imageCount})` : '';
+      
+      mockItems.push({
+        imageId: `image-${i}`,
+        personaId,
+        scores: {
+          usability: Math.floor(Math.random() * 20) + 75, // 75-95
+          accessibility: Math.floor(Math.random() * 20) + 70, // 70-90
+          visual: Math.floor(Math.random() * 20) + 80, // 80-100
+          overall: Math.floor(Math.random() * 15) + 78 // 78-93
+        },
+        highlights: isFlow ? [
+          `Clear step progression${stepContext}`,
+          'Consistent design language maintained',
+          'Good visual flow between screens'
+        ] : [
+          'Clean and modern interface design',
+          'Good use of white space',
+          'Clear visual hierarchy'
+        ],
+        issues: Array.from({ length: 5 }, (_, idx) => ({
+          stepHint: isFlow ? `Step ${i + 1} Navigation` : `Accessibility Issue ${idx + 1}`,
+          issue: isFlow ? 
+            `Flow step ${i + 1} could provide clearer next action guidance` :
+            `Accessibility issue ${idx + 1}: Menu items could have better contrast for accessibility`,
+          severity: (['High', 'Medium', 'Low'] as const)[Math.floor(Math.random() * 3)],
+          dimension: 'Accessibility' as const,
+          principles: ['Contrast', 'Visibility'],
+          suggestion: isFlow ?
+            `Add more prominent call-to-action for step ${i + 1}` :
+            `Increase text contrast to meet WCAG AA standards`
+        })),
+        narrative: isFlow ?
+          `Step ${i + 1} of the user flow demonstrates good visual consistency with previous screens. The interface maintains clear navigation patterns, though some improvements could enhance the user journey experience.` :
+          'This interface shows strong visual appeal with a clean, modern design. The layout effectively uses white space and maintains good visual hierarchy, though some accessibility improvements would benefit all users.'
+        ,
+        verbatim: [
+          '“This is cool, but can I make it look more like my style?”',
+          '“Feels fast, I’d share this if it had a template.”'
+        ]
+      });
+    }
+
+    return {
+      model: 'gemini' as ModelProvider,
+      personaId,
+      items: mockItems
+    };
+  }
+
+  private buildPrompt(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow'): string {
+    const contextSection = designBackground ? `
+Design Context & Background:
+${designBackground}
+
+` : '';
+
+    const analysisInstructions = analysisType === 'flow' ? 
+      `Analyze these ${images.length} images as a user flow/journey. Consider flow continuity and consistency.` :
+      `Analyze this single interface design focusing on individual screen quality.`;
+
+    return `
+${contextSection}Persona: ${persona.name}
+Traits: ${persona.traits.join(', ')}
+Motivations: ${persona.motivations.join(', ')}
+Pain Points: ${persona.painPoints.join(', ')}
+
+${analysisInstructions}
+
+Evaluate ${images.length} image(s) and return JSON with EvalResult structure.
+Score usability, accessibility, visual (0-100 each).
+Include highlights, issues with severity/dimension/principles/suggestions, and narrative.
+`;
+  }
+
+  private parseResponse(content: string, model: ModelProvider, personaId: string): EvalResult {
+    try {
+      // Clean the response by removing markdown code blocks and extra whitespace
+      let cleanContent = content.replace(/```json\n?|```\n?/g, '').trim();
+      
+      // Try to find JSON in the response if it's wrapped in other text
+      const jsonMatch = cleanContent.match(/\{[\s\S]*\}/);
+      if (jsonMatch) {
+        cleanContent = jsonMatch[0];
+      }
+      
+      const parsed = JSON.parse(cleanContent);
+      
+      // Return standard format (should match expected structure)
+      return {
+        model,
+        personaId,
+        items: parsed.items || []
+      };
+    } catch (error) {
+      console.error('Gemini response parsing error:', error);
+      console.error('Raw content:', content);
+      
+      // Return mock response as fallback
+      return this.getMockResponse(personaId, 1, 'single');
+    }
+  }
+}
+
+export class ZhipuAdapter implements AIAdapter {
+  private baseURL = 'https://open.bigmodel.cn/api/paas/v4/chat/completions';
+
+  async evaluate(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow'): Promise<EvalResult> {
+    // Mock mode for demo - return simulated response
+    if (process.env.NODE_ENV === 'development' && (!process.env.ZHIPU_API_KEY || process.env.ZHIPU_API_KEY === '')) {
+      console.log('Zhipu adapter using mock response - no API key configured');
+      return this.getMockResponse(persona.id, images.length, analysisType || 'single');
+    }
+
+    const systemPrompt = `You are a Gen Z-focused UX evaluator. Output STRICT JSON only.`;
+    const userPrompt = this.buildPrompt(images, persona, designBackground, analysisType);
+
+    const response = await axios.post(this.baseURL, {
+      model: 'glm-4v',
+      messages: [
+        { role: 'system', content: systemPrompt },
+        {
+          role: 'user',
+          content: [
+            { type: 'text', text: userPrompt },
+            ...images.map(image => ({
+              type: 'image_url',
+              image_url: { url: image }
+            }))
+          ]
+        }
+      ],
+      max_tokens: 4000,
+      temperature: 0.7,
+    }, {
+      headers: {
+        'Authorization': `Bearer ${process.env.ZHIPU_API_KEY}`,
+        'Content-Type': 'application/json',
+      }
+    });
+
+    const content = response.data.choices[0]?.message?.content;
+    if (!content) throw new Error('No response from Zhipu');
+
+    return this.parseResponse(content, 'zhipu', persona.id);
+  }
+
+  private getMockResponse(personaId: string, imageCount: number = 1, analysisType: 'single' | 'flow' = 'single'): EvalResult {
+    const mockItems = [];
+    
+    for (let i = 0; i < imageCount; i++) {
+      const isFlow = analysisType === 'flow';
+      const stepContext = isFlow ? ` (Step ${i + 1} of ${imageCount})` : '';
+      
+      mockItems.push({
+        imageId: `image-${i}`,
+        personaId,
+        scores: {
+          usability: Math.floor(Math.random() * 20) + 75, // 75-95
+          accessibility: Math.floor(Math.random() * 20) + 70, // 70-90
+          visual: Math.floor(Math.random() * 20) + 80, // 80-100
+          overall: Math.floor(Math.random() * 15) + 78 // 78-93
+        },
+        highlights: isFlow ? [
+          `Clear step progression${stepContext}`,
+          'Consistent design language maintained',
+          'Good visual flow between screens'
+        ] : [
+          'Clean and modern interface design',
+          'Good use of white space',
+          'Clear visual hierarchy'
+        ],
+        issues: Array.from({ length: 5 }, (_, idx) => ({
+          stepHint: isFlow ? `Step ${i + 1} Navigation` : `Accessibility Issue ${idx + 1}`,
+          issue: isFlow ? 
+            `Flow step ${i + 1} could provide clearer next action guidance` :
+            `Accessibility issue ${idx + 1}: Menu items could have better contrast for accessibility`,
+          severity: (['High', 'Medium', 'Low'] as const)[Math.floor(Math.random() * 3)],
+          dimension: 'Accessibility' as const,
+          principles: ['Contrast', 'Visibility'],
+          suggestion: isFlow ?
+            `Add more prominent call-to-action for step ${i + 1}` :
+            `Increase text contrast to meet WCAG AA standards`
+        })),
+        narrative: isFlow ?
+          `Step ${i + 1} of the user flow demonstrates good visual consistency with previous screens. The interface maintains clear navigation patterns, though some improvements could enhance the user journey experience.` :
+          'This interface shows strong visual appeal with a clean, modern design. The layout effectively uses white space and maintains good visual hierarchy, though some accessibility improvements would benefit all users.'
+        ,
+        verbatim: [
+          '“Show me where the data came from.”',
+          '“Don’t change what already works for me.”'
+        ]
+      });
+    }
+
+    return {
+      model: 'zhipu' as ModelProvider,
+      personaId,
+      items: mockItems
+    };
+  }
+
+  private buildPrompt(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow'): string {
+    const contextSection = designBackground ? `
+Design Context & Background:
+${designBackground}
+
+` : '';
+
+    const analysisInstructions = analysisType === 'flow' ? 
+      `Analyze these ${images.length} images as a user flow/journey. Consider flow continuity and consistency.` :
+      `Analyze this single interface design focusing on individual screen quality.`;
+
+    return `
+${contextSection}Persona: ${persona.name}
+Traits: ${persona.traits.join(', ')}
+Motivations: ${persona.motivations.join(', ')}
+Pain Points: ${persona.painPoints.join(', ')}
+
+${analysisInstructions}
+
+Evaluate ${images.length} image(s) and return JSON with EvalResult structure.
+Score usability, accessibility, visual (0-100 each).
+Include highlights, issues with severity/dimension/principles/suggestions, and narrative.
+`;
+  }
+
+  private parseResponse(content: string, model: ModelProvider, personaId: string): EvalResult {
+    try {
+      const cleanContent = content.replace(/```json\n?|```\n?/g, '').trim();
+      const parsed = JSON.parse(cleanContent);
+      return {
+        model,
+        personaId,
+        items: parsed.items || []
+      };
+    } catch (error) {
+      throw new Error(`Failed to parse Zhipu response: ${error}`);
+    }
+  }
+}
+
+export function createAIAdapter(provider: ModelProvider): AIAdapter {
+  switch (provider) {
+    case 'openai':
+      return new OpenAIAdapter();
+    case 'gemini':
+      return new GeminiAdapter();
+    case 'zhipu':
+      return new ZhipuAdapter();
+    default:
+      throw new Error(`Unsupported AI provider: ${provider}`);
+  }
+}

@@ -1,0 +1,1964 @@
+'use client';
+
+import React, { useState } from 'react';
+import { personas } from '@/data/personas';
+import { createAIAdapter } from '@/lib/ai-adapters';
+import { ModelProvider, EvalResult, UploadedImage } from '@/types';
+
+// 统一的设计系统
+const designSystem = {
+  colors: {
+    primary: '#007bff',
+    secondary: '#6c757d',
+    success: '#28a745',
+    warning: '#ffc107',
+    danger: '#dc3545',
+    info: '#17a2b8',
+    light: '#f8f9fa',
+    dark: '#343a40',
+    
+    // 分数等级颜色
+    score: {
+      excellent: '#28a745', // 90-100
+      good: '#17a2b8',      // 80-89
+      fair: '#ffc107',      // 70-79
+      poor: '#fd7e14',      // 60-69
+      critical: '#dc3545'   // 0-59
+    },
+    
+    // 严重程度颜色
+    severity: {
+      high: '#dc3545',
+      medium: '#ffc107', 
+      low: '#28a745'
+    }
+  },
+  
+  shadows: {
+    card: '0 4px 12px rgba(0,0,0,0.1)',
+    cardHover: '0 8px 24px rgba(0,0,0,0.15)',
+    button: '0 2px 8px rgba(0,0,0,0.1)'
+  },
+  
+  borderRadius: {
+    small: '4px',
+    medium: '8px',
+    large: '12px'
+  },
+  
+  spacing: {
+    xs: '4px',
+    sm: '8px',
+    md: '16px',
+    lg: '24px',
+    xl: '32px'
+  }
+};
+
+// 获取分数颜色的辅助函数
+const getScoreColor = (score: number) => {
+  if (score >= 90) return designSystem.colors.score.excellent;
+  if (score >= 80) return designSystem.colors.score.good;
+  if (score >= 70) return designSystem.colors.score.fair;
+  if (score >= 60) return designSystem.colors.score.poor;
+  return designSystem.colors.score.critical;
+};
+
+// 获取严重程度颜色的辅助函数
+const getSeverityColor = (severity: string) => {
+  const level = severity.toLowerCase();
+  return designSystem.colors.severity[level as keyof typeof designSystem.colors.severity] || designSystem.colors.secondary;
+};
+
+interface TestHistory {
+  id: string;
+  timestamp: Date;
+  result: EvalResult;
+  persona: string;
+  model: ModelProvider;
+  imageCount: number;
+}
+
+export default function HomePage() {
+  const [uploadedFiles, setUploadedFiles] = useState<File[]>([]);
+  const [selectedPersona, setSelectedPersona] = useState(personas[0].id);
+  const [selectedModel, setSelectedModel] = useState<ModelProvider>('gemini');
+  const [designBackground, setDesignBackground] = useState('');
+  const [analysisType, setAnalysisType] = useState<'single' | 'flow' | 'auto'>('auto');
+  const [isLoading, setIsLoading] = useState(false);
+  const [loadingMessage, setLoadingMessage] = useState('');
+  const [uploadProgress, setUploadProgress] = useState(0);
+  const [status, setStatus] = useState('Upload 1-10 screenshots to begin evaluation');
+  const [issuesSortBy, setIssuesSortBy] = useState<'severity' | 'dimension' | 'step'>('severity');
+  const [issuesSortOrder, setIssuesSortOrder] = useState<'asc' | 'desc'>('desc');
+  const [evaluationResult, setEvaluationResult] = useState<EvalResult | null>(null);
+  const [dragOver, setDragOver] = useState(false);
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [viewMode, setViewMode] = useState<'individual' | 'flow'>('individual');
+  const [testHistory, setTestHistory] = useState<TestHistory[]>([]);
+  const [showHistory, setShowHistory] = useState(false);
+
+  // Helper functions
+  const fileToBase64 = (file: File): Promise<string> => {
+    return new Promise((resolve, reject) => {
+      const reader = new FileReader();
+      reader.onload = () => resolve(reader.result as string);
+      reader.onerror = reject;
+      reader.readAsDataURL(file);
+    });
+  };
+
+  const getCurrentPersona = () => personas.find(p => p.id === selectedPersona) || personas[0];
+
+  // 排序Issues的函数
+  const sortIssues = (issues: any[]) => {
+    const sortedIssues = [...issues];
+    
+    sortedIssues.sort((a, b) => {
+      let aValue: string | number;
+      let bValue: string | number;
+      
+      switch (issuesSortBy) {
+        case 'severity':
+          const severityOrder = { 'High': 3, 'Medium': 2, 'Low': 1 };
+          aValue = severityOrder[a.severity as keyof typeof severityOrder] || 0;
+          bValue = severityOrder[b.severity as keyof typeof severityOrder] || 0;
+          break;
+        case 'dimension':
+          aValue = a.dimension.toLowerCase();
+          bValue = b.dimension.toLowerCase();
+          break;
+        case 'step':
+          aValue = a.stepHint.toLowerCase();
+          bValue = b.stepHint.toLowerCase();
+          break;
+        default:
+          return 0;
+      }
+      
+      if (issuesSortOrder === 'asc') {
+        return aValue > bValue ? 1 : -1;
+      } else {
+        return aValue < bValue ? 1 : -1;
+      }
+    });
+    
+    return sortedIssues;
+  };
+
+  const toggleSort = (sortType: 'severity' | 'dimension' | 'step') => {
+    if (issuesSortBy === sortType) {
+      setIssuesSortOrder(issuesSortOrder === 'asc' ? 'desc' : 'asc');
+    } else {
+      setIssuesSortBy(sortType);
+      setIssuesSortOrder('desc');
+    }
+  };
+
+  // Event handlers
+  const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const files = Array.from(event.target.files || []);
+    handleFiles(files);
+  };
+
+  const handleFiles = (files: File[]) => {
+    const imageFiles = files.filter(file => file.type.startsWith('image/'));
+    if (imageFiles.length > 10) {
+      setStatus('❌ Maximum 10 images allowed');
+      return;
+    }
+    
+    setUploadProgress(0);
+    setUploadedFiles(imageFiles);
+    
+    // 自动检测分析类型
+    if (analysisType === 'auto') {
+      if (imageFiles.length === 1) {
+        setAnalysisType('single');
+        setStatus(`✅ Single image uploaded - Will analyze individual design`);
+      } else if (imageFiles.length > 1) {
+        setAnalysisType('flow');
+        setStatus(`✅ ${imageFiles.length} images uploaded - Will analyze as user flow`);
+      }
+    }
+    
+    // 模拟上传进度
+    const totalFiles = imageFiles.length;
+    for (let i = 0; i <= totalFiles; i++) {
+      setTimeout(() => {
+        setUploadProgress((i / totalFiles) * 100);
+        if (i === totalFiles) {
+          setStatus(prev => prev + ' - Ready to evaluate');
+        }
+      }, i * 100);
+    }
+    
+    setEvaluationResult(null);
+  };
+
+  const handleDragOver = (e: React.DragEvent) => {
+    e.preventDefault();
+    setDragOver(true);
+  };
+
+  const handleDragLeave = (e: React.DragEvent) => {
+    e.preventDefault();
+    setDragOver(false);
+  };
+
+  const handleDrop = (e: React.DragEvent) => {
+    e.preventDefault();
+    setDragOver(false);
+    const files = Array.from(e.dataTransfer.files);
+    handleFiles(files);
+  };
+
+  const handleRunSimulation = async () => {
+    if (uploadedFiles.length === 0) {
+      setStatus('❌ Please upload at least one screenshot');
+      return;
+    }
+
+    setIsLoading(true);
+    const persona = getCurrentPersona();
+    
+    try {
+      setLoadingMessage('🔧 Initializing AI analysis...');
+      setStatus('🚀 Starting evaluation process...');
+      
+      setLoadingMessage('📸 Processing uploaded images...');
+      // Convert files to base64
+      const base64Images = await Promise.all(
+        uploadedFiles.map(file => fileToBase64(file))
+      );
+
+      setLoadingMessage(`🤖 Connecting to ${selectedModel.toUpperCase()} AI service...`);
+      // Call AI adapter
+      const adapter = createAIAdapter(selectedModel);
+      
+      setLoadingMessage(`👤 Analyzing from ${persona.name} perspective...`);
+      const finalAnalysisType = analysisType === 'auto' ? (uploadedFiles.length > 1 ? 'flow' : 'single') : analysisType;
+      const result = await adapter.evaluate(base64Images, persona, designBackground, finalAnalysisType);
+      
+      setLoadingMessage('💾 Saving results to history...');
+      // Save to history
+      const historyItem: TestHistory = {
+        id: Date.now().toString(),
+        timestamp: new Date(),
+        result,
+        persona: persona.name,
+        model: selectedModel,
+        imageCount: uploadedFiles.length
+      };
+      setTestHistory(prev => [historyItem, ...prev]);
+      
+      setEvaluationResult(result);
+      setLoadingMessage('✅ Analysis complete!');
+      setStatus('✅ Test completed successfully - Check history for previous tests');
+      
+      // 清除 loading message
+      setTimeout(() => setLoadingMessage(''), 2000);
+    } catch (error) {
+      console.error('Evaluation failed:', error);
+      setLoadingMessage('❌ Analysis failed');
+      setStatus(`❌ Test failed: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      setTimeout(() => setLoadingMessage(''), 3000);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const exportToMarkdown = () => {
+    if (!evaluationResult) return;
+    
+    const persona = getCurrentPersona();
+    const currentResult = evaluationResult.items[currentImageIndex];
+    if (!currentResult) return;
+
+    const markdown = `# AI UX Test Report
+
+Generated by AI UX Tester
+Model: ${evaluationResult.model.toUpperCase()}
+Persona: ${persona.name}
+Overall Score: ${currentResult.scores.overall}/100
+`;
+
+    navigator.clipboard.writeText(markdown);
+    setStatus('📋 Markdown copied to clipboard!');
+  };
+
+  const exportToJSON = () => {
+    if (!evaluationResult) return;
+    
+    const dataStr = JSON.stringify(evaluationResult, null, 2);
+    const dataBlob = new Blob([dataStr], { type: 'application/json' });
+    const url = URL.createObjectURL(dataBlob);
+    
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `evaluation-${selectedModel}-${getCurrentPersona().name}-${Date.now()}.json`;
+    link.click();
+    
+    URL.revokeObjectURL(url);
+    setStatus('💾 JSON file downloaded!');
+  };
+
+  const loadHistoryItem = (historyItem: TestHistory) => {
+    setEvaluationResult(historyItem.result);
+    setCurrentImageIndex(0);
+    setShowHistory(false);
+    setStatus(`📖 Viewing test from ${historyItem.timestamp.toLocaleString()}`);
+  };
+
+  const startNewTest = () => {
+    setEvaluationResult(null);
+    setCurrentImageIndex(0);
+    setUploadedFiles([]);
+    setShowHistory(false);
+    setStatus('Upload 1-10 screenshots to begin new test');
+  };
+
+  const clearHistory = () => {
+    if (confirm('Are you sure you want to clear all test history?')) {
+      setTestHistory([]);
+      setStatus('🗑️ Test history cleared');
+    }
+  };
+
+  return (
+    <div style={{ 
+      minHeight: '100vh',
+      background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+      padding: '20px'
+    }}>
+      <div style={{ 
+        maxWidth: '1200px', 
+        margin: '0 auto',
+        background: 'white',
+        borderRadius: '12px',
+        boxShadow: '0 8px 32px rgba(0,0,0,0.1)',
+        overflow: 'hidden'
+      }}>
+        {/* Header */}
+        <div style={{ 
+          background: 'linear-gradient(90deg, #4facfe 0%, #00f2fe 100%)',
+          padding: '24px',
+          color: 'white'
+        }}>
+          <h1 style={{ 
+            margin: 0, 
+            fontSize: '28px', 
+            fontWeight: 'bold',
+            textAlign: 'center'
+          }}>
+            � AI UX Tester
+          </h1>
+          <p style={{ 
+            margin: '8px 0 0 0', 
+            textAlign: 'center',
+            opacity: 0.9
+          }}>
+            Test UI designs with AI-powered Gen Z personas
+          </p>
+        </div>
+
+        <div style={{ padding: '24px' }}>
+          {/* Header Controls */}
+          <div style={{
+            display: 'flex',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            marginBottom: '24px'
+          }}>
+            <div></div>
+            <div style={{ display: 'flex', gap: '12px' }}>
+              <button
+                onClick={() => setShowHistory(!showHistory)}
+                style={{
+                  backgroundColor: showHistory ? '#6c757d' : '#17a2b8',
+                  color: 'white',
+                  border: 'none',
+                  padding: '8px 16px',
+                  borderRadius: '6px',
+                  cursor: 'pointer',
+                  fontSize: '14px',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '6px'
+                }}
+              >
+                📚 Test History ({testHistory.length})
+              </button>
+              {testHistory.length > 0 && (
+                <button
+                  onClick={clearHistory}
+                  style={{
+                    backgroundColor: '#dc3545',
+                    color: 'white',
+                    border: 'none',
+                    padding: '8px 16px',
+                    borderRadius: '6px',
+                    cursor: 'pointer',
+                    fontSize: '14px'
+                  }}
+                >
+                  🗑️ Clear History
+                </button>
+              )}
+            </div>
+          </div>
+
+          {/* Status Bar with Loading */}
+          <div style={{ 
+            padding: designSystem.spacing.md, 
+            backgroundColor: isLoading ? '#fff8e1' : designSystem.colors.light, 
+            border: `1px solid ${isLoading ? designSystem.colors.warning : '#dee2e6'}`,
+            borderRadius: designSystem.borderRadius.medium,
+            marginBottom: designSystem.spacing.lg,
+            boxShadow: designSystem.shadows.card
+          }}>
+            <div style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: designSystem.spacing.sm,
+              marginBottom: loadingMessage ? designSystem.spacing.sm : 0
+            }}>
+              {isLoading && (
+                <div style={{
+                  width: '20px',
+                  height: '20px',
+                  border: '3px solid #f3f3f3',
+                  borderTop: `3px solid ${designSystem.colors.primary}`,
+                  borderRadius: '50%',
+                  animation: 'spin 1s linear infinite'
+                }} />
+              )}
+              <strong style={{ color: designSystem.colors.dark }}>Status:</strong> 
+              <span style={{ color: isLoading ? designSystem.colors.warning : designSystem.colors.info }}>
+                {status}
+              </span>
+            </div>
+            
+            {/* Loading Progress */}
+            {isLoading && loadingMessage && (
+              <div style={{
+                padding: `${designSystem.spacing.xs} ${designSystem.spacing.sm}`,
+                backgroundColor: 'rgba(0,123,255,0.1)',
+                borderRadius: designSystem.borderRadius.small,
+                fontSize: '14px',
+                color: designSystem.colors.primary,
+                fontWeight: '500'
+              }}>
+                {loadingMessage}
+              </div>
+            )}
+            
+            {/* Upload Progress Bar */}
+            {uploadProgress > 0 && uploadProgress < 100 && (
+              <div style={{ marginTop: designSystem.spacing.sm }}>
+                <div style={{
+                  width: '100%',
+                  height: '4px',
+                  backgroundColor: '#e9ecef',
+                  borderRadius: '2px',
+                  overflow: 'hidden'
+                }}>
+                  <div style={{
+                    width: `${uploadProgress}%`,
+                    height: '100%',
+                    backgroundColor: designSystem.colors.success,
+                    transition: 'width 0.3s ease'
+                  }} />
+                </div>
+                <div style={{
+                  fontSize: '12px',
+                  color: designSystem.colors.secondary,
+                  marginTop: '4px'
+                }}>
+                  Uploading... {Math.round(uploadProgress)}%
+                </div>
+              </div>
+            )}
+            
+            <style jsx>{`
+              @keyframes spin {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+              }
+            `}</style>
+          </div>
+
+          {/* History Panel */}
+          {showHistory && (
+            <div style={{
+              marginBottom: '24px',
+              padding: '20px',
+              backgroundColor: '#f8f9fa',
+              borderRadius: '8px',
+              border: '2px solid #dee2e6'
+            }}>
+              <h3 style={{ margin: '0 0 16px 0', color: '#333' }}>📚 Test History</h3>
+              {testHistory.length === 0 ? (
+                <p style={{ color: '#666', fontStyle: 'italic', margin: 0 }}>
+                  No tests completed yet. Run your first test to see history here.
+                </p>
+              ) : (
+                <div style={{ maxHeight: '300px', overflowY: 'auto' }}>
+                  {testHistory.map((item, index) => (
+                    <div
+                      key={item.id}
+                      style={{
+                        padding: '12px',
+                        backgroundColor: 'white',
+                        borderRadius: '6px',
+                        marginBottom: '8px',
+                        border: '1px solid #dee2e6',
+                        cursor: 'pointer',
+                        transition: 'all 0.2s ease'
+                      }}
+                      onClick={() => loadHistoryItem(item)}
+                      onMouseOver={(e) => {
+                        e.currentTarget.style.backgroundColor = '#e3f2fd';
+                        e.currentTarget.style.borderColor = '#007bff';
+                      }}
+                      onMouseOut={(e) => {
+                        e.currentTarget.style.backgroundColor = 'white';
+                        e.currentTarget.style.borderColor = '#dee2e6';
+                      }}
+                    >
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                        <div>
+                          <div style={{ fontWeight: 'bold', marginBottom: '4px' }}>
+                            Test #{testHistory.length - index}
+                          </div>
+                          <div style={{ fontSize: '14px', color: '#666' }}>
+                            {item.timestamp.toLocaleString()} • {item.persona} • {item.model.toUpperCase()} • {item.imageCount} image(s)
+                          </div>
+                          <div style={{ fontSize: '13px', color: '#007bff', marginTop: '4px' }}>
+                            Overall Score: {item.result.items[0]?.scores?.overall || 'N/A'}/100
+                          </div>
+                        </div>
+                        <div style={{ color: '#007bff', fontSize: '18px' }}>
+                          📊
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          )}
+
+          {(!evaluationResult && !showHistory) ? (
+            /* Configuration Panel */
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px' }}>
+              {/* Left Column - Settings */}
+              <div>
+                {/* Persona Selection */}
+                <div style={{ marginBottom: '24px' }}>
+                  <label style={{ 
+                    display: 'block', 
+                    marginBottom: '12px', 
+                    fontWeight: 'bold',
+                    fontSize: '16px',
+                    color: '#333'
+                  }}>
+                    🎭 Select Gen Z Persona:
+                  </label>
+                  <select 
+                    value={selectedPersona} 
+                    onChange={(e) => setSelectedPersona(e.target.value)}
+                    style={{ 
+                      padding: '12px', 
+                      width: '100%',
+                      border: '2px solid #e9ecef',
+                      borderRadius: '8px',
+                      fontSize: '14px'
+                    }}
+                  >
+                    {personas.map(persona => (
+                      <option key={persona.id} value={persona.id}>
+                        {persona.name}
+                      </option>
+                    ))}
+                  </select>
+                  
+                  {/* Persona Details */}
+                  <div style={{ 
+                    marginTop: '12px',
+                    padding: '16px',
+                    backgroundColor: '#f8f9fa',
+                    borderRadius: '8px',
+                    fontSize: '14px'
+                  }}>
+                    <div style={{ marginBottom: '8px' }}>
+                      <strong>Traits:</strong> {getCurrentPersona().traits.join(', ')}
+                    </div>
+                    <div style={{ marginBottom: '8px' }}>
+                      <strong>Motivations:</strong> {getCurrentPersona().motivations.slice(0, 2).join(', ')}
+                    </div>
+                    <div>
+                      <strong>Pain Points:</strong> {getCurrentPersona().painPoints.slice(0, 2).join(', ')}
+                    </div>
+                  </div>
+                </div>
+
+                {/* Model Selection */}
+                <div style={{ marginBottom: '24px' }}>
+                  <label style={{ 
+                    display: 'block', 
+                    marginBottom: '12px', 
+                    fontWeight: 'bold',
+                    fontSize: '16px',
+                    color: '#333'
+                  }}>
+                    🧠 AI Model:
+                  </label>
+                  <select 
+                    value={selectedModel} 
+                    onChange={(e) => setSelectedModel(e.target.value as ModelProvider)}
+                    style={{ 
+                      padding: '12px', 
+                      width: '100%',
+                      border: '2px solid #e9ecef',
+                      borderRadius: '8px',
+                      fontSize: '14px'
+                    }}
+                  >
+                    <option value="gemini">🟢 Google Gemini Pro Vision</option>
+                    <option value="openai">🔵 OpenAI GPT-4 Vision</option>
+                    <option value="zhipu">🟡 Zhipu GLM-4V</option>
+                  </select>
+                </div>
+
+                {/* Design Background Input */}
+                <div style={{ marginBottom: '24px' }}>
+                  <label style={{ 
+                    display: 'block', 
+                    marginBottom: '12px', 
+                    fontWeight: 'bold',
+                    fontSize: '16px',
+                    color: '#333'
+                  }}>
+                    📝 Design Background & Context:
+                  </label>
+                  <textarea
+                    value={designBackground}
+                    onChange={(e) => setDesignBackground(e.target.value)}
+                    placeholder="Describe your design context, target users, business goals, or any specific information that would help AI better understand your design... (Optional)"
+                    style={{ 
+                      padding: '12px', 
+                      width: '100%',
+                      minHeight: '100px',
+                      border: '2px solid #e9ecef',
+                      borderRadius: '8px',
+                      fontSize: '14px',
+                      fontFamily: 'inherit',
+                      resize: 'vertical',
+                      backgroundColor: designBackground ? '#f8fff8' : 'white'
+                    }}
+                  />
+                  <div style={{ 
+                    fontSize: '12px', 
+                    color: '#666', 
+                    marginTop: '6px',
+                    fontStyle: 'italic'
+                  }}>
+                    💡 Providing context helps AI give more accurate and relevant feedback
+                  </div>
+                </div>
+
+                {/* Analysis Type Selection */}
+                <div style={{ marginBottom: '24px' }}>
+                  <label style={{ 
+                    display: 'block', 
+                    marginBottom: '12px', 
+                    fontWeight: 'bold',
+                    fontSize: '16px',
+                    color: '#333'
+                  }}>
+                    🔍 Analysis Type:
+                  </label>
+                  <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                    {[
+                      { value: 'auto', label: '🤖 Auto-detect', desc: 'AI decides based on image count' },
+                      { value: 'single', label: '📱 Single Screen', desc: 'Individual screen analysis' },
+                      { value: 'flow', label: '🔄 User Flow', desc: 'Multi-screen journey analysis' }
+                    ].map(option => (
+                      <button
+                        key={option.value}
+                        onClick={() => setAnalysisType(option.value as 'single' | 'flow' | 'auto')}
+                        style={{
+                          padding: '8px 12px',
+                          border: `2px solid ${analysisType === option.value ? designSystem.colors.primary : '#e9ecef'}`,
+                          backgroundColor: analysisType === option.value ? designSystem.colors.primary : 'white',
+                          color: analysisType === option.value ? 'white' : '#333',
+                          borderRadius: designSystem.borderRadius.small,
+                          cursor: 'pointer',
+                          fontSize: '12px',
+                          fontWeight: '500',
+                          minWidth: '120px',
+                          textAlign: 'center'
+                        }}
+                        title={option.desc}
+                      >
+                        {option.label}
+                      </button>
+                    ))}
+                  </div>
+                  <div style={{ 
+                    fontSize: '12px', 
+                    color: '#666', 
+                    marginTop: '6px'
+                  }}>
+                    {analysisType === 'auto' && '🤖 Will auto-detect: Single image → Screen analysis, Multiple images → Flow analysis'}
+                    {analysisType === 'single' && '📱 Individual screen usability, accessibility & visual design analysis'}
+                    {analysisType === 'flow' && '🔄 User journey analysis across multiple screens with flow continuity evaluation'}
+                  </div>
+                </div>
+              </div>
+
+              {/* Right Column - File Upload */}
+              <div>
+                <label style={{ 
+                  display: 'block', 
+                  marginBottom: '12px', 
+                  fontWeight: 'bold',
+                  fontSize: '16px',
+                  color: '#333'
+                }}>
+                  📱 Upload Screenshots (1-10 images):
+                </label>
+                
+                {/* Drag & Drop Area */}
+                <div
+                  onDragOver={handleDragOver}
+                  onDragLeave={handleDragLeave}
+                  onDrop={handleDrop}
+                  style={{
+                    border: `3px dashed ${dragOver ? '#007bff' : '#dee2e6'}`,
+                    borderRadius: '12px',
+                    padding: '40px 20px',
+                    textAlign: 'center',
+                    backgroundColor: dragOver ? '#f8f9ff' : '#fafafa',
+                    transition: 'all 0.3s ease',
+                    cursor: 'pointer',
+                    marginBottom: '16px'
+                  }}
+                  onClick={() => document.getElementById('fileInput')?.click()}
+                >
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>
+                    {dragOver ? '📂' : '☁️'}
+                  </div>
+                  <div style={{ fontSize: '16px', fontWeight: 'bold', marginBottom: '8px' }}>
+                    {dragOver ? 'Drop images here!' : 'Drag & drop images here'}
+                  </div>
+                  <div style={{ fontSize: '14px', color: '#666' }}>
+                    or click to browse files
+                  </div>
+                </div>
+
+                <input
+                  id="fileInput"
+                  type="file"
+                  multiple
+                  accept="image/*"
+                  onChange={handleFileUpload}
+                  style={{ display: 'none' }}
+                />
+
+                {/* File Preview */}
+                {uploadedFiles.length > 0 && (
+                  <div style={{ marginTop: '16px' }}>
+                    <h4 style={{ marginBottom: '12px', color: '#333' }}>
+                      📸 {uploadedFiles.length} image(s) ready:
+                    </h4>
+                    <div style={{ 
+                      display: 'grid', 
+                      gridTemplateColumns: 'repeat(auto-fill, minmax(80px, 1fr))',
+                      gap: '8px'
+                    }}>
+                      {uploadedFiles.map((file, index) => (
+                        <div key={index} style={{
+                          border: '2px solid #e9ecef',
+                          borderRadius: '8px',
+                          padding: '8px',
+                          fontSize: '12px',
+                          textAlign: 'center',
+                          backgroundColor: '#f8f9fa'
+                        }}>
+                          <div style={{ marginBottom: '4px' }}>🖼️</div>
+                          <div style={{ 
+                            wordBreak: 'break-word',
+                            lineHeight: '1.2'
+                          }}>
+                            {file.name.length > 12 ? 
+                              file.name.substring(0, 12) + '...' : 
+                              file.name
+                            }
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+            </div>
+          ) : evaluationResult ? (
+            /* Results Panel */
+            <div>
+              <div style={{ 
+                display: 'flex', 
+                justifyContent: 'space-between', 
+                alignItems: 'center',
+                marginBottom: '24px'
+              }}>
+                <h2 style={{ color: '#333', margin: 0 }}>
+                  🎯 Test Results
+                </h2>
+                <div style={{ display: 'flex', gap: '12px' }}>
+                  <button
+                    onClick={exportToMarkdown}
+                    style={{
+                      backgroundColor: '#28a745',
+                      color: 'white',
+                      border: 'none',
+                      padding: '8px 16px',
+                      borderRadius: '6px',
+                      cursor: 'pointer',
+                      fontSize: '14px'
+                    }}
+                  >
+                    📋 Copy Markdown
+                  </button>
+                  <button
+                    onClick={exportToJSON}
+                    style={{
+                      backgroundColor: '#17a2b8',
+                      color: 'white',
+                      border: 'none',
+                      padding: '8px 16px',
+                      borderRadius: '6px',
+                      cursor: 'pointer',
+                      fontSize: '14px'
+                    }}
+                  >
+                    💾 Download JSON
+                  </button>
+                  <button
+                    onClick={startNewTest}
+                    style={{
+                      backgroundColor: '#007bff',
+                      color: 'white',
+                      border: 'none',
+                      padding: '8px 16px',
+                      borderRadius: '6px',
+                      cursor: 'pointer',
+                      fontSize: '14px'
+                    }}
+                  >
+                    🧪 New Test
+                  </button>
+                </div>
+              </div>
+
+              {/* Results Content */}
+              {evaluationResult.items[currentImageIndex] && (
+                <div>
+                  {/* Image Navigation and View Mode */}
+                  {evaluationResult.items.length > 1 && (
+                    <div style={{ 
+                      marginBottom: designSystem.spacing.lg,
+                      padding: designSystem.spacing.md,
+                      backgroundColor: '#f8f9fa',
+                      borderRadius: designSystem.borderRadius.medium,
+                      border: '2px solid #e9ecef'
+                    }}>
+                      {/* View Mode Toggle */}
+                      <div style={{
+                        display: 'flex',
+                        justifyContent: 'center',
+                        marginBottom: designSystem.spacing.md,
+                        gap: designSystem.spacing.sm
+                      }}>
+                        <button
+                          onClick={() => setViewMode('individual')}
+                          style={{
+                            padding: `${designSystem.spacing.sm} ${designSystem.spacing.md}`,
+                            border: `2px solid ${viewMode === 'individual' ? designSystem.colors.primary : '#e9ecef'}`,
+                            backgroundColor: viewMode === 'individual' ? designSystem.colors.primary : 'white',
+                            color: viewMode === 'individual' ? 'white' : designSystem.colors.dark,
+                            borderRadius: designSystem.borderRadius.small,
+                            cursor: 'pointer',
+                            fontWeight: '500'
+                          }}
+                        >
+                          📱 Individual Screens
+                        </button>
+                        <button
+                          onClick={() => setViewMode('flow')}
+                          style={{
+                            padding: `${designSystem.spacing.sm} ${designSystem.spacing.md}`,
+                            border: `2px solid ${viewMode === 'flow' ? designSystem.colors.primary : '#e9ecef'}`,
+                            backgroundColor: viewMode === 'flow' ? designSystem.colors.primary : 'white',
+                            color: viewMode === 'flow' ? 'white' : designSystem.colors.dark,
+                            borderRadius: designSystem.borderRadius.small,
+                            cursor: 'pointer',
+                            fontWeight: '500'
+                          }}
+                        >
+                          🔄 Flow Analysis
+                        </button>
+                      </div>
+
+                      {/* Individual Screen Navigation */}
+                      {viewMode === 'individual' && (
+                        <div style={{ 
+                          display: 'flex', 
+                          justifyContent: 'center',
+                          alignItems: 'center',
+                          gap: '12px'
+                        }}>
+                          <button
+                            onClick={() => setCurrentImageIndex(Math.max(0, currentImageIndex - 1))}
+                            disabled={currentImageIndex === 0}
+                            style={{
+                              backgroundColor: currentImageIndex === 0 ? '#dee2e6' : designSystem.colors.primary,
+                              color: 'white',
+                              border: 'none',
+                              padding: '8px 12px',
+                              borderRadius: designSystem.borderRadius.small,
+                              cursor: currentImageIndex === 0 ? 'not-allowed' : 'pointer'
+                            }}
+                          >
+                            ← Previous
+                          </button>
+                          
+                          {/* Screen Thumbnails */}
+                          <div style={{
+                            display: 'flex',
+                            gap: designSystem.spacing.xs,
+                            alignItems: 'center',
+                            maxWidth: '400px',
+                            overflowX: 'auto'
+                          }}>
+                            {evaluationResult.items.map((_, index) => (
+                              <button
+                                key={index}
+                                onClick={() => setCurrentImageIndex(index)}
+                                style={{
+                                  minWidth: '40px',
+                                  height: '40px',
+                                  border: `2px solid ${index === currentImageIndex ? designSystem.colors.primary : '#e9ecef'}`,
+                                  backgroundColor: index === currentImageIndex ? designSystem.colors.primary : 'white',
+                                  color: index === currentImageIndex ? 'white' : designSystem.colors.dark,
+                                  borderRadius: designSystem.borderRadius.small,
+                                  cursor: 'pointer',
+                                  fontSize: '12px',
+                                  fontWeight: 'bold'
+                                }}
+                              >
+                                {index + 1}
+                              </button>
+                            ))}
+                          </div>
+                          
+                          <button
+                            onClick={() => setCurrentImageIndex(Math.min(evaluationResult.items.length - 1, currentImageIndex + 1))}
+                            disabled={currentImageIndex === evaluationResult.items.length - 1}
+                            style={{
+                              backgroundColor: currentImageIndex === evaluationResult.items.length - 1 ? '#dee2e6' : designSystem.colors.primary,
+                              color: 'white',
+                              border: 'none',
+                              padding: '8px 12px',
+                              borderRadius: designSystem.borderRadius.small,
+                              cursor: currentImageIndex === evaluationResult.items.length - 1 ? 'not-allowed' : 'pointer'
+                            }}
+                          >
+                            Next →
+                          </button>
+                        </div>
+                      )}
+
+                      {/* Flow View Info */}
+                      {viewMode === 'flow' && (
+                        <div style={{
+                          textAlign: 'center',
+                          color: designSystem.colors.secondary,
+                          fontSize: '14px'
+                        }}>
+                          <strong>🔄 Complete User Flow Analysis</strong>
+                          <br />
+                          Viewing overall flow performance and cross-screen insights
+                        </div>
+                      )}
+                    </div>
+                  )}
+
+                  {/* Image Preview Section - 只在有上传文件且不是从历史记录查看时显示 */}
+                  {uploadedFiles.length > 0 && uploadedFiles[currentImageIndex] && (
+                    <div style={{ 
+                      marginBottom: designSystem.spacing.lg,
+                      padding: designSystem.spacing.md,
+                      backgroundColor: '#f8f9fa',
+                      borderRadius: designSystem.borderRadius.medium,
+                      border: '2px solid #e9ecef'
+                    }}>
+                      <h4 style={{ 
+                        margin: `0 0 ${designSystem.spacing.sm} 0`,
+                        color: designSystem.colors.dark 
+                      }}>
+                        {uploadedFiles.length === 1 ? '📱 Screenshot Preview' : `🔄 User Flow Preview (Step ${currentImageIndex + 1}/${uploadedFiles.length})`}
+                      </h4>
+                      
+                      {/* Current Image Display */}
+                      <div style={{
+                        display: 'flex',
+                        justifyContent: 'center',
+                        marginBottom: uploadedFiles.length > 1 ? designSystem.spacing.md : 0
+                      }}>
+                        <img 
+                          src={URL.createObjectURL(uploadedFiles[currentImageIndex])}
+                          alt={`Screenshot ${currentImageIndex + 1}`}
+                          style={{
+                            maxWidth: '100%',
+                            maxHeight: '400px',
+                            borderRadius: designSystem.borderRadius.medium,
+                            boxShadow: designSystem.shadows.card,
+                            border: '3px solid #e9ecef'
+                          }}
+                        />
+                      </div>
+
+                      {/* Thumbnail Navigation for Multi-Image */}
+                      {uploadedFiles.length > 1 && (
+                        <div style={{
+                          display: 'flex',
+                          gap: designSystem.spacing.sm,
+                          overflowX: 'auto',
+                          padding: designSystem.spacing.sm,
+                          backgroundColor: 'white',
+                          borderRadius: designSystem.borderRadius.small
+                        }}>
+                          {uploadedFiles.map((file, index) => (
+                            <div
+                              key={index}
+                              onClick={() => setCurrentImageIndex(index)}
+                              style={{
+                                minWidth: '80px',
+                                height: '80px',
+                                cursor: 'pointer',
+                                border: `3px solid ${index === currentImageIndex ? designSystem.colors.primary : '#e9ecef'}`,
+                                borderRadius: designSystem.borderRadius.small,
+                                overflow: 'hidden',
+                                position: 'relative',
+                                transition: 'all 0.2s ease'
+                              }}
+                              onMouseOver={(e) => {
+                                if (index !== currentImageIndex) {
+                                  e.currentTarget.style.borderColor = designSystem.colors.secondary;
+                                }
+                              }}
+                              onMouseOut={(e) => {
+                                if (index !== currentImageIndex) {
+                                  e.currentTarget.style.borderColor = '#e9ecef';
+                                }
+                              }}
+                            >
+                              <img
+                                src={URL.createObjectURL(file)}
+                                alt={`Thumbnail ${index + 1}`}
+                                style={{
+                                  width: '100%',
+                                  height: '100%',
+                                  objectFit: 'cover'
+                                }}
+                              />
+                              <div style={{
+                                position: 'absolute',
+                                bottom: '2px',
+                                right: '2px',
+                                backgroundColor: index === currentImageIndex ? designSystem.colors.primary : 'rgba(0,0,0,0.7)',
+                                color: 'white',
+                                fontSize: '10px',
+                                padding: '2px 4px',
+                                borderRadius: '2px',
+                                fontWeight: 'bold'
+                              }}>
+                                {index + 1}
+                              </div>
+                            </div>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  )}
+
+                  {/* Evaluation Details */}
+                  {viewMode === 'individual' ? (
+                    /* Individual Screen Analysis */
+                    evaluationResult.items[currentImageIndex] && (
+                      <div>
+                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: designSystem.spacing.lg }}>
+                          {/* Left Column - Individual Screen Scores */}
+                          <div>
+                            <div style={{ 
+                              padding: designSystem.spacing.lg,
+                              backgroundColor: '#f0f8ff',
+                              borderRadius: designSystem.borderRadius.medium,
+                              marginBottom: designSystem.spacing.lg,
+                              boxShadow: designSystem.shadows.card
+                            }}>
+                              <h3 style={{ 
+                                margin: `0 0 ${designSystem.spacing.md} 0`, 
+                                color: designSystem.colors.primary,
+                                display: 'flex',
+                                alignItems: 'center',
+                                gap: designSystem.spacing.sm
+                              }}>
+                                📊 Screen {currentImageIndex + 1} UX Scores
+                              </h3>
+                              
+                              {/* Overall Score - Prominent */}
+                              <div style={{ 
+                                textAlign: 'center',
+                                marginBottom: designSystem.spacing.lg,
+                                padding: designSystem.spacing.md,
+                                backgroundColor: 'white',
+                                borderRadius: designSystem.borderRadius.medium,
+                                border: `3px solid ${getScoreColor(evaluationResult.items[currentImageIndex].scores.overall)}`,
+                                boxShadow: designSystem.shadows.card
+                              }}>
+                                <div style={{ 
+                                  fontSize: '48px', 
+                                  fontWeight: 'bold', 
+                                  color: getScoreColor(evaluationResult.items[currentImageIndex].scores.overall),
+                                  lineHeight: '1'
+                                }}>
+                                  {evaluationResult.items[currentImageIndex].scores.overall}
+                                </div>
+                                <div style={{ 
+                                  fontSize: '14px', 
+                                  color: designSystem.colors.secondary,
+                                  fontWeight: '600',
+                                  textTransform: 'uppercase',
+                                  letterSpacing: '1px'
+                                }}>
+                                  Overall Score
+                                </div>
+                                <div style={{
+                                  marginTop: designSystem.spacing.xs,
+                                  padding: `${designSystem.spacing.xs} ${designSystem.spacing.sm}`,
+                                  backgroundColor: getScoreColor(evaluationResult.items[currentImageIndex].scores.overall),
+                                  color: 'white',
+                                  borderRadius: designSystem.borderRadius.small,
+                                  fontSize: '12px',
+                                  fontWeight: 'bold',
+                                  display: 'inline-block'
+                                }}>
+                                  {evaluationResult.items[currentImageIndex].scores.overall >= 90 ? 'EXCELLENT' :
+                                   evaluationResult.items[currentImageIndex].scores.overall >= 80 ? 'GOOD' :
+                                   evaluationResult.items[currentImageIndex].scores.overall >= 70 ? 'FAIR' :
+                                   evaluationResult.items[currentImageIndex].scores.overall >= 60 ? 'NEEDS WORK' : 'CRITICAL'}
+                                </div>
+                              </div>
+                              
+                              {/* Detailed Scores */}
+                              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: designSystem.spacing.sm }}>
+                                <div style={{ 
+                                  textAlign: 'center',
+                                  padding: designSystem.spacing.sm,
+                                  backgroundColor: 'white',
+                                  borderRadius: designSystem.borderRadius.small,
+                                  border: `2px solid ${getScoreColor(evaluationResult.items[currentImageIndex].scores.usability)}`,
+                                  transition: 'transform 0.2s ease'
+                                }}
+                                onMouseOver={(e) => {
+                                  e.currentTarget.style.transform = 'scale(1.05)';
+                                }}
+                                onMouseOut={(e) => {
+                                  e.currentTarget.style.transform = 'scale(1)';
+                                }}
+                                >
+                                  <div style={{ fontSize: '20px', marginBottom: '4px' }}>🎯</div>
+                                  <div style={{ 
+                                    fontSize: '24px', 
+                                    fontWeight: 'bold', 
+                                    color: getScoreColor(evaluationResult.items[currentImageIndex].scores.usability),
+                                    lineHeight: '1'
+                                  }}>
+                                    {evaluationResult.items[currentImageIndex].scores.usability}
+                                  </div>
+                                  <div style={{ 
+                                    fontSize: '11px', 
+                                    color: designSystem.colors.secondary,
+                                    fontWeight: '500',
+                                    marginTop: '2px'
+                                  }}>
+                                    Usability
+                                  </div>
+                                </div>
+
+                                <div style={{ 
+                                  textAlign: 'center',
+                                  padding: designSystem.spacing.sm,
+                                  backgroundColor: 'white',
+                                  borderRadius: designSystem.borderRadius.small,
+                                  border: `2px solid ${getScoreColor(evaluationResult.items[currentImageIndex].scores.accessibility)}`,
+                                  transition: 'transform 0.2s ease'
+                                }}
+                                onMouseOver={(e) => {
+                                  e.currentTarget.style.transform = 'scale(1.05)';
+                                }}
+                                onMouseOut={(e) => {
+                                  e.currentTarget.style.transform = 'scale(1)';
+                                }}
+                                >
+                                  <div style={{ fontSize: '20px', marginBottom: '4px' }}>♿</div>
+                                  <div style={{ 
+                                    fontSize: '24px', 
+                                    fontWeight: 'bold', 
+                                    color: getScoreColor(evaluationResult.items[currentImageIndex].scores.accessibility),
+                                    lineHeight: '1'
+                                  }}>
+                                    {evaluationResult.items[currentImageIndex].scores.accessibility}
+                                  </div>
+                                  <div style={{ 
+                                    fontSize: '11px', 
+                                    color: designSystem.colors.secondary,
+                                    fontWeight: '500',
+                                    marginTop: '2px'
+                                  }}>
+                                    Accessibility
+                                  </div>
+                                </div>
+
+                                <div style={{ 
+                                  textAlign: 'center',
+                                  padding: designSystem.spacing.sm,
+                                  backgroundColor: 'white',
+                                  borderRadius: designSystem.borderRadius.small,
+                                  border: `2px solid ${getScoreColor(evaluationResult.items[currentImageIndex].scores.visual)}`,
+                                  transition: 'transform 0.2s ease'
+                                }}
+                                onMouseOver={(e) => {
+                                  e.currentTarget.style.transform = 'scale(1.05)';
+                                }}
+                                onMouseOut={(e) => {
+                                  e.currentTarget.style.transform = 'scale(1)';
+                                }}
+                                >
+                                  <div style={{ fontSize: '20px', marginBottom: '4px' }}>🎨</div>
+                                  <div style={{ 
+                                    fontSize: '24px', 
+                                    fontWeight: 'bold', 
+                                    color: getScoreColor(evaluationResult.items[currentImageIndex].scores.visual),
+                                    lineHeight: '1'
+                                  }}>
+                                    {evaluationResult.items[currentImageIndex].scores.visual}
+                                  </div>
+                                  <div style={{ 
+                                    fontSize: '11px', 
+                                    color: designSystem.colors.secondary,
+                                    fontWeight: '500',
+                                    marginTop: '2px'
+                                  }}>
+                                    Visual Design
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            {/* Highlights */}
+                            <div style={{ 
+                              padding: designSystem.spacing.lg,
+                              backgroundColor: '#f1f8e9',
+                              borderRadius: designSystem.borderRadius.medium,
+                              boxShadow: designSystem.shadows.card
+                            }}>
+                              <h3 style={{ 
+                                margin: `0 0 ${designSystem.spacing.md} 0`, 
+                                color: designSystem.colors.success,
+                                display: 'flex',
+                                alignItems: 'center',
+                                gap: designSystem.spacing.sm
+                              }}>
+                                ✨ What's Working Well
+                              </h3>
+                              <div style={{ maxHeight: '200px', overflowY: 'auto' }}>
+                                {evaluationResult.items[currentImageIndex].highlights.map((highlight, idx) => (
+                                  <div key={idx} style={{ 
+                                    marginBottom: designSystem.spacing.sm,
+                                    padding: designSystem.spacing.sm,
+                                    backgroundColor: 'white',
+                                    borderRadius: designSystem.borderRadius.small,
+                                    borderLeft: `3px solid ${designSystem.colors.success}`,
+                                    display: 'flex',
+                                    alignItems: 'flex-start',
+                                    gap: designSystem.spacing.sm
+                                  }}>
+                                    <span style={{ color: designSystem.colors.success, fontSize: '16px', flexShrink: 0 }}>
+                                      ✓
+                                    </span>
+                                    <span style={{ color: designSystem.colors.dark, lineHeight: '1.4' }}>
+                                      {highlight}
+                                    </span>
+                                  </div>
+                                ))}
+                              </div>
+                            </div>
+                          </div>
+                      <div style={{ 
+                        padding: designSystem.spacing.lg,
+                        backgroundColor: '#f0f8ff',
+                        borderRadius: designSystem.borderRadius.medium,
+                        marginBottom: designSystem.spacing.lg,
+                        boxShadow: designSystem.shadows.card
+                      }}>
+                        <h3 style={{ 
+                          margin: `0 0 ${designSystem.spacing.md} 0`, 
+                          color: designSystem.colors.primary,
+                          display: 'flex',
+                          alignItems: 'center',
+                          gap: designSystem.spacing.sm
+                        }}>
+                          📊 UX Scores
+                        </h3>
+                        
+                        {/* Overall Score - Prominent */}
+                        <div style={{ 
+                          textAlign: 'center',
+                          marginBottom: designSystem.spacing.lg,
+                          padding: designSystem.spacing.md,
+                          backgroundColor: 'white',
+                          borderRadius: designSystem.borderRadius.medium,
+                          border: `3px solid ${getScoreColor(evaluationResult.items[currentImageIndex].scores.overall)}`,
+                          boxShadow: designSystem.shadows.card
+                        }}>
+                          <div style={{ 
+                            fontSize: '48px', 
+                            fontWeight: 'bold', 
+                            color: getScoreColor(evaluationResult.items[currentImageIndex].scores.overall),
+                            lineHeight: '1'
+                          }}>
+                            {evaluationResult.items[currentImageIndex].scores.overall}
+                          </div>
+                          <div style={{ 
+                            fontSize: '14px', 
+                            color: designSystem.colors.secondary,
+                            fontWeight: '600',
+                            textTransform: 'uppercase',
+                            letterSpacing: '1px'
+                          }}>
+                            Overall Score
+                          </div>
+                          <div style={{
+                            marginTop: designSystem.spacing.xs,
+                            padding: `${designSystem.spacing.xs} ${designSystem.spacing.sm}`,
+                            backgroundColor: getScoreColor(evaluationResult.items[currentImageIndex].scores.overall),
+                            color: 'white',
+                            borderRadius: designSystem.borderRadius.small,
+                            fontSize: '12px',
+                            fontWeight: 'bold',
+                            display: 'inline-block'
+                          }}>
+                            {evaluationResult.items[currentImageIndex].scores.overall >= 90 ? 'EXCELLENT' :
+                             evaluationResult.items[currentImageIndex].scores.overall >= 80 ? 'GOOD' :
+                             evaluationResult.items[currentImageIndex].scores.overall >= 70 ? 'FAIR' :
+                             evaluationResult.items[currentImageIndex].scores.overall >= 60 ? 'NEEDS WORK' : 'CRITICAL'}
+                          </div>
+                        </div>
+                        
+                        {/* Detailed Scores */}
+                        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: designSystem.spacing.sm }}>
+                          <div style={{ 
+                            textAlign: 'center',
+                            padding: designSystem.spacing.sm,
+                            backgroundColor: 'white',
+                            borderRadius: designSystem.borderRadius.small,
+                            border: `2px solid ${getScoreColor(evaluationResult.items[currentImageIndex].scores.usability)}`,
+                            transition: 'transform 0.2s ease'
+                          }}
+                          onMouseOver={(e) => {
+                            e.currentTarget.style.transform = 'scale(1.05)';
+                          }}
+                          onMouseOut={(e) => {
+                            e.currentTarget.style.transform = 'scale(1)';
+                          }}
+                          >
+                            <div style={{ fontSize: '20px', marginBottom: '4px' }}>🎯</div>
+                            <div style={{ 
+                              fontSize: '24px', 
+                              fontWeight: 'bold', 
+                              color: getScoreColor(evaluationResult.items[currentImageIndex].scores.usability),
+                              lineHeight: '1'
+                            }}>
+                              {evaluationResult.items[currentImageIndex].scores.usability}
+                            </div>
+                            <div style={{ 
+                              fontSize: '11px', 
+                              color: designSystem.colors.secondary,
+                              fontWeight: '500',
+                              marginTop: '2px'
+                            }}>
+                              Usability
+                            </div>
+                          </div>
+
+                          <div style={{ 
+                            textAlign: 'center',
+                            padding: designSystem.spacing.sm,
+                            backgroundColor: 'white',
+                            borderRadius: designSystem.borderRadius.small,
+                            border: `2px solid ${getScoreColor(evaluationResult.items[currentImageIndex].scores.accessibility)}`,
+                            transition: 'transform 0.2s ease'
+                          }}
+                          onMouseOver={(e) => {
+                            e.currentTarget.style.transform = 'scale(1.05)';
+                          }}
+                          onMouseOut={(e) => {
+                            e.currentTarget.style.transform = 'scale(1)';
+                          }}
+                          >
+                            <div style={{ fontSize: '20px', marginBottom: '4px' }}>♿</div>
+                            <div style={{ 
+                              fontSize: '24px', 
+                              fontWeight: 'bold', 
+                              color: getScoreColor(evaluationResult.items[currentImageIndex].scores.accessibility),
+                              lineHeight: '1'
+                            }}>
+                              {evaluationResult.items[currentImageIndex].scores.accessibility}
+                            </div>
+                            <div style={{ 
+                              fontSize: '11px', 
+                              color: designSystem.colors.secondary,
+                              fontWeight: '500',
+                              marginTop: '2px'
+                            }}>
+                              Accessibility
+                            </div>
+                          </div>
+
+                          <div style={{ 
+                            textAlign: 'center',
+                            padding: designSystem.spacing.sm,
+                            backgroundColor: 'white',
+                            borderRadius: designSystem.borderRadius.small,
+                            border: `2px solid ${getScoreColor(evaluationResult.items[currentImageIndex].scores.visual)}`,
+                            transition: 'transform 0.2s ease'
+                          }}
+                          onMouseOver={(e) => {
+                            e.currentTarget.style.transform = 'scale(1.05)';
+                          }}
+                          onMouseOut={(e) => {
+                            e.currentTarget.style.transform = 'scale(1)';
+                          }}
+                          >
+                            <div style={{ fontSize: '20px', marginBottom: '4px' }}>🎨</div>
+                            <div style={{ 
+                              fontSize: '24px', 
+                              fontWeight: 'bold', 
+                              color: getScoreColor(evaluationResult.items[currentImageIndex].scores.visual),
+                              lineHeight: '1'
+                            }}>
+                              {evaluationResult.items[currentImageIndex].scores.visual}
+                            </div>
+                            <div style={{ 
+                              fontSize: '11px', 
+                              color: designSystem.colors.secondary,
+                              fontWeight: '500',
+                              marginTop: '2px'
+                            }}>
+                              Visual Design
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      {/* Highlights */}
+                      <div style={{ 
+                        padding: designSystem.spacing.lg,
+                        backgroundColor: '#f1f8e9',
+                        borderRadius: designSystem.borderRadius.medium,
+                        boxShadow: designSystem.shadows.card
+                      }}>
+                        <h3 style={{ 
+                          margin: `0 0 ${designSystem.spacing.md} 0`, 
+                          color: designSystem.colors.success,
+                          display: 'flex',
+                          alignItems: 'center',
+                          gap: designSystem.spacing.sm
+                        }}>
+                          ✨ What's Working Well
+                        </h3>
+                        <div style={{ maxHeight: '200px', overflowY: 'auto' }}>
+                          {evaluationResult.items[currentImageIndex].highlights.map((highlight, idx) => (
+                            <div key={idx} style={{ 
+                              marginBottom: designSystem.spacing.sm,
+                              padding: designSystem.spacing.sm,
+                              backgroundColor: 'white',
+                              borderRadius: designSystem.borderRadius.small,
+                              borderLeft: `3px solid ${designSystem.colors.success}`,
+                              display: 'flex',
+                              alignItems: 'flex-start',
+                              gap: designSystem.spacing.sm
+                            }}>
+                              <span style={{ color: designSystem.colors.success, fontSize: '16px', flexShrink: 0 }}>
+                                ✓
+                              </span>
+                              <span style={{ color: designSystem.colors.dark, lineHeight: '1.4' }}>
+                                {highlight}
+                              </span>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* Right Column - Issues */}
+                    <div>
+                      <div style={{ 
+                        padding: designSystem.spacing.lg,
+                        backgroundColor: '#fff8f1',
+                        borderRadius: designSystem.borderRadius.medium,
+                        marginBottom: designSystem.spacing.lg,
+                        boxShadow: designSystem.shadows.card
+                      }}>
+                        <div style={{ 
+                          display: 'flex', 
+                          justifyContent: 'space-between', 
+                          alignItems: 'center',
+                          marginBottom: designSystem.spacing.md 
+                        }}>
+                          <h3 style={{ 
+                            margin: 0, 
+                            color: designSystem.colors.warning,
+                            display: 'flex',
+                            alignItems: 'center',
+                            gap: designSystem.spacing.sm
+                          }}>
+                            ⚠️ Issues Found ({evaluationResult.items[currentImageIndex].issues.length})
+                          </h3>
+                          
+                          {/* Sort Controls */}
+                          {evaluationResult.items[currentImageIndex].issues.length > 1 && (
+                            <div style={{ display: 'flex', gap: designSystem.spacing.xs }}>
+                              <button
+                                onClick={() => toggleSort('severity')}
+                                style={{
+                                  padding: `${designSystem.spacing.xs} ${designSystem.spacing.sm}`,
+                                  border: `1px solid ${issuesSortBy === 'severity' ? designSystem.colors.primary : '#dee2e6'}`,
+                                  backgroundColor: issuesSortBy === 'severity' ? designSystem.colors.primary : 'white',
+                                  color: issuesSortBy === 'severity' ? 'white' : designSystem.colors.dark,
+                                  borderRadius: designSystem.borderRadius.small,
+                                  cursor: 'pointer',
+                                  fontSize: '12px',
+                                  fontWeight: '500'
+                                }}
+                              >
+                                Severity {issuesSortBy === 'severity' ? (issuesSortOrder === 'desc' ? '↓' : '↑') : ''}
+                              </button>
+                              <button
+                                onClick={() => toggleSort('dimension')}
+                                style={{
+                                  padding: `${designSystem.spacing.xs} ${designSystem.spacing.sm}`,
+                                  border: `1px solid ${issuesSortBy === 'dimension' ? designSystem.colors.primary : '#dee2e6'}`,
+                                  backgroundColor: issuesSortBy === 'dimension' ? designSystem.colors.primary : 'white',
+                                  color: issuesSortBy === 'dimension' ? 'white' : designSystem.colors.dark,
+                                  borderRadius: designSystem.borderRadius.small,
+                                  cursor: 'pointer',
+                                  fontSize: '12px',
+                                  fontWeight: '500'
+                                }}
+                              >
+                                Category {issuesSortBy === 'dimension' ? (issuesSortOrder === 'desc' ? '↓' : '↑') : ''}
+                              </button>
+                            </div>
+                          )}
+                        </div>
+                        
+                        {evaluationResult.items[currentImageIndex].issues.length > 0 ? (
+                          <div style={{ maxHeight: '400px', overflowY: 'auto' }}>
+                            {sortIssues(evaluationResult.items[currentImageIndex].issues).map((issue, idx) => (
+                              <div key={idx} style={{ 
+                                marginBottom: designSystem.spacing.md,
+                                padding: designSystem.spacing.md,
+                                backgroundColor: 'white',
+                                borderRadius: designSystem.borderRadius.medium,
+                                borderLeft: `4px solid ${getSeverityColor(issue.severity)}`,
+                                boxShadow: designSystem.shadows.card,
+                                transition: 'transform 0.2s ease',
+                                cursor: 'default'
+                              }}
+                              onMouseOver={(e) => {
+                                e.currentTarget.style.transform = 'translateY(-2px)';
+                                e.currentTarget.style.boxShadow = designSystem.shadows.cardHover;
+                              }}
+                              onMouseOut={(e) => {
+                                e.currentTarget.style.transform = 'translateY(0)';
+                                e.currentTarget.style.boxShadow = designSystem.shadows.card;
+                              }}
+                              >
+                                <div style={{ 
+                                  display: 'flex',
+                                  justifyContent: 'space-between',
+                                  alignItems: 'flex-start',
+                                  marginBottom: designSystem.spacing.sm
+                                }}>
+                                  <div style={{ 
+                                    fontWeight: 'bold', 
+                                    color: designSystem.colors.dark,
+                                    fontSize: '14px',
+                                    flex: 1
+                                  }}>
+                                    {issue.stepHint}
+                                  </div>
+                                  <div style={{
+                                    padding: `${designSystem.spacing.xs} ${designSystem.spacing.sm}`,
+                                    borderRadius: designSystem.borderRadius.small,
+                                    backgroundColor: getSeverityColor(issue.severity),
+                                    color: 'white',
+                                    fontSize: '11px',
+                                    fontWeight: 'bold',
+                                    textTransform: 'uppercase',
+                                    marginLeft: designSystem.spacing.sm
+                                  }}>
+                                    {issue.severity}
+                                  </div>
+                                </div>
+                                
+                                <div style={{ 
+                                  marginBottom: designSystem.spacing.sm, 
+                                  color: designSystem.colors.dark,
+                                  lineHeight: '1.5'
+                                }}>
+                                  {issue.issue}
+                                </div>
+                                
+                                <div style={{ 
+                                  fontSize: '12px', 
+                                  color: designSystem.colors.secondary, 
+                                  marginBottom: designSystem.spacing.sm,
+                                  fontWeight: '500'
+                                }}>
+                                  📂 {issue.dimension}
+                                </div>
+                                
+                                <div style={{ 
+                                  fontSize: '13px', 
+                                  color: designSystem.colors.info,
+                                  fontStyle: 'italic',
+                                  backgroundColor: '#f8f9fa',
+                                  padding: designSystem.spacing.sm,
+                                  borderRadius: designSystem.borderRadius.small,
+                                  borderLeft: `3px solid ${designSystem.colors.info}`
+                                }}>
+                                  💡 {issue.suggestion}
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        ) : (
+                          <div style={{ 
+                            color: designSystem.colors.secondary, 
+                            fontStyle: 'italic',
+                            textAlign: 'center',
+                            padding: designSystem.spacing.xl,
+                            backgroundColor: '#f8f9fa',
+                            borderRadius: designSystem.borderRadius.medium,
+                            border: `2px dashed ${designSystem.colors.success}`
+                          }}>
+                            <div style={{ fontSize: '48px', marginBottom: designSystem.spacing.sm }}>🎉</div>
+                            <div style={{ fontWeight: 'bold', color: designSystem.colors.success }}>
+                              No issues found - excellent work!
+                            </div>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Individual Screen Narrative */}
+                  <div style={{ 
+                    padding: designSystem.spacing.lg,
+                    backgroundColor: '#f3e5f5',
+                    borderRadius: designSystem.borderRadius.medium,
+                    marginTop: designSystem.spacing.lg,
+                    boxShadow: designSystem.shadows.card
+                  }}>
+                    <h3 style={{ 
+                      margin: `0 0 ${designSystem.spacing.md} 0`, 
+                      color: '#7b1fa2',
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: designSystem.spacing.sm
+                    }}>
+                      📝 Screen {currentImageIndex + 1} AI Analysis
+                    </h3>
+                    <p style={{ margin: 0, lineHeight: '1.6', color: designSystem.colors.dark }}>
+                      {evaluationResult.items[currentImageIndex].narrative}
+                    </p>
+                  </div>
+
+                  {/* Individual Screen Metadata */}
+                  <div style={{ 
+                    marginTop: designSystem.spacing.lg,
+                    padding: designSystem.spacing.md,
+                    backgroundColor: '#f8f9fa',
+                    borderRadius: designSystem.borderRadius.medium,
+                    fontSize: '14px',
+                    color: '#666'
+                  }}>
+                    <strong>Screen {currentImageIndex + 1} Details:</strong> {evaluationResult.model.toUpperCase()} • {getCurrentPersona().name} • Individual Screen Analysis
+                  </div>
+                </div>
+              )
+            ) : (
+              /* Flow Analysis View */
+              <div>
+                {/* Flow Overall Metrics */}
+                <div style={{ 
+                  padding: designSystem.spacing.lg,
+                  backgroundColor: '#f0f8ff',
+                  borderRadius: designSystem.borderRadius.medium,
+                  marginBottom: designSystem.spacing.lg,
+                  boxShadow: designSystem.shadows.card
+                }}>
+                  <h3 style={{ 
+                    margin: `0 0 ${designSystem.spacing.md} 0`, 
+                    color: designSystem.colors.primary,
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: designSystem.spacing.sm
+                  }}>
+                    🔄 Complete User Flow Analysis ({evaluationResult.items.length} Screens)
+                  </h3>
+                  
+                  {/* Flow Average Scores */}
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: designSystem.spacing.md }}>
+                    {(() => {
+                      const avgUsability = Math.round(evaluationResult.items.reduce((sum, item) => sum + item.scores.usability, 0) / evaluationResult.items.length);
+                      const avgAccessibility = Math.round(evaluationResult.items.reduce((sum, item) => sum + item.scores.accessibility, 0) / evaluationResult.items.length);
+                      const avgVisual = Math.round(evaluationResult.items.reduce((sum, item) => sum + item.scores.visual, 0) / evaluationResult.items.length);
+                      const avgOverall = Math.round(evaluationResult.items.reduce((sum, item) => sum + item.scores.overall, 0) / evaluationResult.items.length);
+                      
+                      return [
+                        { label: 'Usability', score: avgUsability, icon: '🎯' },
+                        { label: 'Accessibility', score: avgAccessibility, icon: '♿' },
+                        { label: 'Visual', score: avgVisual, icon: '🎨' },
+                        { label: 'Overall Flow', score: avgOverall, icon: '🔄' }
+                      ].map(({ label, score, icon }) => (
+                        <div key={label} style={{ 
+                          textAlign: 'center',
+                          padding: designSystem.spacing.md,
+                          backgroundColor: 'white',
+                          borderRadius: designSystem.borderRadius.medium,
+                          border: `3px solid ${getScoreColor(score)}`,
+                          boxShadow: designSystem.shadows.card
+                        }}>
+                          <div style={{ fontSize: '24px', marginBottom: designSystem.spacing.xs }}>{icon}</div>
+                          <div style={{ 
+                            fontSize: '32px', 
+                            fontWeight: 'bold', 
+                            color: getScoreColor(score),
+                            lineHeight: '1'
+                          }}>
+                            {score}
+                          </div>
+                          <div style={{ 
+                            fontSize: '12px', 
+                            color: designSystem.colors.secondary,
+                            fontWeight: '500',
+                            marginTop: designSystem.spacing.xs
+                          }}>
+                            {label}
+                          </div>
+                        </div>
+                      ));
+                    })()}
+                  </div>
+                </div>
+
+                {/* Flow Screen Summary */}
+                <div style={{ 
+                  padding: designSystem.spacing.lg,
+                  backgroundColor: '#f8f9fa',
+                  borderRadius: designSystem.borderRadius.medium,
+                  marginBottom: designSystem.spacing.lg,
+                  boxShadow: designSystem.shadows.card
+                }}>
+                  <h3 style={{ 
+                    margin: `0 0 ${designSystem.spacing.md} 0`, 
+                    color: designSystem.colors.dark
+                  }}>
+                    📱 Flow Screen Breakdown
+                  </h3>
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: designSystem.spacing.sm }}>
+                    {evaluationResult.items.map((item, index) => (
+                      <div
+                        key={index}
+                        onClick={() => {
+                          setViewMode('individual');
+                          setCurrentImageIndex(index);
+                        }}
+                        style={{
+                          padding: designSystem.spacing.sm,
+                          backgroundColor: 'white',
+                          borderRadius: designSystem.borderRadius.small,
+                          border: `2px solid ${getScoreColor(item.scores.overall)}`,
+                          cursor: 'pointer',
+                          transition: 'all 0.2s ease'
+                        }}
+                        onMouseOver={(e) => {
+                          e.currentTarget.style.transform = 'translateY(-2px)';
+                          e.currentTarget.style.boxShadow = designSystem.shadows.cardHover;
+                        }}
+                        onMouseOut={(e) => {
+                          e.currentTarget.style.transform = 'translateY(0)';
+                          e.currentTarget.style.boxShadow = 'none';
+                        }}
+                      >
+                        <div style={{
+                          display: 'flex',
+                          justifyContent: 'space-between',
+                          alignItems: 'center',
+                          marginBottom: designSystem.spacing.xs
+                        }}>
+                          <strong>Screen {index + 1}</strong>
+                          <div style={{
+                            padding: `${designSystem.spacing.xs} ${designSystem.spacing.sm}`,
+                            backgroundColor: getScoreColor(item.scores.overall),
+                            color: 'white',
+                            borderRadius: designSystem.borderRadius.small,
+                            fontSize: '12px',
+                            fontWeight: 'bold'
+                          }}>
+                            {item.scores.overall}
+                          </div>
+                        </div>
+                        <div style={{ fontSize: '12px', color: designSystem.colors.secondary }}>
+                          U:{item.scores.usability} A:{item.scores.accessibility} V:{item.scores.visual}
+                        </div>
+                        <div style={{ fontSize: '11px', color: designSystem.colors.info, marginTop: '4px' }}>
+                          {item.issues.length} issue(s) • Click to view details
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Flow Analysis Summary */}
+                <div style={{ 
+                  padding: designSystem.spacing.lg,
+                  backgroundColor: '#f3e5f5',
+                  borderRadius: designSystem.borderRadius.medium,
+                  boxShadow: designSystem.shadows.card
+                }}>
+                  <h3 style={{ 
+                    margin: `0 0 ${designSystem.spacing.md} 0`, 
+                    color: '#7b1fa2',
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: designSystem.spacing.sm
+                  }}>
+                    📝 Complete Flow Analysis
+                  </h3>
+                  <p style={{ 
+                    margin: 0, 
+                    lineHeight: '1.6', 
+                    color: designSystem.colors.dark,
+                    marginBottom: designSystem.spacing.md
+                  }}>
+                    This user flow consists of {evaluationResult.items.length} screens with an average score of{' '}
+                    {Math.round(evaluationResult.items.reduce((sum, item) => sum + item.scores.overall, 0) / evaluationResult.items.length)}/100.
+                    The flow demonstrates {evaluationResult.items.every(item => item.scores.overall >= 80) ? 'excellent' : 
+                                          evaluationResult.items.every(item => item.scores.overall >= 70) ? 'good' : 
+                                          'moderate'} consistency across screens.
+                  </p>
+                  
+                  {/* Flow Highlights and Issues Summary */}
+                  <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: designSystem.spacing.md }}>
+                    <div>
+                      <h4 style={{ color: designSystem.colors.success, marginBottom: designSystem.spacing.sm }}>
+                        ✨ Flow Strengths
+                      </h4>
+                      <ul style={{ margin: 0, paddingLeft: '20px' }}>
+                        {evaluationResult.items.flatMap(item => item.highlights).slice(0, 3).map((highlight, idx) => (
+                          <li key={idx} style={{ marginBottom: '4px', fontSize: '14px' }}>
+                            {highlight}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                    <div>
+                      <h4 style={{ color: designSystem.colors.warning, marginBottom: designSystem.spacing.sm }}>
+                        ⚠️ Flow Improvement Areas
+                      </h4>
+                      <ul style={{ margin: 0, paddingLeft: '20px' }}>
+                        {evaluationResult.items.flatMap(item => item.issues).slice(0, 3).map((issue, idx) => (
+                          <li key={idx} style={{ marginBottom: '4px', fontSize: '14px' }}>
+                            {issue.issue}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Flow Metadata */}
+                <div style={{ 
+                  marginTop: designSystem.spacing.lg,
+                  padding: designSystem.spacing.md,
+                  backgroundColor: '#f8f9fa',
+                  borderRadius: designSystem.borderRadius.medium,
+                  fontSize: '14px',
+                  color: '#666'
+                }}>
+                  <strong>Flow Analysis Details:</strong> {evaluationResult.model.toUpperCase()} • {getCurrentPersona().name} • Complete User Journey • {evaluationResult.items.length} Screens
+                </div>
+              </div>
+            )
+          )}
+                </div>
+              )}
+            </div>
+          ) : null}
+
+          {/* Run Button */}
+          {!evaluationResult && !showHistory && (
+            <div style={{ textAlign: 'center', marginTop: '32px' }}>
+              <button
+                onClick={handleRunSimulation}
+                disabled={isLoading || uploadedFiles.length === 0}
+                style={{
+                  backgroundColor: isLoading || uploadedFiles.length === 0 ? '#6c757d' : '#007bff',
+                  color: 'white',
+                  border: 'none',
+                  padding: '16px 32px',
+                  borderRadius: '8px',
+                  cursor: isLoading || uploadedFiles.length === 0 ? 'not-allowed' : 'pointer',
+                  fontSize: '18px',
+                  fontWeight: 'bold',
+                  boxShadow: '0 4px 12px rgba(0,123,255,0.3)',
+                  transition: 'all 0.3s ease'
+                }}
+                onMouseOver={(e) => {
+                  if (!isLoading && uploadedFiles.length > 0) {
+                    e.currentTarget.style.transform = 'translateY(-2px)';
+                    e.currentTarget.style.boxShadow = '0 6px 16px rgba(0,123,255,0.4)';
+                  }
+                }}
+                onMouseOut={(e) => {
+                  e.currentTarget.style.transform = 'translateY(0)';
+                  e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,123,255,0.3)';
+                }}
+              >
+                {isLoading ? '⏳ Testing...' : '🧪 Run UX Test'}
+              </button>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
