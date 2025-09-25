@@ -176,6 +176,7 @@ export default function ImageUploader({
       file,
       preview: URL.createObjectURL(file),
       name: file.name,
+      order: (images?.length ?? 0) + index,   // ✅ 补上 order
     }));
 
     onImagesChange([...images, ...newImages]);
@@ -214,7 +215,14 @@ export default function ImageUploader({
     const newImages = [...images];
     const [movedImage] = newImages.splice(fromIndex, 1);
     newImages.splice(toIndex, 0, movedImage);
-    onImagesChange(newImages);
+    
+    // Update order field for all images after reordering
+    const updatedImages = newImages.map((image, index) => ({
+      ...image,
+      order: index,
+    }));
+    
+    onImagesChange(updatedImages);
   }, [images, onImagesChange]);
 
   const handleDragStart = useCallback((e: React.DragEvent, index: number) => {
