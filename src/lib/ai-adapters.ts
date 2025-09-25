@@ -170,10 +170,14 @@ IMPORTANT: Include ALL highlights and issues you identify - typically 3-8 highli
     
     let personaPrompt: string;
     
+    // Normalize analysisType for generatePersonaPrompt compatibility
+    const normalizedType: 'single' | 'flow' =
+      analysisType === 'side-by-side' ? 'single' : analysisType;
+    
     if (framework) {
       // Use the new persona-specific prompt for built-in personas
       personaPrompt = generatePersonaPrompt(persona, framework, {
-        analysisType: analysisType || 'single',
+        analysisType: normalizedType,
         designBackground,
         imageCount: images.length
       });
