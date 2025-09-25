@@ -1,56 +1,31 @@
-name: Build & Deploy (Next.js → Azure Web App)
+---
+name: Build and Deploy to Azure Web App
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      id-token: write
-      contents: read
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Use Node 20
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '20.x'
 
-      # 安装依赖（根据 package-lock 一致性）
-      - name: Install deps
-        run: npm ci
+      - name: Install dependencies
+        run: npm install
 
-      # 验证 next 存在
-      - name: Verify next exists
-        run: |
-          npm ls next
-          npx next --version
-          ls -la node_modules/.bin/next
-          node_modules/.bin/next --version
-
-      # 构建 Next.js
-      - name: Build
+      - name: Build app
         run: npm run build
 
-      # 验证构建结果
-      - name: Verify build
-        run: |
-          ls -la .next/
-          test -f .next/BUILD_ID
-          echo "Build verification successful"
-
-      # 暂时不要 prune，保持 node_modules 完整
-      # - run: npm prune --production
-
-      # 部署到 Azure WebApp
-      - name: Deploy to Azure WebApp
+      - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v2
         with:
           app-name: uxtester-platform
-          slot-name: Production
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
-          package: .
+          slot-name: production
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
