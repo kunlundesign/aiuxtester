@@ -1,237 +1,314 @@
 'use client';
 
 import React, { useCallback, useState } from 'react';
-import {
-  makeStyles,
-  tokens,
-  Text,
-  Button,
-  Card,
-} from '@fluentui/react-components';
-import { CloudArrowUp24Regular, Delete24Regular } from '@fluentui/react-icons';
 import { UploadedImage } from '@/types';
 
-const useStyles = makeStyles({
+// 使用与主页面相同的设计系统
+const designSystem = {
+  colors: {
+    primary: '#8B7355',
+    secondary: '#B5A99A',
+    accent: '#D4C4B0',
+    background: {
+      primary: '#EFEAE7',
+      secondary: '#F5F1EE',
+      card: 'rgba(255, 255, 255, 0.7)',
+    },
+    text: {
+      primary: '#2D2A26',
+      secondary: '#5A5550',
+      light: '#8B8680',
+    },
+    brand: '#0078d4',
+    success: '#10b981',
+    warning: '#f59e0b',
+    error: '#ef4444',
+  },
+  spacing: {
+    xs: '4px',
+    sm: '8px',
+    md: '12px',
+    lg: '16px',
+    xl: '24px',
+    xxl: '32px',
+  },
+  borderRadius: {
+    small: '4px',
+    medium: '8px',
+    large: '12px',
+    xl: '16px',
+  },
+  shadows: {
+    subtle: '0 2px 8px rgba(45, 42, 38, 0.05)',
+    card: '0 8px 32px rgba(45, 42, 38, 0.1)',
+    cardHover: '0 12px 40px rgba(45, 42, 38, 0.15)',
+  },
+};
+
+// 样式对象
+const styles = {
   container: {
-    padding: tokens.spacingVerticalL,
-    border: `2px dashed ${tokens.colorNeutralStroke2}`,
-    borderRadius: tokens.borderRadiusMedium,
-    textAlign: 'center',
-    backgroundColor: tokens.colorNeutralBackground2,
+    padding: designSystem.spacing.xl,
+    border: '2px dashed rgba(255, 255, 255, 0.3)',
+    borderRadius: designSystem.borderRadius.medium,
+    textAlign: 'center' as const,
+    backgroundColor: designSystem.colors.background.card,
     cursor: 'pointer',
     transition: 'border-color 0.2s ease',
-    '&:hover': {
-  // Use full border to avoid type mismatch on borderColor in nested selector
-  border: `2px dashed ${tokens.colorBrandStroke1}`,
-    },
+    backdropFilter: 'blur(10px)',
+  },
+  containerHover: {
+    border: `2px dashed ${designSystem.colors.brand}`,
   },
   uploadText: {
-    marginTop: tokens.spacingVerticalM,
-    color: tokens.colorNeutralForeground2,
+    marginTop: designSystem.spacing.lg,
+    color: designSystem.colors.text.secondary,
+    fontSize: '14px',
   },
   hiddenInput: {
     display: 'none',
   },
-  thumbnailGrid: {
+  thumbnailsGrid: {
     display: 'grid',
     gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))',
-    gap: tokens.spacingHorizontalM,
-    marginTop: tokens.spacingVerticalL,
+    gap: designSystem.spacing.lg,
+    marginTop: designSystem.spacing.xl,
   },
   thumbnail: {
-    position: 'relative',
-    borderRadius: tokens.borderRadiusMedium,
+    position: 'relative' as const,
+    borderRadius: designSystem.borderRadius.medium,
     overflow: 'hidden',
-    backgroundColor: tokens.colorNeutralBackground1,
+    backgroundColor: designSystem.colors.background.card,
+    border: '1px solid rgba(255, 255, 255, 0.3)',
   },
   thumbnailImage: {
     width: '100%',
     height: '120px',
-    objectFit: 'cover',
+    objectFit: 'cover' as const,
   },
   thumbnailActions: {
-    position: 'absolute',
-    top: tokens.spacingVerticalS,
-    right: tokens.spacingHorizontalS,
+    position: 'absolute' as const,
+    top: designSystem.spacing.sm,
+    right: designSystem.spacing.sm,
     display: 'flex',
-    gap: tokens.spacingHorizontalXS,
+    gap: designSystem.spacing.xs,
   },
   actionButton: {
     minWidth: '24px',
     width: '24px',
     height: '24px',
     borderRadius: '50%',
-    backgroundColor: tokens.colorNeutralBackground1,
+    backgroundColor: designSystem.colors.background.card,
+    border: '1px solid rgba(255, 255, 255, 0.3)',
+    color: designSystem.colors.text.primary,
+    cursor: 'pointer',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    fontSize: '12px',
     opacity: 0.9,
+    transition: 'all 0.2s ease',
+  },
+  actionButtonHover: {
+    opacity: 1,
+    transform: 'scale(1.1)',
   },
   dragHandle: {
-    position: 'absolute',
-    bottom: tokens.spacingVerticalS,
-    right: tokens.spacingHorizontalS,
+    position: 'absolute' as const,
+    bottom: designSystem.spacing.sm,
+    right: designSystem.spacing.sm,
     cursor: 'grab',
+    color: designSystem.colors.text.light,
+    fontSize: '12px',
+    backgroundColor: 'rgba(255, 255, 255, 0.8)',
+    padding: '2px 4px',
+    borderRadius: designSystem.borderRadius.small,
   },
-  emptyState: {
-    padding: tokens.spacingVerticalXXL,
-    color: tokens.colorNeutralForeground3,
+  dragHandleActive: {
+    cursor: 'grabbing',
   },
-});
+};
 
 interface ImageUploaderProps {
   images: UploadedImage[];
   onImagesChange: (images: UploadedImage[]) => void;
-  disabled?: boolean;
+  maxImages?: number;
+  analysisType?: 'single' | 'flow' | 'side-by-side';
 }
 
-function ImageUploader({ images, onImagesChange, disabled }: ImageUploaderProps) {
-  const styles = useStyles();
-  const [dragOver, setDragOver] = useState(false);
+export default function ImageUploader({ 
+  images, 
+  onImagesChange, 
+  maxImages = 5,
+  analysisType = 'single'
+}: ImageUploaderProps) {
+  const [isDragOver, setIsDragOver] = useState(false);
+  const [hoveredThumbnail, setHoveredThumbnail] = useState<number | null>(null);
 
-  const handleFileSelect = useCallback((files: FileList | null) => {
-    if (!files || disabled) return;
+  const handleFiles = useCallback((files: FileList | null) => {
+    if (!files) return;
 
-    const newImages: UploadedImage[] = [];
-    const existingOrder = Math.max(0, ...images.map(img => img.order));
+    const fileArray = Array.from(files);
+    const imageFiles = fileArray.filter(file => file.type.startsWith('image/'));
+    
+    if (imageFiles.length === 0) {
+      alert('Please select image files only.');
+      return;
+    }
 
-    Array.from(files).forEach((file, index) => {
-      if (file.type.startsWith('image/')) {
-        const id = `image-${Date.now()}-${index}`;
-        const preview = URL.createObjectURL(file);
-        
-        newImages.push({
-          id,
-          file,
-          preview,
-          order: existingOrder + index + 1,
-        });
-      }
-    });
+    // Check analysis type limits
+    const totalImages = images.length + imageFiles.length;
+    if (analysisType === 'single' && totalImages > 1) {
+      alert('Single analysis mode supports only 1 image. Please remove existing images first.');
+      return;
+    }
+    if (analysisType === 'side-by-side' && totalImages > 3) {
+      alert('Side-by-side analysis mode supports maximum 3 images.');
+      return;
+    }
+    if (totalImages > maxImages) {
+      alert(`Maximum ${maxImages} images allowed.`);
+      return;
+    }
+
+    const newImages: UploadedImage[] = imageFiles.map((file, index) => ({
+      id: `image-${Date.now()}-${index}`,
+      file,
+      preview: URL.createObjectURL(file),
+      name: file.name,
+    }));
 
     onImagesChange([...images, ...newImages]);
-  }, [images, onImagesChange, disabled]);
+  }, [images, onImagesChange, maxImages, analysisType]);
 
-  const handleFileInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    handleFileSelect(event.target.files);
-    // Reset input value to allow selecting the same file again
-    event.target.value = '';
-  };
+  const handleDrop = useCallback((e: React.DragEvent) => {
+    e.preventDefault();
+    setIsDragOver(false);
+    handleFiles(e.dataTransfer.files);
+  }, [handleFiles]);
 
-  const handleDrop = useCallback((event: React.DragEvent) => {
-    event.preventDefault();
-    setDragOver(false);
-    handleFileSelect(event.dataTransfer.files);
-  }, [handleFileSelect]);
-
-  const handleDragOver = useCallback((event: React.DragEvent) => {
-    event.preventDefault();
-    setDragOver(true);
+  const handleDragOver = useCallback((e: React.DragEvent) => {
+    e.preventDefault();
+    setIsDragOver(true);
   }, []);
 
-  const handleDragLeave = useCallback(() => {
-    setDragOver(false);
+  const handleDragLeave = useCallback((e: React.DragEvent) => {
+    e.preventDefault();
+    setIsDragOver(false);
   }, []);
 
-  const handleRemoveImage = (imageId: string) => {
-    const updatedImages = images.filter(img => img.id !== imageId);
-    // Clean up object URL
+  const handleFileInput = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
+    handleFiles(e.target.files);
+    e.target.value = ''; // Reset input
+  }, [handleFiles]);
+
+  const removeImage = useCallback((imageId: string) => {
     const imageToRemove = images.find(img => img.id === imageId);
     if (imageToRemove) {
       URL.revokeObjectURL(imageToRemove.preview);
     }
-    onImagesChange(updatedImages);
-  };
+    onImagesChange(images.filter(img => img.id !== imageId));
+  }, [images, onImagesChange]);
 
-  const handleReorderImages = (fromIndex: number, toIndex: number) => {
-    const reorderedImages = [...images];
-    const [moved] = reorderedImages.splice(fromIndex, 1);
-    reorderedImages.splice(toIndex, 0, moved);
-    
-    // Update order values
-    reorderedImages.forEach((img, index) => {
-      img.order = index;
-    });
-    
-    onImagesChange(reorderedImages);
-  };
+  const moveImage = useCallback((fromIndex: number, toIndex: number) => {
+    const newImages = [...images];
+    const [movedImage] = newImages.splice(fromIndex, 1);
+    newImages.splice(toIndex, 0, movedImage);
+    onImagesChange(newImages);
+  }, [images, onImagesChange]);
 
-  const openFileDialog = () => {
-    document.getElementById('file-input')?.click();
-  };
+  const handleDragStart = useCallback((e: React.DragEvent, index: number) => {
+    e.dataTransfer.setData('text/plain', index.toString());
+  }, []);
+
+  const handleDragOverThumbnail = useCallback((e: React.DragEvent) => {
+    e.preventDefault();
+  }, []);
+
+  const handleDropThumbnail = useCallback((e: React.DragEvent, dropIndex: number) => {
+    e.preventDefault();
+    const dragIndex = parseInt(e.dataTransfer.getData('text/plain'));
+    if (dragIndex !== dropIndex) {
+      moveImage(dragIndex, dropIndex);
+    }
+  }, [moveImage]);
 
   return (
     <div>
       {/* Upload Area */}
       <div
-        className={styles.container}
+        style={{
+          ...styles.container,
+          ...(isDragOver ? styles.containerHover : {}),
+        }}
         onDrop={handleDrop}
         onDragOver={handleDragOver}
         onDragLeave={handleDragLeave}
-        onClick={openFileDialog}
-        style={{
-          borderColor: dragOver ? tokens.colorBrandStroke1 : undefined,
-          opacity: disabled ? 0.6 : 1,
-          cursor: disabled ? 'not-allowed' : 'pointer',
-        }}
+        onClick={() => document.getElementById('file-input')?.click()}
       >
+        <div style={{ fontSize: '24px', color: designSystem.colors.text.secondary }}>
+          📁
+        </div>
+        <div style={styles.uploadText}>
+          {analysisType === 'single' && 'Drop or click to upload 1 image'}
+          {analysisType === 'flow' && `Drop or click to upload up to ${maxImages} images`}
+          {analysisType === 'side-by-side' && 'Drop or click to upload 2-3 images for comparison'}
+        </div>
         <input
           id="file-input"
           type="file"
-          multiple
+          multiple={analysisType !== 'single'}
           accept="image/*"
-          onChange={handleFileInputChange}
-          className={styles.hiddenInput}
-          disabled={disabled}
+          style={styles.hiddenInput}
+          onChange={handleFileInput}
         />
-        
-        <CloudArrowUp24Regular />
-        <Text className={styles.uploadText}>
-          {dragOver 
-            ? 'Drop images here...' 
-            : 'Drop images here or click to upload'
-          }
-        </Text>
-        <Text className={styles.uploadText}>
-          Supports multiple images (PNG, JPG, WebP)
-        </Text>
       </div>
 
       {/* Thumbnails */}
       {images.length > 0 && (
-        <div className={styles.thumbnailGrid}>
-          {images
-            .sort((a, b) => a.order - b.order)
-            .map((image, index) => (
-              <Card key={image.id} className={styles.thumbnail}>
-                <img
-                  src={image.preview}
-                  alt={`Upload ${index + 1}`}
-                  className={styles.thumbnailImage}
-                />
-                
-                <div className={styles.thumbnailActions}>
-                  <Button
-                    className={styles.actionButton}
-                    icon={<Delete24Regular />}
-                    size="small"
-                    appearance="subtle"
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      handleRemoveImage(image.id);
-                    }}
-                    disabled={disabled}
-                  />
-                </div>
-              </Card>
-            ))}
-        </div>
-      )}
+        <div style={styles.thumbnailsGrid}>
+          {images.map((image, index) => (
+            <div
+              key={image.id}
+              style={styles.thumbnail}
+              draggable
+              onDragStart={(e) => handleDragStart(e, index)}
+              onDragOver={handleDragOverThumbnail}
+              onDrop={(e) => handleDropThumbnail(e, index)}
+              onMouseEnter={() => setHoveredThumbnail(index)}
+              onMouseLeave={() => setHoveredThumbnail(null)}
+            >
+              <img
+                src={image.preview}
+                alt={image.name}
+                style={styles.thumbnailImage}
+              />
+              
+              {/* Action Buttons */}
+              <div style={styles.thumbnailActions}>
+                <button
+                  style={{
+                    ...styles.actionButton,
+                    ...(hoveredThumbnail === index ? styles.actionButtonHover : {}),
+                  }}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    removeImage(image.id);
+                  }}
+                  title="Remove image"
+                >
+                  🗑️
+                </button>
+              </div>
 
-      {images.length === 0 && (
-        <div className={styles.emptyState}>
-          <Text>No images uploaded yet</Text>
+              {/* Drag Handle */}
+              <div style={styles.dragHandle}>
+                ⋮⋮
+              </div>
+            </div>
+          ))}
         </div>
       )}
     </div>
   );
 }
-
-export default ImageUploader;

@@ -20,8 +20,6 @@
     "zod": "^3.22.0"
   },
   "devDependencies": {
-    "@fluentui/react-components": "^9.69.0",
-    "@fluentui/react-icons": "^2.0.308",
     "@types/node": "^20.8.0",
     "@types/react": "^18.2.0",
     "@types/react-beautiful-dnd": "^13.1.6",
