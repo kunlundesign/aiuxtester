@@ -5,6 +5,16 @@ import axios from 'axios';
 import { ModelProvider, Persona, EvalResult } from '@/types';
 import { personaFeedbackFrameworks, generatePersonaPrompt } from '@/data/persona-feedback-frameworks';
 
+// Type normalization helper
+type AllowedAnalysisType = 'single' | 'flow';
+
+function normalizeAnalysisType(t: unknown): AllowedAnalysisType {
+  // 将 undefined 或未知值默认为 'single'
+  if (t === 'flow') return 'flow';
+  // 兼容 'side-by-side' 和其他字符串
+  return 'single';
+}
+
 export interface AIAdapter {
   evaluate(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow' | 'side-by-side'): Promise<EvalResult>;
 }
@@ -170,20 +180,16 @@ IMPORTANT: Include ALL highlights and issues you identify - typically 3-8 highli
     
     let personaPrompt: string;
     
-    // Normalize analysisType for generatePersonaPrompt compatibility
-    const normalizedType: 'single' | 'flow' =
-      analysisType === 'side-by-side' ? 'single' : analysisType;
-    
     if (framework) {
       // Use the new persona-specific prompt for built-in personas
       personaPrompt = generatePersonaPrompt(persona, framework, {
-        analysisType: normalizedType,
+        analysisType: normalizeAnalysisType(analysisType),
         designBackground,
         imageCount: images.length
       });
     } else {
       // Handle custom personas with detailed information
-      personaPrompt = this.generateCustomPersonaPrompt(persona, designBackground, analysisType || 'single', images.length);
+      personaPrompt = this.generateCustomPersonaPrompt(persona, designBackground, normalizeAnalysisType(analysisType), images.length);
     }
       
     const analysisInstructions = analysisType === 'flow' ? 
@@ -396,7 +402,7 @@ Use scores (0-100), specific highlights, detailed issues array, and narrative an
     return shuffled.slice(0, issueCount);
   }
 
-  private generateCustomPersonaPrompt(persona: Persona, designBackground?: string, analysisType: 'single' | 'flow' | 'side-by-side' = 'single', imageCount: number = 1): string {
+  private generateCustomPersonaPrompt(persona: Persona, designBackground?: string, analysisType: AllowedAnalysisType = 'single', imageCount: number = 1): string {
     const contextSection = designBackground ? `
 Design Context & Background:
 ${designBackground}
