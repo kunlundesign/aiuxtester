@@ -22,49 +22,26 @@ jobs:
 
       # 安装依赖（根据 package-lock 一致性）
       - name: Install deps
-        run: |
-          pwd && ls -la
-          npm ci
+        run: npm ci
 
-      # 自检：必须能找到 next
-      - name: Check next version
+      # 验证 next 存在
+      - name: Verify next exists
         run: |
-          pwd && ls -la
+          npm ls next
           npx next --version
 
       # 构建 Next.js
       - name: Build
-        run: |
-          pwd && ls -la
-          npm run build
+        run: npm run build
 
-      # 校验 next 依赖存在
-      - name: Verify next dependency
-        run: |
-          pwd && ls -la
-          npm ls next
+      # 暂时不要 prune，保持 node_modules 完整
+      # - run: npm prune --production
 
-      # 校验 next 可执行文件
-      - name: Verify next executable
-        run: |
-          pwd && ls -la
-          test -x node_modules/.bin/next && node_modules/.bin/next --version
-
-      # 精简到生产依赖（next 在 dependencies 中会被保留）
-      # - name: Prune to production deps
-      #   run: npm prune --production
-
-      # 登录 Azure（OIDC）
-      - name: Azure login
-        uses: azure/login@v2
+      # 部署到 Azure WebApp
+      - name: Deploy to Azure WebApp
+        uses: azure/webapps-deploy@v2
         with:
-          client-id: ${{ secrets.AZURE_CLIENT_ID }}
-          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
-          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
-
-      # 部署到 Web App（把当前目录作为包发布）
-      - name: Deploy to Azure Web App
-        uses: azure/webapps-deploy@v3
-        with:
-          app-name: 'uxtester-platform'   # ← 如果你的 App Service 名不同，请同步修改
-          package: '.'
+          app-name: uxtester-platform
+          slot-name: Production
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
+          package: .
