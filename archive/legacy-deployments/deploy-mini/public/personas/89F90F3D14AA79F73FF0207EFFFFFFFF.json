@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jennifer Collins",
+        "age": 49,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Kansas City, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Education",
+            "institution": "University of Missouri"
+        },
+        "occupation": "High School Teacher",
+        "company": "Northland Christian Education System",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Mid-length styled hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, practical glasses",
+            "Dress Style": "Casual-professional blend with functional accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Faith-based healthcare advocacy, education empowerment",
+        "motivations": "Family support, professional development, community engagement",
+        "cognitive_style": "Structured problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Education tools (mathsolver.microsoft.com), sports statistics, event planning",
+        "ad_interactions": "Healthcare services, e-commerce deals, formal attire",
+        "preferred_content_sources": "MSN News, YouTube tutorials, educational platforms",
+        "social_media_usage": "Facebook/Instagram for family updates, passive YouTube consumption",
+        "ecommerce_behavior": "Budget-conscious Amazon shopping for household/educational items",
+        "device_usage": "Desktop-focused with Edge browser",
+        "subscriptions": "Christian Healthcare Ministries, Spotify Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Educational technology, classroom management strategies",
+        "hobbies": "Wedding planning assistance, NFL fandom (Chiefs)",
+        "entertainment_preferences": "True crime documentaries, 80s pop music",
+        "content_consumption": "Quick video tutorials + detailed news analysis",
+        "learning_style": "Application-focused learning through edtech platforms"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases, planned major expenses",
+        "income_level": "$55,000-$65,000 annual",
+        "investment_habits": "Conservative 401(k) contributions",
+        "financial_tools": "Credit cards with rewards, online banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player with mentoring tendencies",
+        "family_structure": "Parent of teenage children",
+        "friendship_circle": "Close-knit community/church group",
+        "community_involvement": "School board participation, church activities",
+        "online_vs_offline_engagement": "Balanced digital coordination with in-person events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email checks with coffee, school preparation",
+        "workday_habits": "Structured lesson plans with technology integration",
+        "evening_and_leisure": "Grading papers while streaming news/sports",
+        "weekend_activities": "Family events, church services, home management",
+        "sleep_schedule": "Consistent 11PM-6AM routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Walking regimen, balanced home cooking",
+        "mental_health": "Faith-based stress management",
+        "work_life_balance": "Compartmentalized professional/personal time",
+        "health_related_digital_behavior": "Preventative care research via Healthline"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-backed with trusted referrals",
+        "brand_loyalty": "Sticks with proven education/healthcare providers",
+        "influence_factors": "Expert opinions, community endorsements",
+        "tech_adoption": "Purpose-driven adopter (e.g., classroom tools)",
+        "privacy_and_security_concerns": "Cautious with financial data sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern values, English monolingual",
+        "travel_habits": "Regional family trips, rare international travel",
+        "personal_projects": "Coaching school sports teams, real estate side gigs",
+        "unexpected_behavioral_traits": "NFL statistics enthusiast despite non-athletic career"
+    }
+}

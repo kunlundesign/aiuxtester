@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Mitchell",
+        "age": 23,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "San Diego, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Office Systems Technology",
+            "institution": "San Diego Mesa College"
+        },
+        "occupation": "Print Shop Technician",
+        "company": "OfficeMax",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Lean",
+            "Hairstyle": "Short fade with textured top",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Skatewear-inspired casual (graphic tees, hoodies, DC Shoes sneakers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical problem-solving, work-life separation, gaming culture appreciation",
+        "motivations": "Technical mastery, gaming community status, budget-conscious upgrades",
+        "cognitive_style": "Hands-on troubleshooting with systematic approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precise technical queries (equipment model numbers), gaming troubleshooting, streaming platform navigation",
+        "ad_interactions": "High engagement with PC hardware/streaming service ads, low tolerance for irrelevant marketing",
+        "preferred_content_sources": "Tubi (free content), Reddit tech communities, manufacturer websites (MyBinding.com)",
+        "social_media_usage": "Lurker in gaming/anime Discord groups, passive Instagram/Twitch viewer",
+        "ecommerce_behavior": "Budget-focused tech purchases, repeat office supply orders, seasonal gaming gear upgrades",
+        "device_usage": "Windows 11 gaming laptop + Android phone, Edge browser with multiple streaming tabs",
+        "subscriptions": "Netflix Basic, Hulu (ad-supported), Xbox Game Pass"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Document finishing technology, equipment maintenance techniques, industry trade forums",
+        "hobbies": "Competitive FPS gaming (Rainbow Six Siege), anime marathons, skateboard customization",
+        "entertainment_preferences": "90s cartoon revivals (Scooby-Doo), tactical shooter games, trap/EDM music",
+        "content_consumption": "Binge-watches complete series, prefers tutorial videos over written guides",
+        "learning_style": "YouTube tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven tech purchases, prioritizes gaming hardware over fashion",
+        "income_level": "$35k-$45k annually",
+        "investment_habits": "Conservative with 401(k) contributions, no active trading",
+        "financial_tools": "Debit card primary, PayPal for online purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with occasional equipment troubleshooting collaboration",
+        "family_structure": "Lives with roommates in shared apartment",
+        "friendship_circle": "Close-knit online gaming squad, few local friends",
+        "community_involvement": "Moderates Rainbow Six Siege Discord server",
+        "online_vs_offline_engagement": "90% digital social interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Mobile game sessions during commute, energy drink breakfast",
+        "workday_habits": "Equipment maintenance workflows with scheduled coffee breaks",
+        "evening_and_leisure": "Post-work gaming sessions (7-11pm), anime streaming while eating",
+        "weekend_activities": "LAN parties, skatepark sessions, equipment repair side gigs",
+        "sleep_schedule": "Night owl (1am-8am on workdays)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual skateboarding for exercise, irregular meal times",
+        "mental_health": "Stress relief through gaming, avoids formal therapy",
+        "work_life_balance": "Clear separation between print shop duties and personal gaming time",
+        "health_related_digital_behavior": "Occasional fitness app downloads abandoned after 2 weeks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Technical specifications-focused, compares multiple Reddit threads",
+        "brand_loyalty": "Strong in gaming peripherals (Razer), flexible in office supplies",
+        "influence_factors": "User reviews > expert opinions, values modding communities",
+        "tech_adoption": "Early majority adopter - waits for proven gaming hardware",
+        "privacy_and_security_concerns": "Uses basic antivirus, reuses passwords across entertainment sites"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern California skate culture, basic Spanish comprehension",
+        "travel_habits": "Local day trips only, conventions as primary travel motivation",
+        "personal_projects": "Custom gaming PC build, anime rewatch timeline spreadsheet",
+        "unexpected_behavioral_traits": "Technical print shop worker who creates elaborate anime fan theories"
+    }
+}

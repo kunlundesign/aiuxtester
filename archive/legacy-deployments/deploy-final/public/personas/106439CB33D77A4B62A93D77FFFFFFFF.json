@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sophia Martinez",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "United States",
+        "current_residence": "Yakima, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Part-Time Retail Associate",
+        "company": "unknown",
+        "physical_attributes": {
+            "height": "5'4\"",
+            "body_shape": "Average",
+            "hairstyle": "Wavy medium-length hair",
+            "skin_color": "Light Brown",
+            "facial_features": "Youthful with arched eyebrows",
+            "dress_style": "Y2K fashion with cheetah prints, cross shirts, and fluffy boots"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENFP",
+        "beliefs_and_values": "Cultural pride (Latina identity), animal welfare advocacy",
+        "motivations": "Creative self-expression, social connection through gaming",
+        "cognitive_style": "Creative problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic exploration (tech troubleshooting + music lyrics + military history)",
+        "ad_interactions": "High engagement with Y2K fashion and pet-related ads",
+        "preferred_content_sources": "TikTok, Roblox communities, Genius.com lyrics",
+        "social_media_usage": "Active on TikTok, Instagram, Discord (20+ Reddit visits)",
+        "ecommerce_behavior": "Frequent SHEIN/AliExpress browsing, budget-conscious fashion",
+        "device_usage": "Windows PC (VR Chat usage) + mobile (TikTok)",
+        "subscriptions": "Roblox Premium, Spotify Premium, Microsoft Rewards"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Graphic design (Sketch.io usage), avatar creation",
+        "hobbies": "Roblox game development, makeup tutorials, lyric analysis",
+        "entertainment_preferences": "Hip-hop (Megan Thee Stallion), 90s country, military documentaries",
+        "content_consumption": "Short-form video tutorials + long-form gaming guides",
+        "learning_style": "Visual tutorials with hands-on practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious fashion with occasional splurges on gaming assets",
+        "income_level": "$15k-$25k/year",
+        "investment_habits": "Non-investor",
+        "financial_tools": "Debit cards, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "Online gaming friends + local Latino community",
+        "community_involvement": "Roblox developer forums, military appreciation groups",
+        "online_vs_offline_engagement": "70% online social interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Skincare regimen, check Roblox updates",
+        "workday_habits": "Balances shift work with gaming sessions",
+        "evening_and_leisure": "Avatar customization, TikTok content creation",
+        "weekend_activities": "Family meals, gaming marathons, thrift shopping",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual walks, limited formal exercise",
+        "mental_health": "Uses gaming for stress relief",
+        "work_life_balance": "Leisure-focused outside work hours",
+        "health_related_digital_behavior": "Skincare research, occasional symptom checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Social proof influenced with personal aesthetic priorities",
+        "brand_loyalty": "Fast fashion enthusiast (SHEIN), tech brand agnostic",
+        "influence_factors": "TikTok trends, gaming community recommendations",
+        "tech_adoption": "Early mainstream adopter (VR Chat customization)",
+        "privacy_and_security_concerns": "Low awareness (multiple social media logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Chicana heritage",
+        "travel_habits": "Regional road trips (Old West interest), Phoenix visits",
+        "personal_projects": "VR Chat avatar development, Roblox game design",
+        "unexpected_behavioral_traits": "Combines military history interest with kawaii fashion aesthetics"
+    }
+}

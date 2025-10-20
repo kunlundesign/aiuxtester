@@ -1,0 +1,141 @@
+{
+    "Core Identity": {
+        "full_name": "Edward Leverance",
+        "age": 68,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Mays Landing, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Rutgers University"
+        },
+        "occupation": "Retired Financial Manager",
+        "company": "Unknown",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Stocky",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Fair",
+            "facial_features": "Wrinkles around eyes, clean-shaven",
+            "dress_style": "Casual (polo shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Financial independence",
+            "Technology skepticism",
+            "National security focus"
+        ],
+        "motivations": [
+            "Staying informed",
+            "Financial security",
+            "Entertainment"
+        ],
+        "cognitive_style": "Fact-based analysis with practical application"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "News verification",
+            "Financial updates",
+            "Entertainment trivia"
+        ],
+        "ad_interactions": "High engagement with casino/gaming ads",
+        "preferred_content_sources": [
+            "MSN News",
+            "Facebook",
+            "PNC Bank portal"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Facebook"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive scrolling"
+        },
+        "ecommerce_behavior": {
+            "spending": "Budget-conscious tech purchases",
+            "categories": [
+                "Electronics",
+                "Lottery tickets"
+            ]
+        },
+        "device_usage": {
+            "primary": "Desktop",
+            "os": "Windows",
+            "browser": "Edge"
+        },
+        "subscriptions": [
+            "MSN Premium",
+            "Local news alerts"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Retirement planning",
+            "Stock market trends"
+        ],
+        "hobbies": [
+            "Online casino games",
+            "Collecting rare coins",
+            "Local history"
+        ],
+        "entertainment_preferences": {
+            "music": "Classic rock",
+            "movies": "Crime dramas",
+            "tv_shows": "Network news programs"
+        },
+        "content_consumption": "Factual news articles > opinion pieces",
+        "learning_style": "Self-guided research through official portals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with occasional gambling splurges",
+        "income_level": "Middle-class retirement income",
+        "investment_habits": "Conservative dividend stocks",
+        "financial_tools": [
+            "PNC Online Banking",
+            "Credit cards"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator",
+        "family_structure": "Lives alone",
+        "friendship_circle": "Small group of longtime friends",
+        "community_involvement": "VFW member",
+        "online_vs_offline_engagement": "70% online / 30% offline"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking Yahoo Mail/PNC accounts",
+        "workday_habits": "MSN news monitoring, financial checks",
+        "evening_and_leisure": "MSN political commentary, online casinos",
+        "weekend_activities": "Local diner visits, lottery ticket purchases",
+        "sleep_schedule": "10 PM - 6 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily neighborhood walks",
+        "mental_health": "Stable with casino gaming as stress relief",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Medicare portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse except gambling",
+        "brand_loyalty": "Strong for financial institutions",
+        "influence_factors": "Official sources, historical precedents",
+        "tech_adoption": "Mainstream user",
+        "privacy_and_security_concerns": "Medium (avoids mobile banking)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Occasional Vegas trips",
+        "personal_projects": "Local history archive compilation",
+        "unexpected_behavioral_traits": "Analytical thinker who enjoys high-risk gambling"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emma Johnson",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Bothell, USA",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Automotive Technology (Community College)",
+            "institution": "Bothell High School"
+        },
+        "occupation": "Part-Time Automotive Technician",
+        "company": "Freelance Classic Car Restoration Projects",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length straight brown hair",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, practical appearance",
+            "dress_style": "Casual workwear (jeans, mechanic shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Mechanical craftsmanship preservation, DIY ethos",
+        "motivations": "Mastering automotive restoration skills, financial independence",
+        "cognitive_style": "Analytical problem-solving with hands-on execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Vehicle specs comparison, RV floorplan analysis, restoration tutorials",
+        "ad_interactions": "High engagement with RV/car dealerships, parts retailers",
+        "preferred_content_sources": "RVTrader, ClassicCars.com, automotive forums, YouTube tutorials",
+        "social_media_usage": "Pinterest (project inspiration), Reddit/r/classiccars, YouTube subscriptions",
+        "ecommerce_behavior": "Budget-focused purchases (Amazon home goods, eBay parts)",
+        "device_usage": "Desktop for research (Edge/Bing), mobile for quick checks",
+        "subscriptions": "Hagerty Insurance newsletters, RV Life Pro membership"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vintage automotive engineering, welding techniques",
+        "hobbies": "Classic car restoration, NASCAR event attendance, RV camping",
+        "entertainment_preferences": "Motorsport documentaries, classic rock playlists",
+        "content_consumption": "Technical manuals >10k words, RV walkthrough videos",
+        "learning_style": "Workshop-based skill acquisition, peer-to-peer knowledge sharing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven investments in restoration projects",
+        "income_level": "$25k-$35k/year (part-time work + side projects)",
+        "investment_habits": "Asset appreciation through vehicle restoration",
+        "financial_tools": "Amazon Pay, PayPal Credit, local credit union account"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor seeking mentorship opportunities",
+        "family_structure": "Lives with parents (house with garage workspace)",
+        "friendship_circle": "Niche automotive enthusiast network",
+        "community_involvement": "Local car shows volunteer, online restoration groups",
+        "online_vs_offline_engagement": "70% digital research, 30% in-person mechanical work"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check RVTrader alerts during breakfast",
+        "workday_habits": "Afternoon parts sourcing between classes/shifts",
+        "evening_and_leisure": "Garage workshop sessions, MSN auto news browsing",
+        "weekend_activities": "Junkyard scavenging, campground test trips",
+        "sleep_schedule": "Night owl (1am-8am) optimizing for project work"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength from manual labor, protein-focused diet",
+        "mental_health": "Stress relief through mechanical problem-solving",
+        "work_life_balance": "Project-driven time management",
+        "health_related_digital_behavior": "First aid tutorial searches for workshop safety"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Spec sheet comparison across 5+ sources",
+        "brand_loyalty": "Heritage brands (GMC, Winnebago) with proven reliability",
+        "influence_factors": "VIN verification reports, restoration forums",
+        "tech_adoption": "Mainstream user with specialized diagnostic tools",
+        "privacy_and_security_concerns": "Medium (uses incognito for price comparisons)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "3rd-gen Washington resident, basic Spanish",
+        "travel_habits": "Pacific Northwest campground exploration",
+        "personal_projects": "1972 GMC Caballero frame-off restoration",
+        "unexpected_behavioral_traits": "Meticulous mechanic who collects vintage lace tablecloths"
+    }
+}

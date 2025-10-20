@@ -1,0 +1,150 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Carter",
+        "age": 54,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Baldwin, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "History or Education",
+            "institution": "unknown"
+        },
+        "occupation": "Online Education Administrator",
+        "company": "Connexus Academy",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Shoulder-length brown hair",
+            "Skin_color": "Fair",
+            "Facial_features": "Minimal makeup",
+            "Dress_Style": "Casual practical (jeans + sweaters)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Financial preparedness",
+            "Lifelong learning",
+            "Work-life balance"
+        ],
+        "motivations": [
+            "Family security",
+            "Intellectual stimulation",
+            "Leisure enjoyment"
+        ],
+        "cognitive_style": "Practical problem-solver with historical curiosity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Education tech",
+            "Entertainment trivia",
+            "Financial services",
+            "DIY tutorials"
+        ],
+        "ad_interactions": "Medium engagement (clicked Amazon/Tubi/resin ads)",
+        "preferred_content_sources": [
+            "MSN News",
+            "YouTube tutorials",
+            "Educational wikis",
+            "Streaming platforms"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "Facebook"
+            ],
+            "Frequency": "Daily",
+            "Engagement": "Passive consumption"
+        },
+        "ecommerce_behavior": {
+            "Spending": "Budget-conscious",
+            "Categories": [
+                "Groceries (Save A Lot)",
+                "Craft supplies",
+                "Garden tools"
+            ]
+        },
+        "device_usage": {
+            "Primary": "Desktop",
+            "OS": "Windows",
+            "Browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "Netflix",
+            "Hulu",
+            "Kocowa+"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Online education trends",
+            "School administration tools"
+        ],
+        "hobbies": [
+            "Resin crafting",
+            "Casual gaming (Gacha Club)",
+            "Cooking beef recipes"
+        ],
+        "entertainment_preferences": {
+            "Movies": [
+                "Oscar-nominated films",
+                "Brutalist architecture documentaries"
+            ],
+            "TV": [
+                "Korean dramas (Pending Train)",
+                "Nostalgic sitcoms"
+            ]
+        },
+        "content_consumption": "Mix of quick news and long-form historical articles",
+        "learning_style": "Self-guided research through official portals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (frequent Save A Lot/Michigan Lottery checks)",
+        "income_level": "$55k-$70k/year",
+        "investment_habits": "Conservative (multiple life insurance queries)",
+        "financial_tools": [
+            "Comerica/Huntington banks",
+            "AARP insurance products"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Organized collaborator (email/file management patterns)",
+        "family_structure": "Likely parent (Connexus Academy engagement)",
+        "friendship_circle": "Small close group (limited social media presence)",
+        "community_involvement": "Local Michigan affairs tracking",
+        "online_vs_offline_engagement": "Balanced mix"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check emails/weather, plan family logistics",
+        "workday_habits": "Education administration tasks with MSN news breaks",
+        "evening_and_leisure": "Streaming shows, resin crafting projects",
+        "weekend_activities": "Resort visits, family gaming sessions",
+        "sleep_schedule": "Regular 11pm-6am pattern"
+    },
+    "Health & Well-being": {
+        "physical_health": "Weight-conscious (weight-loss snack searches)",
+        "mental_health": "Stable (no anxiety-related queries observed)",
+        "work_life_balance": "Managed separation (distinct work/personal browsing patterns)",
+        "health_related_digital_behavior": "Basic nutrition research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (multiple insurance/tech compares)",
+        "brand_loyalty": "Microsoft ecosystem user",
+        "influence_factors": "Official sources (government/lottery sites)",
+        "tech_adoption": "Mainstream adopter (uses established platforms)",
+        "privacy_and_security_concerns": "Medium (uses multiple financial portals)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Korean drama interest",
+        "travel_habits": "Regional trips (Evergreen Resort planning)",
+        "personal_projects": "Resin art creation, Spongebob meme collecting",
+        "unexpected_behavioral_traits": "History buff who creates viral memes"
+    }
+}

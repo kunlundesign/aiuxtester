@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michelle Davidson",
+        "age": 59,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Toledo, United States",
+        "education": {
+            "degree": "Ph.D.",
+            "major": "Journalism/Communication",
+            "institution": "University of Toledo"
+        },
+        "occupation": "Professor of Journalism & Communication",
+        "company": "University of Toledo",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray bob",
+            "skin_color": "Fair",
+            "facial_features": "Rectangular glasses, minimal makeup",
+            "dress_style": "Professional casual (blazers with knitwear)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Educational equity, cultural preservation, financial literacy",
+        "motivations": "Mentoring students, securing retirement, intellectual growth",
+        "cognitive_style": "Analytical with creative synthesis"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Education technology (Blackboard Ultra), retirement planning, literary analysis",
+        "ad_interactions": "High engagement with educational tools (75%) and financial services (25%)",
+        "preferred_content_sources": "Academic journals (UToledo domains), local news (WTOL), literary platforms (Goodreads)",
+        "social_media_usage": "Facebook daily (alumni/community groups), LinkedIn monthly",
+        "ecommerce_behavior": "Mid-range furniture (Castlery), books (ThriftBooks), occasional Costco bulk items",
+        "device_usage": "Windows desktop (Edge browser), iPhone secondary",
+        "subscriptions": "New York Times Digital, YouTube Premium, Blackboard Ultra institutional access"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Pedagogical innovation, academic integrity tools (GPTZero), writing instruction",
+        "hobbies": "Quilting (triangle patterns), classical piano (Chopin), local history research",
+        "entertainment_preferences": "Literary fiction (Zora Neale Hurston), documentary films, folk concerts",
+        "content_consumption": "Long-form articles (75%) supplemented by YouTube tutorials (25%)",
+        "learning_style": "Structured peer learning (attended writing conferences)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious (compares hosting platforms), invests in durable goods",
+        "income_level": "$85,000-$95,000 (academic salary)",
+        "investment_habits": "Moderate-risk (Voya retirement funds), real estate (homeowner)",
+        "financial_tools": "Citi Costco Visa, Glass City FCU accounts, TurboTax Premium"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative department chair, mentors junior faculty",
+        "family_structure": "Empty nester (adult children out of state)",
+        "friendship_circle": "Academic colleagues and book club members",
+        "community_involvement": "Diocese volunteer, Asparagus Festival committee",
+        "online_vs_offline_engagement": "Hybrid (virtual office hours, in-person cultural events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Local news (WTOL) with coffee, email triage",
+        "workday_habits": "Grading marathons (Blackboard Ultra), 2-3 meetings daily",
+        "evening_and_leisure": "Facebook family updates, quilting while streaming PBS dramas",
+        "weekend_activities": "University football games, cemetery preservation volunteering",
+        "sleep_schedule": "Regular (10PM-6AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily walks (Metroparks), pescatarian diet, annual eye exams (uveal melanoma awareness)",
+        "mental_health": "Journaling, book club socialization",
+        "work_life_balance": "Strict separation (no grading after 7PM)",
+        "health_related_digital_behavior": "MyChart patient portal, Mayo Clinic research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based (academic research standards)",
+        "brand_loyalty": "Institutional partnerships (Microsoft/Blackboard), Costco membership",
+        "influence_factors": "Peer-reviewed studies, diocesan community norms",
+        "tech_adoption": "Early majority (waits for v2 releases)",
+        "privacy_and_security_concerns": "Cautious (avoids cloud storage for student data)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with basic Spanish (academic conferences)",
+        "travel_habits": "Regional academic trips (Michigan/Ohio), ancestral research in Mexico",
+        "personal_projects": "Digital archive of Hurston's influence in Rust Belt literature",
+        "unexpected_behavioral_traits": "Punk rock nostalgia (New York Dolls YouTube searches)"
+    }
+}

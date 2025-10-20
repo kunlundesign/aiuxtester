@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jessica RedCorn",
+        "age": 34,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Sand Springs, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Event Management or Public Administration",
+            "institution": "Connors State College Oklahoma"
+        },
+        "occupation": "Event Coordinator/Association Manager",
+        "company": "Oklahoma Indian Gaming Association",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Medium",
+            "facial_features": "Warm smile with expressive eyes",
+            "dress_style": "Business casual with indigenous art accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Cultural preservation, environmental awareness, political engagement",
+        "motivations": "Professional excellence, community impact, cultural education",
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex multi-topic searches (events + logistics + cultural content)",
+        "ad_interactions": "High engagement with travel/services ads",
+        "preferred_content_sources": "MSN News, SiriusXM, LinkedIn, industry blogs",
+        "social_media_usage": "LinkedIn (professional), Facebook (community)",
+        "ecommerce_behavior": "Mid-range spending on apparel/experiences",
+        "device_usage": "Windows desktop + mobile complement",
+        "subscriptions": "SiriusXM, Wondery, MSN Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Gaming industry trends, association management tech",
+        "hobbies": "Casual gaming, concert attendance, indigenous art collection",
+        "entertainment_preferences": "Documentaries, classic rock, political comedy",
+        "content_consumption": "Long-form investigative journalism + event planning resources",
+        "learning_style": "Workshops + peer networking"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with event-related splurges",
+        "income_level": "$55,000-$65,000",
+        "investment_habits": "Conservative (401k focus)",
+        "financial_tools": "American Express, e-wallets"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leader",
+        "family_structure": "Single with close extended family",
+        "friendship_circle": "Professional network + childhood friends",
+        "community_involvement": "Cherokee cultural events",
+        "online_vs_offline_engagement": "Hybrid (digital research + in-person events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News/podcasts during breakfast",
+        "workday_habits": "Structured schedule with vendor meetings",
+        "evening_and_leisure": "Documentary viewing + recipe testing",
+        "weekend_activities": "Cultural markets, NFL games, hiking",
+        "sleep_schedule": "Consistent 11PM-6AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active commute, occasional pilates",
+        "mental_health": "Music/podcast relaxation",
+        "work_life_balance": "Guarded separation",
+        "health_related_digital_behavior": "Mayo Clinic research + natural skincare"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with cultural alignment",
+        "brand_loyalty": "Local business preference",
+        "influence_factors": "Peer recommendations + cultural relevance",
+        "tech_adoption": "Mainstream-plus (early enterprise tools)",
+        "privacy_and_security_concerns": "Moderate (professional caution)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Cherokee heritage, basic language retention",
+        "travel_habits": "Regional conferences + cultural destinations",
+        "personal_projects": "Indigenous art market coordination",
+        "unexpected_behavioral_traits": "Analytical event planner who enjoys abstract strategy games"
+    }
+}

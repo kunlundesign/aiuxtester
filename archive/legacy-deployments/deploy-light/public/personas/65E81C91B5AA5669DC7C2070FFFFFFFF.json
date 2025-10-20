@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Crystal Oliver",
+        "age": 52,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Sanford, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of North Carolina"
+        },
+        "occupation": "Property Manager/Event Planner",
+        "company": "Self-employed",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length blonde",
+            "skin_color": "Fair",
+            "facial_features": "Minimal wrinkles, wears glasses",
+            "dress_style": "Business-casual with floral accents"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Family-oriented conservatism, fiscal responsibility",
+        "motivations": "Financial stability, family legacy preservation",
+        "cognitive_style": "Structured problem-solver with practical orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic searches (real estate, family events, politics)",
+        "ad_interactions": "High engagement with home goods/travel ads",
+        "preferred_content_sources": "MSN News, Zillow, Amazon, government portals",
+        "social_media_usage": "Limited Facebook use, primarily news consumption",
+        "ecommerce_behavior": "Strategic spender balancing luxury/deals",
+        "device_usage": "Windows/Edge user with mobile complement",
+        "subscriptions": "Amazon Prime, MSN Premium, Zillow alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate trends, small business management",
+        "hobbies": "Interior decorating, family event planning",
+        "entertainment_preferences": "Political commentary, NFL games, country music",
+        "content_consumption": "News articles with practical how-to guides",
+        "learning_style": "Video tutorials + official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious luxury buyer",
+        "income_level": "$75k-$95k annually",
+        "investment_habits": "Moderate-risk real estate focus",
+        "financial_tools": "Traditional banking with Robinhood experimentation"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Detail-oriented collaborator",
+        "family_structure": "Empty nester with young grandchildren",
+        "friendship_circle": "Close-knit community network",
+        "community_involvement": "Local business associations",
+        "online_vs_offline_engagement": "Hybrid (digital research, in-person execution)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News check with coffee, family coordination",
+        "workday_habits": "Property visits + client meetings",
+        "evening_and_leisure": "Meal prep while watching political commentary",
+        "weekend_activities": "Home improvement projects, family gatherings",
+        "sleep_schedule": "Consistent 11PM-6AM routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Walking routine, Southern comfort food diet",
+        "mental_health": "Task-oriented stress management",
+        "work_life_balance": "Integrated lifestyle approach",
+        "health_related_digital_behavior": "Occasional fitness app use"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven pragmatist",
+        "brand_loyalty": "Trusts established brands with price comparisons",
+        "influence_factors": "Expert reviews + peer recommendations",
+        "tech_adoption": "Mainstream adopter",
+        "privacy_and_security_concerns": "Basic precautionary measures"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern English monolingual",
+        "travel_habits": "Semi-annual beach vacations",
+        "personal_projects": "Rental property curation",
+        "unexpected_behavioral_traits": "Conservative voter who follows LGBTQ+ family news"
+    }
+}

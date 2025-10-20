@@ -1,0 +1,144 @@
+{
+    "Core Identity": {
+        "full_name": "Ryan Fiege",
+        "age": 46,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Huntington Beach, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "California State University, Long Beach"
+        },
+        "occupation": "Real Estate Agent",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, trimmed",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with faint smile lines",
+            "dress_style": "Casual sportswear (performance fabrics) and business-casual attire"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Technology optimism",
+            "Financial independence",
+            "Health-conscious lifestyle"
+        ],
+        "motivations": [
+            "Real estate portfolio growth",
+            "Athletic performance optimization",
+            "Community mentorship"
+        ],
+        "cognitive_style": "Analytical problem-solver with tactical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches (real estate comps, cycling gear specs, mortgage trends)",
+        "ad_interactions": "High engagement with performance sports gear and financial services ads",
+        "preferred_content_sources": [
+            "Zillow Research",
+            "Zwift Insider",
+            "BaseballSavings.com",
+            "CNBC Markets"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Facebook Marketplace",
+                "Strava",
+                "Instagram"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive browsing, active marketplace transactions"
+        },
+        "ecommerce_behavior": {
+            "spending": "$500-$1,200/month",
+            "categories": [
+                "Cycling components",
+                "Baseball equipment",
+                "Outdoor apparel"
+            ]
+        },
+        "device_usage": "Desktop (75%) + Mobile (25%), Windows/Edge ecosystem",
+        "subscriptions": [
+            "Strava Premium",
+            "Zillow Premier Agent",
+            "Hulu Basic"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Commercial real estate trends",
+            "Property investment analysis",
+            "Client acquisition strategies"
+        ],
+        "hobbies": [
+            "Gravel cycling",
+            "Baseball coaching",
+            "Home renovation projects"
+        ],
+        "entertainment_preferences": [
+            "Tech innovation podcasts",
+            "Documentaries about urban development",
+            "Classic rock playlists"
+        ],
+        "content_consumption": "Technical specifications sheets + market analysis reports",
+        "learning_style": "Experimental tinkerer (e.g., tests bike components personally)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven quality purchases with 3:1 research-to-spend ratio",
+        "income_level": "$82,000-$95,000 annually",
+        "investment_habits": "Moderate-risk REITs + physical property assets",
+        "financial_tools": [
+            "Chase Sapphire Preferred",
+            "Venmo Business",
+            "Wells Fargo Propel"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-focused networker with 15+ year local contact base",
+        "family_structure": "Married with 2 teen children",
+        "friendship_circle": "Cycling club members + Little League coaching staff",
+        "community_involvement": "Youth sports equipment drives",
+        "online_vs_offline_engagement": "Hybrid model: Listings digital, client meetings in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "6:00 AM Zwift cycling session + real estate market scan",
+        "workday_habits": "Block scheduling: 9-11 AM client showings, 2-4 PM contract reviews",
+        "evening_and_leisure": "Glove break-in sessions while watching financial news",
+        "weekend_activities": "Family beach outings + group gravel rides",
+        "sleep_schedule": "10:30 PM - 5:45 AM (7.25h nightly)"
+    },
+    "Health & Well-being": {
+        "physical_health": "15h/week cardio training, pescatarian diet",
+        "mental_health": "Cycling-as-meditation practice",
+        "work_life_balance": "Strict 7 PM digital detox",
+        "health_related_digital_behavior": "Strava performance analytics + Cleveland Clinic symptom checker"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Triangulates professional reviews + user forums + personal testing",
+        "brand_loyalty": "Commits to Wilson/Rawlings baseball gear, Schwalbe cycling components",
+        "influence_factors": [
+            "Peer testimonials",
+            "Manufacturer whitepapers",
+            "ROI calculations"
+        ],
+        "tech_adoption": "Strategic late majority adopter (waits for v2 releases)",
+        "privacy_and_security_concerns": "Moderate: Uses 2FA but reuses passwords across non-financial sites"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "3rd-generation Californian, basic Spanish comprehension",
+        "travel_habits": "Regional cycling events (CA/AZ/NV), annual MLB spring training trip",
+        "personal_projects": "Vintage baseball glove restoration side hustle",
+        "unexpected_behavioral_traits": "Combines spreadsheet-driven real estate analysis with tactile sports gear customization"
+    }
+}

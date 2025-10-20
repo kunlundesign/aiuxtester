@@ -1,0 +1,146 @@
+{
+    "Core Identity": {
+        "full_name": "Robert Johnson",
+        "age": 68,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Peachtree Corners, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Local community college (inferred from notary license requirements)"
+        },
+        "occupation": "Retired Professional/Part-Time Notary Public",
+        "company": "Self-Employed",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Fair",
+            "facial_features": "Wrinkles around eyes, clean-shaven",
+            "dress_style": "Casual (polo shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Fiscal conservatism",
+            "Traditional American values"
+        ],
+        "motivations": [
+            "Maintaining independence",
+            "Financial security",
+            "Staying informed"
+        ],
+        "cognitive_style": "Structured thinking with practical problem-solving focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Government procedures",
+            "Financial management",
+            "Home maintenance",
+            "RV research"
+        ],
+        "ad_interactions": {
+            "engagement_level": "Selective",
+            "preferred_ad_categories": [
+                "RV equipment",
+                "Financial services",
+                "Office supplies"
+            ]
+        },
+        "preferred_content_sources": [
+            "Official government sites",
+            "Financial institution portals",
+            "MSN News"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "YouTube (passive)"
+            ],
+            "frequency": "Occasional",
+            "engagement": "Passive consumer"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Practical purchases",
+            "product_categories": [
+                "RV accessories",
+                "Office supplies",
+                "Home improvement"
+            ]
+        },
+        "device_usage": "Desktop preferred for financial/legal matters",
+        "subscriptions": [
+            "AT&T services",
+            "YouTube Premium"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Notary law updates",
+            "Retirement planning"
+        ],
+        "hobbies": [
+            "RV camping",
+            "Sports memorabilia collecting",
+            "Home maintenance"
+        ],
+        "entertainment_preferences": {
+            "music_genres": "Classic rock",
+            "movie_types": "Action dramas",
+            "favorite_authors": "Political commentators"
+        },
+        "content_consumption": "Fact-based articles with occasional sports highlights",
+        "learning_style": "Self-learning through official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with major purchases planned",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (Schwab usage indicates managed portfolios)",
+        "financial_tools": [
+            "USAA banking",
+            "Charles Schwab",
+            "Credit cards"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator",
+        "family_structure": "Likely lives with spouse",
+        "friendship_circle": "Small group of longtime friends",
+        "community_involvement": "Limited beyond essential services",
+        "online_vs_offline_engagement": "Prefers in-person interactions for important matters"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks financial accounts and news headlines",
+        "workday_habits": "Scheduled notary appointments, home projects",
+        "evening_and_leisure": "Watches sports highlights, researches RVs",
+        "weekend_activities": "Local home improvement projects, family time",
+        "sleep_schedule": "Early riser (5:30-6:00 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages age-related concerns through VA healthcare",
+        "mental_health": "Stable routine-focused lifestyle",
+        "work_life_balance": "Leisurely pace with structured responsibilities",
+        "health_related_digital_behavior": "Uses myhealth.va.gov portal for medical management"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with emphasis on official sources",
+        "brand_loyalty": "High (AT&T, USAA, Lowe's recurring usage)",
+        "influence_factors": "Institutional credibility, personal experience",
+        "tech_adoption": "Mainstream user for essential tools",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual Southern American",
+        "travel_habits": "Regional RV trips (Georgia/Tennessee border)",
+        "personal_projects": "Maintaining vintage RV equipment",
+        "unexpected_behavioral_traits": "Combines practical financial management with sports fandom (Philadelphia Eagles merchandise interest)"
+    }
+}

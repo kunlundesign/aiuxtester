@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Anthony Zummo",
+        "age": 71,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Missouri City, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Finance or Business Administration",
+            "institution": "Texas A&M University"
+        },
+        "occupation": "Retired Financial Advisor",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes, clean-shaven",
+            "Dress Style": "Casual (golf polos, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial prudence, loyalty to local institutions",
+        "motivations": "Wealth preservation, staying intellectually engaged",
+        "cognitive_style": "Analytical with structured problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting (WiFi/hotspots), financial research, sports news",
+        "ad_interactions": "High engagement with WiFi/golf tech ads",
+        "preferred_content_sources": "MSN, USA TODAY, MyGolfSpy, financial platforms",
+        "social_media_usage": "Minimal (occasional Instagram/Youtube)",
+        "ecommerce_behavior": "Budget-conscious tech/golf purchases",
+        "device_usage": "Windows desktop (Edge browser)",
+        "subscriptions": "Financial newsletters, MyGolfSpy updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Dividend stocks, retirement planning",
+        "hobbies": "Golf, Texas A&M sports fandom",
+        "entertainment_preferences": "Sports news, true crime stories",
+        "content_consumption": "Detailed technical guides + quick sports updates",
+        "learning_style": "Self-guided research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech/golf purchases",
+        "income_level": "Upper-middle class (retirement savings)",
+        "investment_habits": "Dividend-focused conservative portfolio",
+        "financial_tools": "Chase banking, Fidelity investments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative advisor",
+        "family_structure": "Likely lives with spouse",
+        "friendship_circle": "Small group of golf buddies",
+        "community_involvement": "Texas A&M alumni network",
+        "online_vs_offline_engagement": "Balanced (online research + in-person golf)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking financial news",
+        "workday_habits": "Golf mornings, tech troubleshooting afternoons",
+        "evening_and_leisure": "Sports highlights, light web browsing",
+        "weekend_activities": "Golf outings, family dinners",
+        "sleep_schedule": "Early riser (bed by 10 PM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active golfer, moderate fitness",
+        "mental_health": "Stable through routine",
+        "work_life_balance": "Leisure-focused retirement",
+        "health_related_digital_behavior": "Occasional Medicare research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with expert reviews",
+        "brand_loyalty": "Sticks with proven tech/financial brands",
+        "influence_factors": "Technical specs, dividend yields",
+        "tech_adoption": "Competent mainstream user",
+        "privacy_and_security_concerns": "Basic precautions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, Texan cultural identity",
+        "travel_habits": "Regional golf trips",
+        "personal_projects": "Home network optimization",
+        "unexpected_behavioral_traits": "Tech-savvy retiree maintaining cutting-edge home network"
+    }
+}

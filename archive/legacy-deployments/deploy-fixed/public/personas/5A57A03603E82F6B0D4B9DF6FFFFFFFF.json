@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Alicia Johnson",
+        "age": 32,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "New Richmond, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Wisconsin-Madison"
+        },
+        "occupation": "Property Manager/Real Estate Coordinator",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Braided protective style",
+            "skin_color": "Medium brown",
+            "facial_features": "Round glasses, defined cheekbones",
+            "dress_style": "Business-casual with bold accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Financial independence, community empowerment through property ownership",
+        "motivations": "Building generational wealth through real estate",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on property taxes/utilities, quick queries for home solutions",
+        "ad_interactions": "High engagement with home improvement/insurance ads",
+        "preferred_content_sources": "Government portals (SSA.gov), MSN news, YouTube tutorials",
+        "social_media_usage": "Passive YouTube/R&B music consumption, limited active posting",
+        "ecommerce_behavior": "Bulk purchases (Sam's Club), Groupon deals",
+        "device_usage": "Desktop for financial management, mobile for quick searches",
+        "subscriptions": "Netflix, UHC health portal, property tax alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tax optimization strategies, regional infrastructure projects",
+        "hobbies": "Interior decorating, vintage R&B music curation",
+        "entertainment_preferences": "Celebrity fashion analysis, 90s R&B playlists",
+        "content_consumption": "Mix of official documents and lifestyle blogs",
+        "learning_style": "Video tutorials + hands-on home projects"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused bulk purchases with occasional fashion splurges",
+        "income_level": "$65,000-$85,000",
+        "investment_habits": "Conservative real estate portfolio builder",
+        "financial_tools": "Chase banking, property management software"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with regional partnerships",
+        "family_structure": "Single homeowner with extended family in Indiana",
+        "friendship_circle": "Small network of fellow property owners",
+        "community_involvement": "African American business associations",
+        "online_vs_offline_engagement": "Hybrid - virtual bill pay, in-person property checks"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check property alerts, MSN news scan",
+        "workday_habits": "Scheduled tenant communications, tax documentation",
+        "evening_and_leisure": "Netflix true crime documentaries, recipe testing",
+        "weekend_activities": "Home improvement projects, Chicago cultural events",
+        "sleep_schedule": "Regular 11PM-6AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Preventive care through Anthem/UHC plans",
+        "mental_health": "Music therapy, puzzle games for stress relief",
+        "work_life_balance": "Structured separation via dedicated home office",
+        "health_related_digital_behavior": "Insurance portal navigation, basic fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with contingency planning",
+        "brand_loyalty": "Sticks to known financial/utility providers",
+        "influence_factors": "Regulatory compliance, Black business endorsements",
+        "tech_adoption": "Mainstream user with selective automation",
+        "privacy_and_security_concerns": "Cautious data sharing for essential services"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern African American community ties",
+        "travel_habits": "Regional trips between WI/IL/IN properties",
+        "personal_projects": "Restoring vintage bathroom fixtures",
+        "unexpected_behavioral_traits": "Analytical property manager who creates bold interior designs"
+    }
+}

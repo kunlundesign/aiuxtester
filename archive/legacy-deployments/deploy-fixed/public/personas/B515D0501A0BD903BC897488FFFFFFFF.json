@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Maryville, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "N/A",
+            "institution": "Maryville High School"
+        },
+        "occupation": "Hospitality Associate",
+        "company": "IHG Hotels & Resorts",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length straight hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup",
+            "Dress Style": "Business casual for work, casual athleisure off-duty"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Work ethic orientation, values practical skills over formal education",
+        "motivations": "Career advancement in hospitality, financial independence",
+        "cognitive_style": "Process-oriented with strong attention to operational details"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused vocational searches (F endorsement tests), transactional/local service queries",
+        "ad_interactions": "High engagement with vocational training ads, food delivery services",
+        "preferred_content_sources": "Government portals (TN.gov), streaming platforms, gaming sites",
+        "social_media_usage": "Passive consumption via YouTube/Netflix, limited Facebook activity",
+        "ecommerce_behavior": "Budget-conscious purchases (eBay, Groupon), food delivery apps",
+        "device_usage": "Desktop preferred for work tasks (Opera PMS access), mobile for leisure",
+        "subscriptions": "Netflix, PeacockTV, YouTube TV free trials"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Hotel operations management, hospitality certifications",
+        "hobbies": "Online puzzle games (Mahjong, Gin Rummy), karaoke videos",
+        "entertainment_preferences": "Reality TV competitions, celebrity news, DIY tutorials",
+        "content_consumption": "Short-form video content, practical guides/tutorials",
+        "learning_style": "Practice-based learning (DMV tests), on-the-job training"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused spending with impulse purchases on convenience services",
+        "income_level": "Entry-level service industry ($25k-$35k annually)",
+        "investment_habits": "No visible investments, focuses on immediate needs",
+        "financial_tools": "Traditional banking, prepaid debit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented in front desk operations, detail-focused",
+        "family_structure": "Likely lives with parents/roommates given age/occupation",
+        "friendship_circle": "Small close-knit group with shared gaming interests",
+        "community_involvement": "Local service industry networks",
+        "online_vs_offline_engagement": "Prefers offline work interactions, online leisure"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks work schedules/system updates first",
+        "workday_habits": "Shift-based hotel operations with frequent billing/document tasks",
+        "evening_and_leisure": "Streaming services, mobile gaming sessions",
+        "weekend_activities": "Casual dining, local entertainment options",
+        "sleep_schedule": "Variable due to shift work (leaning night owl)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work lifestyle with fast food consumption patterns",
+        "mental_health": "Stress management through casual gaming",
+        "work_life_balance": "Work demands override personal time management",
+        "health_related_digital_behavior": "Reactive health searches (e.g., pink eye)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Practical needs-driven (vocational certifications, work tools)",
+        "brand_loyalty": "Service-oriented (DoorDash, IHG hotels)",
+        "influence_factors": "Employer requirements, peer recommendations",
+        "tech_adoption": "Functional user (mastered Opera PMS but not early adopter)",
+        "privacy_and_security_concerns": "Basic awareness (alternate email creation)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English native",
+        "travel_habits": "Local/regional travel for work logistics",
+        "personal_projects": "Vocational certification progress tracking",
+        "unexpected_behavioral_traits": "Operates complex hotel PMS systems despite limited formal education"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "Core Identity": {
+        "full_name": "Rose Detweiler",
+        "age": 83,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "New Port Richey, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Environmental Science",
+            "institution": "University of Florida"
+        },
+        "occupation": "Retired Environmental Educator",
+        "company": "unknown",
+        "physical_attributes": "unknown"
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Environmental conservation, financial responsibility, civic engagement",
+        "motivations": "Maintaining cognitive sharpness, preserving natural ecosystems, staying politically informed",
+        "cognitive_style": "Analytical with strong pattern recognition"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent news monitoring, technical troubleshooting, environmental research",
+        "ad_interactions": "High engagement with furniture/tech ads",
+        "preferred_content_sources": "NY Post, MSN, Fidelity Investments, library portals",
+        "social_media_usage": "Limited to news consumption (no active posting)",
+        "ecommerce_behavior": "Budget-conscious furniture purchases, book acquisitions",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": "Fidelity Wealth Management, NY Post Digital, Pasco Libraries"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Sustainable agriculture, retirement finance management",
+        "hobbies": "Historical research, gardening, mystery novels",
+        "entertainment_preferences": "Political news analysis, classical music, nature documentaries",
+        "content_consumption": "Long-form investigative journalism",
+        "learning_style": "Self-directed research via academic portals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with strategic investments",
+        "income_level": "Upper-middle class",
+        "investment_habits": "Conservative dividend-focused portfolio",
+        "financial_tools": "Fidelity, E*TRADE, IRS Direct Pay"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Mentorship-oriented",
+        "family_structure": "Independent living",
+        "friendship_circle": "Intergenerational community connections",
+        "community_involvement": "Library volunteer, environmental advocacy",
+        "online_vs_offline_engagement": "Hybrid (digital news + in-person voting)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage, market news review",
+        "workday_habits": "Portfolio management, research sessions",
+        "evening_and_leisure": "Ebook reading, family video calls",
+        "weekend_activities": "Community gardening, historical site visits",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light yoga, Mediterranean diet",
+        "mental_health": "Cognitive exercises via library resources",
+        "work_life_balance": "Structured routine with leisure integration",
+        "health_related_digital_behavior": "Medical research via .gov domains"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with historical context",
+        "brand_loyalty": "HP for tech, Rooms To Go for furniture",
+        "influence_factors": "Expert consensus, historical precedents",
+        "tech_adoption": "Competent mainstream user",
+        "privacy_and_security_concerns": "High awareness (avoids social logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Irish-American heritage",
+        "travel_habits": "Historical tours (e.g., Irish castles)",
+        "personal_projects": "Family memoir digitization",
+        "unexpected_behavioral_traits": "Technical troubleshooting despite age (e.g., remote desktop setup)"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Tricia Meeuwsen",
+        "age": 51,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Grand Rapids, United States",
+        "education": {
+            "degree": "Master's",
+            "major": "Social Work",
+            "institution": "Unknown"
+        },
+        "occupation": "Licensed Clinical Social Worker (Private Practice)",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "Unknown",
+            "Body shape": "Unknown",
+            "Hairstyle": "Professional medium-length",
+            "Skin color": "Unknown",
+            "Facial features": "Unknown",
+            "Dress Style": "Business casual with practical accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, mental health advocacy, lifelong learning",
+        "motivations": "Client success, financial security, professional development",
+        "cognitive_style": "Analytical with structured execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Business/finance management (IRS forms, expense tracking), CEU research, travel deals",
+        "ad_interactions": "High engagement with telecom, financial services, and professional tools",
+        "preferred_content_sources": "Government portals (IRS.gov), professional education platforms (Elite Learning), financial blogs",
+        "social_media_usage": "YouTube for educational/DIY content, limited other platforms",
+        "ecommerce_behavior": "Budget-conscious for business tools, occasional travel purchases",
+        "device_usage": "Desktop for work (Edge/Bing), mobile for quick searches",
+        "subscriptions": "CEU courses, financial management tools (Square), teletherapy platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Therapy innovations, healthcare policy, small business taxation",
+        "hobbies": "Home organization, budget travel planning, educational YouTube content",
+        "entertainment_preferences": "True crime documentaries, 90s rock music (Collective Soul search)",
+        "content_consumption": "Long-form government documents + short practical YouTube tutorials",
+        "learning_style": "Structured CEU courses with immediate practical application"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused business expenses, strategic travel deals",
+        "income_level": "$75k-$95k (Mid-career healthcare professional)",
+        "investment_habits": "Conservative (HSA via Lively, Acorns micro-investing)",
+        "financial_tools": "Square Dashboard, American Express, online banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent practitioner with referral networks",
+        "family_structure": "Likely lives alone (professional-focused searches)",
+        "friendship_circle": "Small group of professional peers",
+        "community_involvement": "Mental health advocacy, local business groups",
+        "online_vs_offline_engagement": "Hybrid practice (Doxy.me teletherapy + in-person)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/account review, CEU article reading",
+        "workday_habits": "Client sessions, documentation, financial management",
+        "evening_and_leisure": "YouTube tutorials, insurance/reservation planning",
+        "weekend_activities": "Local travel (Gate1/Delta searches), home organization",
+        "sleep_schedule": "Regular 11pm-6am pattern (professional discipline)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Basic fitness via daily routines, balanced diet",
+        "mental_health": "Mindfulness practice, professional peer support",
+        "work_life_balance": "Structured separation (logout rituals)",
+        "health_related_digital_behavior": "Therapy software research, Psychology Today profile"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparison (multiple carrier/insurance checks)",
+        "brand_loyalty": "Value-focused switcher (Tello/Verizon comparisons)",
+        "influence_factors": "Government guidelines, professional certifications",
+        "tech_adoption": "Mainstream user of essential productivity tools",
+        "privacy_and_security_concerns": "Medium (professional data handling standards)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American, English only",
+        "travel_habits": "Occasional domestic flights (GRR airport searches), insurance-conscious",
+        "personal_projects": "Tax optimization systems, client education materials",
+        "unexpected_behavioral_traits": "Balances financial pragmatism with 90s nostalgia music interests"
+    }
+}

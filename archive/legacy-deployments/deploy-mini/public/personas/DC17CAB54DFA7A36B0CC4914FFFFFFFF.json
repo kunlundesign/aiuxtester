@@ -1,0 +1,197 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 37,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Nekoosa, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Mechanical Engineering",
+            "institution": "University of Wisconsin-Madison"
+        },
+        "occupation": "Technical Services Coordinator",
+        "company": "McCain Foods (Easton Plant)",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length straight brown hair",
+            "skin_color": "Fair",
+            "facial_features": "Angular jawline, minimal makeup",
+            "dress_style": "Casual professional with utility elements"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Firearms rights advocacy",
+            "Practical self-reliance",
+            "Technical innovation"
+        ],
+        "motivations": [
+            "Professional competency",
+            "Home/lifestyle improvement",
+            "Personal security"
+        ],
+        "cognitive_style": "Structured problem-solving with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Technical specifications",
+            "Weather monitoring",
+            "Local real estate"
+        ],
+        "ad_interactions": {
+            "engagement_level": "Selective clicker",
+            "preferred_ad_categories": [
+                "Luxury jewelry",
+                "Cabin rentals",
+                "Workwear"
+            ]
+        },
+        "preferred_content_sources": [
+            "Fox News",
+            "MSN",
+            "Talbots",
+            "Technical supplier sites"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "YouTube",
+                "MSN News"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumer"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Budget-conscious with occasional luxury splurges",
+            "product_categories": [
+                "Work footwear",
+                "Gardening supplies",
+                "Jewelry"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop",
+            "os": "Windows 11",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "Microsoft 365",
+            "Weather Channel Premium",
+            "Fox News Digital"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Food processing automation",
+            "ASME standards",
+            "Industrial supply chain"
+        ],
+        "hobbies": [
+            "Gardening (perennials)",
+            "Home DIY projects",
+            "Target shooting"
+        ],
+        "entertainment_preferences": {
+            "music_genres": [
+                "Classic Rock"
+            ],
+            "movie_types": [
+                "Crime dramas",
+                "Psychological thrillers"
+            ]
+        },
+        "content_consumption": "Factual long-form articles with technical depth",
+        "learning_style": "Self-learning through trade publications"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases with seasonal upgrades",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Conservative with firearms as alternative assets",
+        "financial_tools": [
+            "Credit cards",
+            "Bank transfers",
+            "PayPal"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with collaborative project management",
+        "family_structure": "Single with dog ownership",
+        "friendship_circle": "Small group of fellow technical professionals",
+        "community_involvement": [
+            "School district committees",
+            "Local shooting range"
+        ],
+        "online_vs_offline_engagement": "Prefers in-person technical discussions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": [
+            "Check weather alerts",
+            "Review industrial supply emails"
+        ],
+        "workday_habits": [
+            "AM technical audits",
+            "PM project coordination"
+        ],
+        "evening_and_leisure": [
+            "Garden maintenance",
+            "Firearm maintenance",
+            "True crime documentaries"
+        ],
+        "weekend_activities": [
+            "Cabin scouting trips",
+            "Home improvement projects",
+            "Perennial gardening"
+        ],
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": [
+            "Active gardening as exercise",
+            "High-protein diet",
+            "Annual physicals"
+        ],
+        "mental_health": [
+            "Target shooting stress relief",
+            "Structured routine maintenance"
+        ],
+        "work_life_balance": "Compartmentalized work/leisure time",
+        "health_related_digital_behavior": [
+            "Weather-related health alerts",
+            "Ergonomic equipment research"
+        ]
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with technical specifications",
+        "brand_loyalty": "Levi's, Talbots, Cabela's",
+        "influence_factors": [
+            "Industry certifications",
+            "Product durability reports"
+        ],
+        "tech_adoption": "Mainstream user with Microsoft ecosystem preference",
+        "privacy_and_security_concerns": "Moderate (avoids cloud storage for work docs)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": [
+            "Midwestern American English",
+            "Basic Spanish"
+        ],
+        "travel_habits": [
+            "Seasonal cabin rentals",
+            "Technical conference attendance"
+        ],
+        "personal_projects": [
+            "Backyard permaculture garden",
+            "Vintage motorcycle restoration"
+        ],
+        "unexpected_behavioral_traits": "Technical professional with luxury jewelry collecting habit"
+    }
+}

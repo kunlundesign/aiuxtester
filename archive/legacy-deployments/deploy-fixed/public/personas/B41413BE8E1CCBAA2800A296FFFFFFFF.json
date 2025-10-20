@@ -1,0 +1,130 @@
+{
+    "Core Identity": {
+        "full_name": "Jacob Mitchell",
+        "age": 30,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Rock Island, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Outdoor Equipment Sales Associate",
+        "company": "Sportsman's Warehouse",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual outdoor apparel (flannels, jeans)"
+        },
+        "explanations": {
+            "occupation": "Frequent engagement with Sportsman's Warehouse searches and outdoor gear purchases",
+            "current_residence": "Multiple location-specific searches in Tennessee"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Second Amendment support, fiscal conservatism",
+        "motivations": "Outdoor lifestyle maintenance, financial stability",
+        "cognitive_style": "Practical problem-solver with interest in technical details",
+        "explanations": {
+            "mbti": "Combination of hands-on interests (outdoor activities) and analytical behavior (researching purchases)"
+        }
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "News/current events, outdoor activities, local real estate",
+        "ad_interactions": "High engagement with travel/hospitality ads",
+        "preferred_content_sources": "MSN News, Facebook Marketplace, eBay",
+        "social_media_usage": "Moderate Facebook use (Marketplace/groups), passive YouTube consumption",
+        "ecommerce_behavior": "Frequent eBay purchases (outdoor gear, collectibles)",
+        "device_usage": "Desktop (Edge browser with MSN integration)",
+        "subscriptions": [
+            "PayPal",
+            "Bing Rewards",
+            "Local news alerts"
+        ],
+        "explanations": {
+            "ecommerce_behavior": "Multiple UETEvents tracking eBay transactions for outdoor equipment"
+        }
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Outdoor retail trends, firearms regulations",
+        "hobbies": "Hunting, fishing, classic car restoration",
+        "entertainment_preferences": "Country music (Darryl Worley, Jason Aldean), action documentaries",
+        "content_consumption": "News articles, DIY tutorials, true crime content",
+        "learning_style": "Hands-on experimentation with online research support",
+        "explanations": {
+            "hobbies": "Multiple searches for hunting gear and Facebook Marketplace classic car listings"
+        }
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on quality outdoor gear",
+        "income_level": "$35,000-$45,000 annually",
+        "investment_habits": "Conservative (focuses on tangible assets)",
+        "financial_tools": [
+            "PayPal",
+            "Traditional banking"
+        ],
+        "explanations": {
+            "income_level": "Estimated based on Tennessee retail occupation averages"
+        }
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented in retail environment",
+        "family_structure": "Likely lives with partner/no children",
+        "friendship_circle": "Small group of outdoor/hobby-focused friends",
+        "community_involvement": "Local hunting/fishing groups",
+        "online_vs_offline_engagement": "Balanced mix with preference for in-person activities",
+        "explanations": {
+            "family_structure": "Frequent home improvement searches but no child-related content"
+        }
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/news on MSN while having coffee",
+        "workday_habits": "Customer service interactions with periodic online research breaks",
+        "evening_and_leisure": "YouTube DIY videos, Facebook Marketplace browsing",
+        "weekend_activities": "Fishing trips, car restoration projects",
+        "sleep_schedule": "Night owl (late-night online research sessions)",
+        "explanations": {
+            "weekend_activities": "Multiple travel-related searches and outdoor gear purchases"
+        }
+    },
+    "Health & Well-being": {
+        "physical_health": "Active outdoor lifestyle, moderate fitness",
+        "mental_health": "PTSD awareness interest but no clear indicators",
+        "work_life_balance": "Leisure-focused outside work hours",
+        "health_related_digital_behavior": "Occasional medical research (WebMD visits)",
+        "explanations": {
+            "physical_health": "Outdoor activity patterns and lack of sedentary content"
+        }
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with practical considerations",
+        "brand_loyalty": "Value-focused but prefers known outdoor brands",
+        "influence_factors": "User reviews, product durability",
+        "tech_adoption": "Mainstream user (relies on established platforms)",
+        "privacy_and_security_concerns": "Moderate (uses mainstream financial tools)",
+        "explanations": {
+            "decision_making_style": "Multiple product comparison patterns in search history"
+        }
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English speaker",
+        "travel_habits": "Regional trips (Georgia coast searches)",
+        "personal_projects": "Vintage car restoration, custom knife collection",
+        "unexpected_behavioral_traits": "Combines practical outdoor interests with political news engagement",
+        "explanations": {
+            "personal_projects": "Multiple eBay searches for custom Damascus steel knives"
+        }
+    }
+}

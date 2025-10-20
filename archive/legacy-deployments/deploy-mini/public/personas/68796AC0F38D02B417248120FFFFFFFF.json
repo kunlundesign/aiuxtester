@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Thompson",
+        "age": 63,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Pensacola, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Business Administration",
+            "institution": "Pensacola State College"
+        },
+        "occupation": "Retired Administrative Assistant",
+        "company": "N/A",
+        "physical attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, gray-blonde waves",
+            "skin_color": "Fair",
+            "facial_features": "Warm smile, subtle wrinkles",
+            "dress_style": "Casual Floridian (light fabrics, floral patterns)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Family-oriented pragmatism, financial cautiousness, community spirit",
+        "motivations": "Maintaining independence, staying informed, connecting with local community",
+        "cognitive_style": "Practical problem-solver with nostalgic tendencies"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services + national trends blend (e.g., 'Gallery Night themes' and 'credit repair')",
+        "ad_interactions": "Medium engagement with fashion, home value tools, and budget deals",
+        "preferred_content_sources": "AOL Mail, YouTube tutorials, Facebook Marketplace, MSN news snippets",
+        "social_media_usage": "Passive Facebook user, YouTube commenter on cooking/self-help videos",
+        "ecommerce_behavior": "Budget-conscious (Temu, eBay) with occasional splurges on Shop LC jewelry",
+        "device_usage": "Desktop (Edge browser) for 80% of activities, Android phone for quick checks",
+        "subscriptions": "Shop LC newsletter, local weather alerts, AOL news digest"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate valuation trends, part-time remote work opportunities",
+        "hobbies": "Crafting hair accessories, trying crockpot recipes, following British royal family news",
+        "entertainment_preferences": "70s/80s country rock (Linda Ronstadt, Reba McEntire), true crime documentaries",
+        "content_consumption": "Short YouTube tutorials (15-20 mins) + detailed real estate listings",
+        "learning_style": "Visual demonstrations (YouTube cooking) paired with printed instructions"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (shops clearance but invests in quality home items)",
+        "income_level": "Fixed middle-class retirement income",
+        "investment_habits": "Conservative (CDs/municipal bonds), real estate-curious",
+        "financial_tools": "AOL Bill Pay, Capital One credit card, paper check backup system"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative team player, now values autonomous tasks",
+        "family_structure": "Empty nester (adult children out of state), single/divorced",
+        "friendship_circle": "Close-knit group of 4-5 neighbors + online crafting community",
+        "community_involvement": "Attends Gallery Nights, follows hurricane preparedness groups",
+        "online_vs_offline_engagement": "70% digital communication, 30% in-person church/community events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "AOL email check → local news scan → light housework",
+        "workday_habits": "Volunteer database work 2x/week, afternoon YouTube browsing",
+        "evening_and_leisure": "Facebook Marketplace scrolling, crochet while watching MSNBC",
+        "weekend_activities": "Farmer's market visits, virtual home tours, church services",
+        "sleep_schedule": "Early riser (5:30 AM) → 10 PM bedtime"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily neighborhood walks, manages mild arthritis via Healthline advice",
+        "mental_health": "Uses Catholic prayer chants for stress relief, avoids confrontational content",
+        "work_life_balance": "Structured relaxation periods between online activities",
+        "health_related_digital_behavior": "Cleveland Clinic symptom checker, watches uplifting pet videos"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-heavy (compares 3+ sources) with nostalgia bias",
+        "brand_loyalty": "Sticks to known brands (AOL, Ford) but experiments with budget platforms",
+        "influence_factors": "Local testimonials + celebrity endorsements blend",
+        "tech_adoption": "Late mainstream adopter (learned WhatsApp for family needs)",
+        "privacy_and_security_concerns": "Uses McAfee WebAdvisor, avoids sensitive financial disclosures"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern English with basic Spanish comprehension",
+        "travel_habits": "Regional road trips (New Orleans, Atlanta), Virgin Islands research for potential cruise",
+        "personal_projects": "Curating vintage Ford memorabilia collection, compiling family recipe book",
+        "unexpected_behavioral_traits": "Tech-savvy enough for Zillow virtual tours yet prints important emails"
+    }
+}

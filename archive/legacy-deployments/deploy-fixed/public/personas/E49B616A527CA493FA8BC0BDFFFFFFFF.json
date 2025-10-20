@@ -1,0 +1,100 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 52,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "South Jordan, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of Utah"
+        },
+        "occupation": "Owner/Operator of Logistics Company",
+        "company": "Promise Rock Ventures Inc",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, grayed hair",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with glasses",
+            "dress_style": "Casual business attire (polos/button-downs with khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical problem-solving, fiscal responsibility, technological pragmatism",
+        "motivations": "Business growth, operational efficiency, work-life balance",
+        "cognitive_style": "Analytical with structured thinking (evident from Excel formula research)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent technical troubleshooting + business finance queries (3-5 keywords)",
+        "ad_interactions": "High engagement with internet service/tech solution ads",
+        "preferred_content_sources": "MSN News, YouTube tutorials, official product support pages",
+        "social_media_usage": "Passive consumption via Instagram/Messenger, no public posts",
+        "ecommerce_behavior": "Business equipment purchases, price comparison for services",
+        "device_usage": "Windows 11 PC + iPhone, Chrome browser with Edge secondary",
+        "subscriptions": [
+            "Microsoft 365",
+            "Xfinity Internet",
+            "Malwarebytes Premium"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Logistics optimization, tax strategies, workforce management",
+        "hobbies": "Wildlife documentaries, game show viewing, casual fishing",
+        "entertainment_preferences": "Wheel of Fortune, SNL reruns, Abraham Hicks motivational content",
+        "content_consumption": "15-minute news articles + 5-10 minute tutorial videos",
+        "learning_style": "Just-in-time learning via search engines and official docs"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Cost-conscious business purchases, selective personal splurges",
+        "income_level": "$85,000-$100,000 annually",
+        "investment_habits": "Conservative (business reinvestment over stocks)",
+        "financial_tools": [
+            "QuickBooks Online",
+            "Business credit cards",
+            "PayPal"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Hands-on manager with 10-15 employees",
+        "family_structure": "Married with 2 adult children",
+        "friendship_circle": "Small group of business associates",
+        "community_involvement": "Local Chamber of Commerce member",
+        "online_vs_offline_engagement": "70% digital communication for business"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks business emails + MSN News with coffee",
+        "workday_habits": "Split between office management and field logistics checks",
+        "evening_and_leisure": "Dinner with family, game shows, YouTube self-help videos",
+        "weekend_activities": "Local fishing trips, vehicle maintenance, light hiking",
+        "sleep_schedule": "11 PM - 6 AM (7 hours nightly)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work offset by weekend outdoor activities",
+        "mental_health": "Uses Abraham Hicks content for stress management",
+        "work_life_balance": "Strict 8 PM email cutoff time",
+        "health_related_digital_behavior": "Occasional symptom checks (kidney stones search)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven via spreadsheets + vendor comparisons",
+        "brand_loyalty": "Microsoft ecosystem adherent, open to telecom deals",
+        "influence_factors": "Expert reviews, cost-benefit analysis",
+        "tech_adoption": "Mainstream user (adopts proven business solutions)",
+        "privacy_and_security_concerns": "Medium (uses antivirus but reuses passwords)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, LDS cultural influences",
+        "travel_habits": "Regional business trips (Vernal UT car rental searches)",
+        "personal_projects": "Wedding venue research for family event planning",
+        "unexpected_behavioral_traits": "Corporate pragmatist who enjoys paranormal number interpretations (angel number 2112 search)"
+    }
+}

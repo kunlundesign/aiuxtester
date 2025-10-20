@@ -1,0 +1,131 @@
+{
+    "Core Identity": {
+        "full_name": "Krishna Chandran",
+        "age": 69,
+        "gender": "Male",
+        "nationality": "Indian-American",
+        "current_residence": "Atlanta, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Finance",
+            "institution": "University of Mumbai"
+        },
+        "occupation": "Retired Financial Advisor",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'9\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short gray hair",
+            "Skin color": "Medium brown",
+            "Facial features": "Wrinkles around eyes, clean-shaven",
+            "Dress Style": "Casual button-down shirts with slacks"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Financial prudence",
+            "Cultural preservation",
+            "Political conservatism"
+        ],
+        "motivations": [
+            "Wealth preservation",
+            "Family legacy planning",
+            "Staying politically informed"
+        ],
+        "cognitive_style": "Analytical with emphasis on practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep financial research combined with quick status checks (SSA, investments)",
+        "ad_interactions": "High engagement with gold investment and financial service ads",
+        "preferred_content_sources": [
+            "Malayalam news portals",
+            "U.S. financial institutions",
+            "MSN political coverage"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "YouTube (23 visits/90 days)",
+                "Facebook (11 visits/90 days)"
+            ],
+            "frequency": "Daily",
+            "active_vs_passive": "Passive consumption"
+        },
+        "ecommerce_behavior": "Researches premium financial services, occasionally explores meal subscriptions",
+        "device_usage": "Desktop (Edge browser dominance in AdEvents/EPEvents)",
+        "subscriptions": [
+            "Malayala Manorama",
+            "CBS News",
+            "Fidelity updates"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Retirement planning",
+            "Precious metal markets",
+            "Tax strategies"
+        ],
+        "hobbies": [
+            "Following Indo-American community news",
+            "Analyzing political cartoons",
+            "Lottery participation"
+        ],
+        "entertainment_preferences": {
+            "Music": "Malayalam film songs",
+            "Movies": "Indian political dramas",
+            "Authors": "Warren Buffett/Charlie Munger-style financial writers"
+        },
+        "content_consumption": "Long-form financial articles mixed with quick political updates",
+        "learning_style": "Self-guided research through institutional portals (SSA, Fidelity)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Conservative with strategic luxury allocations (gold investments)",
+        "income_level": "Upper-middle class (retirement savings + Social Security)",
+        "investment_habits": "Gold-heavy portfolio with IRA diversification",
+        "financial_tools": [
+            "Fidelity",
+            "Wells Fargo",
+            "Social Security portal"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Consultative style from financial career experience",
+        "family_structure": "Multigenerational household with U.S.-India ties",
+        "friendship_circle": "Close-knit Malayali expat community",
+        "community_involvement": "Cultural association member",
+        "online_vs_offline_engagement": "Hybrid (digital news consumption with in-person community events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks financial markets, SSA updates, and Malayalam news",
+        "workday_habits": "Analyzes investment portfolios, assists family with financial planning",
+        "evening_and_leisure": "Watches political commentary, connects with Indian relatives via Facebook",
+        "weekend_activities": "Family meals, lottery ticket purchases, temple visits",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate walking routine, ayurvedic supplements",
+        "mental_health": "Financial planning as stress management tool",
+        "work_life_balance": "Structured retirement schedule",
+        "health_related_digital_behavior": "Researches natural eye care solutions"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with historical trend analysis",
+        "brand_loyalty": "High trust in established financial institutions",
+        "influence_factors": "Expert financial analyses, cultural community norms",
+        "tech_adoption": "Mainstream user with focus on security",
+        "privacy_and_security_concerns": "Cautious with financial data sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Malayalam-English bilingual with strong Kerala cultural ties",
+        "travel_habits": "Potential India tour consideration (UETEvents)",
+        "personal_projects": "Family wealth transition planning",
+        "unexpected_behavioral_traits": "Combines traditional Ayurvedic practices with modern portfolio management"
+    }
+}

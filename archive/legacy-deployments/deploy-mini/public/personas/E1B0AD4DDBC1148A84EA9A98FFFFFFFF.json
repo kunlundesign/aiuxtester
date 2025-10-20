@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 60,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Ypsilanti, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Washtenaw Community College"
+        },
+        "occupation": "Retired Automotive Technician",
+        "company": "Freelance",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Stocky",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Fair",
+            "facial_features": "Wrinkles around eyes from frequent smiling",
+            "dress_style": "Casual (jeans, polo shirts, baseball caps)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, value-conscious consumerism",
+        "motivations": "Maintaining independence through DIY projects, staying informed about financial decisions",
+        "cognitive_style": "Analytical problem-solver with focus on practical applications"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed product research (car specs, gym parts), local service searches",
+        "ad_interactions": "High engagement with fitness equipment/auto ads, ignores irrelevant promotions",
+        "preferred_content_sources": "Manufacturer websites (Marcy Pro), dealership portals, Home Depot guides",
+        "social_media_usage": "Facebook Marketplace (active trader), passive news consumption",
+        "ecommerce_behavior": "Budget-focused bulk purchases (BJ's Wholesale), secondhand marketplace enthusiast",
+        "device_usage": "Desktop primary (detailed research), Edge browser with Bing integration",
+        "subscriptions": "MyChart patient portal, Bible Gateway study tools"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vehicle maintenance innovations, wholesale supply chains",
+        "hobbies": "Golf course maintenance, DIY home gym setup, Michigan football fandom",
+        "entertainment_preferences": "Sports talk radio, classic rock, procedural TV dramas",
+        "content_consumption": "Step-by-step repair guides, sports analytics, local news briefings",
+        "learning_style": "Video tutorials + manufacturer documentation cross-reference"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused bulk purchases, waits for clearance sales",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (CDs/money markets), avoids stock market risks",
+        "financial_tools": "Store credit cards (Home Depot), PayPal for online purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent worker, occasional mentorship roles",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Small group of longtime neighbors and former coworkers",
+        "community_involvement": "Church bulletin board moderator, local sports booster",
+        "online_vs_offline_engagement": "Hybrid - online research precedes in-person purchases"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Local news/weather check, coffee with sports highlights",
+        "workday_habits": "Scheduled home projects (9AM-2PM), afternoon research sessions",
+        "evening_and_leisure": "Facebook Marketplace browsing, ESPN watching",
+        "weekend_activities": "Saturday golf games, Sunday church + family dinners",
+        "sleep_schedule": "Early riser (6AM) with 7-hour sleep cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Home gym user 3x/week, controlled diet for blood pressure",
+        "mental_health": "Routine-focused stress management, no reported issues",
+        "work_life_balance": "Structured retirement activities",
+        "health_related_digital_behavior": "MyChart for prescription refills, Medicare plan comparisons"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis across 3+ sources",
+        "brand_loyalty": "Stick with proven brands (GMC, Marcy, Home Depot)",
+        "influence_factors": "Consumer reports, long-term product reviews",
+        "tech_adoption": "Mainstream adopter after market validation",
+        "privacy_and_security_concerns": "Basic precautions (virus software), shares limited personal data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, basic Spanish repair terminology",
+        "travel_habits": "Regional road trips (Michigan/Ohio), avoids air travel",
+        "personal_projects": "Converting pole barn into workshop/gym hybrid space",
+        "unexpected_behavioral_traits": "Combines mechanical precision with creative repurposing of used equipment"
+    }
+}

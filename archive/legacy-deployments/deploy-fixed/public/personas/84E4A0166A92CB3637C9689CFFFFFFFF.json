@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Carter",
+        "age": 36,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Phoenix, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Opticianry",
+            "institution": "Northern Arizona University"
+        },
+        "occupation": "Optician / Office Manager",
+        "company": "Moon Valley Eyecare",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, neat cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Business casual with orthopedic footwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Patient care prioritization, technological efficiency in healthcare",
+        "motivations": "Professional development in optometry, home value improvement",
+        "cognitive_style": "Structured problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Optical industry technical queries, home improvement guides, streaming service updates",
+        "ad_interactions": "Moderate engagement with footwear, optical supplies, and health supplements",
+        "preferred_content_sources": "Industry portals (Spectera), The New York Times, streaming platform blogs",
+        "social_media_usage": "Passive consumption on Facebook for community updates",
+        "ecommerce_behavior": "Frequent office supply purchases, budget-conscious footwear buys",
+        "device_usage": "Desktop-centric workflow (Edge/Windows), mobile for music/podcasts",
+        "subscriptions": "Amazon Prime, Spotify Premium, Netflix"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Optical prescription compliance, EHR system optimization",
+        "hobbies": "Home renovation projects, experimenting with dessert recipes",
+        "entertainment_preferences": "Streaming documentaries, 90s rock playlists, sports analytics",
+        "content_consumption": "Hybrid of technical manuals and trending entertainment lists",
+        "learning_style": "Workshop-based skill development with industry certifications"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven major purchases, impulse spending on tech gadgets",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative 401(k) contributions",
+        "financial_tools": "CareCredit for patients, Amazon Prime Rewards Visa"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented workflow coordination",
+        "family_structure": "Married with children (inferred from 'vitamins women' queries)",
+        "friendship_circle": "Small group of college/work friends",
+        "community_involvement": "Local business networking groups",
+        "online_vs_offline_engagement": "Balanced digital coordination with in-person patient care"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Review optical orders with coffee, check industry updates",
+        "workday_habits": "Split between patient fittings and insurance paperwork",
+        "evening_and_leisure": "Meal prep while streaming true crime documentaries",
+        "weekend_activities": "Home improvement projects, ASU area exploration",
+        "sleep_schedule": "11 PM - 6 AM with occasional late-night streaming"
+    },
+    "Health & Well-being": {
+        "physical_health": "Gym 3x/week, ergonomic workspace setup",
+        "mental_health": "Stress management through DIY projects",
+        "work_life_balance": "Strict separation between clinic hours and personal time",
+        "health_related_digital_behavior": "Frequent EHR system use, occasional fitness app tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based professional decisions, intuitive personal choices",
+        "brand_loyalty": "Sticks with New Balance for footwear, explores new optical suppliers",
+        "influence_factors": "Peer recommendations in optometry forums",
+        "tech_adoption": "Mainstream EHR user, early adopter of optical measurement tools",
+        "privacy_and_security_concerns": "HIPAA-compliant data handling at work"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, basic medical Spanish",
+        "travel_habits": "Annual domestic trips (Hawaii/National Parks), European bucket list",
+        "personal_projects": "Backyard patio renovation, recipe blog drafting",
+        "unexpected_behavioral_traits": "Enthusiastic about underground architecture documentaries despite analytical profession"
+    }
+}

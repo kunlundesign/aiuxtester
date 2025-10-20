@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Robert Johnson",
+        "age": 67,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Duluth, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Vocational Trade",
+            "institution": "Unknown"
+        },
+        "occupation": "Retired Carpenter/Handyman",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Caucasian",
+            "facial_features": "Wrinkles around eyes, clean-shaven",
+            "dress_style": "Casual workwear (flannel shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Patriotism, appreciation for craftsmanship",
+        "motivations": "Maintaining independence through DIY projects",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Sports analytics (NFL free agency), numismatics (half-dollar variants), DIY projects",
+        "ad_interactions": "High engagement with collectible coin accessories and outdoor hardware",
+        "preferred_content_sources": "MSN Sports, Yahoo News, niche forums (FetLife, coin collecting communities)",
+        "social_media_usage": "Limited to specialized platforms (FetLife), no mainstream social networks",
+        "ecommerce_behavior": "Frequent eBay purchases of collectible coins and woodworking plans",
+        "device_usage": "Desktop computer with Edge browser",
+        "subscriptions": "Yahoo Mail Plus, MSN Premium, woodworking plan repositories"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Woodworking techniques, historical coinage markets",
+        "hobbies": "Coin collecting, gardening, home improvement projects",
+        "entertainment_preferences": "NFL games (Vikings), military history documentaries, adult content",
+        "content_consumption": "Long-form auction listings, sports analytics articles",
+        "learning_style": "Self-guided through online tutorials and forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious collector (searches for rare coins under $500)",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Tangible assets (coin collections, tools)",
+        "financial_tools": "Traditional banking with eBay/PayPal integration"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor history",
+        "family_structure": "Likely lives alone",
+        "friendship_circle": "Niche online communities (kink/BDSM groups, numismatists)",
+        "community_involvement": "Local Minnesota sports fan groups",
+        "online_vs_offline_engagement": "Primarily digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking Vikings news/Yahoo emails",
+        "workday_habits": "Woodshop projects interspersed with online research",
+        "evening_and_leisure": "Sports analysis shows, adult content browsing",
+        "weekend_activities": "Garage sales for collectibles, home maintenance",
+        "sleep_schedule": "Late-night browser (FetLife activity timestamps)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor (gardening/woodworking)",
+        "mental_health": "Stress relief through hobby engagement",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Occasional medical portal logins (Essentia MyChart)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive for collectibles, impulsive for DIY tools",
+        "brand_loyalty": "Trusts established platforms (eBay, Home Depot)",
+        "influence_factors": "Auction rarity ratings, sports analytics",
+        "tech_adoption": "Competent with essential tools (email, ecommerce)",
+        "privacy_and_security_concerns": "Low (uses multiple unsecured platforms)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with Scandinavian influences",
+        "travel_habits": "Occasional domestic trips (Galveston cruise research)",
+        "personal_projects": "Custom coin display cases, raised garden beds",
+        "unexpected_behavioral_traits": "Conservative Midwesterner active in BDSM communities"
+    }
+}

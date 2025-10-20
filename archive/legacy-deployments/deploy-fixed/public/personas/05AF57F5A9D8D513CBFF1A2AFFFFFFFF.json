@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 24,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Cape Charles, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Shippensburg University"
+        },
+        "occupation": "Financial Analyst",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, oval face",
+            "dress_style": "Business casual with classic accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Fiscal responsibility, local community support, military appreciation",
+        "motivations": "Financial independence, home ownership, continuous learning",
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent home improvement queries, targeted retail searches, political/news verification",
+        "ad_interactions": "High engagement with home improvement/retail ads, occasional clickbait exceptions",
+        "preferred_content_sources": "Fox News, Wall Street Journal, MSNBC, niche blogs (gardening/finance)",
+        "social_media_usage": "Limited to news consumption on MSN platforms, no active posting",
+        "ecommerce_behavior": "Budget-conscious bulk purchases, seasonal home/garden spending",
+        "device_usage": "Desktop-primary (90%), Chrome/Edge browsers",
+        "subscriptions": "WSJ Digital, MSN Premium, LA Fitness app"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Market trends analysis, retirement planning strategies",
+        "hobbies": "Mahjong tournaments, container gardening, DIY home projects",
+        "entertainment_preferences": "Political satire comics, true crime documentaries, classical crossover music",
+        "content_consumption": "Fact-checked long-form articles with data visualizations",
+        "learning_style": "Project-based learning via YouTube tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases, planned seasonal upgrades",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Moderate-risk portfolio (Vanguard ETFs, TSP funds)",
+        "financial_tools": "Wells Fargo checking, USAA credit card, Fidelity investment account"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor with matrix reporting",
+        "family_structure": "Single, lives with retired military parent",
+        "friendship_circle": "Small group of childhood friends and Mahjong club members",
+        "community_involvement": "Veteran support volunteer, local garden club",
+        "online_vs_offline_engagement": "70% digital communication, 30% in-person meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "WSJ briefings during breakfast, weather check via WAVY 10",
+        "workday_habits": "Block scheduling for analysis tasks, afternoon financial markets monitoring",
+        "evening_and_leisure": "Meal prep while streaming MSNBC, Mahjong practice nights",
+        "weekend_activities": "Gardening maintenance, antiquing trips, VA beach visits",
+        "sleep_schedule": "11 PM - 6:30 AM (7.5 hrs)"
+    },
+    "Health & Well-being": {
+        "physical_health": "LA Fitness 3x/week, Mediterranean-inspired diet",
+        "mental_health": "Mahjong for cognitive exercise, limited digital detox Sundays",
+        "work_life_balance": "Strict 6 PM work cutoff except market volatility periods",
+        "health_related_digital_behavior": "Fitness tracker integration, sleep supplement research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis with 3+ vendor quotes",
+        "brand_loyalty": "Staunch loyalty to military-affiliated brands (USAA, MOAA)",
+        "influence_factors": "Consumer Reports rankings, veteran discounts",
+        "tech_adoption": "Mainstream adopter after security vetting",
+        "privacy_and_security_concerns": "Bank-level encryption preference, weekly account audits"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with basic Spanish comprehension",
+        "travel_habits": "Regional weekend trips (Outer Banks), annual Florida flower farm visits",
+        "personal_projects": "Heritage home restoration, heirloom seed cultivation",
+        "unexpected_behavioral_traits": "Rational analyst who collects vintage political campaign memorabilia"
+    }
+}

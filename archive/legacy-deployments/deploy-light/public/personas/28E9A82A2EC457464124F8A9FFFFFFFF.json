@@ -1,0 +1,92 @@
+{
+    "Core_Identity": {
+        "full_name": "Kyle Griffith",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Augusta, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Network Administration",
+            "institution": "Maine Community College"
+        },
+        "occupation": "IT Support Specialist",
+        "company": "Charlie's Family of Dealerships",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Athletic",
+            "Hairstyle": "Short, neat cut",
+            "Skin_color": "Fair",
+            "Facial_features": "Clean-shaven",
+            "Dress_Style": "Casual techwear (performance polos, utility pants)"
+        }
+    },
+    "Psychographics_&_Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, self-reliance, environmental stewardship",
+        "motivations": "Career advancement in IT, financial stability, outdoor lifestyle maintenance",
+        "cognitive_style": "Analytical problem-solver with structured workflow preferences"
+    },
+    "Digital_Behavior_&_Online_Habits": {
+        "search_patterns": "Technical troubleshooting, local regulations, sports news, network configuration",
+        "ad_interactions": "High engagement with tech/software ads, moderate with financial services",
+        "preferred_content_sources": "Tech forums (Cisco Meraki, RUCKUS), ESPN, local news portals",
+        "social_media_usage": "Passive Facebook use for messaging/shopping groups",
+        "ecommerce_behavior": "Budget-conscious tech purchases, occasional outdoor gear",
+        "device_usage": "Windows/Edge desktop primary, Android mobile secondary",
+        "subscriptions": "ESPN+, local news alerts, Capital One Shopping"
+    },
+    "Interests_&_Preferences": {
+        "professional_interests": "Network security, VoIP systems, enterprise hardware",
+        "hobbies": "Trapping/hunting, sports analytics, home networking projects",
+        "entertainment_preferences": "Sports documentaries, comedy specials, classic rock",
+        "content_consumption": "Technical guides + brief sports updates",
+        "learning_style": "Hands-on experimentation with supplemental video tutorials"
+    },
+    "Economic_&_Financial_Profile": {
+        "spending_patterns": "Value-oriented tech upgrades, planned major purchases",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative (credit union user)",
+        "financial_tools": "Capital One credit products, USAA banking services"
+    },
+    "Social_&_Relational_Dynamics": {
+        "work_relationships": "Collaborative technician with mentorship tendencies",
+        "family_structure": "Lives independently, maintains close regional family ties",
+        "friendship_circle": "Small group of tech/outdoor enthusiasts",
+        "community_involvement": "Local hunting/trapping community, IT knowledge-sharing",
+        "online_vs_offline_engagement": "Balanced blend favoring in-person outdoor activities"
+    },
+    "Daily_&_Lifestyle_Patterns": {
+        "morning_routine": "Coffee while checking network dashboards/sports scores",
+        "workday_habits": "Structured ticket system management with emergency response capacity",
+        "evening_and_leisure": "Sports viewing, outdoor prep work, tech forum browsing",
+        "weekend_activities": "Trapping excursions, vehicle maintenance, local sports events",
+        "sleep_schedule": "Early riser (6:00 AM) with consistent 7-hour sleep"
+    },
+    "Health_&_Well-being": {
+        "physical_health": "Active outdoor lifestyle, protein-focused diet",
+        "mental_health": "Stress management through outdoor activities",
+        "work_life_balance": "Compartmentalized work/personal time",
+        "health_related_digital_behavior": "Limited beyond occasional weather monitoring"
+    },
+    "Decision-Making_&_Behavioral_Insights": {
+        "decision_making_style": "Research-driven with vendor comparison",
+        "brand_loyalty": "Strong in tech (Cisco/Dell) yet flexible in apparel",
+        "influence_factors": "Peer recommendations, technical specifications",
+        "tech_adoption": "Early majority adopter after testing",
+        "privacy_and_security_concerns": "Enterprise-level security awareness"
+    },
+    "Other_Unique_Attributes_&_Contextual_Information": {
+        "cultural_and_linguistic_background": "New England English with basic French comprehension",
+        "travel_habits": "Regional road trips for outdoor activities",
+        "personal_projects": "Home network optimization, wildlife tracking system design",
+        "unexpected_behavioral_traits": "Technical analyst who enjoys hands-on outdoor manual work"
+    }
+}

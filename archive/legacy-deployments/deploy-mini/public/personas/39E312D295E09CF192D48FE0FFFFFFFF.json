@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 57,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Fort Worth, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Finance or Ethics (inferred from SNHU course engagement)",
+            "institution": "Southern New Hampshire University (inferred from PHL-260 course references)"
+        },
+        "occupation": "Financial Analyst or Ethics Consultant",
+        "company": "Unknown (likely mid-sized Texas firm)",
+        "physical attributes": {
+            "height": "5'10\" (estimated average)",
+            "body_shape": "Average",
+            "hairstyle": "Short, conservative",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Business casual (button-down shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (explores AI tools, cryptocurrency, publishing)",
+            "conscientiousness": "High (tax preparation, detailed travel planning)",
+            "extraversion": "Medium (passive news consumption, limited social signals)",
+            "agreeableness": "Medium (no strong behavioral indicators)",
+            "neuroticism": "Low (stable routines, planned purchases)"
+        },
+        "mbti": "ISTJ (detail-oriented, structured thinking from tax/ethical framework searches)",
+        "beliefs_and_values": "Technology optimism, fiscal responsibility, ethical governance",
+        "motivations": "Intellectual growth, family security, legacy building (book publishing interest)",
+        "cognitive_style": "Analytical (tax/ethics research) with structured creativity (AI art tools)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex queries ('ethical frameworks examples'), frequent finance/travel topics",
+        "ad_interactions": "High engagement with tax software (TurboTax), travel (Disney), publishing ads",
+        "preferred_content_sources": "MSN, Raw Story, Wikipedia, academic course materials",
+        "social_media_usage": "Passive news consumption via MSN/HuffPost, no active posting signals",
+        "ecommerce_behavior": "Mid-range spending (Disney trips, office organizers), price-sensitive (gas price checks)",
+        "device_usage": "Desktop primary (Edge browser), Windows OS",
+        "subscriptions": "Disney vacation alerts, SNHU course materials, financial newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Ethical frameworks, financial regulations, AI applications",
+        "hobbies": "Creative writing (book publishing queries), soccer (Trophy Club fields search), home organization",
+        "entertainment_preferences": "Mystery/thrillers (Edgar Allan Poe references), Disney theme parks",
+        "content_consumption": "Long-form news articles (Raw Story), structured educational content",
+        "learning_style": "Guided courses (SNHU ethics program), practical application (MedRock Pharmacy how-to videos)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious (GasBuddy use), planned purchases (Disney reservations)",
+        "income_level": "$80k-$100k (mid-level financial position)",
+        "investment_habits": "Moderate risk (cryptocurrency tracking via CoinMarketCap)",
+        "financial_tools": "Multiple credit cards (Synchrony, Wells Fargo), e-wallets (Amazon payments)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative (team-oriented financial/ethics fields)",
+        "family_structure": "Likely married with children (Disney trip planning)",
+        "friendship_circle": "Small group (limited social signals beyond family activities)",
+        "community_involvement": "Local soccer community (Trophy Club fields search), online ethics forums",
+        "online_vs_offline_engagement": "Balanced (news consumption online, family activities offline)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News review (MSN/Raw Story), financial account checks",
+        "workday_habits": "Structured schedule (tax/ethics work), afternoon research sessions",
+        "evening_and_leisure": "Book writing, AI art projects (Fotor), family time",
+        "weekend_activities": "Soccer games, home improvement (desk organization searches), travel planning",
+        "sleep_schedule": "Regular (10pm-6am inferred from structured routines)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active (soccer), monitors diet (Factor meal consideration)",
+        "mental_health": "Stress management through structured activities (writing, organization)",
+        "work_life_balance": "Maintained through scheduled leisure (Disney trips, soccer)",
+        "health_related_digital_behavior": "MedRock Pharmacy research, insurance portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (tax/ethics frameworks), cross-referenced with expert sources",
+        "brand_loyalty": "Moderate (Disney repeat visits but shops multiple credit cards)",
+        "influence_factors": "Expert analysis (SNHU course materials), practical demonstrations (how-to videos)",
+        "tech_adoption": "Early mainstream (AI tools after verification)",
+        "privacy_and_security_concerns": "Cautious (multiple financial account logins, limited social exposure)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Texan cultural identity",
+        "travel_habits": "Annual Disney trips, domestic US destinations (Saginaw TX research)",
+        "personal_projects": "Non-fiction book writing (publishing research), home office optimization",
+        "unexpected_behavioral_traits": "Combines financial pragmatism with creative writing pursuits"
+    }
+}

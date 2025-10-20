@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Priya Sharma",
+        "age": 29,
+        "gender": "Female",
+        "nationality": "Indian",
+        "current_residence": "Redmond, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "Unknown"
+        },
+        "occupation": "Software Developer",
+        "company": "Microsoft (contractor/freelance)",
+        "physical_attributes": {
+            "Height": "163 cm",
+            "Body shape": "Slim",
+            "Hairstyle": "Straight black hair",
+            "Skin color": "Light brown",
+            "Facial features": "Rectangular glasses",
+            "Dress Style": "Casual techwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTJ",
+        "beliefs_and_values": "Technology optimism, data privacy awareness",
+        "motivations": "Technical mastery, work-life balance",
+        "cognitive_style": "Analytical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting (50%), language translation (20%), news updates (15%)",
+        "ad_interactions": "Medium engagement with software deals and local services",
+        "preferred_content_sources": "Microsoft Docs, GitHub, Reuters, MSN News",
+        "social_media_usage": "Low-frequency YouTube/Github engagement",
+        "ecommerce_behavior": "Budget-conscious tech accessories buyer",
+        "device_usage": "Windows PC + Android mobile",
+        "subscriptions": "Microsoft 365, GitHub Pro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "AI development, Windows architecture",
+        "hobbies": "Puzzle games, language learning",
+        "entertainment_preferences": "Tech documentaries, strategy games",
+        "content_consumption": "Technical documentation (70%), news briefings (30%)",
+        "learning_style": "Self-learning through documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech investments",
+        "income_level": "$85,000-$100,000",
+        "investment_habits": "Conservative 401(k) contributor",
+        "financial_tools": "Microsoft Wallet, Credit Cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor with team coordination",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small tech-focused group",
+        "community_involvement": "Open-source contributions",
+        "online_vs_offline_engagement": "90% digital communication"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Tech news review with coffee",
+        "workday_habits": "Deep work blocks with documentation breaks",
+        "evening_and_leisure": "Puzzle games, language practice",
+        "weekend_activities": "Tech meetups, meal prep",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary with weekly yoga",
+        "mental_health": "Tech detox weekends",
+        "work_life_balance": "Strict work hour boundaries",
+        "health_related_digital_behavior": "MSN Health briefings"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive",
+        "brand_loyalty": "Microsoft ecosystem adherent",
+        "influence_factors": "Technical specifications",
+        "tech_adoption": "Enterprise-early adopter",
+        "privacy_and_security_concerns": "High data consciousness"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Hindi/English bilingual, learning Mandarin",
+        "travel_habits": "Tech conference traveler",
+        "personal_projects": "Language parsing algorithms",
+        "unexpected_behavioral_traits": "Enjoys experimental cooking despite technical mindset"
+    }
+}

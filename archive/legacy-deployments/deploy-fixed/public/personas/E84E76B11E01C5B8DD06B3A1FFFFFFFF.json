@@ -1,0 +1,125 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 29,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Bristol, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Nutrition/Dietetics or Environmental Science",
+            "institution": "University of Connecticut"
+        },
+        "occupation": "Nutrition Specialist/Sustainable Living Blogger",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup with glasses",
+            "dress_style": "Casual practical (linen shirts, yoga pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Sustainability",
+            "Health consciousness",
+            "DIY ethic"
+        ],
+        "motivations": [
+            "Creating sustainable food systems",
+            "Self-sufficiency",
+            "Nutritional education"
+        ],
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision searches with measurement conversions (350ml→cups), technical queries (registry cleanup), brand comparisons",
+        "ad_interactions": "High engagement with cooking tools (sprouting kits), specialty foods (Manuka honey), and puzzle brands",
+        "preferred_content_sources": [
+            "YouTube tutorials",
+            "The Kitchn",
+            "Connecticut Public",
+            "Academic cooking blogs"
+        ],
+        "social_media_usage": "YouTube (daily passive consumption), Reddit (occasional participation in cooking forums)",
+        "ecommerce_behavior": "Frequent small purchases (Amazon, ThriftBooks), prefers sustainable brands",
+        "device_usage": "Android phone (Gemini removal query) + Windows PC (registry cleanup query)",
+        "subscriptions": [
+            "CPTV Passport",
+            "Mary's Test Kitchen Patreon",
+            "Puzzle Warehouse newsletter"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Sustainable agriculture",
+            "Food science innovations",
+            "Zero-waste practices"
+        ],
+        "hobbies": [
+            "1000-piece jigsaw puzzles",
+            "Microgreen cultivation",
+            "Vegan cheese experimentation"
+        ],
+        "entertainment_preferences": [
+            "Food documentaries",
+            "Political satire (SNL content views)",
+            "Classic rock (YouTube shorts)"
+        ],
+        "content_consumption": "Detailed recipe blogs + PBS news content",
+        "learning_style": "Experimental learning (kitchen testing with chickpea tofu)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious but invests in quality kitchen tools",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative (Marcus savings account activity)",
+        "financial_tools": [
+            "Chase credit card",
+            "Xfinity autopay",
+            "USPS Informed Delivery"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with occasional nutrition workshops",
+        "family_structure": "Single with one cat (multiple cat-related YouTube views)",
+        "friendship_circle": "Small group of cooking enthusiasts",
+        "community_involvement": "Local food bank volunteer (USDA/FDA site visits)",
+        "online_vs_offline_engagement": "70% digital/30% local community interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "CPTV Morning Edition + smoothie preparation",
+        "workday_habits": "Recipe testing mornings, client consultations afternoons",
+        "evening_and_leisure": "Puzzle assembly while streaming food documentaries",
+        "weekend_activities": "Farmer's market visits, meal prepping",
+        "sleep_schedule": "11 PM - 7 AM (consistent WebMD sleep hygiene research)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Pescatarian diet tracking magnesium intake, daily walks",
+        "mental_health": "Puzzle therapy, cooking as stress relief",
+        "work_life_balance": "Structured 40-hour week with tech-free Sundays",
+        "health_related_digital_behavior": "WebMD symptom checks + CT Public health news alerts"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (extended bean brand comparisons)",
+        "brand_loyalty": "Strong for King Arthur Baking/EuroGraphics puzzles",
+        "influence_factors": "America's Test Kitchen approvals, PBS product placements",
+        "tech_adoption": "Mainstream user with privacy focus (registry cleanup queries)",
+        "privacy_and_security_concerns": "Medium (financial site logins but uses USPS tracking)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "New England upbringing with French-Canadian puzzle preferences",
+        "travel_habits": "Day trips to Quebec (puzzle themes), national park visits",
+        "personal_projects": "Developing vegan cheese recipes using olive extract",
+        "unexpected_behavioral_traits": "Technical Windows maintenance skills combined with abstract puzzle-solving"
+    }
+}

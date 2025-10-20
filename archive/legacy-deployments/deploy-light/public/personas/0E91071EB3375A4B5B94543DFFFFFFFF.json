@@ -1,0 +1,85 @@
+{
+    "Core Identity": {
+        "full_name": "Daniel Cohen",
+        "age": 53,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Parkland, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Computer Science/Information Systems",
+            "institution": "unknown"
+        },
+        "occupation": "IT Systems Architect/Cloud Specialist",
+        "company": "unknown",
+        "physical attributes": "unknown"
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, Jewish cultural identity, Financial responsibility",
+        "motivations": "Professional expertise development, DIY project mastery, Family security",
+        "cognitive_style": "Analytical problem-solving with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical documentation (AWS/VMware/Kubernetes), Home improvement solutions, Motorcycle maintenance",
+        "ad_interactions": "High engagement with tools/automotive ads",
+        "preferred_content_sources": "Technical documentation (Appian/VMware), Manufacturer forums, Financial portals",
+        "social_media_usage": "Limited professional use (LinkedIn)",
+        "ecommerce_behavior": "Mid-range spending on tools/auto parts",
+        "device_usage": "Desktop-centric with Microsoft Edge",
+        "subscriptions": "Cloud services, Project management platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Cloud architecture, Cybersecurity certifications (ISC2), Enterprise software",
+        "hobbies": "Motorcycle customization, Home improvement projects, Poker",
+        "entertainment_preferences": "Technical tutorials, Financial advice content",
+        "content_consumption": "Structured technical documentation",
+        "learning_style": "Self-directed research with certification goals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented quality investments",
+        "income_level": "Middle-upper class",
+        "investment_habits": "Conservative portfolio management",
+        "financial_tools": "Vanguard/Fidelity accounts, Tax software"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative technical leadership",
+        "family_structure": "Family with school-age children",
+        "friendship_circle": "Small group with shared technical/DIY interests",
+        "community_involvement": "Jewish community organizations",
+        "online_vs_offline_engagement": "Balanced digital/physical interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News/industry updates review",
+        "workday_habits": "Structured technical implementation",
+        "evening_and_leisure": "Motorcycle maintenance/DIY projects",
+        "weekend_activities": "Family time, Community events",
+        "sleep_schedule": "Consistent routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active lifestyle with home projects",
+        "mental_health": "Project-focused stress management",
+        "work_life_balance": "Structured separation",
+        "health_related_digital_behavior": "CPR certification research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven evaluation",
+        "brand_loyalty": "Trusted tool/automotive brands",
+        "influence_factors": "Technical specifications, User reviews",
+        "tech_adoption": "Strategic mainstream adoption",
+        "privacy_and_security_concerns": "Heightened cybersecurity awareness"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English, Jewish cultural practices",
+        "travel_habits": "Regional motorcycle trips",
+        "personal_projects": "Home renovation documentation",
+        "unexpected_behavioral_traits": "Combines technical precision with mechanical creativity"
+    }
+}

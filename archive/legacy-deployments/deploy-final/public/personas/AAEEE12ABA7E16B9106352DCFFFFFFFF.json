@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Johnson",
+        "age": 40,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Riverview, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of South Florida"
+        },
+        "occupation": "Small Business Owner",
+        "company": "Self-Employed (Pest Control Services)",
+        "physical_attributes": {
+            "height": "unknown",
+            "body_shape": "Athletic",
+            "hairstyle": "unknown",
+            "skin_color": "unknown",
+            "facial_features": "unknown",
+            "dress_style": "Casual professional"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Entrepreneurial independence, financial literacy, work-life balance",
+        "motivations": "Business growth, intellectual exploration, family security",
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep commercial research (RV specs, pest control equipment), solution-focused queries",
+        "ad_interactions": "High engagement with business services (lead generation tools) and recreational vehicles",
+        "preferred_content_sources": "Industry-specific platforms (ACX, Networx), financial portals (IRS, Stripe), travel sites",
+        "social_media_usage": "Limited personal use; strategic business use (YouTube/TikTok marketing research)",
+        "ecommerce_behavior": "Business equipment purchases (pest control gear), occasional luxury travel bookings",
+        "device_usage": "Desktop-dominated workflow with mobile supplementation",
+        "subscriptions": "Business software (GorillaDesk), Royal Caribbean loyalty program, Constant Contact"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Service industry management, self-publishing, digital marketing trends",
+        "hobbies": "RV camping, novel writing, dog care, culinary experimentation",
+        "entertainment_preferences": "Political commentary podcasts, fantasy novels, classic rock",
+        "content_consumption": "Long-form business articles blended with quick news updates",
+        "learning_style": "Self-directed research with selective professional courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic business investments with personal budget consciousness",
+        "income_level": "Middle-class business owner ($60k-$90k annually)",
+        "investment_habits": "Conservative business reinvestment, no speculative trading",
+        "financial_tools": "Business credit cards, SBA loans, PayPal for transactions"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with selective vendor partnerships",
+        "family_structure": "Likely suburban household with pets",
+        "friendship_circle": "Mix of business contacts and close personal friends",
+        "community_involvement": "Local business networks, dog owner communities",
+        "online_vs_offline_engagement": "Balanced digital business management with in-person client interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Business email review with coffee, quick fitness session",
+        "workday_habits": "Split between field service coordination and administrative tasks",
+        "evening_and_leisure": "Meal preparation, Harry Potter movie marathons, RV trip planning",
+        "weekend_activities": "Dog park visits, recipe testing, regional camping trips",
+        "sleep_schedule": "Consistent 11 PM - 6 AM pattern"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular yoga practice, balanced home cooking",
+        "mental_health": "Stress management through outdoor activities",
+        "work_life_balance": "Structured separation of business/personal time",
+        "health_related_digital_behavior": "Fitness tracker usage, wellness blog browsing"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with risk mitigation",
+        "brand_loyalty": "Sticks with proven business tools (GorillaDesk, Stripe)",
+        "influence_factors": "Industry peer recommendations, verified customer reviews",
+        "tech_adoption": "Early mainstream adopter of business technologies",
+        "privacy_and_security_concerns": "Cautious with financial data, standard precautions otherwise"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Southern US cultural influences",
+        "travel_habits": "Frequent regional RV trips, annual cruise vacations",
+        "personal_projects": "Self-publishing Christian-themed novels, YouTube channel development",
+        "unexpected_behavioral_traits": "Combines pragmatic business mindset with fantasy literature fandom"
+    }
+}

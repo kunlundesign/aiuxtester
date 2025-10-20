@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 33,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "California, United States",
+        "education": {
+            "degree": "High School Equivalency (In Progress)",
+            "major": "General Education Development",
+            "institution": "Chaffey College"
+        },
+        "occupation": "Gig Economy Worker / Home Gardener",
+        "company": "Amazon Flex (Freelance)",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Light olive",
+            "Facial features": "Light stubble, rectangular glasses",
+            "Dress Style": "Casual: graphic tees and utility pants"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Cannabis legalization advocate, self-sufficiency through gardening",
+        "motivations": "Financial independence, mastery of cultivation techniques",
+        "cognitive_style": "Practical problem-solver with technical inclination"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (gardening science, financial programs), repeated math problem-solving",
+        "ad_interactions": "High engagement with grow equipment/seed ads, budget services",
+        "preferred_content_sources": "Microsoft educational tools, YouTube tutorials, cannabis forums",
+        "social_media_usage": "Twitch (46 visits), passive YouTube consumption",
+        "ecommerce_behavior": "Budget-focused: 11 Amazon purchases, hunting EBT discounts",
+        "device_usage": "Windows PC via Edge (401 math solver sessions)",
+        "subscriptions": "Prime Access, MSN news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Hydroponic systems optimization, gig economy rights",
+        "hobbies": "Indoor gardening, retro gaming modding",
+        "entertainment_preferences": "Gaming culture documentaries, combat sports streams",
+        "content_consumption": "Tutorial videos >90% consumption",
+        "learning_style": "Hands-on experimentation with forum support"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused (64 GED.com visits, 14 Mars Hydro purchases)",
+        "income_level": "$25k-$35k annually",
+        "investment_habits": "Equipment reinvestment strategy",
+        "financial_tools": "PayPal (9 visits), EBT card utilization"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator (Amazon Flex metrics-driven)",
+        "family_structure": "Single occupant household",
+        "friendship_circle": "Online cannabis cultivation communities",
+        "community_involvement": "Local growers' meetups (virtual)",
+        "online_vs_offline_engagement": "90% digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check grow tent conditions → Amazon Flex shift claim",
+        "workday_habits": "Batch delivery routes → pH level monitoring breaks",
+        "evening_and_leisure": "Gaming forums + equipment maintenance",
+        "weekend_activities": "Seedling care, YouTube tutorial marathons",
+        "sleep_schedule": "Night owl (post-midnight activity spikes)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through delivery work, high-carb diet",
+        "mental_health": "Gardening as stress relief",
+        "work_life_balance": "Blurred boundaries (home=workspace)",
+        "health_related_digital_behavior": "Nutrition tracking via Domino's calculator"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis (401 math validations)",
+        "brand_loyalty": "Mars Hydro (14 purchases) vs price-conscious elsewhere",
+        "influence_factors": "Grower forum testimonials",
+        "tech_adoption": "Early LED adopter, lags in mobile apps",
+        "privacy_and_security_concerns": "Low (frequent .com logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern California English, basic Spanish",
+        "travel_habits": "Virtual tourism through Bing Spotlight locations",
+        "personal_projects": "3D-printed grow tent modifications",
+        "unexpected_behavioral_traits": "Analytical math user who creates cartoon wallpapers"
+    }
+}

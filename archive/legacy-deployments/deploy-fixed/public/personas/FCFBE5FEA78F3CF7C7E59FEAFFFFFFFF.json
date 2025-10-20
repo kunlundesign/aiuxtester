@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Schanhals",
+        "age": 58,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Knoxville, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of Tennessee"
+        },
+        "occupation": "Real Estate Agent/Property Manager",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short grey bob",
+            "Skin color": "Fair",
+            "Facial features": "Round face with glasses",
+            "Dress Style": "Casual business attire with rustic accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Patriotism, historical preservation, financial responsibility",
+        "motivations": "Property investment success, maintaining family legacy, military history preservation",
+        "cognitive_style": "Detail-oriented with strong pattern recognition"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Military history deep dives, real estate comparisons, tax documentation verification",
+        "ad_interactions": "High engagement with military memorabilia and tactical gear ads",
+        "preferred_content_sources": "Government portals (TNTAP), real estate platforms (Zillow), veteran forums",
+        "social_media_usage": "Limited to MSN News consumption and real estate groups",
+        "ecommerce_behavior": "Budget-conscious for personal items, strategic spending on collectibles",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": "MSN Premium, Zillow Agent, DocuSign Pro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Property valuation trends, Tennessee tax laws, historic home preservation",
+        "hobbies": "Military history research, home design simulations, casual gaming (strategy games)",
+        "entertainment_preferences": "True crime documentaries, classic rock, historical fiction novels",
+        "content_consumption": "Long-form investigative journalism mixed with practical how-to guides",
+        "learning_style": "Self-guided research with document analysis"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven investments in real estate, occasional nostalgic purchases",
+        "income_level": "$75,000-$90,000 annually",
+        "investment_habits": "Conservative real estate portfolio with 2-3 rental properties",
+        "financial_tools": "Traditional banking with Zelle, property management software"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent negotiator with strong vendor networks",
+        "family_structure": "Empty nester potentially caring for aging relatives",
+        "friendship_circle": "Small group of fellow history enthusiasts and realtors",
+        "community_involvement": "Veteran support organizations, local historical society",
+        "online_vs_offline_engagement": "Balanced digital research with in-person property showings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while reviewing property listings and veteran forums",
+        "workday_habits": "Scheduled client meetings interspersed with document processing",
+        "evening_and_leisure": "Historical research sessions alternating with light gaming",
+        "weekend_activities": "Property inspections, archive visits, family genealogy work",
+        "sleep_schedule": "Consistent 11PM-6AM routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily Fitbit-tracked walks, moderate Southern cuisine diet",
+        "mental_health": "History-based mindfulness through archival work",
+        "work_life_balance": "Structured separation between property management and personal research",
+        "health_related_digital_behavior": "Fitness tracking without social sharing"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Document-driven with historical precedent analysis",
+        "brand_loyalty": "Strong preference for established legal/financial platforms",
+        "influence_factors": "Official records, veteran testimonials, property histories",
+        "tech_adoption": "Mainstream user with focus on practicality over novelty",
+        "privacy_and_security_concerns": "High awareness with encrypted document handling"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English with basic military terminology knowledge",
+        "travel_habits": "Regional property scouting trips with occasional Caribbean research cruises",
+        "personal_projects": "Digitizing family military records, restoring vintage home blueprints",
+        "unexpected_behavioral_traits": "Strategic gamer who applies historical tactics in Age of Empires IV"
+    }
+}

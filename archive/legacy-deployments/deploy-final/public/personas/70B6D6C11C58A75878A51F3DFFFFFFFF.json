@@ -1,0 +1,85 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 28,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Waukegan, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Electrical Engineering/Industrial Technology",
+            "institution": "Illinois Central College"
+        },
+        "occupation": "HVAC Technician/Purchasing Specialist",
+        "company": "Unknown",
+        "physical_attributes": "unknown"
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical problem-solving, technological utility",
+        "motivations": "Technical mastery, home improvement efficiency",
+        "cognitive_style": "Structured technical analysis with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical specifications (thermostat models), parts procurement, shipping tracking",
+        "ad_interactions": "High engagement with hardware/industrial suppliers (88% of ad clicks)",
+        "preferred_content_sources": "Supplier portals (McMaster-Carr), trade sites (CR Laurence), Amazon Business",
+        "social_media_usage": "Minimal (Reddit for technical forums)",
+        "ecommerce_behavior": "Frequent B2B purchases, budget-conscious consumer goods",
+        "device_usage": "Desktop Chrome for work (65%), mobile for music/news",
+        "subscriptions": "Pandora Plus, MSN News digest"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "HVAC systems, industrial hardware supply chains",
+        "hobbies": "Home improvement projects, classic rock history",
+        "entertainment_preferences": "70s-90s rock (Pandora stations), political news documentaries",
+        "content_consumption": "Technical manuals (70%), news/politics (20%), entertainment (10%)",
+        "learning_style": "On-the-job troubleshooting, supplier product guides"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven B2B purchases, cautious consumer spending",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Cryptocurrency experimentation (CoinGecko/Ledger activity)",
+        "financial_tools": "Amazon Business account, standard credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with supply chain coordination",
+        "family_structure": "Likely single without dependents",
+        "friendship_circle": "Small technical peer group",
+        "community_involvement": "Local trade associations",
+        "online_vs_offline_engagement": "90% digital procurement, limited social media"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check shipment tracking, industry alerts",
+        "workday_habits": "Parts ordering, client site visits, technical documentation",
+        "evening_and_leisure": "Music streaming, home improvement projects",
+        "weekend_activities": "Hardware store runs, classic rock exploration",
+        "sleep_schedule": "Early riser (5:30 AM work starts)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor, no evident health tracking",
+        "mental_health": "Stress management through project completion",
+        "work_life_balance": "Work-focused with hobby overlap",
+        "health_related_digital_behavior": "None observed"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Specification-driven (technical requirements first)",
+        "brand_loyalty": "Supplier consistency (McMaster-Carr/CR Laurence repeat use)",
+        "influence_factors": "Product specs, delivery speed, supplier reputation",
+        "tech_adoption": "Mainstream user with niche tool proficiency",
+        "privacy_and_security_concerns": "Basic precautions (Ledger hardware wallet usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, technical jargon fluency",
+        "travel_habits": "Domestic work-related travel, international interest (Africa searches)",
+        "personal_projects": "Home automation system upgrades",
+        "unexpected_behavioral_traits": "Technical precision balanced with classic rock nostalgia"
+    }
+}

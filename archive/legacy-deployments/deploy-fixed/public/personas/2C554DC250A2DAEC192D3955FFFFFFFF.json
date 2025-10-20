@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 53,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Tucson, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Computer Science",
+            "institution": "Pima Community College"
+        },
+        "occupation": "Freelance IT Technician",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short, receding hairline",
+            "Skin_color": "Caucasian",
+            "Facial_features": "Clean-shaven, rectangular glasses",
+            "Dress_Style": "Casual (jeans, sneakers, graphic tecs)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology optimism, pragmatic problem-solving",
+        "motivations": "Intellectual curiosity, financial stability",
+        "cognitive_style": "Analytical with hands-on practicality"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting queries (75+ Bing searches), deep dives into automotive/tech specifications",
+        "ad_interactions": "High engagement with job postings (Yrc Freight), automotive parts, and office supplies",
+        "preferred_content_sources": "YouTube tutorials, eBay listings, Microsoft documentation, tech blogs",
+        "social_media_usage": "Passive YouTube/SoundCloud consumption, Discord lurking",
+        "ecommerce_behavior": "Mid-range spending on auto parts (transmissions), tech accessories (Oura ring), collectible sneakers",
+        "device_usage": "Windows 10 PC primary, Android mobile secondary",
+        "subscriptions": "Hallmark Movies Now, Paramount Plus, Amazon Prime"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Software scripting (Python/Greasyfork), automotive diagnostics",
+        "hobbies": "PC gaming (Fortnite/SimCity), home improvement projects, sneaker collecting",
+        "entertainment_preferences": "Hallmark dramas, 90s hip-hop influences, animated series (Gravity Falls)",
+        "content_consumption": "Technical guides >60%, news articles 30%, adult content 10%",
+        "learning_style": "Self-taught through YouTube tutorials and forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven for essentials (auto parts), splurges on limited-edition sneakers",
+        "income_level": "$45k-$55k annually",
+        "investment_habits": "Conservative (401k-focused)",
+        "financial_tools": "USAA banking, Amazon Prime Card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor, minimal collaboration",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small online gaming group",
+        "community_involvement": "Local automotive forum participant",
+        "online_vs_offline_engagement": "90% digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking MSN economic news",
+        "workday_habits": "Split between home repair jobs and software debugging",
+        "evening_and_leisure": "Streaming Hallmark movies, browser gaming",
+        "weekend_activities": "Auto maintenance, eBay sneaker hunting",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work balanced with home improvement labor",
+        "mental_health": "Stress relief through gaming/movies",
+        "work_life_balance": "Blurred boundaries due to freelance work",
+        "health_related_digital_behavior": "Occasional WebMD searches, no tracked fitness apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares 3+ sources for major purchases)",
+        "brand_loyalty": "Ford vehicles, Microsoft software",
+        "influence_factors": "Technical specifications > brand reputation",
+        "tech_adoption": "Early majority (adopts proven tools like Copilot)",
+        "privacy_and_security_concerns": "Basic antivirus use, no advanced measures"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southwestern US cultural influences",
+        "travel_habits": "Regional road trips in Ford F-150",
+        "personal_projects": "Custom browser scripts, vintage truck restoration",
+        "unexpected_behavioral_traits": "Combines mechanical engineering skills with anime fandom"
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "Core Identity": {
+        "full_name": "James Beaumont",
+        "age": 56,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Pine Prairie, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Public Administration",
+            "institution": "Louisiana State University Eunice"
+        },
+        "occupation": "Local Government Clerk",
+        "company": "Evangeline Parish Administration",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, graying hair",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with crow's feet",
+            "dress_style": "Casual work attire (button-down shirts, khakis) for weekdays, relaxed weekend wear"
+        },
+        "explanations": {
+            "full_name": "Generated with Southern US cultural context matching Louisiana residence",
+            "education": "Inferred from frequent interaction with government portals (voterrecords.com, FEMA training) requiring administrative knowledge",
+            "occupation": "Linked to Evangeline Parish property searches and voter record checks"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Community service",
+            "Practical self-reliance",
+            "Traditional craftsmanship"
+        ],
+        "motivations": [
+            "Maintaining household efficiency",
+            "Preserving local traditions",
+            "Continuous skill development"
+        ],
+        "cognitive_style": "Detail-oriented problem solver with structured approach",
+        "explanations": {
+            "openness": "Evidenced by diverse interests from mystery novels to tech troubleshooting",
+            "conscientiousness": "Demonstrated through email management and recipe precision",
+            "ISTJ": "Inferred from systematic approach to home improvement and government-related searches"
+        }
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Multi-session research (e.g., 7+ cabbage roll queries)",
+            "Local service verification",
+            "DIY tutorials"
+        ],
+        "ad_interactions": {
+            "engagement_level": "Selective clicker (craft supplies, fishing gear)",
+            "preferred_categories": [
+                "Home decor",
+                "Beauty products",
+                "Fishing equipment"
+            ]
+        },
+        "preferred_content_sources": [
+            "Allrecipes.com",
+            "Taste of Home",
+            "EPR Fireworks documentation"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Facebook (passive)",
+                "Pinterest (craft inspiration)",
+                "YouTube (tutorials)"
+            ],
+            "frequency": "Daily casual browsing",
+            "engagement": "90% passive consumer"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Budget-conscious with occasional quality splurges",
+            "product_categories": [
+                "Craft supplies",
+                "Beauty products",
+                "Fishing gear"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop computer",
+            "secondary_device": "Samsung Galaxy S23",
+            "os_browser": "Windows 10/Edge"
+        },
+        "subscriptions": [
+            "Laura Geller Beauty newsletter",
+            "Allrecipes Premium",
+            "EPR Fireworks updates"
+        ],
+        "explanations": {
+            "search_patterns": "Detailed technical queries like EPR Fireworks apparatus management",
+            "ad_interactions": "Clicked fishing lures and stove element ads"
+        }
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Local governance procedures",
+            "Public records management",
+            "Emergency services coordination"
+        ],
+        "hobbies": [
+            "Wreath-making",
+            "Freshwater fishing",
+            "Pressure cooking"
+        ],
+        "entertainment_preferences": {
+            "music": "Classic country (Reba McEntire)",
+            "movies": "Mystery/thrillers matching Jana Deleon preferences",
+            "tv": "Daytime drama highlights (Young and Restless)"
+        },
+        "content_consumption": "Step-by-step tutorials > opinion pieces",
+        "learning_style": "Visual/hands-on (follows wreath tutorials, appliance repair guides)",
+        "explanations": {
+            "hobbies": "Multiple peacock wreath supply searches and recipe deep dives",
+            "entertainment": "MSN Events engagement with Reba McEntire content"
+        }
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (shops sales at Bath & Body Works)",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (focuses on home equity)",
+        "financial_tools": [
+            "Amazon Prime credit card",
+            "PayPal",
+            "Local credit union accounts"
+        ],
+        "explanations": {
+            "income_level": "Estimated from Louisiana local government salary ranges",
+            "financial_tools": "Frequent Amazon purchases with saved payment methods"
+        }
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Reliable team player (coordinates with fire department per search history)",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Small group of fishing/hunting buddies",
+        "community_involvement": "Volunteer fire department supporter",
+        "online_vs_offline_engagement": "Prefers face-to-face interactions but maintains digital connections",
+        "explanations": {
+            "community_involvement": "Multiple searches about Basile Volunteer Fire Department"
+        }
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Yahoo Mail with coffee, reviews local news",
+        "workday_habits": "Balances office tasks with DIY project research",
+        "evening_and_leisure": "Cooks elaborate dinners, works on wreath projects",
+        "weekend_activities": "Fishing trips, home improvement projects",
+        "sleep_schedule": "Early riser (5:30 AM)",
+        "explanations": {
+            "weekend_activities": "Tackle Warehouse visits and fishing bait searches"
+        }
+    },
+    "Health & Well-being": {
+        "physical_health": {
+            "fitness": "Light activity (gardening, fishing)",
+            "diet": "Hearty homecooked meals with vegetable focus"
+        },
+        "mental_health": "Uses crafting as stress relief",
+        "work_life_balance": "Strict 5 PM cutoff for work emails",
+        "health_related_digital_behavior": "Researches age-specific skincare (Laura Geller purchases)",
+        "explanations": {
+            "diet": "13-month interest in venison and okra recipes"
+        }
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares 6+ cabbage roll recipes)",
+        "brand_loyalty": "Sticks with proven brands (Toyota Tundra ownership)",
+        "influence_factors": [
+            "Personal experience",
+            "Community recommendations"
+        ],
+        "tech_adoption": "Competent mainstream user (manages EPR Fireworks software)",
+        "privacy_and_security_concerns": "Cautious (frequent password updates for Yahoo Mail)",
+        "explanations": {
+            "tech_adoption": "Manages complex EPR Fireworks apparatus configurations"
+        }
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Southern US dialect",
+        "travel_habits": "Regional road trips (fishing/camping destinations)",
+        "personal_projects": "Developing personalized fireworks show software",
+        "unexpected_behavioral_traits": "Middle-aged male deeply engaged in beauty product research (Laura Geller purchases)",
+        "explanations": {
+            "personal_projects": "Multiple EPR Fireworks software management queries"
+        }
+    }
+}

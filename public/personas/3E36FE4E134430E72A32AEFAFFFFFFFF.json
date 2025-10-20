@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Anderson",
+        "age": 63,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Tracy, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Minnesota"
+        },
+        "occupation": "Retired Financial Advisor",
+        "company": "Raymond James (Former)",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, gray",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven, rectangular glasses",
+            "dress_style": "Casual (flannel shirts, jeans) for DIY tasks; polo shirts for formal occasions"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Fiscal conservatism, national security awareness, practical self-reliance",
+        "motivations": "Financial stability, maintaining independence, staying informed on geopolitical developments",
+        "cognitive_style": "Structured problem-solver with emphasis on technical details (evident in electrical wiring queries and vehicle research)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision-focused (e.g., 'which side of power outlet is hot'), repetitive research on vehicles/firearm storage",
+        "ad_interactions": "Engages with practical solutions: home health devices (BP monitors), secure storage, durable transportation",
+        "preferred_content_sources": "MSN geopolitical analysis, Yahoo Finance, manufacturer websites (TruckVault), Reddit DIY communities",
+        "social_media_usage": "Facebook Marketplace for local transactions; passive news consumption",
+        "ecommerce_behavior": "Researches heavily before purchases (NADA guides, Reddit comparisons); favors Amazon/Best Buy for electronics",
+        "device_usage": "Windows desktop primary; Edge browser with OneDrive integration for document management",
+        "subscriptions": "Amazon Prime Video, Microsoft 365, Raymond James financial services"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement financial planning, used vehicle market trends",
+        "hobbies": "DIY home improvements, classic car maintenance, local history research",
+        "entertainment_preferences": "Military history documentaries, classic rock music",
+        "content_consumption": "Long-form technical articles (e.g., electrical safety guidelines) with MSN news briefs",
+        "learning_style": "Self-guided via manufacturer manuals and Reddit forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented for essentials (budget pickup trucks), invests in durable goods (Herman Miller furniture)",
+        "income_level": "Upper-middle class (retirement savings + investments)",
+        "investment_habits": "Conservative (Raymond James portfolio management)",
+        "financial_tools": "Chase/Capital One credit cards, HealthEquity HSA"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator (former freelance financial advisor)",
+        "family_structure": "Lives with spouse; adult children nearby",
+        "friendship_circle": "Small group of longtime local friends",
+        "community_involvement": "Limited formal involvement; assists neighbors with DIY projects",
+        "online_vs_offline_engagement": "Prefers face-to-face interactions but uses Facebook Marketplace locally"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN geopolitical news review",
+        "workday_habits": "Morning financial portfolio checks; afternoon DIY/vehicle projects",
+        "evening_and_leisure": "Prime Video documentaries; Facebook Marketplace browsing",
+        "weekend_activities": "Local flea markets, minor home repairs, fishing trips",
+        "sleep_schedule": "Early riser (6 AM) with 11 PM bedtime"
+    },
+    "Health & Well-being": {
+        "physical_health": "Follows trainer-recommended hip stretches (MSN article influence), monitors BP",
+        "mental_health": "Structured routine for stress management",
+        "work_life_balance": "Leisurely post-retirement pace with self-directed projects",
+        "health_related_digital_behavior": "Researches medical devices (Omron BP monitors), reads HealthPartners articles"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Methodical researcher (e.g., NADA guides cross-referenced with Reddit)",
+        "brand_loyalty": "Prefers proven brands (Chevy, Herman Miller) but verifies via reviews",
+        "influence_factors": "Expert technical specifications, owner forums",
+        "tech_adoption": "Mainstream user (adopts established tools like OneDrive)",
+        "privacy_and_security_concerns": "Moderate (uses ESET Password Manager)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American, monolingual English",
+        "travel_habits": "Occasional Midwest road trips (Branson, MO research)",
+        "personal_projects": "Restoring 2018 Suburban, building secure vehicle storage system",
+        "unexpected_behavioral_traits": "Combines military history fascination with practical pacifism in local community"
+    }
+}

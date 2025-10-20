@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Anderson",
+        "age": 47,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Benson, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of Minnesota"
+        },
+        "occupation": "Property Manager/Real Estate Associate",
+        "company": "Hughes Real Estate & Auction Service",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length blond hair",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, practical glasses",
+            "dress_style": "Casual-functional (jeans, sweaters)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial prudence, health self-advocacy, community pragmatism",
+        "motivations": "Financial security, property investment optimization, maintaining independence",
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-session research (financial products, real estate, health solutions)",
+        "ad_interactions": "Budget retail (Temu), home improvement, targeted health ads",
+        "preferred_content_sources": "Bankrate, Zillow, MSN lifestyle guides, manufacturer sites",
+        "social_media_usage": "Minimal personal use; Facebook for local business connections",
+        "ecommerce_behavior": "Budget-conscious bulk purchases (Amazon, Temu clearance)",
+        "device_usage": "Windows desktop + Android mobile; Edge browser",
+        "subscriptions": "MSN News, Bankrate alerts, Zillow price tracker"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Property valuation trends, HSA/FSA compliance",
+        "hobbies": "Fill-in puzzles, DIY home projects, local history research",
+        "entertainment_preferences": "True crime documentaries, classic rock",
+        "content_consumption": "Fact-based guides with clear takeaways",
+        "learning_style": "Self-directed research via official portals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases with coupon optimization",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Low-risk (CDs, real estate equity)",
+        "financial_tools": "HSA/WEX health accounts, traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Detail-oriented collaborator (property listings coordination)",
+        "family_structure": "Single parent with teenage children",
+        "friendship_circle": "Small trusted network (colleagues, school parents)",
+        "community_involvement": "School district committees, local historical society",
+        "online_vs_offline_engagement": "Prefers in-person for important matters"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Local news + financial market check",
+        "workday_habits": "Split between office admin and property visits",
+        "evening_and_leisure": "Puzzle-solving, Amazon shopping research",
+        "weekend_activities": "Estate sales, home maintenance projects",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages RLS via diet modifications, walks for fitness",
+        "mental_health": "Stress management through structured routines",
+        "work_life_balance": "Compartmentalizes work hours strictly",
+        "health_related_digital_behavior": "Proactive supplement research (Plantarum 299v)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with 3+ source verification",
+        "brand_loyalty": "Prefers established regional brands",
+        "influence_factors": "Expert testimonials (medical/financial)",
+        "tech_adoption": "Mainstream user (proven tools only)",
+        "security_concerns": "Password hygiene but limited VPN use"
+    },
+    "Other Unique Attributes": {
+        "cultural_background": "Midwestern pragmatism, Nordic heritage traces",
+        "travel_habits": "Regional road trips (RV research noted)",
+        "personal_projects": "Restoring vintage home fixtures",
+        "unexpected_traits": "Combines financial caution with speculative antique investments"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Katie Jordan",
+        "age": 48,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Conway, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Travel and Tourism Management",
+            "institution": "Local community college (unknown name)"
+        },
+        "occupation": "Independent Travel Agent",
+        "company": "Self-Employed/Freelance",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length blonde",
+            "Skin color": "Fair",
+            "Facial features": "Round face with glasses",
+            "Dress Style": "Business casual with travel-inspired accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Technology optimism, work-life integration, lifelong learning",
+        "motivations": "Professional independence, creating memorable travel experiences, continuous skill development",
+        "cognitive_style": "Structured thinking with creative problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches on travel industry trends, frequent comparison queries for client planning",
+        "ad_interactions": "High engagement with professional development tools and travel industry solutions",
+        "preferred_content_sources": "Travel industry portals (Travel Leaders Network), LinkedIn Learning, MSN News",
+        "social_media_usage": "Facebook for personal connections, LinkedIn for professional networking (daily check-ins)",
+        "ecommerce_behavior": "Bulk purchases of healthy foods (Thrive Market), occasional kitchen gadgets",
+        "device_usage": "Desktop-centric workflow with mobile supplements (Windows/Edge ecosystem)",
+        "subscriptions": "Zoom Pro, Udemy courses, Thrive Market, Microsoft 365"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Emerging travel destinations, group tour coordination, sustainable tourism",
+        "hobbies": "Experimental cooking, marine biology documentaries, comedy series analysis",
+        "entertainment_preferences": "90s sitcom reruns, documentary films, classic rock revival playlists",
+        "content_consumption": "Long-form industry reports combined with quick recipe videos",
+        "learning_style": "Structured online courses with peer discussion components"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for personal items, strategic investments in business tools",
+        "income_level": "Mid-range ($45k-$65k annually)",
+        "investment_habits": "Low-risk business tool investments",
+        "financial_tools": "PayPal Business, Chase credit card, QuickBooks Simple Start"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative networker through travel agent communities",
+        "family_structure": "Likely lives with partner/teenage children (based on kid-focused searches)",
+        "friendship_circle": "Mix of local friends and professional contacts nationwide",
+        "community_involvement": "Local business networking groups, online travel agent forums",
+        "online_vs_offline_engagement": "Balanced hybrid model (virtual client meetings with local community participation)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking industry newsletters and client emails",
+        "workday_habits": "Block scheduling for client consultations, vendor research, and marketing tasks",
+        "evening_and_leisure": "Meal preparation experiments, comedy show watching, family time",
+        "weekend_activities": "Beach outings, recipe testing, professional development webinars",
+        "sleep_schedule": "Early-to-bed pattern with occasional late nights for client coordination"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity through dog walking, Mediterranean-inspired diet",
+        "mental_health": "Stress management through cooking and comedy consumption",
+        "work_life_balance": "Structured separation with occasional overlap",
+        "health_related_digital_behavior": "Drugs.com checks, occasional fitness app use"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with client consultation emphasis",
+        "brand_loyalty": "Strong preference for established travel partners",
+        "influence_factors": "Industry certifications, peer recommendations",
+        "tech_adoption": "Mainstream-plus user (early adoption for business tools)",
+        "privacy_and_security_concerns": "Moderately cautious with professional accounts"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English speaker with basic Spanish comprehension",
+        "travel_habits": "Domestic beach destinations with European cultural trips",
+        "personal_projects": "Developing specialized group tour packages",
+        "unexpected_behavioral_traits": "Combines analytical business planning with creative itinerary design"
+    }
+}

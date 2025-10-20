@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 42,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Tifton, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of Georgia"
+        },
+        "occupation": "Small Business Owner",
+        "company": "Unknown",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin_color": "Fair",
+            "Facial_features": "Minimal makeup, subtle Botox use",
+            "Dress_Style": "Casual-chic with practical footwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Practical self-reliance, community-oriented business practices",
+        "motivations": "Business growth, family stability, aesthetic home environment",
+        "cognitive_style": "Structured problem-solving with practical creativity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical business queries + detailed home decor searches",
+        "ad_interactions": "High engagement with footwear, furniture, and financial services ads",
+        "preferred_content_sources": "Zillow, Wayfair, MSN lifestyle articles, financial portals",
+        "social_media_usage": "Pinterest for decor ideas, passive MSN content consumption",
+        "ecommerce_behavior": "Budget-conscious splurges on home goods and footwear",
+        "device_usage": "Desktop (business management) + mobile (shopping/research)",
+        "subscriptions": "Wells Fargo alerts, Zillow notifications, MSN lifestyle feeds"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Local business regulations, retail management tools",
+        "hobbies": "Seasonal home decorating, budget fashion curation",
+        "entertainment_preferences": "Lifestyle blogs, home renovation shows",
+        "content_consumption": "Practical how-to guides mixed with aspirational decor content",
+        "learning_style": "Self-guided research through vendor websites and forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused with occasional quality investments in home goods",
+        "income_level": "Middle-class ($55k-$75k)",
+        "investment_habits": "Conservative (real estate exploration via Zillow)",
+        "financial_tools": "Wells Fargo, Klarna, EFTPS for tax payments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Structured collaboration with accountants/advisors",
+        "family_structure": "Likely has children (kids' shoes searches)",
+        "friendship_circle": "Local business community connections",
+        "community_involvement": "Seasonal event planning (Christmas VRBO searches)",
+        "online_vs_offline_engagement": "Hybrid (digital research fuels in-person activities)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee + financial account checkins",
+        "workday_habits": "Balancing business licenses management with vendor research",
+        "evening_and_leisure": "Online furniture browsing + seasonal decor planning",
+        "weekend_activities": "Home improvement projects + local real estate tours",
+        "sleep_schedule": "Balanced (10pm-6am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Basic fitness routine (Destiny Fitness interest)",
+        "mental_health": "Scriptural reflection (23rd Psalm search)",
+        "work_life_balance": "Compartmentalized but work-leaning",
+        "health_related_digital_behavior": "Medical spa research + basic fitness info"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Mix of trusted chains (Target) and boutique aspirations",
+        "influence_factors": "User reviews (Amazon/Wayfair ratings), visual appeal",
+        "tech_adoption": "Mainstream user (LogMeIn, banking apps)",
+        "privacy_and_security_concerns": "Moderate (financial logins but uses public services)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English",
+        "travel_habits": "Local getaways (Mexico Beach searches)",
+        "personal_projects": "Home staging experiments using thrifted finds",
+        "unexpected_behavioral_traits": "Combines practical accounting skills with whimsical decor tastes"
+    }
+}

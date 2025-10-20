@@ -1,0 +1,158 @@
+{
+    "Core Identity": {
+        "full_name": "Brandon Elliott",
+        "age": 36,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Girard, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Lincoln College of Technology"
+        },
+        "occupation": "Automotive Technician",
+        "company": "Springfield Clinic (Healthcare facility vehicle maintenance)",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with faint laugh lines",
+            "dress_style": "Workwear/casual (Carhartt-style shirts, durable jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": [
+            "Second Amendment advocacy",
+            "Practical self-reliance",
+            "Skepticism of mainstream media narratives"
+        ],
+        "motivations": [
+            "Mastery of technical skills",
+            "Financial stability through side projects",
+            "Family security"
+        ],
+        "cognitive_style": "Problem-solving through hands-on experimentation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Technical automotive queries (e.g., 'LLY injectors', 'battery draw')",
+            "Local service providers (e.g., doctors, car dealerships)",
+            "DIY project supplies (honey jars, tools)"
+        ],
+        "ad_interactions": {
+            "engagement_level": "High for tools/auto parts",
+            "preferred_ad_categories": [
+                "Automotive parts",
+                "Power tools",
+                "Wholesale supplies"
+            ]
+        },
+        "preferred_content_sources": [
+            "Technical forums (ThumperTalk, RaptorForum)",
+            "Manufacturer documentation (ProDemand)",
+            "MSN News"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Facebook (Marketplace, groups)"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive browsing, active Marketplace use"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Value-oriented bulk purchases",
+            "product_categories": [
+                "Automotive parts",
+                "DIY supplies",
+                "Firearms accessories"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop",
+            "os": "Windows 10",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "Pandora (Zach Bryan station)",
+            "ProDemand repair database",
+            "AccuWeather Premium"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Diesel engine diagnostics",
+            "EV conversion challenges",
+            "Dealership service workflows"
+        ],
+        "hobbies": [
+            "ATV/motorcycle maintenance",
+            "Home brewing/preserving",
+            "Shooting sports"
+        ],
+        "entertainment_preferences": {
+            "music": "Country/Bluegrass (Zach Bryan)",
+            "news": "Geopolitical analysis",
+            "sports": "NASCAR, College basketball"
+        },
+        "content_consumption": "Technical manuals > video tutorials",
+        "learning_style": "Peer knowledge-sharing via forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious bulk purchases",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative (401k, home equity)",
+        "financial_tools": [
+            "Home Depot Consumer Credit Card",
+            "PayPal",
+            "Local credit union"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent problem-solver",
+        "family_structure": "Married with young children",
+        "friendship_circle": "Garage-based mechanic network",
+        "community_involvement": "NRA member",
+        "online_vs_offline_engagement": "In-person for trusted connections"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check AccuWeather, review work orders",
+        "workday_habits": "Diagnostic workflows with 2-3 client interactions",
+        "evening_and_leisure": "Forum browsing, small engine repairs",
+        "weekend_activities": "ATV trail maintenance, family projects",
+        "sleep_schedule": "10 PM - 5:30 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength training via manual labor",
+        "mental_health": "Stress relief through hands-on projects",
+        "work_life_balance": "Integrated (hobbies complement work skills)",
+        "health_related_digital_behavior": [
+            "Symptom checking (e.g., mouth sores)",
+            "Local healthcare provider research"
+        ]
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Specs-driven comparisons",
+        "brand_loyalty": "Milwaukee Tools, Duramax parts",
+        "influence_factors": "Mechanic peer reviews",
+        "tech_adoption": "Late majority (proven solutions)",
+        "privacy_and_security_concerns": "Minimal (uses Facebook auth)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English",
+        "travel_habits": "Regional road trips (Buc-ee's visits)",
+        "personal_projects": [
+            "Vintage Jeep Wrangler restoration",
+            "Backyard honey production"
+        ],
+        "unexpected_behavioral_traits": "Practically-minded technician who handcrafts sentimental baby shower favors"
+    }
+}

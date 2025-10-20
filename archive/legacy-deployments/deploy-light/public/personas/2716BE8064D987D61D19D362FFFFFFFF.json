@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jason Miller",
+        "age": 29,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Gladys, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Hospitality Management",
+            "institution": "Virginia Community College"
+        },
+        "occupation": "Hotel Front Desk Manager",
+        "company": "Quality Suites Altavista",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, neat cut",
+            "Skin color": "Fair",
+            "Facial_features": "Clean-shaven",
+            "Dress_Style": "Business casual (collared shirts, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Professional competence, civic responsibility",
+        "motivations": "Career stability, skill development, home ownership",
+        "cognitive_style": "Structured problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Work-related queries (CPR certification, hotel management), real estate research, gaming guides",
+        "ad_interactions": "High engagement with hospitality tools and professional development ads",
+        "preferred_content_sources": "Industry portals (Choice University), news websites (WSET, MSN), gaming wikis",
+        "social_media_usage": "Limited passive use (Facebook/Reddit for news)",
+        "ecommerce_behavior": "Work-related purchases (hotel signage), budget-conscious",
+        "device_usage": "Desktop for work tasks, mobile for quick searches",
+        "subscriptions": "MSN News, CPR certification platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Hospitality trends, emergency preparedness training",
+        "hobbies": "CRPG gaming (Baldur's Gate 3), historical TV series",
+        "entertainment_preferences": "Strategy games, 1960s-70s nostalgia content",
+        "content_consumption": "Fact-based articles with occasional long-form research",
+        "learning_style": "Structured online courses with immediate practical application"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned professional expenses",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (focuses on real estate research)",
+        "financial_tools": "Traditional banking, employer-sponsored benefits"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Procedural focus with team coordination",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small group of coworkers and gaming acquaintances",
+        "community_involvement": "Local business networking",
+        "online_vs_offline_engagement": "Balanced professional/leisure online activity"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check hotel occupancy reports, review shift schedules",
+        "workday_habits": "Guest service coordination, reservation management",
+        "evening_and_leisure": "Gaming sessions, real estate market research",
+        "weekend_activities": "Local history exploration, CPR certification coursework",
+        "sleep_schedule": "Consistent 11 PM - 6 AM routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work compensated with occasional walks",
+        "mental_health": "Stress management through structured routines",
+        "work_life_balance": "Compartmentalizes professional/personal time",
+        "health_related_digital_behavior": "Research on specific conditions (RLS)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Procedure-driven with contingency planning",
+        "brand_loyalty": "Prefers established industry providers",
+        "influence_factors": "Regulatory compliance, peer recommendations",
+        "tech_adoption": "Mainstream user leaning toward early adoption in hospitality tools",
+        "privacy_and_security_concerns": "Moderate (follows industry standards)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Chinese historical media",
+        "travel_habits": "Local day trips for property research",
+        "personal_projects": "Home buying preparation, D&D campaign planning",
+        "unexpected_behavioral_traits": "Combines rigid procedural work with creative gaming strategizing"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret H. Whitcombe",
+        "age": 68,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Killingworth, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Connecticut"
+        },
+        "occupation": "Retired Real Estate Manager",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short silver hair",
+            "Skin color": "Fair",
+            "Facial features": "Glasses, minimal wrinkles",
+            "Dress Style": "Casual and practical (jeans, blouses, sneakers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Civic responsibility, financial prudence, local community preservation",
+        "motivations": "Estate planning, maintaining financial security, staying informed on local governance",
+        "cognitive_style": "Analytical and structured (evidenced by property record analysis and tax research)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on property records, local news, healthcare benefits, and NCAA women's basketball rankings",
+        "ad_interactions": "Engages with real estate, financial services, and Amazon Prime ads",
+        "preferred_content_sources": "Local news sites (The Day, The Westerly Sun), government portals, Fidelity, ESPN",
+        "social_media_usage": "Minimal; occasional MSN news consumption",
+        "ecommerce_behavior": "Occasional Amazon purchases (Prime user), budget-conscious property research",
+        "device_usage": "Desktop (Windows) for detailed searches, Edge browser",
+        "subscriptions": "Amazon Prime, local news email alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Property law updates, municipal GIS systems, retirement fund management",
+        "hobbies": "Tracking women's college basketball, local history research",
+        "entertainment_preferences": "UConn Huskies games, political news analysis",
+        "content_consumption": "Factual long-form articles (property records, legal documents)",
+        "learning_style": "Self-guided research via government portals and financial sites"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for major purchases (real estate), routine online shopping",
+        "income_level": "Upper-middle class (retirement funds + property investments)",
+        "investment_habits": "Conservative (Fidelity retirement accounts, real estate holdings)",
+        "financial_tools": "Fidelity investment platform, ConnectiCare benefits portal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent researcher (historical property records)",
+        "family_structure": "Likely widowed/divorced (frequent obituary searches)",
+        "friendship_circle": "Small network of local community members",
+        "community_involvement": "Monitors town governance via GIS and council updates",
+        "online_vs_offline_engagement": "Prefers online research but attends local meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Fidelity accounts, reviews local news and property listings",
+        "workday_habits": "Researches land deeds, compares real estate values",
+        "evening_and_leisure": "Watches NCAA basketball highlights, reads political news",
+        "weekend_activities": "Visits local historical sites, reviews property tax documents",
+        "sleep_schedule": "Early riser (5:30-6:00 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages chronic conditions via ConnectiCare (Medicare Advantage user)",
+        "mental_health": "Stays cognitively engaged through property research",
+        "work_life_balance": "Structured routine with clear separation of research/leisure time",
+        "health_related_digital_behavior": "Regularly checks insurance portals, no fitness app usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (compares multiple property records before acting)",
+        "brand_loyalty": "High (Fidelity, Amazon Prime, local news sources)",
+        "influence_factors": "Municipal records, financial advisor input",
+        "tech_adoption": "Mainstream user (avoids new tools without clear utility)",
+        "privacy_and_security_concerns": "Moderate (avoids unnecessary data sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "New England Anglophone",
+        "travel_habits": "Regional trips (CT/RI), no international travel",
+        "personal_projects": "Compiling local property ownership history",
+        "unexpected_behavioral_traits": "Passionate about women's college basketball despite limited sports interest otherwise"
+    }
+}

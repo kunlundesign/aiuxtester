@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Adelyn Vong",
+        "age": 38,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Winter Garden, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of Phoenix"
+        },
+        "occupation": "Student/Veteran Benefits Administrator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length straight hair",
+            "Skin color": "Light brown",
+            "Facial features": "Minimal makeup, rectangular glasses",
+            "Dress Style": "Casual (hoodies, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial independence, veteran advocacy, practical education",
+        "motivations": "Financial stability, academic completion, family security",
+        "cognitive_style": "Analytical problem-solver with structured approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused financial/technical queries (401k withdrawals, mortgage refinancing, Excel modeling)",
+        "ad_interactions": "High engagement with bankruptcy assistance, eyewear, and tax services ads",
+        "preferred_content_sources": "Government portals (SSA, VA), academic platforms (University of Phoenix), financial blogs",
+        "social_media_usage": "Low activity (primarily uses Gmail for communication)",
+        "ecommerce_behavior": "Budget-conscious (Pair Eyewear customization), tech accessories",
+        "device_usage": "Windows 11 desktop with Edge browser",
+        "subscriptions": "University portal alerts, VA health updates, Spectrum internet"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Financial management, veteran benefits systems, data analysis",
+        "hobbies": "Casual gaming (Sprunki/Incredibox mods), adult entertainment consumption",
+        "entertainment_preferences": "Military technology documentaries, ASMR restoration videos",
+        "content_consumption": "Technical guides (printer troubleshooting), financial regulations",
+        "learning_style": "Structured online courses with practical applications"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with occasional tech splurges (eyewear customization)",
+        "income_level": "$45k-$55k annually (veteran benefits + part-time work)",
+        "investment_habits": "Conservative (401k management focus)",
+        "financial_tools": "Turbotax, Principal retirement account, VA benefits portal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent worker with VA system collaboration",
+        "family_structure": "Single parent (implied by student aid searches and casual game interests)",
+        "friendship_circle": "Small trusted group (limited social media presence)",
+        "community_involvement": "Veteran support networks",
+        "online_vs_offline_engagement": "Prefers digital interactions for convenience"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks VA health portal, reviews academic deadlines",
+        "workday_habits": "Balances coursework with financial management tasks",
+        "evening_and_leisure": "Adult entertainment consumption, gaming sessions",
+        "weekend_activities": "Family time, home IT maintenance",
+        "sleep_schedule": "Late-night user (adult content peak hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "VA healthcare user, sedentary work style",
+        "mental_health": "Uses adult entertainment for stress relief",
+        "work_life_balance": "Compartmentalizes responsibilities strictly",
+        "health_related_digital_behavior": "My HealtheVet portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with government resource verification",
+        "brand_loyalty": "Prefers established brands (Ray-Ban, TurboTax)",
+        "influence_factors": "Official guidelines (VA, SSA), financial calculators",
+        "tech_adoption": "Mainstream user (Windows 11 early adopter)",
+        "privacy_and_security_concerns": "Moderate (avoids cloud storage for sensitive documents)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English primary, possible Asian-American heritage (surname patterns)",
+        "travel_habits": "Homebody with military-related curiosity",
+        "personal_projects": "Financial modeling spreadsheets, printer maintenance documentation",
+        "unexpected_behavioral_traits": "Combines analytical financial management with high adult content consumption"
+    }
+}

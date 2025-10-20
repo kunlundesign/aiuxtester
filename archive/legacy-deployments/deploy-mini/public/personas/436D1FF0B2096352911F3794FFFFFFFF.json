@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Kenneth Burton",
+        "age": 76,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Florence, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Retired",
+        "company": "Unknown",
+        "physical_attributes": {
+            "Height": "5'9\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes, clean-shaven",
+            "Dress Style": "Casual comfort (knit sweaters, relaxed-fit pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-sufficiency, value-conscious consumerism",
+        "motivations": "Maintaining cognitive engagement through hobbies, staying financially prudent",
+        "cognitive_style": "Structured problem-solving with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precise technical queries (knitting techniques) + broad commercial searches (shoes, groceries)",
+        "ad_interactions": "High engagement with comfort/footwear ads and budget deals",
+        "preferred_content_sources": "Niche crafting communities (Ravelry), big-box retailer sites, YouTube tutorials",
+        "social_media_usage": "Limited (YouTube tutorials, occasional Facebook)",
+        "ecommerce_behavior": "Budget-focused across multiple categories (crafting supplies, footwear, household items)",
+        "device_usage": "Desktop primary (Microsoft Edge browser, Windows OS)",
+        "subscriptions": "Unknown"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement hobby monetization strategies",
+        "hobbies": "Advanced knitting techniques, footwear research, home optimization",
+        "entertainment_preferences": "HGTV-style home shows, automotive documentaries",
+        "content_consumption": "Tutorial videos + deal-focused articles",
+        "learning_style": "Project-based video learning + community pattern sharing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused bulk purchases (Costco articles) + strategic luxury splurges (silk pillowcases)",
+        "income_level": "Fixed middle-class retirement income",
+        "investment_habits": "Conservative (monitors tariffs/financial news)",
+        "financial_tools": "Traditional credit cards, retailer-specific payment systems"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor (retired context)",
+        "family_structure": "Likely lives with spouse/partner (home goods purchases)",
+        "friendship_circle": "Crafting community connections (Ravelry interactions)",
+        "community_involvement": "Online knitting communities + local retail interactions",
+        "online_vs_offline_engagement": "Hybrid (digital research precedes in-store purchases)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News checking (MSN headlines) + project planning",
+        "workday_habits": "Hobby time management (knitting projects, tech troubleshooting)",
+        "evening_and_leisure": "Video tutorials + deal hunting",
+        "weekend_activities": "Crafting sessions, household optimization tasks",
+        "sleep_schedule": "Early riser (aligned with retail deal cycles)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Footwear-focused comfort (multiple shoe searches), possible light walking routine",
+        "mental_health": "Cognitive maintenance through complex patterns",
+        "work_life_balance": "Structured leisure-as-occupation",
+        "health_related_digital_behavior": "Ergonomic product research (pillowcases, footwear)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative researcher (multiple store visits before purchase)",
+        "brand_loyalty": "Conditional (Brooks/Hoka comparisons show willingness to switch)",
+        "influence_factors": "Community patterns (Ravelry projects), deal timing",
+        "tech_adoption": "Competent mainstream user (troubleshoots own devices)",
+        "privacy_and_security_concerns": "Basic caution (Microsoft support usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English monolingual",
+        "travel_habits": "Aspirational cruiser (multiple cruise research events)",
+        "personal_projects": "Complex knitting patterns (twin stitches), home optimization",
+        "unexpected_behavioral_traits": "Combines traditional craft with tech troubleshooting skills"
+    }
+}

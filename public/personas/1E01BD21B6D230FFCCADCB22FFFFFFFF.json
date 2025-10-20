@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Carter",
+        "age": 57,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Charleston, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Office Administration",
+            "institution": "Community College of West Virginia"
+        },
+        "occupation": "Administrative Assistant",
+        "company": "Government Office (Military Payroll)",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Full-figured",
+            "Hairstyle": "Short, practical cut with subtle highlights",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile, minimal makeup",
+            "Dress Style": "Casual-comfortable with occasional floral patterns"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Financial prudence, health consciousness, community safety",
+        "motivations": "Maintaining independence, staying informed, nurturing family connections",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on health solutions, senior housing, plus-size fashion, and financial management",
+        "ad_interactions": "High engagement with plus-size clothing and personal care ads",
+        "preferred_content_sources": "MSN News, Healthline, Realtor.com, Amazon product listings",
+        "social_media_usage": "Passive engagement on Facebook/Instagram for news and deals",
+        "ecommerce_behavior": "Frequent mid-price purchases in clothing, home goods, and groceries",
+        "device_usage": "Desktop for financial tasks, mobile for social media and quick searches",
+        "subscriptions": "Netflix, Amazon Prime, banking alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Military payroll systems, office efficiency tools",
+        "hobbies": "Cooking Italian dishes, DIY nail art, browsing celebrity fashion",
+        "entertainment_preferences": "Yellowstone series, Jennifer Hudson Show, light drama novels",
+        "content_consumption": "Mix of news articles and YouTube tutorials",
+        "learning_style": "Visual demonstrations with step-by-step guides"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on comfortable clothing",
+        "income_level": "$50,000-$65,000 annually",
+        "investment_habits": "Conservative (401k focus, low-risk options)",
+        "financial_tools": "United Bank online services, Capital One credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Reliable team player with discreet confidentiality",
+        "family_structure": "Empty nester, possibly caring for elderly relatives",
+        "friendship_circle": "Small close-knit group with shared community ties",
+        "community_involvement": "Nextdoor user for local updates, occasional church events",
+        "online_vs_offline_engagement": "Prefers in-person interactions but maintains digital connections"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks email, reviews bank balances, reads MSN headlines",
+        "workday_habits": "Structured tasks with scheduled breaks for health check-ins",
+        "evening_and_leisure": "Online shopping, recipe trials, streaming dramas",
+        "weekend_activities": "Apartment hunting, visiting family, browsing Etsy/Temu",
+        "sleep_schedule": "Early riser (6:30 AM) with consistent 7-hour sleep"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages weight through PHIX supplements, daily walks",
+        "mental_health": "Uses shopping as stress relief, values routine stability",
+        "work_life_balance": "Maintains strict office hours boundaries",
+        "health_related_digital_behavior": "Researches medications on Healthline, tracks militaryRx refills"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Methodical comparer of options with price alerts",
+        "brand_loyalty": "Prefers established brands (Woman Within, United Bank) but open to Temu deals",
+        "influence_factors": "User reviews, free return policies, celebrity endorsements",
+        "tech_adoption": "Mainstream user comfortable with essential digital tools",
+        "privacy_and_security_concerns": "Cautious with financial data, uses trusted sites"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Appalachian cultural roots",
+        "travel_habits": "Occasional regional trips, prefers family destinations",
+        "personal_projects": "Curating vintage Etsy collections, apartment redecorating",
+        "unexpected_behavioral_traits": "Enjoys edgy celebrity fashion despite practical personal style"
+    }
+}

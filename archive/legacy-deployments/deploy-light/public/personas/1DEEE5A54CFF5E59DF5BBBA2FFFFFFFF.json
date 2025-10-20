@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 61,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Hagerstown, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Trade/Technical Education",
+            "institution": "Unknown"
+        },
+        "occupation": "Handyman/Property Maintenance Contractor",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Stocky",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Fair",
+            "facial_features": "Wrinkles around eyes, clean-shaven",
+            "dress_style": "Practical workwear (cargo pants, utility shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Self-reliance, practical problem-solving",
+        "motivations": "Maintaining independence through skilled work",
+        "cognitive_style": "Structured problem-solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical home maintenance solutions, financial services, auction platforms",
+        "ad_interactions": "High engagement with tool/equipment ads",
+        "preferred_content_sources": "MSN News, YouTube tutorials, manufacturer websites",
+        "social_media_usage": "Passive engagement (Facebook, Instagram)",
+        "ecommerce_behavior": "Budget-conscious tool purchases, occasional luxury items",
+        "device_usage": "Desktop (Edge browser with Bing search)",
+        "subscriptions": "AOL Mail, YouTube channels about DIY repairs"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Equipment maintenance trends, auction markets",
+        "hobbies": "Home improvement projects, bargain hunting at auctions",
+        "entertainment_preferences": "Nostalgic 1960s-1980s content, true crime documentaries",
+        "content_consumption": "Practical tutorials & equipment reviews",
+        "learning_style": "Hands-on experimentation with visual guides"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with strategic equipment investments",
+        "income_level": "$45k-$60k annually",
+        "investment_habits": "Conservative (focuses on property/tools)",
+        "financial_tools": "Traditional banking (Chase, Orrstown Bank)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with repeat clients",
+        "family_structure": "Likely lives alone or with partner",
+        "friendship_circle": "Small network of trade professionals",
+        "community_involvement": "Local business networks",
+        "online_vs_offline_engagement": "Prefers face-to-face work interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks email/AOL account with coffee",
+        "workday_habits": "Schedules repair jobs via phone/email",
+        "evening_and_leisure": "Watches MSN news/YouTube tutorials",
+        "weekend_activities": "Attends local auctions, property maintenance",
+        "sleep_schedule": "Early riser (6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active through work",
+        "mental_health": "Stress management through practical projects",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Occasional insurance portal checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Practical cost-benefit analysis",
+        "brand_loyalty": "Prefers proven tool brands (DEWALT)",
+        "influence_factors": "Peer recommendations in trade communities",
+        "tech_adoption": "Mainstream user of essential digital tools",
+        "privacy_and_security_concerns": "Basic password management"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only speaker, Appalachian region influence",
+        "travel_habits": "Regional trips for equipment/auctions",
+        "personal_projects": "Restoring vintage tools/property flipping",
+        "unexpected_behavioral_traits": "Practical tradesperson with interest in abandoned location photography"
+    }
+}

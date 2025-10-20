@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Angela Carter",
+        "age": 46,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Summerfield, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Healthcare Administration",
+            "institution": "University of Maryland"
+        },
+        "occupation": "Healthcare Administrator",
+        "company": "Veterans Affairs Medical Center",
+        "physical attributes": {
+            "height": "5'7\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Medium",
+            "facial_features": "Minimal makeup, rectangular glasses",
+            "dress_style": "Business casual with scrubs for work"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Civic responsibility, financial literacy, healthcare accessibility",
+        "motivations": "Professional efficiency, family security, community impact",
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex financial/political queries (e.g., 'pros/cons communism'), precise product searches (e.g., 'yellow scrub pants')",
+        "ad_interactions": "High engagement with healthcare supplies (scrubs) and organic products",
+        "preferred_content_sources": "Government portals (VA.gov), financial sites (Forbes/Yahoo Finance), retail stores",
+        "social_media_usage": "Limited professional use",
+        "ecommerce_behavior": "Budget-conscious apparel shopping (Nordstrom Rack, Marshalls)",
+        "device_usage": "Desktop dominant (344 Bing sessions), Windows/Edge",
+        "subscriptions": "MSN News, financial newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare policy, benefits administration",
+        "hobbies": "Political research, bargain shopping",
+        "entertainment_preferences": "True crime podcasts (Hardly Initiated), celebrity news",
+        "content_consumption": "Factual articles with financial/political analysis",
+        "learning_style": "Self-directed research (tax/benefit queries)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (discount retailers), planned purchases",
+        "income_level": "$75k-$95k (government healthcare role)",
+        "investment_habits": "Conservative (tracking stock splits/HSA)",
+        "financial_tools": "HSA accounts, military payroll systems"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Structured collaboration (VA system experience)",
+        "family_structure": "Likely parent (baby sleep queries)",
+        "friendship_circle": "Small trusted group",
+        "community_involvement": "Local election participation",
+        "online_vs_offline_engagement": "Balanced digital/in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News review (MSN/Forbes), financial check",
+        "workday_habits": "Regulated schedule with benefits management",
+        "evening_and_leisure": "Podcasts, online shopping",
+        "weekend_activities": "Family time, retail therapy",
+        "sleep_schedule": "Early riser (government job alignment)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (scrub-wearing profession)",
+        "mental_health": "Structured coping (financial planning)",
+        "work_life_balance": "Compartmentalized",
+        "health_related_digital_behavior": "Organic product research (coconut oil)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based (political/financial queries)",
+        "brand_loyalty": "Value-driven (multiple discount retailers)",
+        "influence_factors": "Expert reviews, product specifications",
+        "tech_adoption": "Mainstream user (established platforms)",
+        "privacy_and_security_concerns": "Moderate (government system user)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, Maryland cultural influences",
+        "travel_habits": "Domestic (military site usage)",
+        "personal_projects": "Political campaign research",
+        "unexpected_behavioral_traits": "Fiscal conservative exploring socialist theory ('communism pros/cons')"
+    }
+}

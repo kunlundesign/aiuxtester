@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 67,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Bellingham, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Whatcom Community College"
+        },
+        "occupation": "Retired Financial Services Manager",
+        "company": "Unknown",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short silver-gray bob",
+            "skin_color": "Fair",
+            "facial_features": "Warm smile with glasses",
+            "dress_style": "Casual practical attire with occasional cruise-appropriate formalwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Community involvement, financial prudence, importance of legacy",
+        "motivations": "Maintaining independence, connecting with community, cultural exploration through travel",
+        "cognitive_style": "Detail-oriented planner who cross-references multiple sources"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services, cruise planning, obituaries, recipe research (8+ cruise-related searches, 5+ medical facility queries)",
+        "ad_interactions": "High engagement with travel/medical ads (12 cruise-related ad clicks)",
+        "preferred_content_sources": "Legacy.com, MSN News, Cruise Critic, local business websites",
+        "social_media_usage": "Facebook for community connections, Nextdoor for local updates (4 Facebook domain visits)",
+        "ecommerce_behavior": "Budget-conscious for daily needs but spends on travel experiences",
+        "device_usage": "Desktop-focused researcher with mobile for quick checks",
+        "subscriptions": "Microsoft 365, Local news alerts, Cruise line newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement financial management, senior travel communities",
+        "hobbies": "Cruise planning, community genealogy research, slow-cooker recipe testing",
+        "entertainment_preferences": "Political news analysis, culinary shows, classic soul music",
+        "content_consumption": "Detailed cruise ship reviews paired with quick recipe videos",
+        "learning_style": "Self-guided research with emphasis on user reviews and official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused on daily expenses but invests in premium travel experiences",
+        "income_level": "Middle-class retirement income",
+        "investment_habits": "Conservative with credit union savings (BECU/WECU domain dominance)",
+        "financial_tools": "Traditional banking products, cruise loyalty programs"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Former collaborative leader now focused on peer networks",
+        "family_structure": "Likely widowed/divorced with adult children (obituary search patterns)",
+        "friendship_circle": "Close-knit local group with cruise enthusiast connections",
+        "community_involvement": "Neighborhood watch participant, memorial event organizer",
+        "online_vs_offline_engagement": "Balanced digital research with in-person community interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking MSN political updates and local obituaries",
+        "workday_habits": "Financial management, medical appointments, trip planning sessions",
+        "evening_and_leisure": "Testing new crockpot recipes while watching news analysis",
+        "weekend_activities": "Local restaurant visits, cruise preparation shopping",
+        "sleep_schedule": "Early riser (5:30 AM) with afternoon rest periods"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages mobility needs (prosthetics/orthotics research)",
+        "mental_health": "Uses community engagement as emotional anchor",
+        "work_life_balance": "Structured retirement routine with travel goals",
+        "health_related_digital_behavior": "Researches medical facilities thoroughly before visits"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse planner who validates through multiple sources",
+        "brand_loyalty": "Strong preference for familiar cruise lines and local businesses",
+        "influence_factors": "Peer reviews, official certifications, historical performance",
+        "tech_adoption": "Competent mainstream user focused on practical applications",
+        "privacy_and_security_concerns": "Cautious with financial data but trusts established institutions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Scandinavian cultural influences",
+        "travel_habits": "Annual cruise itineraries focusing on Alaska/Hawaii (7+ cruise queries)",
+        "personal_projects": "Compiling family history through obituary archives",
+        "unexpected_behavioral_traits": "Combines meticulous cruise planning with impulsive local restaurant adventures"
+    }
+}

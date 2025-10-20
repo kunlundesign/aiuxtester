@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Rockland, United States",
+        "education": {
+            "degree": "Associate Degree (in progress)",
+            "major": "Business Administration",
+            "institution": "Gordon College"
+        },
+        "occupation": "Part-time Retail Associate",
+        "company": "Saks Fifth Avenue",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Slim",
+            "hairstyle": "Shoulder-length blonde waves",
+            "skin_color": "Fair",
+            "facial_features": "Round face with minimal makeup",
+            "dress_style": "Business-casual with designer accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESFJ",
+        "beliefs_and_values": "Christian faith, work ethic, fashion as self-expression",
+        "motivations": "Career advancement in retail/fashion, financial independence",
+        "cognitive_style": "Practical decision-maker with aesthetic sensitivity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Fashion research (75%), health/safety queries (15%), religious lyrics (10%)",
+        "ad_interactions": "High engagement with luxury fashion/jewelry ads",
+        "preferred_content_sources": "Premium retail sites, MSNBC political news, Christian music platforms",
+        "social_media_usage": "Passive Instagram/Facebook browsing, active Pinterest curation",
+        "ecommerce_behavior": "Mid-range luxury purchases with occasional high-end splurges",
+        "device_usage": "Mobile-first (iOS), Edge browser for shopping",
+        "subscriptions": "Saks email alerts, Nordstrom Anniversary Sale updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Luxury retail trends, visual merchandising",
+        "hobbies": "Choir participation, jewelry crafting, political news analysis",
+        "entertainment_preferences": "Contemporary Christian music, political dramas",
+        "content_consumption": "Fashion lookbooks (70%), news/politics (30%)",
+        "learning_style": "Visual tutorials combined with hands-on practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for essentials, splurges on statement jewelry",
+        "income_level": "$25k-$35k annually",
+        "investment_habits": "Conservative (focuses on employee discount programs)",
+        "financial_tools": "Store credit cards, PayPal, Apple Pay"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player seeking mentorship",
+        "family_structure": "Lives with parents and one sibling",
+        "friendship_circle": "Church group connections, work colleagues",
+        "community_involvement": "Church volunteer (holiday events)",
+        "online_vs_offline_engagement": "60% digital communication, 40% in-person interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN political headlines during commute",
+        "workday_habits": "Balances retail shifts with mobile browsing",
+        "evening_and_leisure": "Online window shopping, lyric analysis",
+        "weekend_activities": "Mall visits, church choir practice",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Intermittent 10-minute workouts, avoids processed foods",
+        "mental_health": "Uses religious music for stress relief",
+        "work_life_balance": "Prioritizes work experience over leisure",
+        "health_related_digital_behavior": "Occasional health fact-checking (e.g., phone radiation)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison shopper with brand preferences",
+        "brand_loyalty": "Sticks to known luxury brands but explores dupes",
+        "influence_factors": "Celebrity endorsements, product visual appeal",
+        "tech_adoption": "Mainstream user (waits for UI refinements)",
+        "privacy_and_security_concerns": "Basic precautions (avoids public Wi-Fi for purchases)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Caribbean cultural exposure",
+        "travel_habits": "Local day trips, Caribbean family visits biennially",
+        "personal_projects": "Building jewelry resale Instagram account",
+        "unexpected_behavioral_traits": "Political moderate analyzing both liberal/conservative perspectives"
+    }
+}

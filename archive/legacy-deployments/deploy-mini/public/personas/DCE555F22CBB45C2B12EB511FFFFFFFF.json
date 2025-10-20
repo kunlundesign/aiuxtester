@@ -1,0 +1,185 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Thompson",
+        "age": 49,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Roseville, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Construction Management",
+            "institution": "Local Community College"
+        },
+        "occupation": "Construction Business Owner",
+        "company": "Thompson Contracting Services",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with slight wrinkles",
+            "dress_style": "Work boots and casual polo shirts during weekdays"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": [
+            "Business ethics",
+            "Military appreciation",
+            "Financial independence"
+        ],
+        "motivations": [
+            "Business expansion",
+            "Family security",
+            "Operational efficiency"
+        ],
+        "cognitive_style": "Practical problem-solver with emphasis on documented solutions"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Construction equipment specifications",
+            "Business compliance documentation",
+            "Local service providers"
+        ],
+        "ad_interactions": [
+            "Industrial equipment",
+            "Veteran-themed merchandise",
+            "Automotive diagnostics tools"
+        ],
+        "preferred_content_sources": [
+            "Industry-specific websites",
+            "MSN political news",
+            "Banking portals"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "LinkedIn",
+                "YouTube"
+            ],
+            "frequency": "Weekly",
+            "engagement": "Passive content consumption"
+        },
+        "ecommerce_behavior": {
+            "spending": "Business-related purchases",
+            "categories": [
+                "Construction tools",
+                "Safety equipment",
+                "Office supplies"
+            ]
+        },
+        "device_usage": {
+            "primary": "Desktop",
+            "os": "Windows 10",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "US Bank alerts",
+            "Construction industry newsletters",
+            "NFL updates"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Equipment financing",
+            "Payroll compliance",
+            "Construction safety standards"
+        ],
+        "hobbies": [
+            "NFL following",
+            "Classic car maintenance",
+            "Local history research"
+        ],
+        "entertainment_preferences": {
+            "music": "Classic rock",
+            "movies": "Action films",
+            "authors": "Biographical non-fiction"
+        },
+        "content_consumption": [
+            "Industry reports",
+            "Political commentary",
+            "Sports analytics"
+        ],
+        "learning_style": "Workshop-based training with hands-on demonstrations"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented business purchases",
+        "income_level": "$80,000-$100,000 annually",
+        "investment_habits": "Conservative business reinvestment",
+        "financial_tools": [
+            "US Bank commercial accounts",
+            "QuickBooks Online",
+            "Payroll software"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Vendor-focused networking",
+        "family_structure": "Married with teenage children",
+        "friendship_circle": "Industry colleagues and veteran connections",
+        "community_involvement": [
+            "Local business association",
+            "Veteran support organizations"
+        ],
+        "online_vs_offline_engagement": "Prefers in-person business meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": [
+            "Email/account balance checks",
+            "Industry news review"
+        ],
+        "workday_habits": [
+            "Site inspections",
+            "Equipment maintenance",
+            "Compliance documentation"
+        ],
+        "evening_and_leisure": [
+            "Family dinners",
+            "Sports highlights",
+            "Equipment research"
+        ],
+        "weekend_activities": [
+            "Car maintenance projects",
+            "Local historical sites",
+            "Family outings"
+        ],
+        "sleep_schedule": "11 PM - 6 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": [
+            "Moderate activity through work",
+            "Occasional weekend hikes"
+        ],
+        "mental_health": "Stress management through structured routines",
+        "work_life_balance": "Clear separation between business and family time",
+        "health_related_digital_behavior": [
+            "Insurance portal usage",
+            "Ergonomics research"
+        ]
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis with vendor references",
+        "brand_loyalty": "Prefers established equipment brands",
+        "influence_factors": [
+            "Peer recommendations",
+            "Warranty terms",
+            "Durability testing"
+        ],
+        "tech_adoption": "Strategic adoption of proven business technologies",
+        "privacy_and_security_concerns": "Regular password updates and 2FA usage"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with military culture appreciation",
+        "travel_habits": "Occasional business trips to trade shows",
+        "personal_projects": [
+            "Restoring vintage construction equipment",
+            "Local business history archive"
+        ],
+        "unexpected_behavioral_traits": "Combines practical business mindset with nostalgic interest in historical military gear"
+    }
+}

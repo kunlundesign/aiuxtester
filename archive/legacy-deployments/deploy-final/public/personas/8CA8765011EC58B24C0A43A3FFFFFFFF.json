@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Smith",
+        "age": 64,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Prairie Village, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Arts and Crafts",
+            "institution": "Local Community College"
+        },
+        "occupation": "Retired Craft Store Manager",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short grey bob",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile with reading glasses",
+            "Dress Style": "Casual comfort with vintage-inspired accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Community preservation, traditional craftsmanship, financial responsibility",
+        "motivations": "Maintaining cognitive activity through crafts, preserving family traditions, staying connected with local community",
+        "cognitive_style": "Practical problem-solver with nostalgic tendencies"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-session research (craft supplies, medical info), local business lookups, recipe deep-dives",
+        "ad_interactions": "High engagement with gaming/craft ads, moderate response to fashion/retail",
+        "preferred_content_sources": "MSN News, Etsy blogs, recipe websites, local news portals",
+        "social_media_usage": "Limited (passive news consumption via MSN)",
+        "ecommerce_behavior": "Budget-conscious home/kitchen purchases, seasonal decor spending",
+        "device_usage": "Desktop primary (Edge browser), mobile for quick checks",
+        "subscriptions": "Vegas World premium account, local news alerts, recipe newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Textile arts trends, small business management",
+        "hobbies": "Cross-stitching, vintage decoration restoration, casual gaming",
+        "entertainment_preferences": "Classic country music (Kenny Chesney), British period dramas",
+        "content_consumption": "Recipe tutorials, DIY craft videos, local human-interest stories",
+        "learning_style": "Pattern-based visual learning through craft kits"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional vintage splurges",
+        "income_level": "Fixed retirement income",
+        "investment_habits": "Conservative (CDs/municipal bonds)",
+        "financial_tools": "Credit One credit card, Amazon Prime rewards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative team leader",
+        "family_structure": "Empty nester with adult children",
+        "friendship_circle": "Church group and crafting circle members",
+        "community_involvement": "Local historical society volunteer",
+        "online_vs_offline_engagement": "Hybrid (offline socializing with digital coordination)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with Outlook email check, local news review",
+        "workday_habits": "Scheduled crafting time, afternoon gaming sessions",
+        "evening_and_leisure": "Recipe experimentation, family Zoom calls",
+        "weekend_activities": "Antique mall visits, cemetery preservation volunteering",
+        "sleep_schedule": "Early riser (10PM-6AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking routine, manages arthritis",
+        "mental_health": "Crafts as stress relief, puzzles for cognition",
+        "work_life_balance": "Structured retirement activities",
+        "health_related_digital_behavior": "WebMD research, AdventHealth patient portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison shopper with vintage bias",
+        "brand_loyalty": "Strong to Amazon/Etsy, experimental with new craft brands",
+        "influence_factors": "Family traditions, product durability reviews",
+        "tech_adoption": "Competent mainstream user with gaming exceptions",
+        "privacy_and_security_concerns": "Basic precautions (email hygiene)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern values with Italian-American culinary influences",
+        "travel_habits": "Regional day trips, Las Vegas nostalgia trips",
+        "personal_projects": "Family recipe compilation, vintage ornament restoration",
+        "unexpected_behavioral_traits": "Tech-savvy casino gamer maintaining traditional craft skills"
+    }
+}

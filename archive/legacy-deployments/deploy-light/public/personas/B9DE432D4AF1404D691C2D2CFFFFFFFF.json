@@ -1,0 +1,92 @@
+{
+    "Core_Identity": {
+        "full_name": "Walter Dawson",
+        "age": 74,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Rio Rancho, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Vocational Trade (Woodworking/Machinery)",
+            "institution": "unknown"
+        },
+        "occupation": "Retired Craftsman/Tradesman",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average build",
+            "Hairstyle": "Short gray hair",
+            "Skin_color": "Fair",
+            "Facial_features": "Wrinkles around eyes from prolonged workshop activity",
+            "Dress_Style": "Practical workwear (denim/canvas shirts, durable pants)"
+        }
+    },
+    "Psychographics_&_Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Self-reliance, craftsmanship preservation, financial pragmatism",
+        "motivations": "Maintaining workshop productivity, preserving antique tools, financial security monitoring",
+        "cognitive_style": "Detail-oriented practical problem-solving"
+    },
+    "Digital_Behavior_&_Online_Habits": {
+        "search_patterns": "Precision tool specifications (e.g., 'record 05c jack plane'), banking security features, workshop ergonomics",
+        "ad_interactions": "High engagement with woodworking tools (3/8 ads clicked), moderate with home appliances",
+        "preferred_content_sources": "Specialized forums (woodworking), eBay for vintage tools, MSN for sports/news",
+        "social_media_usage": "Minimal active use; passive news consumption via MSN",
+        "ecommerce_behavior": "Budget-focused purchases (Temu/Amazon deals), occasional splurges on collectibles",
+        "device_usage": "Desktop primary (banking/tool research), Edge browser",
+        "subscriptions": "NBA updates, local weather alerts, banking notifications"
+    },
+    "Interests_&_Preferences": {
+        "professional_interests": "Antique tool restoration techniques, workshop safety standards",
+        "hobbies": "Woodworking, vintage aircraft model collection, NBA analysis",
+        "entertainment_preferences": "Sports broadcasts (Bucks games), DIY project videos, classic rock",
+        "content_consumption": "Technical guides >80% (e.g., plane restoration), brief news updates",
+        "learning_style": "Self-learning through manuals/forums"
+    },
+    "Economic_&_Financial_Profile": {
+        "spending_patterns": "Budget-conscious for essentials (Workshop mats), strategic splurges on collectibles",
+        "income_level": "Fixed retirement income + precious metal investments",
+        "investment_habits": "Conservative (gold/silver holdings per livepriceofgold.com visits)",
+        "financial_tools": "Traditional banking (Bank of Albuquerque), limited e-wallet use"
+    },
+    "Social_&_Relational_Dynamics": {
+        "work_relationships": "Independent operator, occasional tool trading networks",
+        "family_structure": "Likely lives alone (Silver Singles ad interaction)",
+        "friendship_circle": "Small group of fellow craftsmen",
+        "community_involvement": "Local woodworking guild participation",
+        "online_vs_offline_engagement": "85% offline workshop activity, 15% online research"
+    },
+    "Daily_&_Lifestyle_Patterns": {
+        "morning_routine": "Check bank balance → Review workshop project list",
+        "workday_habits": "4-6hr workshop sessions with MSN background news",
+        "evening_and_leisure": "NBA game viewings, tool restoration projects",
+        "weekend_activities": "Estate sales for tools, home maintenance (HD/Lowes visits)",
+        "sleep_schedule": "Early riser (5:30AM) with afternoon naps"
+    },
+    "Health_&_Well-being": {
+        "physical_health": "Moderate activity through workshop labor, ergonomic focus (stool padding searches)",
+        "mental_health": "Project-based stress management, no digital health tracking",
+        "work_life_balance": "Workshop integration into daily routine",
+        "health_related_digital_behavior": "Ergonomics research only"
+    },
+    "Decision-Making_&_Behavioral_Insights": {
+        "decision_making_style": "Research-intensive (e.g., 80+ bank logins for security verification)",
+        "brand_loyalty": "Strong to legacy tool brands (Record/Stanley planes)",
+        "influence_factors": "Historical product reliability, peer recommendations",
+        "tech_adoption": "Functional user (removes ads but doesn't explore upgrades)",
+        "privacy_and_security_concerns": "High for banking, low elsewhere"
+    },
+    "Other_Unique_Attributes_&_Contextual_Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southwestern U.S. cultural influences",
+        "travel_habits": "Local/regional only (workshop-centric lifestyle)",
+        "personal_projects": "Antique tool museum-grade restoration",
+        "unexpected_behavioral_traits": "Combines financial conservatism with collectible aircraft model purchases"
+    }
+}

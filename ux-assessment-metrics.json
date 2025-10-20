@@ -1,0 +1,299 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-10-16",
+  "description": "Core UX assessment metrics for LLM evaluation - Usability, Accessibility, Visual Design",
+  
+  "evaluationDimensions": {
+    "usability": {
+      "name": "Usability",
+      "framework": "Nielsen's 10 Heuristics",
+      "weight": 0.35,
+      "principles": [
+        {
+          "id": "visibility-system-status",
+          "name": "Visibility of system status",
+          "checkpoints": ["Loading states", "Progress indicators", "Status feedback", "Real-time updates"]
+        },
+        {
+          "id": "match-system-real-world",
+          "name": "Match system and real world",
+          "checkpoints": ["Natural language", "Familiar metaphors", "User-centric terminology", "Cultural appropriateness"]
+        },
+        {
+          "id": "user-control-freedom",
+          "name": "User control and freedom",
+          "checkpoints": ["Undo/Redo", "Clear cancel", "Easy exits", "Non-destructive previews"]
+        },
+        {
+          "id": "consistency-standards",
+          "name": "Consistency and standards",
+          "checkpoints": ["Consistent UI patterns", "Platform conventions", "Uniform terminology", "Predictable behavior"]
+        },
+        {
+          "id": "error-prevention",
+          "name": "Error prevention",
+          "checkpoints": ["Input validation", "Confirmation dialogs", "Helpful defaults", "Clear constraints"]
+        },
+        {
+          "id": "recognition-recall",
+          "name": "Recognition rather than recall",
+          "checkpoints": ["Visible options", "Clear labels", "Contextual help", "Recently used items"]
+        },
+        {
+          "id": "flexibility-efficiency",
+          "name": "Flexibility and efficiency",
+          "checkpoints": ["Keyboard shortcuts", "Bulk operations", "Customization", "Progressive disclosure"]
+        },
+        {
+          "id": "aesthetic-minimalist",
+          "name": "Aesthetic and minimalist design",
+          "checkpoints": ["Visual hierarchy", "Focused content", "Reduced cognitive load", "Essential information"]
+        },
+        {
+          "id": "error-recovery",
+          "name": "Error recognition and recovery",
+          "checkpoints": ["Clear error messages", "Problem identification", "Recovery steps", "Contextual placement"]
+        },
+        {
+          "id": "help-documentation",
+          "name": "Help and documentation",
+          "checkpoints": ["Searchable help", "Context-sensitive", "Clear onboarding", "Accessible guides"]
+        }
+      ]
+    },
+    
+    "accessibility": {
+      "name": "Accessibility",
+      "framework": "WCAG POUR",
+      "weight": 0.30,
+      "principles": [
+        {
+          "id": "perceivable",
+          "name": "Perceivable",
+          "guidelines": [
+            {
+              "id": "text-alternatives",
+              "name": "Text Alternatives",
+              "wcagRef": "1.1.1",
+              "level": "A",
+              "checkpoints": ["Alt text for images", "Video captions", "Audio transcripts", "Descriptive links"]
+            },
+            {
+              "id": "adaptable",
+              "name": "Adaptable",
+              "wcagRef": "1.3",
+              "level": "A",
+              "checkpoints": ["Semantic HTML", "Heading hierarchy", "Meaningful sequence", "Orientation independence"]
+            },
+            {
+              "id": "distinguishable",
+              "name": "Distinguishable",
+              "wcagRef": "1.4",
+              "level": "AA",
+              "checkpoints": ["Contrast ≥4.5:1 normal text", "Contrast ≥3:1 large text", "Text resize 200%", "Focus visible", "No images of text"]
+            }
+          ]
+        },
+        {
+          "id": "operable",
+          "name": "Operable",
+          "guidelines": [
+            {
+              "id": "keyboard-accessible",
+              "name": "Keyboard Accessible",
+              "wcagRef": "2.1",
+              "level": "A",
+              "checkpoints": ["All functions keyboard accessible", "No keyboard traps", "Logical focus order"]
+            },
+            {
+              "id": "navigable",
+              "name": "Navigable",
+              "wcagRef": "2.4",
+              "level": "AA",
+              "checkpoints": ["Skip links", "Descriptive titles", "Clear link purpose", "Multiple navigation paths", "Descriptive headings"]
+            },
+            {
+              "id": "input-modalities",
+              "name": "Input Modalities",
+              "wcagRef": "2.5",
+              "level": "AA",
+              "checkpoints": ["Touch targets ≥44x44px", "Single pointer operable", "Label in name", "Motion cancellable"]
+            }
+          ]
+        },
+        {
+          "id": "understandable",
+          "name": "Understandable",
+          "guidelines": [
+            {
+              "id": "readable",
+              "name": "Readable",
+              "wcagRef": "3.1",
+              "level": "A",
+              "checkpoints": ["Language specified", "Unusual words explained", "Abbreviations expanded"]
+            },
+            {
+              "id": "predictable",
+              "name": "Predictable",
+              "wcagRef": "3.2",
+              "level": "AA",
+              "checkpoints": ["No unexpected changes on focus", "Consistent navigation", "Consistent identification"]
+            },
+            {
+              "id": "input-assistance",
+              "name": "Input Assistance",
+              "wcagRef": "3.3",
+              "level": "AA",
+              "checkpoints": ["Error identification", "Labels provided", "Error suggestions", "Error prevention"]
+            }
+          ]
+        },
+        {
+          "id": "robust",
+          "name": "Robust",
+          "guidelines": [
+            {
+              "id": "compatible",
+              "name": "Compatible",
+              "wcagRef": "4.1",
+              "level": "A",
+              "checkpoints": ["Valid HTML", "Name/role/value for UI components", "Status messages", "Proper ARIA"]
+            }
+          ]
+        }
+      ]
+    },
+    
+    "visual": {
+      "name": "Visual Design",
+      "framework": "12 Principles",
+      "weight": 0.35,
+      "principles": [
+        {
+          "id": "hierarchy",
+          "name": "Hierarchy",
+          "checkpoints": ["Visual importance levels", "Prominent primary actions", "Content grouping", "Scannable architecture"]
+        },
+        {
+          "id": "balance",
+          "name": "Balance",
+          "checkpoints": ["Visual weight distribution", "Stability and structure", "Intentional placement"]
+        },
+        {
+          "id": "contrast",
+          "name": "Contrast",
+          "checkpoints": ["Adequate color contrast", "Size contrast", "Texture variation", "Typography contrast"]
+        },
+        {
+          "id": "repetition",
+          "name": "Repetition",
+          "checkpoints": ["Consistent palette", "Visual patterns", "Uniform components", "Systematic spacing"]
+        },
+        {
+          "id": "proximity",
+          "name": "Proximity",
+          "checkpoints": ["Related items grouped", "Clear group spacing", "Visual relationships", "Logical organization"]
+        },
+        {
+          "id": "alignment",
+          "name": "Alignment",
+          "checkpoints": ["Edge alignment", "Grid-based layout", "Vertical/horizontal rhythm", "Clean visual lines"]
+        },
+        {
+          "id": "white-space",
+          "name": "White Space",
+          "checkpoints": ["Adequate breathing room", "Macro/micro spacing", "Not cramped", "Visual rest"]
+        },
+        {
+          "id": "color",
+          "name": "Color",
+          "checkpoints": ["Consistent system", "Accessible combinations", "Clear meaning", "Brand alignment"]
+        },
+        {
+          "id": "typography",
+          "name": "Typography",
+          "checkpoints": ["≥16px body text", "1.5 line-height", "50-75 char line length", "Clear hierarchy", "Proper spacing"]
+        },
+        {
+          "id": "imagery",
+          "name": "Imagery",
+          "checkpoints": ["High quality", "Purposeful use", "Consistent style", "Optimized files"]
+        },
+        {
+          "id": "grid-systems",
+          "name": "Grid Systems",
+          "checkpoints": ["Column structure", "Responsive breakpoints", "Systematic gutters", "Modular layout"]
+        },
+        {
+          "id": "consistency",
+          "name": "Consistency",
+          "checkpoints": ["Component library", "Unified patterns", "Systematic styling", "Predictable interactions"]
+        }
+      ]
+    }
+  },
+  
+  "scoringGuidelines": {
+    "range": {"min": 0, "max": 100},
+    "bands": {
+      "excellent": {"range": "90-100", "desc": "Exemplary, exceeds standards"},
+      "good": {"range": "75-89", "desc": "Solid with minor improvements"},
+      "fair": {"range": "60-74", "desc": "Acceptable with notable issues"},
+      "poor": {"range": "40-59", "desc": "Significant UX issues"},
+      "critical": {"range": "0-39", "desc": "Critical problems"}
+    },
+    "severity": {
+      "high": {"desc": "Blocks functionality/creates barriers", "impact": "-10 to -20 points"},
+      "medium": {"desc": "Creates friction, workarounds exist", "impact": "-5 to -10 points"},
+      "low": {"desc": "Minor polish issues", "impact": "-1 to -5 points"}
+    }
+  },
+  
+  "contextualFrameworks": {
+    "mobile": ["Touch ≥44px", "Thumb-friendly CTAs", "Gestures", "Vertical scrolling", "One-handed", "Network aware", "Screen adaptability"],
+    "desktop": ["Keyboard shortcuts", "Multi-window", "Hover states", "High density OK", "Mouse/trackpad optimized", "Large screen utilization"],
+    "tablet": ["Touch ≥44px", "Landscape/portrait", "Two-column layouts", "Gesture navigation", "Apple Pencil/stylus support"],
+    "flow": ["Progress indication", "Consistent navigation", "Context preservation", "Logical progression", "Easy back", "Save/resume", "Clear completion"],
+    "form": ["Clear labels", "Inline validation", "Smart defaults", "Helpful placeholders", "Error recovery", "Progress saving", "Autocomplete"],
+    "dataVisualization": ["Clear labels", "Accessible colors", "Interactive tooltips", "Responsive charts", "Export options", "Alternative text"]
+  },
+  
+  "commonIssues": {
+    "accessibility": [
+      {"issue": "Contrast <4.5:1", "wcag": "1.4.3", "severity": "high", "fix": "Increase to ≥4.5:1 normal, ≥3:1 large"},
+      {"issue": "Missing alt text", "wcag": "1.1.1", "severity": "high", "fix": "Add descriptive alt for informative images"},
+      {"issue": "Touch target <44px", "wcag": "2.5.5", "severity": "medium", "fix": "Increase to ≥44x44px"},
+      {"issue": "No visible focus", "wcag": "2.4.7", "severity": "high", "fix": "Add clear focus indicators"},
+      {"issue": "Form without labels", "wcag": "3.3.2", "severity": "high", "fix": "Add visible or ARIA labels"},
+      {"issue": "Flashing content >3Hz", "wcag": "2.3.1", "severity": "high", "fix": "Remove or reduce flash frequency"},
+      {"issue": "Keyboard trap", "wcag": "2.1.2", "severity": "high", "fix": "Ensure keyboard exit available"},
+      {"issue": "No skip link", "wcag": "2.4.1", "severity": "medium", "fix": "Add skip to main content link"},
+      {"issue": "Improper heading hierarchy", "wcag": "1.3.1", "severity": "medium", "fix": "Use semantic heading levels"},
+      {"issue": "Color-only meaning", "wcag": "1.4.1", "severity": "high", "fix": "Add icons/text with color"}
+    ],
+    "usability": [
+      {"issue": "Weak CTA prominence", "heuristic": "aesthetic-minimalist", "severity": "medium", "fix": "Increase visual weight via size/color/position"},
+      {"issue": "No loading state", "heuristic": "visibility-system-status", "severity": "medium", "fix": "Add spinners/progress bars"},
+      {"issue": "No error prevention", "heuristic": "error-prevention", "severity": "high", "fix": "Add confirmation for destructive actions"},
+      {"issue": "Inconsistent navigation", "heuristic": "consistency-standards", "severity": "medium", "fix": "Standardize patterns across screens"},
+      {"issue": "Hidden undo/redo", "heuristic": "user-control-freedom", "severity": "medium", "fix": "Make undo accessible"},
+      {"issue": "Jargon in UI", "heuristic": "match-system-real-world", "severity": "medium", "fix": "Use plain language"},
+      {"issue": "No shortcuts", "heuristic": "flexibility-efficiency", "severity": "low", "fix": "Add keyboard shortcuts for power users"},
+      {"issue": "Memory burden", "heuristic": "recognition-recall", "severity": "medium", "fix": "Make options visible, reduce recall"},
+      {"issue": "Vague errors", "heuristic": "error-recovery", "severity": "high", "fix": "Provide specific, actionable error messages"},
+      {"issue": "No help access", "heuristic": "help-documentation", "severity": "low", "fix": "Add accessible help/onboarding"}
+    ],
+    "visual": [
+      {"issue": "Weak hierarchy", "principle": "hierarchy", "severity": "medium", "fix": "Use size/color/spacing for importance"},
+      {"issue": "Cramped layout", "principle": "white-space", "severity": "low", "fix": "Increase spacing between elements"},
+      {"issue": "Inconsistent components", "principle": "consistency", "severity": "medium", "fix": "Create unified design system"},
+      {"issue": "Poor alignment", "principle": "alignment", "severity": "low", "fix": "Use grid system for alignment"},
+      {"issue": "Low contrast", "principle": "contrast", "severity": "medium", "fix": "Increase visual distinction"},
+      {"issue": "Unrelated items grouped", "principle": "proximity", "severity": "medium", "fix": "Group related, separate unrelated"},
+      {"issue": "Visual imbalance", "principle": "balance", "severity": "low", "fix": "Redistribute visual weight"},
+      {"issue": "Unclear color meaning", "principle": "color", "severity": "medium", "fix": "Define consistent color system"},
+      {"issue": "Poor typography", "principle": "typography", "severity": "medium", "fix": "≥16px, 1.5 line-height, clear hierarchy"},
+      {"issue": "Off-grid layout", "principle": "grid-systems", "severity": "low", "fix": "Align to consistent grid"}
+    ]
+  }
+}

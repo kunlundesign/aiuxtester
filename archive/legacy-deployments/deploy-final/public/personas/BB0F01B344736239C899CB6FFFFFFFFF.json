@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 58,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Decatur, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Georgia"
+        },
+        "occupation": "Healthcare Administrator",
+        "company": "Grady Health System",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, graying",
+            "Skin color": "Medium Brown",
+            "Facial features": "Clean-shaven, rectangular glasses",
+            "Dress Style": "Casual (polo shirts, khakis) for leisure; business casual for work"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial independence, community empowerment, skepticism toward political establishments",
+        "motivations": "Retirement security, skill development (medical coding), gardening mastery",
+        "cognitive_style": "Practical problem-solver with strategic planning orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent gardening tutorials, boxing match results, financial planning, political news",
+        "ad_interactions": "High engagement with home/garden products (CritterGuard fence ads clicked), medical coding courses (AAPC ads)",
+        "preferred_content_sources": "YouTube tutorials, MSN news, financial portals (Fidelity), niche blogs (AAPC)",
+        "social_media_usage": "Passive Facebook/LinkedIn browsing (16+14 domain visits), YouTube content consumption",
+        "ecommerce_behavior": "Budget-conscious (MetroPCS plan), occasional splurges on gardening tools",
+        "device_usage": "Desktop-primary (financial management), mobile-secondary (quick searches)",
+        "subscriptions": "MSN Premium, YouTube Premium (ad-free experience)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare compliance (AAPC interactions), retirement planning trends",
+        "hobbies": "Urban gardening (veggie/collard greens searches), boxing fandom, casino gaming videos",
+        "entertainment_preferences": "Political commentary (Trump/Zelensky content), boxing matches, slot machine streams",
+        "content_consumption": "Video tutorials (gardening/cooking), long-form political analysis",
+        "learning_style": "Self-directed video learning (Cuisinart tutorials), structured certification courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (Home Depot purchases), planned investments (Fidelity logins)",
+        "income_level": "$75,000-$90,000 (Healthcare admin role)",
+        "investment_habits": "Moderate-risk (401k management via VALIC)",
+        "financial_tools": "Traditional banking, employer-sponsored retirement accounts"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Hierarchy-respectful (LinkedIn usage), team-oriented leadership",
+        "family_structure": "Empty nester (high personal project focus)",
+        "friendship_circle": "Small group (limited social media interactions)",
+        "community_involvement": "Local gardening clubs, African-American economic empowerment content engagement",
+        "online_vs_offline_engagement": "70% digital (news/research), 30% in-person (gardening stores)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN political updates, LinkedIn check",
+        "workday_habits": "Structured office hours with lunchtime boxing updates",
+        "evening_and_leisure": "Garden maintenance, casino streaming videos",
+        "weekend_activities": "Home improvement projects, boxing match viewings",
+        "sleep_schedule": "Early riser (5:30 AM bed by 10 PM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light gardening exercise, Southern cuisine cooking (fried chicken recipes)",
+        "mental_health": "News consumption as stressor, gardening as relaxation",
+        "work_life_balance": "Compartmentalized (strict work hours vs. personal time)",
+        "health_related_digital_behavior": "Reactive WebMD checks, no sustained fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (multiple boxing result verifications)",
+        "brand_loyalty": "Home Depot/Amazon reliance, MetroPCS long-term use",
+        "influence_factors": "Expert reviews (boxing analysts), financial advisor input",
+        "tech_adoption": "Mainstream user (no crypto interest)",
+        "privacy_and_security_concerns": "Basic precautions (SSA.gov logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "African-American Southern roots",
+        "travel_habits": "Occasional Vegas trips (lowrider/slots interest)",
+        "personal_projects": "Square-foot gardening optimization",
+        "unexpected_behavioral_traits": "Combines financial conservatism with casino entertainment viewing"
+    }
+}

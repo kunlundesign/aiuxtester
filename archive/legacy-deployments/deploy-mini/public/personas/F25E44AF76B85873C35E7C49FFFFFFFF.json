@@ -1,0 +1,85 @@
+{
+    "Core Identity": {
+        "full_name": "Jason Mitchell",
+        "age": 31,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Los Angeles, Georgia, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Criminal Justice or Data Analytics",
+            "institution": "Unknown (online learning focus evident)"
+        },
+        "occupation": "Freelance Investigator/Entrepreneur",
+        "company": "Freelance",
+        "physical_attributes": "Unknown (no behavioral signals)"
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology optimism, career flexibility",
+        "motivations": "Professional certification, side business development",
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (SQL, certifications) mixed with entertainment/leisure topics",
+        "ad_interactions": "High engagement with educational/travel ads",
+        "preferred_content_sources": "YouTube, Reddit, official certification portals",
+        "social_media_usage": "YouTube (active), Instagram (passive)",
+        "ecommerce_behavior": "Cross-border shipping research, budget-conscious tools",
+        "device_usage": "Desktop dominant for certification research",
+        "subscriptions": "Codecademy, Alison courses, wrestling/MMA content"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Data analytics certifications, private investigation licensing",
+        "hobbies": "Comedy specials, sports analytics modding (Cheat Engine usage)",
+        "entertainment_preferences": "Rap music diss tracks, true crime documentaries",
+        "content_consumption": "Tutorial videos + long-form investigative content",
+        "learning_style": "Self-directed online courses with certification goals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with strategic luxury spends (spa research)",
+        "income_level": "$45k-$65k (freelance work)",
+        "investment_habits": "Conservative (no observable signals)",
+        "financial_tools": "American Express, international money transfers"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor model",
+        "family_structure": "Unknown (no behavioral signals)",
+        "friendship_circle": "Niche online communities (wrestling/data analytics)",
+        "community_involvement": "None evident",
+        "online_vs_offline_engagement": "80% online/20% offline"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News scanning (MSN events) + certification study",
+        "workday_habits": "Client research mixed with skill development",
+        "evening_and_leisure": "YouTube comedy/sports analysis videos",
+        "weekend_activities": "Local sports events, online gaming modding",
+        "sleep_schedule": "Late night (tech usage patterns)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate fitness (outdoor activity interest via Warrior Creek searches)",
+        "mental_health": "Stress relief through comedy consumption",
+        "work_life_balance": "Work-leaning integration",
+        "health_related_digital_behavior": "Spa/cleanse research, no sustained patterns"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with certification focus",
+        "brand_loyalty": "Functional loyalty (Delta/Viva Aerobus comparisons)",
+        "influence_factors": "Official documentation (USCIS/customs.gov usage)",
+        "tech_adoption": "Early mainstream adopter (AI/cheat tools)",
+        "privacy_and_security_concerns": "Medium (government site usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English primary, basic Spanish (Mexico shipping research)",
+        "travel_habits": "Domestic US/Mexico focus (Viva Aerobus/Delta comparisons)",
+        "personal_projects": "Dropshipping business exploration (Spocket ads)",
+        "unexpected_behavioral_traits": "Analytical professional with intense comedy fandom"
+    }
+}

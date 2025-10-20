@@ -1,0 +1,159 @@
+{
+    "Core Identity": {
+        "full_name": "Maria Sanchez",
+        "age": 33,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Sun City, USA",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Management",
+            "institution": "Texas State Technical College"
+        },
+        "occupation": "Plumbing Business Owner",
+        "company": "Wild West Plumbing",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Olive",
+            "facial_features": "Warm smile with dimples",
+            "dress_style": "Casual professional (polo shirts/utility pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": [
+            "Entrepreneurial spirit",
+            "Holistic wellness",
+            "Family-first mentality"
+        ],
+        "motivations": [
+            "Business growth",
+            "Work-life balance",
+            "Community impact"
+        ],
+        "cognitive_style": "Practical problem-solver with strategic planning orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Construction permits",
+            "Health insurance options",
+            "Business management tools"
+        ],
+        "ad_interactions": {
+            "engagement_level": "High",
+            "preferred_categories": [
+                "Business equipment",
+                "Health services",
+                "Home improvement"
+            ]
+        },
+        "preferred_content_sources": [
+            "LinkedIn",
+            "Government portals",
+            "Industry-specific blogs"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Facebook",
+                "Instagram"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive browsing"
+        },
+        "ecommerce_behavior": {
+            "spending": "$500-$800/month",
+            "categories": [
+                "Business supplies",
+                "Home decor",
+                "Fitness equipment"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop",
+            "os": "Windows 11",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "Microsoft 365 Business",
+            "Instacart+",
+            "LinkedIn Premium"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Construction regulations",
+            "Remote work solutions",
+            "Plumbing innovations"
+        ],
+        "hobbies": [
+            "Boxing fitness",
+            "Crystal collecting",
+            "DIY home projects"
+        ],
+        "entertainment_preferences": {
+            "music": "Country (Carrie Underwood)",
+            "movies": "Reality TV competitions",
+            "authors": "Business leadership books"
+        },
+        "content_consumption": "Detailed industry articles > Short videos",
+        "learning_style": "Hands-on workshops supplemented by online tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented business investments with occasional personal indulgences",
+        "income_level": "$85,000-$95,000 annually",
+        "investment_habits": "Conservative business reinvestment strategy",
+        "financial_tools": [
+            "QuickBooks",
+            "Afterpay",
+            "Business credit cards"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leadership with emphasis on contractor relationships",
+        "family_structure": "Married with 2 elementary-aged children",
+        "friendship_circle": "Close-knit group of fellow business owners",
+        "community_involvement": "Local contractor association member",
+        "online_vs_offline_engagement": "Balanced mix (business online, family offline)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Business email review + school lunch preparation",
+        "workday_habits": "Job site visits interspersed with permit documentation",
+        "evening_and_leisure": "Family dinners followed by fitness streaming workouts",
+        "weekend_activities": "Local restaurant exploration + kids' sports events",
+        "sleep_schedule": "10:30 PM - 6:00 AM (consistent)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Boxing-based cardio routine + occasional hiking",
+        "mental_health": "Stress management through crystal meditation",
+        "work_life_balance": "Structured separation (business hours vs family time)",
+        "health_related_digital_behavior": [
+            "Weight loss research",
+            "Telehealth consultations"
+        ]
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with contractor board consultation",
+        "brand_loyalty": "Sticks with proven business vendors",
+        "influence_factors": [
+            "Industry certifications",
+            "Peer recommendations"
+        ],
+        "tech_adoption": "Early majority adopter for business-critical tools",
+        "privacy_and_security_concerns": "High awareness for business accounts"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish)",
+        "travel_habits": "Regional glamping weekends + annual family beach trips",
+        "personal_projects": "Balcony gardening with temperature-controlled systems",
+        "unexpected_behavioral_traits": "Analytical business owner who creates Minecraft models for job site planning"
+    }
+}

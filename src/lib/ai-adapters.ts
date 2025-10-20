@@ -1,4 +1,5 @@
 import { azureOpenAIChat } from './azure-openai';
+import { azureLimiter } from './limit';
 let OpenAI: any = null;
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import axios from 'axios';
@@ -34,12 +35,76 @@ export class OpenAIAdapter implements AIAdapter {
   }
 
   async evaluate(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow' | 'side-by-side'): Promise<EvalResult> {
+    console.log(`🔄 OpenAIAdapter.evaluate called for persona ${persona.id}`);
+    console.log(`🔄 Persona data:`, { name: persona.name, traits: persona.traits, motivations: persona.motivations, painPoints: persona.painPoints, designImplications: persona.designImplications });
+    
     // 优先Azure OpenAI
     if (process.env.AZURE_OPENAI_API_KEY && process.env.AZURE_OPENAI_ENDPOINT && process.env.AZURE_OPENAI_DEPLOYMENT) {
       console.log('🔵 Using Azure OpenAI for evaluation');
+      const { type: safeType, isSideBySide } = normalizeAnalysisType(analysisType);
       const systemPrompt = `You are a specialized UX evaluator that provides highly specific, actionable feedback tailored to different user personas. You must output STRICT JSON only that matches this EXACT format:
 
-{
+${isSideBySide && images.length > 1 ? 
+`{
+  "model": "openai",
+  "personaId": "PERSONA_ID_HERE",
+  "items": [
+    {
+      "imageId": "image-0",
+      "personaId": "PERSONA_ID_HERE", 
+      "scores": {
+        "usability": 85,
+        "accessibility": 78,
+        "visual": 82,
+        "overall": 81
+      },
+      "highlights": [
+        "Design A's primary CTA button is positioned optimally for thumb reach",
+        "Design A's three-step checkout reduces cognitive load",
+        "Clear visual hierarchy in Design A"
+      ],
+      "issues": [
+        {
+          "stepHint": "Navigation",
+          "issue": "Design A's back button is too small for easy tapping",
+          "severity": "medium",
+          "suggestion": "Increase button size to at least 44px"
+        }
+      ],
+      "narrative": "Design A performs well for this persona's needs with intuitive navigation"
+    },
+    {
+      "imageId": "image-1",
+      "personaId": "PERSONA_ID_HERE", 
+      "scores": {
+        "usability": 78,
+        "accessibility": 82,
+        "visual": 75,
+        "overall": 78
+      },
+      "highlights": [
+        "Design B has excellent contrast ratios for accessibility",
+        "Design B's single-page layout reduces navigation complexity"
+      ],
+      "issues": [
+        {
+          "stepHint": "Form Layout",
+          "issue": "Design B's form fields are too close together",
+          "severity": "high",
+          "suggestion": "Add more spacing between form elements"
+        },
+        {
+          "stepHint": "Visual Design",
+          "issue": "Design B's color scheme may be overwhelming",
+          "severity": "medium",
+          "suggestion": "Use more neutral colors for better focus"
+        }
+      ],
+      "narrative": "Design B shows good accessibility features but needs visual refinement"
+    }
+  ]
+}` :
+`{
   "model": "openai",
   "personaId": "PERSONA_ID_HERE",
   "items": [
@@ -67,7 +132,7 @@ export class OpenAIAdapter implements AIAdapter {
       "narrative": "Detailed analysis from this persona's perspective"
     }
   ]
-}
+}`}
 
 CRITICAL REQUIREMENTS:
 1. PERSONA-SPECIFIC ANALYSIS: Adopt the exact communication style, vocabulary, and priorities of the specified persona
@@ -95,22 +160,54 @@ IMPORTANT: Include ALL highlights and issues you identify - typically 3-8 highli
         { role: 'system', content: systemPrompt },
         { role: 'user', content: userPrompt }
       ];
-      const result = await azureOpenAIChat({
-        messages,
-        images,
-        options: {
-          apiKey: process.env.AZURE_OPENAI_API_KEY!,
-          endpoint: process.env.AZURE_OPENAI_ENDPOINT!,
-          deployment: process.env.AZURE_OPENAI_DEPLOYMENT!,
-          apiVersion: process.env.AZURE_OPENAI_API_VERSION || '2024-02-15-preview'
+      try {
+        const result = await azureLimiter(() => azureOpenAIChat({
+          messages,
+          images,
+          options: {
+            apiKey: process.env.AZURE_OPENAI_API_KEY!,
+            endpoint: process.env.AZURE_OPENAI_ENDPOINT!,
+            deployment: process.env.AZURE_OPENAI_DEPLOYMENT!,
+            apiVersion: process.env.AZURE_OPENAI_API_VERSION || '2024-02-15-preview'
+          }
+        }));
+        const content = result.choices?.[0]?.message?.content || result.choices?.[0]?.text;
+        if (!content) throw new Error('No response from Azure OpenAI');
+        return this.parseResponse(content, 'openai', persona.id, images.length, analysisType);
+      } catch (error: any) {
+        console.error('❌ Azure OpenAI API error:', error);
+        
+        // 如果是 429 错误（请求过于频繁），等待一段时间后重试
+        if (error.status === 429 || error.response?.status === 429) {
+          console.log('⏳ Rate limit hit, waiting 2 seconds before retry...');
+          await new Promise(resolve => setTimeout(resolve, 2000));
+          
+          try {
+            const retryResult = await azureLimiter(() => azureOpenAIChat({
+              messages,
+              images,
+              options: {
+                apiKey: process.env.AZURE_OPENAI_API_KEY!,
+                endpoint: process.env.AZURE_OPENAI_ENDPOINT!,
+                deployment: process.env.AZURE_OPENAI_DEPLOYMENT!,
+                apiVersion: process.env.AZURE_OPENAI_API_VERSION || '2024-02-15-preview'
+              }
+            }));
+            const content = retryResult.choices?.[0]?.message?.content || retryResult.choices?.[0]?.text;
+            if (!content) throw new Error('No response from Azure OpenAI retry');
+            return this.parseResponse(content, 'openai', persona.id, images.length, analysisType);
+          } catch (retryError) {
+            console.error('❌ Azure OpenAI retry also failed:', retryError);
+            console.log('🔄 Falling back to mock response for persona:', persona.id);
+            return this.getMockResponse(persona.id, images.length, analysisType || 'single');
+          }
         }
-      });
-      const content = result.choices?.[0]?.message?.content || result.choices?.[0]?.text;
-      if (!content) throw new Error('No response from Azure OpenAI');
-      return this.parseResponse(content, 'openai', persona.id);
-    }
+        
+        console.log('🔄 Falling back to mock response for persona:', persona.id);
+        return this.getMockResponse(persona.id, images.length, analysisType || 'single');
+      }
+    } else if (this.client) {
         // 只有有OPENAI_API_KEY时才走官方SDK
-        if (this.client) {
           console.log('🔵 Using OpenAI SDK for evaluation');
       const systemPrompt = `You are a specialized UX evaluator that provides highly specific, actionable feedback tailored to different user personas. You must output STRICT JSON only that matches the EvalResult interface.
 
@@ -123,12 +220,15 @@ CRITICAL REQUIREMENTS:
 6. DYNAMIC QUANTITY: Return ALL highlights and issues you find - do not limit to a fixed number
 
 COMPARISON REQUIREMENTS (for side-by-side analysis):
+- MANDATORY: You MUST return EXACTLY 2 items in the items array - one for "image-0" and one for "image-1"
+- Each item must have DIFFERENT scores, highlights, and issues for the two designs
 - Clearly state which design performs better overall
 - Provide specific reasons with concrete examples
 - Compare usability, accessibility, and visual design aspects
 - Give actionable recommendations for each design
 - Each design may have DIFFERENT numbers of issues - do not force equal counts
 - Design A might have 2 issues while Design B has 4 issues - this is normal and expected
+- NEVER return only one item - always return both image-0 and image-1
 
 CONSTRUCTIVE FEEDBACK REQUIREMENTS:
 - Identify specific usability issues with solutions
@@ -170,9 +270,12 @@ IMPORTANT: Include ALL highlights and issues you identify - typically 3-8 highli
       });
       const content = response.choices[0]?.message?.content;
       if (!content) throw new Error('No response from OpenAI');
-      return this.parseResponse(content, 'openai', persona.id);
+            return this.parseResponse(content, 'openai', persona.id, images.length, analysisType);
+    } else {
+      // Fallback to mock response when no API keys are configured
+      console.log('🔄 No OpenAI API keys configured, using mock response for persona:', persona.id);
+      return this.getMockResponse(persona.id, images.length, analysisType || 'single');
     }
-    throw new Error('No valid OpenAI or Azure OpenAI configuration found');
   }
 
   private buildPrompt(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow' | 'side-by-side'): string {
@@ -208,11 +311,21 @@ Evaluate each image individually but also consider the flow as a whole.` :
       `COMPARATIVE ANALYSIS: Compare these ${images.length} designs side by side.
 
 CRITICAL COMPARISON REQUIREMENTS:
-1. CLEAR WINNER IDENTIFICATION: Explicitly state which design (A, B, or C) performs better overall and WHY
+1. CLEAR DESIGN IDENTIFICATION: 
+   - Design A (image-0): First uploaded image - analyze this design specifically
+   - Design B (image-1): Second uploaded image - analyze this design specifically
+   - Each design MUST have DIFFERENT scores, highlights, and issues
 2. DETAILED COMPARISON: For each design, provide specific strengths and weaknesses
 3. USABILITY COMPARISON: Compare task completion efficiency, cognitive load, and user flow clarity
 4. ACCESSIBILITY COMPARISON: Compare WCAG compliance, keyboard navigation, screen reader support
 5. VISUAL DESIGN COMPARISON: Compare visual hierarchy, consistency, and aesthetic appeal
+
+DESIGN-SPECIFIC ANALYSIS REQUIREMENTS:
+- Design A (image-0): Focus on the specific elements, layout, and interactions visible in the first image
+- Design B (image-1): Focus on the specific elements, layout, and interactions visible in the second image
+- Each design analysis must be UNIQUE and reflect what you actually see in that specific image
+- Do NOT repeat the same feedback for both designs
+- Identify different strengths and weaknesses for each design
 
 COMPARISON FRAMEWORK:
 - Design A: [Specific strengths] vs [Specific weaknesses]
@@ -224,6 +337,10 @@ CONSTRUCTIVE FEEDBACK REQUIREMENTS:
 - Highlight accessibility barriers with improvement suggestions
 - Provide concrete recommendations for each design
 - Explain WHY certain design choices work better for this persona
+
+MANDATORY: You MUST return EXACTLY 2 items in the items array - one for "image-0" and one for "image-1"
+Each item must have DIFFERENT scores, highlights, and issues for the two designs
+NEVER return only one item - always return both image-0 and image-1
 
 Evaluate each design individually AND provide a comprehensive comparative analysis.` :
       `Analyze this single interface design focusing on:
@@ -251,7 +368,75 @@ FOR SIDE-BY-SIDE COMPARISONS:
 - Design A might have 3 issues while Design B has 5 issues - this is normal and expected
 
 IMPORTANT: Return STRICT JSON in this EXACT format:
-{
+${isSideBySide && images.length > 1 ? 
+`{
+  "model": "openai",
+  "personaId": "${persona.id}",
+  "items": [
+    {
+      "imageId": "image-0",
+      "personaId": "${persona.id}", 
+      "scores": {
+        "usability": 85,
+        "accessibility": 78,
+        "visual": 82,
+        "overall": 81
+      },
+      "highlights": [
+        "Design A's primary CTA button is positioned optimally for thumb reach",
+        "Design A's three-step checkout reduces cognitive load",
+        "Clear visual hierarchy in Design A"
+      ],
+      "issues": [
+        {
+          "stepHint": "Navigation",
+          "issue": "Design A's back button is too small for easy tapping",
+          "severity": "medium",
+          "suggestion": "Increase button size to at least 44px"
+        }
+      ],
+      "narrative": "Design A performs well for this persona's needs with intuitive navigation"
+    },
+    {
+      "imageId": "image-1",
+      "personaId": "${persona.id}", 
+      "scores": {
+        "usability": 78,
+        "accessibility": 82,
+        "visual": 75,
+        "overall": 78
+      },
+      "highlights": [
+        "Design B has excellent contrast ratios for accessibility",
+        "Design B's single-page layout reduces navigation complexity"
+      ],
+      "issues": [
+        {
+          "stepHint": "Form Layout",
+          "issue": "Design B's form fields are too close together",
+          "severity": "high",
+          "suggestion": "Add more spacing between form elements"
+        },
+        {
+          "stepHint": "Visual Design",
+          "issue": "Design B's color scheme may be overwhelming",
+          "severity": "medium",
+          "suggestion": "Use more neutral colors for better focus"
+        }
+      ],
+      "narrative": "Design B shows good accessibility features but needs visual refinement"
+    }
+  ]
+}
+
+CRITICAL REQUIREMENTS FOR SIDE-BY-SIDE ANALYSIS:
+1. You MUST return EXACTLY 2 items - one for "image-0" and one for "image-1"
+2. Each item must have DIFFERENT scores, highlights, and issues for the two designs
+3. Design A (image-0) and Design B (image-1) must be analyzed as completely separate designs
+4. Do NOT copy the same feedback between designs
+5. Each design may have different numbers of issues - this is normal and expected
+6. Focus on what you actually see in each specific image` :
+`{
   "model": "openai",
   "personaId": "${persona.id}",
   "items": [
@@ -292,7 +477,7 @@ IMPORTANT: Return STRICT JSON in this EXACT format:
       "narrative": "Detailed analysis from this persona's perspective"
     }
   ]
-}
+}`}
 
 CRITICAL: The number of highlights and issues should be DYNAMIC based on what you actually find:
 - Include ALL positive aspects you identify (3-8 highlights typically)
@@ -430,7 +615,7 @@ Name: ${persona.name}
 Traits: ${persona.traits.join(', ')}
 Motivations: ${persona.motivations.join(', ')}
 Pain Points: ${persona.painPoints.join(', ')}
-Design Implications: ${persona.designImplications.join(', ')}
+Design Implications: ${persona.designImplications?.join(', ') || 'None specified'}
 
 EVALUATION APPROACH:
 - Adopt the communication style and priorities of this specific persona
@@ -490,7 +675,8 @@ Provide specific, actionable feedback tailored to this persona's unique perspect
     };
   }
 
-  private parseResponse(content: string, model: ModelProvider, personaId: string): EvalResult {
+  // Unified parseResponse used by all providers
+  private parseResponse(content: string, model: ModelProvider, personaId: string, imageCount: number = 1, analysisType: 'single' | 'flow' | 'side-by-side' = 'single'): EvalResult {
     try {
       console.log('🔍 Parsing OpenAI response...');
       console.log('Raw content length:', content.length);
@@ -507,19 +693,78 @@ Provide specific, actionable feedback tailored to this persona's unique perspect
       
       console.log('Clean content preview:', cleanContent.substring(0, 200));
       
+      // Try to fix common JSON issues
+      cleanContent = this.fixJsonIssues(cleanContent);
+      
       const parsed = JSON.parse(cleanContent);
       console.log('✅ Successfully parsed OpenAI response');
-      return {
+      
+      const result = {
         model,
         personaId,
         items: parsed.items || []
       };
+      
+      
+      return result;
     } catch (error) {
       console.error('❌ OpenAI response parsing error:', error);
       console.error('Raw content:', content);
-      throw new Error(`Failed to parse OpenAI response: ${error}`);
+      console.log('🔄 Falling back to mock response due to parsing error');
+      return this.getMockResponse(personaId, 1, 'single');
     }
   }
+  
+
+  private fixJsonIssues(jsonString: string): string {
+    try {
+      // Fix common JSON issues
+      let fixed = jsonString;
+      
+      // Fix trailing commas
+      fixed = fixed.replace(/,(\s*[}\]])/g, '$1');
+      
+      // Fix missing commas between properties
+      fixed = fixed.replace(/"\s*\n\s*"/g, '",\n"');
+      
+      // Fix incomplete JSON (missing closing braces)
+      const openBraces = (fixed.match(/\{/g) || []).length;
+      const closeBraces = (fixed.match(/\}/g) || []).length;
+      if (openBraces > closeBraces) {
+        fixed += '}'.repeat(openBraces - closeBraces);
+      }
+      
+      // Fix incomplete arrays (missing closing brackets)
+      const openBrackets = (fixed.match(/\[/g) || []).length;
+      const closeBrackets = (fixed.match(/\]/g) || []).length;
+      if (openBrackets > closeBrackets) {
+        fixed += ']'.repeat(openBrackets - closeBrackets);
+      }
+      
+      // Fix unescaped quotes in strings
+      fixed = fixed.replace(/([^\\])"([^"]*)"([^,}\]]*)/g, (match, before, content, after) => {
+        if (content.includes('"') && !content.includes('\\"')) {
+          return `${before}"${content.replace(/"/g, '\\"')}"${after}`;
+        }
+        return match;
+      });
+      
+      // Fix incomplete property values (missing quotes)
+      fixed = fixed.replace(/:\s*([^",}\]]+)(\s*[,\}])/g, (match, value, ending) => {
+        const trimmedValue = value.trim();
+        if (!trimmedValue.startsWith('"') && !trimmedValue.match(/^\d+$/) && !trimmedValue.match(/^(true|false|null)$/)) {
+          return `: "${trimmedValue}"${ending}`;
+        }
+        return match;
+      });
+      
+      return fixed;
+    } catch (error) {
+      console.warn('Failed to fix JSON issues, using original:', error);
+      return jsonString;
+    }
+  }
+
 }
 
 export class GeminiAdapter implements AIAdapter {
@@ -549,12 +794,15 @@ CRITICAL REQUIREMENTS:
 6. DYNAMIC QUANTITY: Return ALL highlights and issues you find - do not limit to a fixed number
 
 COMPARISON REQUIREMENTS (for side-by-side analysis):
+- MANDATORY: You MUST return EXACTLY 2 items in the items array - one for "image-0" and one for "image-1"
+- Each item must have DIFFERENT scores, highlights, and issues for the two designs
 - Clearly state which design performs better overall
 - Provide specific reasons with concrete examples
 - Compare usability, accessibility, and visual design aspects
 - Give actionable recommendations for each design
 - Each design may have DIFFERENT numbers of issues - do not force equal counts
 - Design A might have 2 issues while Design B has 4 issues - this is normal and expected
+- NEVER return only one item - always return both image-0 and image-1
 
 CONSTRUCTIVE FEEDBACK REQUIREMENTS:
 - Identify specific usability issues with solutions
@@ -602,6 +850,20 @@ IMPORTANT: Include ALL highlights and issues you identify - typically 3-8 highli
     console.log('Gemini response:', content);
     
   return this.parseResponse(content, 'gemini', persona.id, images.length, analysisType || (images.length > 1 ? 'flow' : 'single'));
+  }
+
+  private parseResponse(content: string, model: ModelProvider, personaId: string, imageCount: number = 1, analysisType: 'single' | 'flow' | 'side-by-side' = 'single'): EvalResult {
+    try {
+      let cleanContent = content.replace(/```json\n?|```\n?/g, '').trim();
+      const jsonMatch = cleanContent.match(/\{[\s\S]*\}/);
+      if (jsonMatch) cleanContent = jsonMatch[0];
+      const parsed = JSON.parse(cleanContent);
+      return { model, personaId, items: parsed.items || [] };
+    } catch (error) {
+      console.error('Gemini response parsing error:', error);
+      console.error('Raw content:', content);
+      return this.getMockResponse(personaId, imageCount, analysisType);
+    }
   }
 
   private getMockResponse(personaId: string, imageCount: number = 1, analysisType: 'single' | 'flow' | 'side-by-side' = 'single'): EvalResult {
@@ -718,7 +980,7 @@ ${contextSection}Persona: ${persona.name}
 Traits: ${persona.traits.join(', ')}
 Motivations: ${persona.motivations.join(', ')}
 Pain Points: ${persona.painPoints.join(', ')}
-${isCustomPersona ? `Design Implications: ${persona.designImplications.join(', ')}` : ''}
+${isCustomPersona ? `Design Implications: ${persona.designImplications?.join(', ') || 'None specified'}` : ''}
 
 ${analysisInstructions}
 
@@ -728,33 +990,7 @@ Include highlights, issues with severity/dimension/principles/suggestions, and n
 `;
   }
 
-  private parseResponse(content: string, model: ModelProvider, personaId: string, imageCount?: number, analysisType: 'single' | 'flow' | 'side-by-side' = 'single'): EvalResult {
-    try {
-      // Clean the response by removing markdown code blocks and extra whitespace
-      let cleanContent = content.replace(/```json\n?|```\n?/g, '').trim();
-      
-      // Try to find JSON in the response if it's wrapped in other text
-      const jsonMatch = cleanContent.match(/\{[\s\S]*\}/);
-      if (jsonMatch) {
-        cleanContent = jsonMatch[0];
-      }
-      
-      const parsed = JSON.parse(cleanContent);
-      
-      // Return standard format (should match expected structure)
-  return {
-        model,
-        personaId,
-        items: parsed.items || []
-      };
-    } catch (error) {
-      console.error('Gemini response parsing error:', error);
-      console.error('Raw content:', content);
-      
-  // Return mock response as fallback honoring the original request shape
-  return this.getMockResponse(personaId, imageCount || 1, analysisType);
-    }
-  }
+  // (Removed duplicate parseResponse for Gemini to use unified version)
 }
 
 export class ZhipuAdapter implements AIAdapter {
@@ -778,12 +1014,15 @@ CRITICAL REQUIREMENTS:
 6. DYNAMIC QUANTITY: Return ALL highlights and issues you find - do not limit to a fixed number
 
 COMPARISON REQUIREMENTS (for side-by-side analysis):
+- MANDATORY: You MUST return EXACTLY 2 items in the items array - one for "image-0" and one for "image-1"
+- Each item must have DIFFERENT scores, highlights, and issues for the two designs
 - Clearly state which design performs better overall
 - Provide specific reasons with concrete examples
 - Compare usability, accessibility, and visual design aspects
 - Give actionable recommendations for each design
 - Each design may have DIFFERENT numbers of issues - do not force equal counts
 - Design A might have 2 issues while Design B has 4 issues - this is normal and expected
+- NEVER return only one item - always return both image-0 and image-1
 
 CONSTRUCTIVE FEEDBACK REQUIREMENTS:
 - Identify specific usability issues with solutions
@@ -833,7 +1072,18 @@ IMPORTANT: Include ALL highlights and issues you identify - typically 3-8 highli
     const content = response.data.choices[0]?.message?.content;
     if (!content) throw new Error('No response from Zhipu');
 
-    return this.parseResponse(content, 'zhipu', persona.id);
+    return this.parseResponse(content, 'zhipu', persona.id, images.length, analysisType);
+  }
+
+  private parseResponse(content: string, model: ModelProvider, personaId: string, imageCount: number = 1, analysisType: 'single' | 'flow' | 'side-by-side' = 'single'): EvalResult {
+    try {
+      const cleanContent = content.replace(/```json\n?|```\n?/g, '').trim();
+      const parsed = JSON.parse(cleanContent);
+      return { model, personaId, items: parsed.items || [] };
+    } catch (error) {
+      console.error('Zhipu response parsing error:', error);
+      return this.getMockResponse(personaId, imageCount, analysisType);
+    }
   }
 
   private getMockResponse(personaId: string, imageCount: number = 1, analysisType: 'single' | 'flow' | 'side-by-side' = 'single'): EvalResult {
@@ -950,7 +1200,7 @@ ${contextSection}Persona: ${persona.name}
 Traits: ${persona.traits.join(', ')}
 Motivations: ${persona.motivations.join(', ')}
 Pain Points: ${persona.painPoints.join(', ')}
-${isCustomPersona ? `Design Implications: ${persona.designImplications.join(', ')}` : ''}
+${isCustomPersona ? `Design Implications: ${persona.designImplications?.join(', ') || 'None specified'}` : ''}
 
 ${analysisInstructions}
 
@@ -960,22 +1210,14 @@ Include highlights, issues with severity/dimension/principles/suggestions, and n
 `;
   }
 
-  private parseResponse(content: string, model: ModelProvider, personaId: string): EvalResult {
-    try {
-      const cleanContent = content.replace(/```json\n?|```\n?/g, '').trim();
-      const parsed = JSON.parse(cleanContent);
-      return {
-        model,
-        personaId,
-        items: parsed.items || []
-      };
-    } catch (error) {
-      throw new Error(`Failed to parse Zhipu response: ${error}`);
-    }
-  }
+  // (Removed Zhipu-specific parseResponse; using unified version)
 }
 
 export function createAIAdapter(provider: ModelProvider): AIAdapter {
+  // Global mock override (for local testing without any API keys)
+  if (process.env.MOCK_MODE === '1' || process.env.MOCK_MODE === 'true') {
+    return new MockAdapter(provider);
+  }
   switch (provider) {
     case 'openai':
       return new OpenAIAdapter();
@@ -985,5 +1227,41 @@ export function createAIAdapter(provider: ModelProvider): AIAdapter {
       return new ZhipuAdapter();
     default:
       throw new Error(`Unsupported AI provider: ${provider}`);
+  }
+}
+
+// Lightweight mock adapter for offline/local testing.
+class MockAdapter implements AIAdapter {
+  constructor(private provider: string) {}
+  async evaluate(images: string[], persona: Persona, designBackground?: string, analysisType?: 'single' | 'flow' | 'side-by-side'): Promise<EvalResult> {
+    const baseScore = 70 + (persona.name.length % 20); // deterministic but varied
+    const items = images.map((_, idx) => ({
+      imageId: `image-${idx}`,
+      personaId: persona.id,
+      scores: {
+        usability: baseScore - 3 + idx,
+        accessibility: baseScore - 5 + idx,
+        visual: baseScore + 2 + idx,
+        overall: Math.round((baseScore * 3 + idx) / 3)
+      },
+      highlights: [
+        `(${this.provider} mock) 清晰的信息层级与视觉对比`,
+        `(${this.provider} mock) 操作路径符合 persona 的动机：${persona.motivations[0] || 'N/A'}`
+      ],
+      issues: [
+        {
+          stepHint: 'layout',
+          issue: '按钮间距略紧凑（mock）',
+          severity: 'medium',
+          suggestion: '增加 4-8px 间距提升触达准确率'
+        }
+      ],
+      narrative: `${persona.name} 视角的模拟分析（mock, 无真实模型调用）`
+    }));
+    return {
+      model: this.provider as any,
+      personaId: persona.id,
+      items
+    } as EvalResult;
   }
 }

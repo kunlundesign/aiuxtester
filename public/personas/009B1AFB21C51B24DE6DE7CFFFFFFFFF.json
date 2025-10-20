@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 58,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Raytown, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Construction Management",
+            "institution": "Local technical college"
+        },
+        "occupation": "Construction Contractor/Small Business Owner",
+        "company": "Self-Employed",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Stocky",
+            "hairstyle": "Short, gray crew cut",
+            "skin_color": "Fair",
+            "facial_features": "Square jaw, glasses",
+            "dress_style": "Casual workwear (jeans/polos)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial independence, skepticism toward institutional narratives",
+        "motivations": "Business stability, maintaining control over personal/professional affairs",
+        "cognitive_style": "Practical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical queries (permits/banking) mixed with speculative financial/political content",
+        "ad_interactions": "High engagement with financial services, business tools",
+        "preferred_content_sources": "YouTube tutorials, MSN sports news, Reddit forums",
+        "social_media_usage": "Daily Facebook use (passive engagement), occasional Reddit browsing",
+        "ecommerce_behavior": "Budget-conscious for business tools, occasional splurges on outdoor equipment",
+        "device_usage": "Desktop-first user (Microsoft Edge), secondary mobile use",
+        "subscriptions": "Amazon Prime, QuickBooks Online, YouTube Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Building code updates, contractor licensing requirements",
+        "hobbies": "DIY home projects, following NFL, recreational fishing",
+        "entertainment_preferences": "Construction documentaries, political commentary videos",
+        "content_consumption": "Short-form YouTube tutorials + long-form financial analysis",
+        "learning_style": "Video tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Business expenses prioritized, cautious personal spending",
+        "income_level": "$75,000-$90,000 annually",
+        "investment_habits": "Moderate-risk portfolio (E*TRADE account activity)",
+        "financial_tools": "QuickBooks Online, E*TRADE, Credit One Bank"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with subcontractor networks",
+        "family_structure": "Empty nester (adult children living independently)",
+        "friendship_circle": "Small group of longtime local friends",
+        "community_involvement": "IBEW union member, follows local politics",
+        "online_vs_offline_engagement": "Primarily online for information, in-person for business"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks work emails/Gmail with coffee, reviews permits",
+        "workday_habits": "Jobsite supervision + administrative tasks",
+        "evening_and_leisure": "YouTube videos on construction/finance, Chiefs games",
+        "weekend_activities": "Home improvement projects, fishing trips",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active (work-related movement)",
+        "mental_health": "Stress management through practical hobbies",
+        "work_life_balance": "Work-centric but values weekend downtime",
+        "health_related_digital_behavior": "Occasional medical portal use (MyChart)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with contingency planning",
+        "brand_loyalty": "Sticks to proven business tools (Honeywell/QuickBooks)",
+        "influence_factors": "Industry peers' experiences, YouTube experts",
+        "tech_adoption": "Mainstream adopter for productivity tools",
+        "privacy_and_security_concerns": "Basic precautions (password management)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern values, monolingual English",
+        "travel_habits": "Occasional Florida vacations, domestic road trips",
+        "personal_projects": "Exploring alternative housing (bell tents)",
+        "unexpected_behavioral_traits": "Simultaneously practical (construction permits) and speculative (conspiracy content consumption)"
+    }
+}

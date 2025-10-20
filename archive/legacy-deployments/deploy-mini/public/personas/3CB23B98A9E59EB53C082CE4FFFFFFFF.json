@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Carter",
+        "age": 51,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Beaumont, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "History/Education",
+            "institution": "California State University"
+        },
+        "occupation": "High School Teacher/Small Business Owner",
+        "company": "Beaumont Unified School District",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, salt-and-pepper",
+            "skin_color": "Caucasian",
+            "facial_features": "Rectangular glasses, clean-shaven",
+            "dress_style": "Business casual with occasional polo shirts"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Educational equity, legal compliance, financial independence",
+        "motivations": "Professional development, supplemental income generation, historical preservation",
+        "cognitive_style": "Analytical with structured decision-making"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex legal/business queries, educational resources, investment platforms",
+        "ad_interactions": "High engagement with legal services, remote work platforms, publishing tools",
+        "preferred_content_sources": "Government portals (IRS, FTC), educational platforms, financial websites",
+        "social_media_usage": "Limited to YouTube tutorials and professional networking",
+        "ecommerce_behavior": "Price-conscious tech/gadget buyer, business equipment purchases",
+        "device_usage": "Desktop dominant (Windows/Chrome), secondary mobile use",
+        "subscriptions": "Microsoft Copilot, LegalZoom, educational resource alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Legal compliance, educational technology, historical economics",
+        "hobbies": "Educational content creation, stock market analysis, travel planning",
+        "entertainment_preferences": "True crime documentaries, classic rock, business podcasts",
+        "content_consumption": "Long-form legal documents and structured educational materials",
+        "learning_style": "Self-directed research combined with professional certification courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious business investments, selective tech upgrades",
+        "income_level": "$65,000-$85,000",
+        "investment_habits": "Moderate-risk stock trading via Webull",
+        "financial_tools": "Credit Karma, PayPal, traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative educator with independent contractor mindset",
+        "family_structure": "Likely divorced/single parent (based on legal documentation searches)",
+        "friendship_circle": "Small network of professional colleagues",
+        "community_involvement": "School board activities, local business groups",
+        "online_vs_offline_engagement": "Balanced digital communication with in-person teaching"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email management, news scanning, lesson planning",
+        "workday_habits": "Split between classroom hours and business administration",
+        "evening_and_leisure": "Market research, content creation, educational streaming",
+        "weekend_activities": "Real estate browsing, legal research, family commitments",
+        "sleep_schedule": "Regular 11PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work compensated with weekend walks",
+        "mental_health": "Stress management through structured planning",
+        "work_life_balance": "Heavy workload with clear boundaries",
+        "health_related_digital_behavior": "Occasional medical portal access"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with thorough compliance checks",
+        "brand_loyalty": "Prefers established legal/financial services",
+        "influence_factors": "Government guidelines, expert analyses",
+        "tech_adoption": "Strategic mainstream adopter",
+        "privacy_and_security_concerns": "High awareness of data protection"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Greek history",
+        "travel_habits": "Potential retirement planning to Greece (Oia searches)",
+        "personal_projects": "Self-publishing venture about Gilded Age economics",
+        "unexpected_behavioral_traits": "Combines analytical legal research with creative writing aspirations"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Cheryl L. Smith",
+        "age": 64,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Clay, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Fashion Merchandising",
+            "institution": "Local community college"
+        },
+        "occupation": "Retail Associate (Part-Time)",
+        "company": "TJ Maxx/Marshalls",
+        "physical_attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, practical cut with highlights",
+            "Skin color": "Caucasian",
+            "Facial features": "Warm smile with reading glasses",
+            "Dress Style": "Casual layered outfits with statement jewelry"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Practical frugality, family-oriented values, appreciation for accessible fashion",
+        "motivations": "Staying socially connected, maintaining independence, finding quality bargains",
+        "cognitive_style": "Detail-oriented with strong pattern recognition for sales cycles"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent retail/celebrity searches with 2-3 refinement attempts per query",
+        "ad_interactions": "High click-through on apparel/healthcare ads (35% engagement rate)",
+        "preferred_content_sources": "MSN News, QVC blogs, retailer newsletters, WebMD",
+        "social_media_usage": "Daily Facebook check-ins, Instagram browsing (no posting)",
+        "ecommerce_behavior": "3-5 monthly purchases <$100, predominantly apparel/accessories",
+        "device_usage": "Windows desktop (Edge browser), iPhone for quick checks",
+        "subscriptions": "QVC Insider, Kohl's Cash emails, MSN Daily Digest"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retail merchandising strategies, customer service best practices",
+        "hobbies": "Thrift store treasure hunting, DIY jewelry customization",
+        "entertainment_preferences": "Reality competition shows (The Voice), 70s soft rock, romantic comedies",
+        "content_consumption": "Skimmable listicles with practical tips, video product demos",
+        "learning_style": "Visual learner preferring tutorial videos over manuals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven clearance shopper (75% purchases on sale)",
+        "income_level": "$35k-$45k annual household income",
+        "investment_habits": "FDIC-insured CDs only, no stock market exposure",
+        "financial_tools": "Kohl's Charge card, Teamsters Privilege credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Reliable team player with mentoring tendencies",
+        "family_structure": "Empty nester with adult children nearby",
+        "friendship_circle": "Close-knit group of 5-7 lifelong friends",
+        "community_involvement": "Church bazaar volunteer, Meals on Wheels driver",
+        "online_vs_offline_engagement": "Balanced mix favoring in-person interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Local news with coffee, checks sale alerts",
+        "workday_habits": "Afternoon/evening retail shifts, manages department visuals",
+        "evening_and_leisure": "Streams reality TV while browsing shopping sites",
+        "weekend_activities": "Thrift shopping trips, family dinners",
+        "sleep_schedule": "Regular 10PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily walking regimen, manages mild arthritis",
+        "mental_health": "Journaling for stress relief, strong social support network",
+        "work_life_balance": "Strict clock-out mentality with minimal overtime",
+        "health_related_digital_behavior": "Frequent WebMD checks, tracks prescriptions via Walgreens app"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison shopper checking 3+ sources",
+        "brand_loyalty": "Prefers tried-and-true brands with loyalty programs",
+        "influence_factors": "Customer reviews, free return policies",
+        "tech_adoption": "Competent with essential apps but avoids new platforms",
+        "privacy_and_security_concerns": "Basic password hygiene, avoids financial data sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Upstate New York English with basic Spanish phrases",
+        "travel_habits": "Annual beach trip to Myrtle Beach, day trips to Syracuse",
+        "personal_projects": "Curating vintage accessory collection",
+        "unexpected_behavioral_traits": "Secret fascination with wrestling despite refined aesthetic"
+    }
+}

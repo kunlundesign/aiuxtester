@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Loveland, United States",
+        "education": {
+            "degree": "Associate Degree (in progress)",
+            "major": "Business Management",
+            "institution": "Local community college"
+        },
+        "occupation": "Retail Associate / Part-time Reseller",
+        "company": "Freelance",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, casual cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual with occasional business-casual elements"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, nostalgia for past eras",
+        "motivations": "Financial independence, convenience in shopping",
+        "cognitive_style": "Analytical shopper with nostalgic tendencies"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Travel deals, clothing specifications, account logins",
+        "ad_interactions": "High engagement with travel and retail ads",
+        "preferred_content_sources": "MSN News, retail websites, gaming platforms",
+        "social_media_usage": "Passive Facebook use for connections",
+        "ecommerce_behavior": "Budget-conscious across clothing/travel",
+        "device_usage": "Mobile-first with Windows/Edge for logins",
+        "subscriptions": "Pogo Premium, Ancestry.com basic membership"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "E-commerce trends, inventory management",
+        "hobbies": "Online puzzle games, classic rock exploration",
+        "entertainment_preferences": "1970s rock music, Mahjong variants",
+        "content_consumption": "Deal-focused articles, how-to guides",
+        "learning_style": "Tutorial-driven skill acquisition"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges",
+        "income_level": "Lower-middle ($18k-$24k annually)",
+        "investment_habits": "Conservative (basic savings accounts)",
+        "financial_tools": "PayPal, debit cards, basic budgeting apps"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused collaboration",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "Small group with shared gaming interests",
+        "community_involvement": "Local events monitoring via news",
+        "online_vs_offline_engagement": "70% digital/30% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks shipment tracking, deal alerts",
+        "workday_habits": "Balances retail shifts with resale management",
+        "evening_and_leisure": "Pogo gaming sessions, music streaming",
+        "weekend_activities": "Local concerts, family meals",
+        "sleep_schedule": "Night owl (12am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual walking, occasional sports",
+        "mental_health": "Games for stress relief",
+        "work_life_balance": "Leisure-prioritized equilibrium",
+        "health_related_digital_behavior": "Occasional medical portal checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with deal urgency",
+        "brand_loyalty": "Cruise lines/airlines with good history",
+        "influence_factors": "Price comparisons, limited-time offers",
+        "tech_adoption": "Mainstream adopter",
+        "privacy_and_security_concerns": "Basic precautions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with family history interest",
+        "travel_habits": "Budget cruises, regional flights",
+        "personal_projects": "Vintage clothing resale side hustle",
+        "unexpected_behavioral_traits": "Analytical shopper with 1970s music nostalgia"
+    }
+}

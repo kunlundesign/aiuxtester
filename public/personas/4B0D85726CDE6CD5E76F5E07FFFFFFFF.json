@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Carlos Mendoza",
+        "age": 52,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Hialeah, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Education or Mathematics",
+            "institution": "Florida International University"
+        },
+        "occupation": "High School Teacher / Part-Time Car Dealer",
+        "company": "Miami-Dade County Public Schools / Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, graying hair",
+            "skin_color": "Olive complexion",
+            "facial_features": "Beard, rectangular glasses",
+            "dress_style": "Casual (polo shirts, jeans) with occasional sporty jackets"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, appreciation for craftsmanship",
+        "motivations": "Financial stability through side ventures, staying current in hobbies",
+        "cognitive_style": "Analytical with systematic approach to purchases/research"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Vehicle specs > price comparisons > auction logistics",
+        "ad_interactions": "High engagement with auto/tech ads, moderate with travel deals",
+        "preferred_content_sources": "YouTube educational channels, wrestling forums, auction marketplaces",
+        "social_media_usage": "Passive YouTube consumption, no active social posting",
+        "ecommerce_behavior": "Budget-focused with occasional luxury splurges on cars",
+        "device_usage": "Desktop for research, mobile for quick YouTube/email checks",
+        "subscriptions": "YouTube Premium, Slickdeals alerts, Copart membership"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Educational technology, secondary automotive market trends",
+        "hobbies": "Classic car restoration, wrestling event attendance",
+        "entertainment_preferences": "Sports documentaries, 90s rock music, action films",
+        "content_consumption": "Technical guides + humorous shorts mix",
+        "learning_style": "Video tutorials combined with hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurger (budgets carefully for major purchases)",
+        "income_level": "$65k-$80k annually",
+        "investment_habits": "Conservative with property/car flips as side income",
+        "financial_tools": "PayPal for auctions, rewards credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Respected mentor but maintains professional boundaries",
+        "family_structure": "Likely married with teenage/college-age children",
+        "friendship_circle": "Small group of car enthusiasts + teaching colleagues",
+        "community_involvement": "Limited beyond school parent-teacher events",
+        "online_vs_offline_engagement": "Primarily offline socializing except for hobby forums"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking auction listings and school emails",
+        "workday_habits": "Balances classroom hours with after-school car project time",
+        "evening_and_leisure": "YouTube automotive tutorials + wrestling show catch-ups",
+        "weekend_activities": "Auto auctions, car shows, family BBQs",
+        "sleep_schedule": "Night owl (stays up researching/post-auction analysis)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages psoriasis with OTC creams, light weekend biking",
+        "mental_health": "De-stresses through hands-on car projects",
+        "work_life_balance": "Compartmentalizes teaching vs hobby time effectively",
+        "health_related_digital_behavior": "Occasional psoriasis research, no fitness apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with spreadsheet comparisons",
+        "brand_loyalty": "Mixed (trusts Porsche engineering but shops generic home goods)",
+        "influence_factors": "Mechanical expert opinions + historical price data",
+        "tech_adoption": "Mainstream user with niche platform expertise (auction tools)",
+        "privacy_and_security_concerns": "Basic precautions but prioritizes convenience"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Cuban-American heritage",
+        "travel_habits": "Regional road trips for cars, aspirational Mediterranean cruise",
+        "personal_projects": "Restoring 1990s vehicles for resale",
+        "unexpected_behavioral_traits": "Analytical car expert who enjoys absurdist YouTube humor"
+    }
+}

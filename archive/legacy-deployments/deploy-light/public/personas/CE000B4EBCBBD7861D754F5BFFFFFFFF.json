@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Deborah Fennell",
+        "age": 64,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Scarboro, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Georgia Southern University"
+        },
+        "occupation": "Retired Financial Manager",
+        "company": "unknown",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short gray curls",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile with glasses",
+            "Dress Style": "Casual yet polished (knit tops, comfortable slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial security, civic responsibility, technological pragmatism",
+        "motivations": "Cultural exploration through travel, maintaining financial independence",
+        "cognitive_style": "Detail-oriented planner with methodical decision-making"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on cruise amenities/passport processes, 3-5 related queries per session",
+        "ad_interactions": "High engagement with luxury travel ads (clicked 6/8 cruise-related ads)",
+        "preferred_content_sources": "Government portals (travel.state.gov), cruise line websites, MSN News",
+        "social_media_usage": "Limited (YouTube for casual viewing, no visible active profiles)",
+        "ecommerce_behavior": "Mid-range spending on travel, uses established brands",
+        "device_usage": "Windows PC with Edge browser (83% of domain visits)",
+        "subscriptions": "Microsoft 365, LastPass Premium, Royal Caribbean newsletter"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement financial planning, travel industry trends",
+        "hobbies": "Casual gaming (Yahtzee), cruise vacation planning",
+        "entertainment_preferences": "Golf tournaments, political commentary shows",
+        "content_consumption": "Factual travel guides + opinion news articles",
+        "learning_style": "Self-guided research through official sources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious luxury (premium experiences without extravagance)",
+        "income_level": "Upper-middle class (retirement savings + investments)",
+        "investment_habits": "Conservative (uses QNB Trust/USAA banking services)",
+        "financial_tools": "American Express credit cards, online banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative (financial management background)",
+        "family_structure": "Empty nester (frequent solo travel planning)",
+        "friendship_circle": "Small group of close peers",
+        "community_involvement": "Local church donations (e.g., givesmart.com visits)",
+        "online_vs_offline_engagement": "Prefers in-person interactions but comfortable with essential digital services"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Outlook email, reviews MSN headlines with coffee",
+        "workday_habits": "2-3 hours managing finances/travel plans online",
+        "evening_and_leisure": "Casual gaming sessions, cruise forum participation",
+        "weekend_activities": "Local community events, trip preparation tasks",
+        "sleep_schedule": "Early riser (asleep by 10 PM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking routine, balanced diet",
+        "mental_health": "Stress management through trip planning",
+        "work_life_balance": "Leisure-focused retirement",
+        "health_related_digital_behavior": "Occasional heart.org visits (2x)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with extensive comparison",
+        "brand_loyalty": "High for travel/financial services (Royal Caribbean/USAA)",
+        "influence_factors": "Official government sources, cruise line reputations",
+        "tech_adoption": "Mainstream user (adopts essential tools like LastPass)",
+        "privacy_and_security_concerns": "Security-conscious (frequent password manager use)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English speaker",
+        "travel_habits": "Annual premium cruises targeting warm destinations (Galapagos interest)",
+        "personal_projects": "Family genealogy research (usa.gov visits)",
+        "unexpected_behavioral_traits": "Enjoys hard rock gaming soundtracks (DOOM: The Dark Ages interest)"
+    }
+}

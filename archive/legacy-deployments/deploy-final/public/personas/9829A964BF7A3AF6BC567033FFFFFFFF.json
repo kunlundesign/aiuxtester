@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 33,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Paso Robles, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Cuesta College"
+        },
+        "occupation": "Property Management Specialist",
+        "company": "Paso Robles Housing Authority",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Round face with glasses",
+            "dress_style": "Business casual with practical accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Community development, affordable housing advocacy",
+        "motivations": "Professional competence, family security",
+        "cognitive_style": "Structured problem-solving with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services, property management tools, health remedies",
+        "ad_interactions": "Medium engagement with office supplies, beauty deals, home goods",
+        "preferred_content_sources": "Paso Robles Daily News, Zillow, government portals",
+        "social_media_usage": "Pinterest for organization ideas, Facebook for local updates",
+        "ecommerce_behavior": "Budget-conscious with occasional splurges on beauty products",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": "MSN News, Zillow alerts, local government newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Affordable housing policies, real estate trends",
+        "hobbies": "Disney park planning, local dining experiences",
+        "entertainment_preferences": "Family-friendly movies, country music (Kane Brown radio)",
+        "content_consumption": "Practical how-to guides mixed with local news",
+        "learning_style": "On-the-job training with official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with planned purchases",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative (401k contributions)",
+        "financial_tools": "Wells Fargo, Amazon credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player",
+        "family_structure": "Married with school-aged children",
+        "friendship_circle": "Close-knit local parent groups",
+        "community_involvement": "Housing authority board member",
+        "online_vs_offline_engagement": "Balanced mix with local event participation"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN news with coffee",
+        "workday_habits": "Yardi software management with tenant interactions",
+        "evening_and_leisure": "Online shopping, Disney trip planning",
+        "weekend_activities": "Local deli visits, family outings",
+        "sleep_schedule": "10 PM - 6 AM regular schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional joint pain management",
+        "mental_health": "Stress relief through organization",
+        "work_life_balance": "Structured separation",
+        "health_related_digital_behavior": "Mayo Clinic research for symptoms"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Rule-based with documentation",
+        "brand_loyalty": "Staples for office supplies, Amazon for convenience",
+        "influence_factors": "Official guidelines, peer recommendations",
+        "tech_adoption": "Mainstream user",
+        "privacy_and_security_concerns": "Moderate (avoids unnecessary data sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, basic Spanish",
+        "travel_habits": "Annual Disney vacations, occasional Las Vegas trips",
+        "personal_projects": "Creating printable organizational templates",
+        "unexpected_behavioral_traits": "Analytical professional who enjoys Disney fantasy worlds"
+    }
+}

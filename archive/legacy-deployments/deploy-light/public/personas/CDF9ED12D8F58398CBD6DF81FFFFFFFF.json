@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emma Chen",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Princeton Junction, USA",
+        "education": {
+            "degree": "High School Diploma (Pursuing Associate/Bachelor's)",
+            "major": "Computer Science/Graphic Design",
+            "institution": "Unknown"
+        },
+        "occupation": "Student/Part-time Digital Artist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "165cm",
+            "body_shape": "Slim",
+            "hairstyle": "Long straight hair with highlights",
+            "skin_color": "Light olive",
+            "facial_features": "Round glasses, minimal makeup",
+            "dress_style": "Streetwear with oversized pants and sneakers"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, self-improvement through gaming",
+        "motivations": "Mastery of gaming mechanics, creative expression through digital art",
+        "cognitive_style": "Analytical problem-solver with creative implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex gaming strategy queries (Horizon series weapon builds), fashion research (sneaker models), academic math support",
+        "ad_interactions": "High engagement with footwear ads (Nike/Adidas)",
+        "preferred_content_sources": "Reddit communities, Game8.co guides, YouTube tutorials",
+        "social_media_usage": "YouTube (gaming/content), Twitch (passive viewing), Reddit (active participation)",
+        "ecommerce_behavior": "Mid-range purchases ($100-$300) focused on sneakers/tech accessories",
+        "device_usage": "Windows PC + mobile, Chrome/Edge browsers",
+        "subscriptions": "YouTube Premium, Roblox, Discord Nitro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Game design principles, digital art tools optimization",
+        "hobbies": "Competitive gaming, sneaker customization, anime/manga analysis",
+        "entertainment_preferences": "Action RPGs, K-pop dance videos, battle rap content",
+        "content_consumption": "15-30 minute YouTube guides, Reddit deep dives",
+        "learning_style": "Experimental trial-and-error with community validation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious splurging on signature items",
+        "income_level": "Low (Student-level income)",
+        "investment_habits": "Conservative (No evident investments)",
+        "financial_tools": "PayPal, Visa debit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor seeking clear objectives",
+        "family_structure": "Likely living with parents/siblings",
+        "friendship_circle": "Online gaming squad + IRL study group",
+        "community_involvement": "Reddit moderating, gaming Discord servers",
+        "online_vs_offline_engagement": "70% digital/30% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "DeltaMath practice, sneaker restock checks",
+        "workday_habits": "Classwork + gaming theorycrafting sessions",
+        "evening_and_leisure": "Horizon Forbidden West gameplay streaming",
+        "weekend_activities": "Sneaker convention visits, gaming marathons",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate cardio through VR gaming",
+        "mental_health": "Stress relief through gaming achievements",
+        "work_life_balance": "Compartmentalized study/play schedules",
+        "health_related_digital_behavior": "Ergonomic chair research, blue light filters"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with community consensus",
+        "brand_loyalty": "Strong in footwear (Nike/Adidas), fluid in tech",
+        "influence_factors": "Reddit upvotes, pro gamer endorsements",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Basic precautions (ad blockers)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, basic Korean from K-pop",
+        "travel_habits": "Local convention attendance, nature drone photography interest",
+        "personal_projects": "Game mod development, sneaker design mockups",
+        "unexpected_behavioral_traits": "Combines mathematical rigor with experimental art styles"
+    }
+}

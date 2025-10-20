@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 18,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Hickory, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Part-time Retail Associate",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Long brown hair",
+            "Skin color": "Fair",
+            "Facial features": "Round face with glasses",
+            "Dress Style": "Casual with graphic tees (retro/vintage themes)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": "Environmental conservation, creative expression",
+        "motivations": "Creative fulfillment, nostalgia preservation",
+        "cognitive_style": "Creative problem-solver with hands-on learning preference"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Niche retro toys (TMNT/Muppets), horror props, DIY tutorials",
+        "ad_interactions": "High engagement with vintage collectibles and cosplay materials",
+        "preferred_content_sources": "Etsy, eBay, YouTube tutorials, MSN entertainment",
+        "social_media_usage": "Passive YouTube viewer, Pinterest for DIY ideas",
+        "ecommerce_behavior": "Targeted purchases in collectibles/crafts ($20-$200 range)",
+        "device_usage": "Desktop for education (Time4Learning), mobile for casual browsing",
+        "subscriptions": "Time4Learning, gaming YouTube channels"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Arts/crafts, early childhood education (via Time4Learning usage)",
+        "hobbies": "Vintage toy restoration, cosplay prop-making, retro gaming",
+        "entertainment_preferences": "80s-90s cartoons, cult horror films, DIY/cosplay content",
+        "content_consumption": "Tutorial videos > text guides, nostalgia-driven media",
+        "learning_style": "Visual/hands-on learning (evident from tutorial views)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused but splurges on key collectibles",
+        "income_level": "Lower-middle ($15k-$25k/year)",
+        "investment_habits": "Non-investor",
+        "financial_tools": "Debit cards, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team member",
+        "family_structure": "Likely lives with parents/siblings (Time4Learning grade 4 activity access)",
+        "friendship_circle": "Small group with shared niche interests",
+        "community_involvement": "Online fandom communities",
+        "online_vs_offline_engagement": "Primarily online interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks collectible listings, MSN news",
+        "workday_habits": "Balances work with hobby research",
+        "evening_and_leisure": "Prop-making projects, gaming",
+        "weekend_activities": "Thrift store visits, content creation",
+        "sleep_schedule": "Night owl (evident from evening shopping activity)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity through crafting",
+        "mental_health": "Uses creative projects as stress relief",
+        "work_life_balance": "Leisure-focused outside work hours",
+        "health_related_digital_behavior": "Minimal health searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for collectibles, impulsive for small crafts",
+        "brand_loyalty": "Strong to specific fandoms (TMNT/Muppets)",
+        "influence_factors": "Nostalgia, tutorial creators, collector forums",
+        "tech_adoption": "Mainstream user with retro-tech interest",
+        "privacy_and_security_concerns": "Low (frequent login activity without noted security measures)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southern US cultural influences",
+        "travel_habits": "Local day trips for collectible hunting",
+        "personal_projects": "Custom horror prop creation, toy restoration",
+        "unexpected_behavioral_traits": "Combines technical prop-making skills with child education interests"
+    }
+}

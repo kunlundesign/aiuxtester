@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 37,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "La Verne, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Performing Arts",
+            "institution": "Local Community College"
+        },
+        "occupation": "Freelance Escort/Adult Services",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Long, straight",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup",
+            "dress_style": "Casual/Comfortable"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Personal freedom, pragmatism",
+        "motivations": "Financial independence, discreet lifestyle",
+        "cognitive_style": "Analytical problem-solver with practical focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local sports events, vintage collectibles, home valuation, adult services",
+        "ad_interactions": "Retail discounts, vintage baseball cards, local events",
+        "preferred_content_sources": "MSN News, Yelp, Surfline, adult forums",
+        "social_media_usage": "Limited; occasional Nextdoor activity",
+        "ecommerce_behavior": "Budget-conscious with impulse buys in niche categories",
+        "device_usage": "Desktop (Windows/Edge)",
+        "subscriptions": "Amazon Prime, Surfline Pro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Community sports coordination, collectibles trading",
+        "hobbies": "Crossword puzzles, surfing condition tracking",
+        "entertainment_preferences": "True crime documentaries, sports highlights",
+        "content_consumption": "Mix of quick updates and detailed technical guides",
+        "learning_style": "Self-directed research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on collectibles",
+        "income_level": "$45,000-$60,000 annually",
+        "investment_habits": "Conservative (certificates of deposit)",
+        "financial_tools": "Credit cards, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor model",
+        "family_structure": "Lives alone",
+        "friendship_circle": "Small, discreet network",
+        "community_involvement": "Casual sports event attendance",
+        "online_vs_offline_engagement": "Predominantly online interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks surf reports and weather",
+        "workday_habits": "Flexible schedule with evening client meetings",
+        "evening_and_leisure": "Crossword puzzles, online shopping",
+        "weekend_activities": "Beach trips, local theater events",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional swimming, takeout-heavy diet",
+        "mental_health": "Private coping mechanisms",
+        "work_life_balance": "Blurred boundaries due to freelance work",
+        "health_related_digital_behavior": "Basic fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis",
+        "brand_loyalty": "Switches based on price",
+        "influence_factors": "User reviews, discreet recommendations",
+        "tech_adoption": "Mainstream user",
+        "privacy_and_security_concerns": "Low awareness"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Regional California destinations",
+        "personal_projects": "Vintage baseball card cataloging",
+        "unexpected_behavioral_traits": "Combines adult service work with community sports engagement"
+    }
+}

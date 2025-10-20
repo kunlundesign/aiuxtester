@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 30,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Sherwood Village, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Psychology",
+            "institution": "Ohio State University"
+        },
+        "occupation": "Mental Health Counselor",
+        "company": "SonderMind",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brown hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, rectangular glasses",
+            "Dress Style": "Casual-chic (Vans sneakers, practical layers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Mental health advocacy, financial independence, technological progress",
+        "motivations": "Helping others through counseling, securing family's future, understanding human behavior",
+        "cognitive_style": "Analytical with strong pattern recognition (evidenced by crypto analysis and psychological assessments)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on mental health protocols, financial markets, and home improvement solutions",
+        "ad_interactions": "High engagement with therapy platforms, financial services, and tech products",
+        "preferred_content_sources": "Psychology Today, academic papers, MSN news, cryptocurrency analysis platforms",
+        "social_media_usage": "Pinterest for home decor ideas, limited Facebook use, no visible Instagram/TikTok presence",
+        "ecommerce_behavior": "Budget-conscious for essentials (Menards/Lowe's), splurges on quality footwear and tech accessories",
+        "device_usage": "Windows 11 PC for work, iPhone for mobile browsing",
+        "subscriptions": "Apple TV+, Proton Mail Premium, SonderMind professional tools"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "PTSD treatment methodologies, behavioral economics, telehealth platforms",
+        "hobbies": "Home renovation projects, historical mystery documentaries, container gardening",
+        "entertainment_preferences": "Psychological thrillers (Quiet Place 3), 90s sitcom nostalgia (Guiding Light), Lady Gaga performances",
+        "content_consumption": "Long-form investigative journalism blended with quick DIY tutorials",
+        "learning_style": "Worksheet-based skill development combined with peer discussion forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven for home goods, invests 15% income in crypto/stock portfolios",
+        "income_level": "$58,000 annually",
+        "investment_habits": "Moderate risk-taker (Bitcoin Cash/Robinhood usage)",
+        "financial_tools": "Venmo for personal transactions, Robinhood for trading, traditional savings account"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player with strong client boundaries",
+        "family_structure": "Single parent (evidenced by child support portal searches)",
+        "friendship_circle": "Small trusted group of 4-5 close friends",
+        "community_involvement": "Local mental health advocacy groups",
+        "online_vs_offline_engagement": "70% digital communication for efficiency, reserves weekends for family activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks crypto markets while drinking coffee, reviews therapy schedules",
+        "workday_habits": "Blocks 2-hour focus periods between client sessions",
+        "evening_and_leisure": "Researches home improvement projects after child's bedtime",
+        "weekend_activities": "Day trips to Pigeon Forge, gardening maintenance",
+        "sleep_schedule": "Night owl (12am-7am) with occasional insomnia"
+    },
+    "Health & Well-being": {
+        "physical_health": "Yoga 3x/week, pescatarian diet, chronic sinus issues (parasinusitis searches)",
+        "mental_health": "Uses CBT worksheets, attends bi-weekly therapy via SonderMind",
+        "work_life_balance": "Strict 6pm work cutoff except emergencies",
+        "health_related_digital_behavior": "Cleveland Clinic symptom checker, PTSD disability benefit research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with 3-source minimum verification",
+        "brand_loyalty": "Sticks with proven tools (Vans sneakers, Proton Mail)",
+        "influence_factors": "Peer-reviewed studies, client outcome data",
+        "tech_adoption": "Early majority adopter (AI tools but waits for security vetting)",
+        "privacy_and_security_concerns": "High (uses encrypted email, avoids social media logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with basic Spanish medical terminology",
+        "travel_habits": "Annual cabin retreats vs. international safari aspirations (Maasai Mara research)",
+        "personal_projects": "Converting patio with retractable screens, photo-documenting local architecture",
+        "unexpected_behavioral_traits": "Analytical counselor who enjoys true crime speculation and abstract Art Shay photography"
+    }
+}

@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# 🎯 SUPER QUICK DEPLOY - One Command Deployment
+# For when you just want to deploy and go!
+
+set -e
+
+echo "🚀 Starting quick deployment..."
+echo ""
+
+# Check if first time setup is needed
+if ! az webapp config appsettings list -g uxtester-platform_group -n uxtester-platform --query "[?name=='AZURE_OPENAI_API_KEY'].value | [0]" -o tsv 2>/dev/null | grep -q "."; then
+    echo "⚠️  First time setup needed. Running environment configuration..."
+    ./setup-env.sh
+    echo ""
+fi
+
+# Run the deployment
+./deploy-quick.sh

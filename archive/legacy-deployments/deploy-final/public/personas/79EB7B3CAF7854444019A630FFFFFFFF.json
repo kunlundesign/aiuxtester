@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Katlyn Cunningham",
+        "age": 29,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Sacramento, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "Unknown"
+        },
+        "occupation": "Sales Associate/Automotive Dealership Manager",
+        "company": "Airpark Motorcars",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Medium-length, styled",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, professional appearance",
+            "Dress Style": "Business casual"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Career advancement, financial independence, work-life balance",
+        "motivations": "Professional growth, financial security, organizational efficiency",
+        "cognitive_style": "Structured and practical thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Automotive industry queries, legal/document templates, remote work opportunities",
+        "ad_interactions": "High engagement with job ads (remote work), automotive products, and housing",
+        "preferred_content_sources": "MSN, New York Times, LinkedIn, automotive industry portals",
+        "social_media_usage": "Passive engagement on LinkedIn; minimal other platforms",
+        "ecommerce_behavior": "Frequent Amazon and Target purchases; budget-conscious",
+        "device_usage": "Desktop (Windows) with Edge browser",
+        "subscriptions": "Netflix, Peacock, New York Times"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Automotive sales trends, CRM systems, dealership management",
+        "hobbies": "Word puzzles (Wordle), home decor research, streaming TV dramas",
+        "entertainment_preferences": "Reality TV (Southern Charm), true crime documentaries, light novels",
+        "content_consumption": "Factual news articles, automotive industry updates, short-form streaming",
+        "learning_style": "Self-learning via job-related web resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with occasional splurges on skincare (SHISEIDO, Eucerin)",
+        "income_level": "$55,000-$70,000 annually",
+        "investment_habits": "Conservative (credit union usage, no evident risk-taking)",
+        "financial_tools": "Credit cards, e-wallets (Amazon), traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player with CRM-focused client management",
+        "family_structure": "Unknown",
+        "friendship_circle": "Small group of close friends",
+        "community_involvement": "Minimal observable involvement",
+        "online_vs_offline_engagement": "Prefers in-person work interactions, limited social media activity"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks work email (Outlook), reads MSN news",
+        "workday_habits": "Manages dealership CRM (Autosoft Go), handles sales logistics",
+        "evening_and_leisure": "Streams Peacock/Netflix, researches home/auto accessories",
+        "weekend_activities": "Grocery shopping (Haggen), family time, light hiking",
+        "sleep_schedule": "11 PM - 7 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (occasional hiking), balanced diet",
+        "mental_health": "Uses streaming for relaxation; no visible stressors",
+        "work_life_balance": "Moderate priority on separation",
+        "health_related_digital_behavior": "Occasional health news reading (urology articles)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (e.g., NADA valuations, legal templates)",
+        "brand_loyalty": "Mixed (switches based on deals but prefers established brands like Cox)",
+        "influence_factors": "Expert reviews (Consumer Reports), practical needs",
+        "tech_adoption": "Mainstream user (CRM tools, no cutting-edge tech)",
+        "privacy_and_security_concerns": "Moderate (uses two-factor authentication)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Occasional domestic trips (Hawaii interest via Surfjack Hotel)",
+        "personal_projects": "Researching manufactured homes, side job exploration via FlexJobs",
+        "unexpected_behavioral_traits": "Enjoys reality TV gossip despite analytical profession"
+    }
+}

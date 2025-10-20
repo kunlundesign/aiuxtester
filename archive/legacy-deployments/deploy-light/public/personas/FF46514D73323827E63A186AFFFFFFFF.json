@@ -1,0 +1,95 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "New Castle, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "General Studies",
+            "institution": "Butler County Community College"
+        },
+        "occupation": "Part-time Retail Associate",
+        "company": "Unknown",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Slim",
+            "hairstyle": "Long, straight with highlights",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, natural look",
+            "dress_style": "Casual trendy (athleisure, crop tops)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESFP",
+        "beliefs_and_values": "Technology optimism, self-expression through fashion",
+        "motivations": "Social acceptance, academic completion, personal enjoyment",
+        "cognitive_style": "Practical problem-solver with trend awareness"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Short practical queries (e.g., 'easy vape tricks'), academic terms ('gerund')",
+        "ad_interactions": "High engagement with swimwear/fashion ads (14/14 AdEvents)",
+        "preferred_content_sources": "TikTok, Instagram, MSN News, YouTube",
+        "social_media_usage": "Daily active use (TikTok/Instagram/Snapchat), content consumer",
+        "ecommerce_behavior": "Fashion-focused (swimsuits, dresses), price-sensitive",
+        "device_usage": "Windows laptop (Microsoft domains), mobile secondary",
+        "subscriptions": [
+            "Disney+",
+            "TikTok Creator Following"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Education technology (Blackboard usage), basic math skills",
+        "hobbies": "Casual gaming (Cool Math Games), vaping culture exploration",
+        "entertainment_preferences": "Pop music (Bazzi), comedy sketches (SNL parodies)",
+        "content_consumption": "Short-form video dominant (TikTok), celebrity news",
+        "learning_style": "Visual tutorials (vape trick videos), classroom hybrid"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget fashionista (clicks luxury ads but buys mid-range)",
+        "income_level": "Under $20k/year (student part-time)",
+        "investment_habits": "None apparent",
+        "financial_tools": "Debit card, student discounts"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused collaborator",
+        "family_structure": "Likely lives with parents",
+        "friendship_circle": "Medium group, TikTok mutuals",
+        "community_involvement": "College peer networks",
+        "online_vs_offline_engagement": "60% digital, 40% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check TikTok/Instagram, college prep",
+        "workday_habits": "Classes + study sessions, document collaboration",
+        "evening_and_leisure": "Social media browsing, casual gaming",
+        "weekend_activities": "Mall outings, streaming marathons",
+        "sleep_schedule": "Night owl (late TikTok/YouTube sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light activity (walking campus), vaping concern",
+        "mental_health": "Social media stress management",
+        "work_life_balance": "Leisure-prioritizing",
+        "health_related_digital_behavior": "Recreational vaping research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Social validation-driven",
+        "brand_loyalty": "Trend-following switcher",
+        "influence_factors": "Peer trends, celebrity endorsements",
+        "tech_adoption": "Mainstream app user",
+        "privacy_and_security_concerns": "Low (multiple social logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Pennsylvania regional culture",
+        "travel_habits": "Local/regional trips (concert festivals)",
+        "personal_projects": "Curating TikTok aesthetic",
+        "unexpected_behavioral_traits": "Balances vaping interest with academic diligence"
+    }
+}

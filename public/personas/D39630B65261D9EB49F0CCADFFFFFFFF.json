@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Susan Martinez",
+        "age": 63,
+        "gender": "Female",
+        "nationality": "United States",
+        "current_residence": "Tucson, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Arizona"
+        },
+        "occupation": "Property Manager",
+        "company": "Grijalva Realty",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray bob",
+            "skin_color": "Light",
+            "facial_features": "Glasses, minimal wrinkles",
+            "dress_style": "Business casual with practicality"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Organizational efficiency, community housing stability",
+        "motivations": "Maintaining property standards, tenant satisfaction",
+        "cognitive_style": "Structured thinking with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Property management resources, home maintenance supplies, Spanish translation tools",
+        "ad_interactions": "High engagement with home improvement/office supply ads",
+        "preferred_content_sources": "AppFolio Property Manager, government portals, HD Supply",
+        "social_media_usage": "Facebook for professional communication (Messenger usage)",
+        "ecommerce_behavior": "Frequent purchases of maintenance supplies, office furniture",
+        "device_usage": "Desktop (Windows 11), Edge browser",
+        "subscriptions": "Microsoft 365, Amazon Prime"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tenant retention strategies, lease agreement compliance",
+        "hobbies": "Home decoration projects, recipe experimentation",
+        "entertainment_preferences": "Local news, true crime articles (MSN death reports)",
+        "content_consumption": "Factual articles with procedural focus (lease templates, maintenance guides)",
+        "learning_style": "Hands-on software training (AppFolio, PDF editors)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for business expenses, quality-focused for durable goods",
+        "income_level": "$60k-$75k",
+        "investment_habits": "Conservative (retirement-focused)",
+        "financial_tools": "PNC Bank, credit cards for business expenses"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leadership with maintenance teams",
+        "family_structure": "Likely lives alone (no family-related digital signals)",
+        "friendship_circle": "Professional network in Tucson real estate",
+        "community_involvement": "Local housing compliance committees",
+        "online_vs_offline_engagement": "Hybrid (email/text communication with in-person property showings)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage with coffee, review tenant messages",
+        "workday_habits": "Scheduled property inspections, invoice processing",
+        "evening_and_leisure": "Meal preparation (protein-focused recipes), light web browsing",
+        "weekend_activities": "Apartment showings, home organization projects",
+        "sleep_schedule": "Early riser (aligned with business hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Balanced diet (breakfast recipe interest), limited exercise routine",
+        "mental_health": "Stress management through task completion",
+        "work_life_balance": "Moderate integration (evening emails observed)",
+        "health_related_digital_behavior": "No significant health-related searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Rule-based (lease compliance focus)",
+        "brand_loyalty": "Prefers established suppliers (HD Supply, Lowe's)",
+        "influence_factors": "Vendor reliability, tenant feedback",
+        "tech_adoption": "Mainstream user (adopts necessary property management tools)",
+        "privacy_and_security_concerns": "Moderate (uses institutional login portals)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English primary, uses translation tools for Spanish communications",
+        "travel_habits": "Local travel for property management (rental car searches)",
+        "personal_projects": "Apartment staging/decoration (fairy light chandelier interest)",
+        "unexpected_behavioral_traits": "Technical persistence (Windows 11 troubleshooting despite age)"
+    }
+}

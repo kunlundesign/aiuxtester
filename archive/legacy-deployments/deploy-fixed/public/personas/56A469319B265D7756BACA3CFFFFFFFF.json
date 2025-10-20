@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jessica Martinez",
+        "age": 40,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "San Rafael, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Sonoma State University"
+        },
+        "occupation": "Restaurant Manager/Owner",
+        "company": "Ounces Outdoors",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length brunette waves",
+            "Skin color": "Olive",
+            "Facial features": "Warm smile with laugh lines",
+            "Dress Style": "Business-casual blazers with functional accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Supports local businesses, values operational efficiency",
+        "motivations": "Business growth, culinary innovation, community impact",
+        "cognitive_style": "Data-driven decision maker with creative problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Commercial kitchen equipment research, shipping logistics optimization, menu planning resources",
+        "ad_interactions": "High engagement with restaurant equipment ads (76% click-through rate)",
+        "preferred_content_sources": "Sysco Shop, restaurant management blogs, food safety regulations portals",
+        "social_media_usage": "LinkedIn for industry networking, Instagram for food presentation inspiration",
+        "ecommerce_behavior": "Bulk purchases for business needs, occasional luxury kitchen gadgets",
+        "device_usage": "Desktop Chrome (85%) for business tasks, mobile Edge for quick checks",
+        "subscriptions": "7shifts employee scheduling, Canva Pro, Sysco Shop alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Beverage menu engineering, FDA compliance updates, POS system optimization",
+        "hobbies": "Experimental cooking, DIY home projects, local music festivals",
+        "entertainment_preferences": "Documentaries about food industry trends, classic rock playlists",
+        "content_consumption": "Technical spec sheets (75%), industry webinars (20%), entertainment news (5%)",
+        "learning_style": "On-the-job experimentation with structured compliance training"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic business investments with personal budget-consciousness",
+        "income_level": "$85,000-$100,000",
+        "investment_habits": "Reinvests 30% of profits into business upgrades",
+        "financial_tools": "QuickBooks Online, American Express Business Gold Card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leadership with clear operational hierarchies",
+        "family_structure": "Lives with partner and two school-age children",
+        "friendship_circle": "5-7 close industry colleagues + childhood friends",
+        "community_involvement": "Local Chamber of Commerce, Marin County Food Safety Task Force",
+        "online_vs_offline_engagement": "70% professional digital communication, 30% in-person supplier meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Sysco inventory alerts while brewing artisanal coffee",
+        "workday_habits": "3 hours vendor management, 2 hours staff scheduling, 1 hour compliance checks",
+        "evening_and_leisure": "Tests new menu items, reviews shipping manifests",
+        "weekend_activities": "Farmers market sourcing, family hikes in Sonoma County",
+        "sleep_schedule": "11 PM - 6 AM (7 hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "30-minute Peloton sessions 4x/week, Mediterranean-inspired diet",
+        "mental_health": "Uses Calm app for stress management during supply chain issues",
+        "work_life_balance": "Strict 7 PM digital detox except emergency orders",
+        "health_related_digital_behavior": "Monitors OSHA compliance portals, nutrition tracking apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Triangulates vendor quotes with online reviews and industry contacts",
+        "brand_loyalty": "Prefers established commercial brands with proven reliability",
+        "influence_factors": "Health department ratings (40%), Yelp reviews (30%), vendor relationships (30%)",
+        "tech_adoption": "Early adopter of restaurant tech, cautious with payment systems",
+        "privacy_and_security_concerns": "High PCI compliance focus, uses encrypted document sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Third-generation Mexican-American, fluent Spanish/English",
+        "travel_habits": "Annual industry conferences (National Restaurant Show), family camping trips",
+        "personal_projects": "Developing artisanal cider line, backyard pizza oven construction",
+        "unexpected_behavioral_traits": "Maintains strict commercial kitchen protocols while enjoying chaotic cooking competitions"
+    }
+}

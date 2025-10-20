@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Donald Simpson",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Brooksville, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Student/Part-time Worker",
+        "company": "unknown",
+        "physical attributes": {
+            "height": "unknown",
+            "body_shape": "unknown",
+            "hairstyle": "unknown",
+            "skin_color": "unknown",
+            "facial_features": "unknown",
+            "dress_style": "Casual (evidenced by Skechers and T-shirt ad interactions)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (explores diverse topics: politics, tech, puzzles, anime)",
+            "conscientiousness": "Medium (manages finances but engages in impulsive ad clicks)",
+            "extraversion": "Low (limited social media beyond Facebook/Nextdoor)",
+            "agreeableness": "Medium (supports progressive causes but no direct community involvement)",
+            "neuroticism": "Low (engages with political conflict content without avoidance)"
+        },
+        "mbti": "INTP (analytical, curious, independent)",
+        "beliefs_and_values": "Progressive politics (anti-Trump petitions, Medicare/Social Security advocacy)",
+        "motivations": "Financial independence (credit management), intellectual stimulation (news/puzzles)",
+        "cognitive_style": "Analytical (crossword/Wordle habits) with situational impulsiveness (varied ad clicks)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical services (ISP logins), news/puzzles, FBI cases, financial tools",
+        "ad_interactions": "High engagement with tech tools, apparel, and niche products (anime figures)",
+        "preferred_content_sources": "Local news (tampabay.com), legacy media (NYT, LAT), niche forums (Reddit scams)",
+        "social_media_usage": "Facebook/Nextdoor for community updates, passive consumption",
+        "ecommerce_behavior": "Budget-conscious (credit card comparisons), interest in apparel/tech",
+        "device_usage": "Desktop-centric (high Roadrunner webmail usage)",
+        "subscriptions": "News sites (NYT Wordle), porn platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tech tools (PDF software), financial management",
+        "hobbies": "Puzzle games (crosswords/Wordle), anime (My Hero Academia)",
+        "entertainment_preferences": "Sports documentaries, WWE, true crime (FBI searches)",
+        "content_consumption": "Factual news with occasional opinion pieces (MSN political articles)",
+        "learning_style": "Self-directed (DIY tax research, puzzle-solving)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused (credit card management), occasional splurges (apparel)",
+        "income_level": "Low (student/part-time job)",
+        "investment_habits": "Conservative (no observed investment activity)",
+        "financial_tools": "Credit cards (Sams Club/Synchrony), price comparison tools"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent (no team collaboration indicators)",
+        "family_structure": "Likely living with family (high local news consumption)",
+        "friendship_circle": "Small group (limited social media footprint)",
+        "community_involvement": "Online activism (petitions), local news monitoring",
+        "online_vs_offline_engagement": "Online-first (news/petitions) with passive offline presence"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check email/webmail, read news",
+        "workday_habits": "School/work with puzzle breaks",
+        "evening_and_leisure": "Gaming/porn consumption, political content",
+        "weekend_activities": "Anime/gaming, local exploration (Ford SUV offers)",
+        "sleep_schedule": "Night owl (late-night porn/adult site visits)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary (computer-centric habits)",
+        "mental_health": "Private coping (no observed wellness resources)",
+        "work_life_balance": "Leisure-focused (high entertainment consumption)",
+        "health_related_digital_behavior": "Reactive (vaccine petition signing)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for finances, impulsive for entertainment",
+        "brand_loyalty": "Fluid (switches between providers like Spectrum/Sams Club)",
+        "influence_factors": "Personal research (news), social proof (political petitions)",
+        "tech_adoption": "Mainstream user (common tools over innovation)",
+        "privacy_and_security_concerns": "Low (multiple porn site logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English primary, Finnish interest (Wikipedia visits)",
+        "travel_habits": "Local focus (Florida news), aspirational (Punta Cana resort views)",
+        "personal_projects": "Side hustles research, potential tech tool mastery",
+        "unexpected_behavioral_traits": "Combines political progressivism with high porn consumption"
+    }
+}

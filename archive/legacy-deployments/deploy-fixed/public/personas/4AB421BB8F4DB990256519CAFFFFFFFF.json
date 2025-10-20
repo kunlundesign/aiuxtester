@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Natalia Ivanova",
+        "age": 54,
+        "gender": "Female",
+        "nationality": "United States (Russian cultural influence)",
+        "current_residence": "Miami, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Finance or Computer Science",
+            "institution": "Unknown"
+        },
+        "occupation": "Technical Project Manager/Financial Consultant",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Olive",
+            "Facial features": "Professional makeup",
+            "Dress Style": "Business casual with European influences"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENTJ",
+        "beliefs_and_values": "Technology optimism, financial independence, cross-cultural awareness",
+        "motivations": "Career reinvention, financial security, intellectual growth",
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep financial/tech research, political news verification, product troubleshooting",
+        "ad_interactions": "High engagement with luxury brands/financial services",
+        "preferred_content_sources": "MSN, BBC, NYTimes, Wikipedia, financial portals",
+        "social_media_usage": "LinkedIn (active), Reddit (passive), limited Facebook",
+        "ecommerce_behavior": "Mid-range spending on appliances/clothes, compares prices",
+        "device_usage": "Windows desktop primary, Android mobile secondary",
+        "subscriptions": "MSN Premium, Udemy courses, Schwab alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Fintech, cybersecurity PM roles, SIE certification",
+        "hobbies": "Coffee culture exploration, mobile gaming (Candy Crush), European fashion",
+        "entertainment_preferences": "Political documentaries, business podcasts, classic rock",
+        "content_consumption": "Long-form analysis articles with fact-checking",
+        "learning_style": "Structured online courses with hands-on projects"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious luxury, plans major purchases",
+        "income_level": "$85,000-$110,000",
+        "investment_habits": "Diversified portfolio (Schwab/TradingView activity)",
+        "financial_tools": "Schwab Intelligent Portfolio, Amazon Credit Builder"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leader with remote team experience",
+        "family_structure": "Likely single/divorced (Zillow rental searches)",
+        "friendship_circle": "Small professional network, expat community ties",
+        "community_involvement": "Russian cultural associations, tech meetups",
+        "online_vs_offline_engagement": "Hybrid (Zoom meetings, some in-person networking)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee machine use, Skimm news briefing, LinkedIn check",
+        "workday_habits": "Balanced client meetings/independent work blocks",
+        "evening_and_leisure": "Online shopping, gaming sessions, political news deep dives",
+        "weekend_activities": "Beach walks, coffee tastings, apartment hunting",
+        "sleep_schedule": "Regular 11PM-6AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate exercise (Saschafitness visits), Mediterranean diet",
+        "mental_health": "Puzzle games for stress relief, no indicated disorders",
+        "work_life_balance": "Guarded personal time despite project deadlines",
+        "health_related_digital_behavior": "Vitamin research, ergonomic product searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with expert consultation",
+        "brand_loyalty": "Strong for coffee appliances (Tchibo), mixed otherwise",
+        "influence_factors": "Professional certifications, product longevity",
+        "tech_adoption": "Early mainstream adopter (React courses, fintech tools)",
+        "privacy_and_security_concerns": "Heightened awareness (Cybersecurity job emails)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Russian, follows RU politics",
+        "travel_habits": "Potential Western Europe trips (tour searches)",
+        "personal_projects": "Home coffee bar setup, certification prep",
+        "unexpected_behavioral_traits": "Enjoys Candy Crush despite analytical profession"
+    }
+}

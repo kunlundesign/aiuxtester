@@ -1,0 +1,85 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Irving, United States",
+        "education": {
+            "degree": "Bachelor's (in progress)",
+            "major": "Finance or Environmental Science",
+            "institution": "University of Oklahoma"
+        },
+        "occupation": "Part-time Retail Associate",
+        "company": "Ross Dress for Less",
+        "physical attributes": "Unknown"
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, environmental curiosity, technological pragmatism",
+        "motivations": "Educational advancement, financial independence, creative expression",
+        "cognitive_style": "Analytical with practical problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic (science, finance, gaming), practical troubleshooting, local news",
+        "ad_interactions": "High engagement with retail/fashion ads (Temu, Etsy, Victoria's Secret)",
+        "preferred_content_sources": "MSN news, Redfin, financial portals (Fidelity), educational sites (OU.edu)",
+        "social_media_usage": "Passive Facebook/Pinterest browsing, OU parent groups",
+        "ecommerce_behavior": "Budget-conscious (Temu), occasional luxury (Tesla accessories)",
+        "device_usage": "Mobile-first (Google Calendar/Pinterest use), Windows/Edge",
+        "subscriptions": "TurboTax, Fidelity alerts, Evite notifications"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate markets, investment strategies, renewable energy",
+        "hobbies": "Crafting (Creative Fabrica), casual gaming, kayaking",
+        "entertainment_preferences": "True crime news, travel documentaries, puzzle games",
+        "content_consumption": "Practical guides > opinion pieces, image-heavy content (Pinterest)",
+        "learning_style": "Self-directed research with institutional resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (Ross Dress for Less, Temu) with strategic investments (529 plans)",
+        "income_level": "$20k-$30k (student part-time)",
+        "investment_habits": "Conservative (Fidelity portfolio, 529 plans)",
+        "financial_tools": "Bank of America, Fidelity, TurboTax"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative (OU parent groups), detail-oriented",
+        "family_structure": "Likely lives with parents (Irving residence, beneficiary management)",
+        "friendship_circle": "Small close group (Evite/anniversary planning)",
+        "community_involvement": "University networks, local event participation",
+        "online_vs_offline_engagement": "Hybrid (digital research, in-person retail work)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Google Calendar, local weather, MSN headlines",
+        "workday_habits": "Balances classes/work with mobile banking checks",
+        "evening_and_leisure": "Pinterest browsing, gaming, real estate research",
+        "weekend_activities": "Coffee shop visits, local exploration (Bee Cave queries)",
+        "sleep_schedule": "Late-night researcher (TurboTax/event planning at odd hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casually active (kayaking interest), health info seeking (WebMD)",
+        "mental_health": "Pragmatic (financial planning as stress management)",
+        "work_life_balance": "Structured (Google Calendar dominance)",
+        "health_related_digital_behavior": "Reactive research (WebMD/Healthline)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (multiple real estate/Tesla comparisons)",
+        "brand_loyalty": "Quality-focused exceptions (Tesla, Creative Fabrica)",
+        "influence_factors": "User reviews (Zillow/Redfin), institutional credibility",
+        "tech_adoption": "Early majority (Tesla ownership interest)",
+        "privacy_and_security_concerns": "Moderate (financial account vigilant)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Texan cultural identity",
+        "travel_habits": "Aspirational (English countryside/Mexico research), local explorer",
+        "personal_projects": "Crafting business ideation, college housing research",
+        "unexpected_behavioral_traits": "Combines financial pragmatism with whimsical queries (cloud weight, frog sounds)"
+    }
+}

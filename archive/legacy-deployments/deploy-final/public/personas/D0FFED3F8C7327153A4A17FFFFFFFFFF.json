@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 36,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Cypress, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Mechanical Engineering",
+            "institution": "University of Houston"
+        },
+        "occupation": "Firearms Technician",
+        "company": "Bear Creek Arsenal",
+        "physical_attributes": {
+            "height": "5'11\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with defined jawline",
+            "dress_style": "Casual workwear (jeans, boots, tactical-inspired jackets)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Second Amendment advocacy, self-reliance, financial independence",
+        "motivations": "Technical mastery, home ownership stability, precious metal investments",
+        "cognitive_style": "Analytical problem-solver with hands-on implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Firearm specifications (barrel types, optics), home internet solutions, automotive upgrades",
+        "ad_interactions": "High engagement with firearms accessories (70%), home services (20%), luxury gadgets (10%)",
+        "preferred_content_sources": "MSN News, YouTube tutorials, specialized forums (AR15.com), manufacturer sites (OpticsPlanet)",
+        "social_media_usage": "Limited to YouTube (weekly) and niche firearms forums (daily)",
+        "ecommerce_behavior": "Mid-range spending on specialized gear ($200-$1,000 transactions), 15+ firearm-related purchases/year",
+        "device_usage": "Desktop primary (85% usage), Windows OS, Edge browser with MSN integration",
+        "subscriptions": "Sam's Club membership, GunBroker alerts, Xfinity internet"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Ballistics engineering, CNC machining, firearms legislation updates",
+        "hobbies": "Gunsmithing, tactical training, outdoor shooting ranges, DIY home projects",
+        "entertainment_preferences": "Action films, country music, firearms history documentaries",
+        "content_consumption": "Technical specifications sheets (70%), how-to videos (20%), political news (10%)",
+        "learning_style": "Experimental tinkering combined with manufacturer forums research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused quality investments (durablility > brand names)",
+        "income_level": "$85,000-$95,000",
+        "investment_habits": "Conservative (precious metals 60%, real estate 30%, stocks 10%)",
+        "financial_tools": "Sam's Club credit card, PayPal, bank auto-pay systems"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Technical collaborator (prefers workshop teams over office politics)",
+        "family_structure": "Married with 1-2 children (implied by home size searches)",
+        "friendship_circle": "Tight-knit group from shooting range/club",
+        "community_involvement": "NRA member, local shooting competitions",
+        "online_vs_offline_engagement": "80% offline hobby focus, 20% online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news check, gunsmithing forum updates, coffee",
+        "workday_habits": "Precision machining tasks, inventory management, supplier calls",
+        "evening_and_leisure": "Firearm maintenance, tech gadget research, family time",
+        "weekend_activities": "Range practice, home improvement projects, Sam's Club bulk shopping",
+        "sleep_schedule": "10:30 PM - 6:00 AM (7.5hrs)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness through manual labor, protein-heavy diet",
+        "mental_health": "Stress relief through technical hobbies, no indicated disorders",
+        "work_life_balance": "Compartmentalized (work tools stay at workshop)",
+        "health_related_digital_behavior": "Occasional microbiome curiosity searches, no sustained tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Specification-comparison driven (minimum 3 product reviews)",
+        "brand_loyalty": "High for firearms (BCA, Palmetto State), low for consumer tech",
+        "influence_factors": "User forums (70%), professional reviews (25%), ads (5%)",
+        "tech_adoption": "Early majority (waits for field testing results)",
+        "privacy_and_security_concerns": "Operational security awareness (firearm storage searches)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Texan cultural identity",
+        "travel_habits": "Regional road trips (TX/AZ/NM shooting locations)",
+        "personal_projects": "Custom AR-15 builds, home defense system optimization",
+        "unexpected_behavioral_traits": "Combines tactical pragmatism with luxury gadget appreciation (e.g., premium wine openers)"
+    }
+}

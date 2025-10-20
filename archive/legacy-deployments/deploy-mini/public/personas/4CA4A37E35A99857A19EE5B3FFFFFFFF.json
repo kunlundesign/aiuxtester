@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jessica Carter",
+        "age": 37,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Oroville, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Business Administration",
+            "institution": "Butte College"
+        },
+        "occupation": "Administrative Coordinator",
+        "company": "Local Automotive Service Center",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length straight hair",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, practical appearance",
+            "dress_style": "Casual professional (polo shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Community support, financial responsibility",
+        "motivations": "Stable employment, pet welfare, organizational efficiency",
+        "cognitive_style": "Detail-oriented problem solver"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Auto industry resources, DMV procedures, job listings",
+        "ad_interactions": "Tax software, POS systems, vehicle records",
+        "preferred_content_sources": "Google Workspace, Chase Business Hub, DMV portals",
+        "social_media_usage": "YouTube for tutorials, limited other platforms",
+        "ecommerce_behavior": "Budget-focused (auto parts, household items)",
+        "device_usage": "Desktop for financial tasks, mobile for quick searches",
+        "subscriptions": "Microsoft 365, QuickBooks Online"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Spreadsheet automation, small business accounting",
+        "hobbies": "Dog care, DIY home projects",
+        "entertainment_preferences": "Animal documentaries, architecture shows",
+        "content_consumption": "Task-focused tutorials, procedural guides",
+        "learning_style": "Self-taught through online resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with planned purchases",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (401k, savings accounts)",
+        "financial_tools": "Chase Business Complete Banking®, QuickBooks"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with matrix reporting",
+        "family_structure": "Single-parent household with pets",
+        "friendship_circle": "Small trusted group",
+        "community_involvement": "Food rescue volunteer (MealConnect)",
+        "online_vs_offline_engagement": "Hybrid (online research, in-person errands)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage, schedule review",
+        "workday_habits": "Batch processing financial reports",
+        "evening_and_leisure": "Pet care, home improvement projects",
+        "weekend_activities": "Auto maintenance, thrift shopping",
+        "sleep_schedule": "11 PM - 6:30 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light activity (dog walking)",
+        "mental_health": "Stress management through organization",
+        "work_life_balance": "Structured separation",
+        "health_related_digital_behavior": "Hospital portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative researcher",
+        "brand_loyalty": "Sticky with verified providers",
+        "influence_factors": "Institutional credibility (DMV, court systems)",
+        "tech_adoption": "Productivity tool early adopter",
+        "privacy_and_security_concerns": "Multi-factor authentication user"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Regional day trips",
+        "personal_projects": "Vehicle maintenance tracking system",
+        "unexpected_behavioral_traits": "Combines spreadsheet expertise with hands-on auto repair knowledge"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Anderson",
+        "age": 32,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Los Altos, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Mechanical Engineering",
+            "institution": "San Jose State University"
+        },
+        "occupation": "Automotive Technician",
+        "company": "Independent Repair Shop",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, neat cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Casual workwear (polo shirts, utility pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, appreciation for craftsmanship",
+        "motivations": "Mastery of technical skills, financial stability for family",
+        "cognitive_style": "Hands-on problem solver with systematic approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed technical queries (vehicle repairs), comparative shopping research",
+        "ad_interactions": "High engagement with automotive gear/apparel ads",
+        "preferred_content_sources": "Fox News, MSN automotive articles, Allrecipes.com",
+        "social_media_usage": "Limited active engagement (YouTube tutorials, Craigslist browsing)",
+        "ecommerce_behavior": "Researches durable goods (tools, outdoor gear), mid-range budget",
+        "device_usage": "Desktop for research, mobile for quick checks (Edge browser)",
+        "subscriptions": "USPS informed delivery, Allrecipes newsletter"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Emerging EV technology, vintage car restoration",
+        "hobbies": "Classic car maintenance, Hawaiian cooking, dog training",
+        "entertainment_preferences": "70s-90s rock/R&B, automotive documentaries",
+        "content_consumption": "Technical guides >90% completion, skims celebrity news",
+        "learning_style": "YouTube tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented for tools/appliances, splurges on quality outerwear",
+        "income_level": "$65,000-$80,000 annually",
+        "investment_habits": "Conservative (index funds, certificates of deposit)",
+        "financial_tools": "Credit card rewards, PayPal for online purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with strong client trust",
+        "family_structure": "Single, assists aging parent(s)",
+        "friendship_circle": "Small group of car enthusiasts",
+        "community_involvement": "Local food bank volunteering",
+        "online_vs_offline_engagement": "Prefers in-person for hobbies, online for research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks USPS tracking, scans Fox News headlines",
+        "workday_habits": "Blocks 2-hour focus sessions for complex repairs",
+        "evening_and_leisure": "Tests recipe variations, watches restoration videos",
+        "weekend_activities": "Auto parts flea markets, dog park visits",
+        "sleep_schedule": "Night owl (midnight-7am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength training via manual labor",
+        "mental_health": "Decompresses through tactile hobbies",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Searches ergonomic workshop setups"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Compares 3+ options for major purchases",
+        "brand_loyalty": "Prefers established tool brands (Harbor Freight, Milwaukee)",
+        "influence_factors": "User forums > influencer opinions",
+        "tech_adoption": "Mid-cycle adopter (waits for v2 products)",
+        "privacy_and_security_concerns": "Uses 2FA for financial accounts"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Third-generation Californian with Hawaiian culinary interest",
+        "travel_habits": "Regional road trips to auto shows",
+        "personal_projects": "Restoring 2002 Subaru Outback",
+        "unexpected_behavioral_traits": "Mechanic who compiles vintage recipe collections"
+    }
+}

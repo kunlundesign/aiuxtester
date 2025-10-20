@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Martinez",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Perris, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "N/A",
+            "institution": "Local California High School"
+        },
+        "occupation": "Freelance Graphic Designer",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'9\"",
+            "Body shape": "Slim",
+            "Hairstyle": "Short, textured crop",
+            "Skin color": "Light olive",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual streetwear with Y2K-inspired accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": "Technology integration in creative expression",
+        "motivations": "Creative fulfillment through digital art",
+        "cognitive_style": "Creative problem-solver with technical execution skills"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex multi-platform searches for design tutorials + event planning",
+        "ad_interactions": "High engagement with fashion/tech hybrids (Ray-Ban Meta)",
+        "preferred_content_sources": "Behance, YouTube tutorials, MSN entertainment news",
+        "social_media_usage": "Active on Instagram/Pinterest for visual inspiration, passive on TikTok",
+        "ecommerce_behavior": "Frequent mid-price fashion/beauty purchases on SHEIN",
+        "device_usage": "Windows PC for design work, mobile for social browsing",
+        "subscriptions": "Adobe Creative Cloud, Spotify Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "UI/UX design trends, font licensing",
+        "hobbies": "Digital photo editing, theme park culture",
+        "entertainment_preferences": "Horror-themed entertainment, Y2K nostalgia music",
+        "content_consumption": "Tutorial videos + long-form design blogs",
+        "learning_style": "Project-based learning through online tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with splurges on tech accessories",
+        "income_level": "Lower-middle (freelance/part-time)",
+        "investment_habits": "Non-investor",
+        "financial_tools": "Debit card, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative in group projects",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "Small group of creative peers",
+        "community_involvement": "Online design communities",
+        "online_vs_offline_engagement": "70% digital/30% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks design inspiration feeds during breakfast",
+        "workday_habits": "Balances schoolwork with freelance projects",
+        "evening_and_leisure": "Gaming sessions (Minecraft/Roblox)",
+        "weekend_activities": "Theme park visits with friends",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual walker, fast food enthusiast",
+        "mental_health": "Uses creative projects for stress relief",
+        "work_life_balance": "Struggles with deadline pressures",
+        "health_related_digital_behavior": "Occasional fitness app usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for tech, impulsive for fashion",
+        "brand_loyalty": "Mix of budget brands (SHEIN) + premium tech (Adobe)",
+        "influence_factors": "Visual social proof + tutorial creators",
+        "tech_adoption": "Early adopter of creative software",
+        "privacy_and_security_concerns": "Moderate (uses mainstream security tools)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English/Spanish bilingual",
+        "travel_habits": "Regional theme park visitor",
+        "personal_projects": "Y2K-themed digital art portfolio",
+        "unexpected_behavioral_traits": "Combines political awareness with abstract cartoon creation"
+    }
+}

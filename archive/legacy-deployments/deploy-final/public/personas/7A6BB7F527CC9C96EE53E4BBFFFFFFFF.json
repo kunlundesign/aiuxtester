@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 65,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Jackson, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Retired",
+        "company": "Unknown",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray",
+            "Skin color": "Medium",
+            "Facial features": "Wrinkles around eyes",
+            "Dress Style": "Casual (polo shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Community engagement, fiscal responsibility, social justice (evidenced by interest in Target boycott articles)",
+        "motivations": "Staying informed, maintaining independence, DIY home projects",
+        "cognitive_style": "Practical problem-solver (based on technical queries for soundbars/extension poles)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "NBA updates, home improvement solutions, local healthcare providers",
+        "ad_interactions": "High engagement with hardware/audio equipment ads (3/5 clicked ads)",
+        "preferred_content_sources": "MSN News, Facebook Marketplace, specialized sports sites (Lakers Nation)",
+        "social_media_usage": "Facebook daily (38 domain visits), passive news consumption",
+        "ecommerce_behavior": "Budget-conscious (frequent Costco/Sure Save searches)",
+        "device_usage": "Desktop (Edge browser, frequent New Tab resets)",
+        "subscriptions": "Costco membership, local church newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement planning (viewed Social Security articles)",
+        "hobbies": "Home improvement projects, NBA fandom",
+        "entertainment_preferences": "70s soul music (Raydio searches), Lakers games",
+        "content_consumption": "News articles > videos (no YouTube dominance)",
+        "learning_style": "Guided tutorials (soundbar setup queries)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (coupon searches, 104 Bing visits for price comparisons)",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (no crypto/stock signals)",
+        "financial_tools": "Traditional banking (Central Georgia EMC login)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "N/A (retired)",
+        "family_structure": "Likely living with spouse (home maintenance focus)",
+        "friendship_circle": "Local community (Nextdoor/Facebook engagement)",
+        "community_involvement": "Church activities (Grace Baptist visits)",
+        "online_vs_offline_engagement": "Balanced (uses digital tools for local connections)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News browsing (MSN/ESPN)",
+        "workday_habits": "Home projects, errands (Home Depot/Costco trips)",
+        "evening_and_leisure": "Sports viewing, Facebook check-ins",
+        "weekend_activities": "Church, local marketplace browsing",
+        "sleep_schedule": "Early riser (aligned with retirement norms)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular eye care (ophthalmologist searches)",
+        "mental_health": "Community-focused (Nextdoor/Facebook interactions)",
+        "work_life_balance": "Leisure-oriented (retirement status)",
+        "health_related_digital_behavior": "Provider portal usage (DentaQuest/MyChart)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (multiple query comparisons)",
+        "brand_loyalty": "Selective (Home Depot/Costco preference)",
+        "influence_factors": "Community recommendations (Facebook Marketplace usage)",
+        "tech_adoption": "Mainstream user (soundbar setup queries)",
+        "privacy_and_security_concerns": "Moderate (avoids excessive social sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English",
+        "travel_habits": "Local/regional (MapQuest/Zillow usage)",
+        "personal_projects": "Home audio setup (soundbar/auxiliary cord research)",
+        "unexpected_behavioral_traits": "Tech-curious retiree actively troubleshooting AV systems"
+    }
+}

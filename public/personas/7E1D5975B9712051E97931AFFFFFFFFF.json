@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Mitchell",
+        "age": 37,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Decatur, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Information Technology",
+            "institution": "University of Illinois"
+        },
+        "occupation": "IT Support Specialist",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, trimmed",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven, rectangular glasses",
+            "Dress Style": "Casual (jeans, graphic tees, varsity jackets)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, financial responsibility",
+        "motivations": "Career stability, automotive enthusiasm, intellectual curiosity",
+        "cognitive_style": "Analytical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting, car specifications, financial dividends, combat sports updates",
+        "ad_interactions": "High engagement with automotive and tech ads",
+        "preferred_content_sources": "MSN News, Car and Driver, Wikipedia, Reddit forums",
+        "social_media_usage": "Passive Reddit browsing, limited Facebook activity",
+        "ecommerce_behavior": "Researches purchases extensively; buys tech gadgets and car parts",
+        "device_usage": "Windows desktop primary, Edge browser with Bing search",
+        "subscriptions": "Microsoft Rewards, Nasdaq market updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Network security, automotive engineering trends",
+        "hobbies": "Gaming (Fortnite), car modification, hiking in national parks",
+        "entertainment_preferences": "Classic rock music, action movies, UFC events",
+        "content_consumption": "Technical guides >90%, sports news >80%",
+        "learning_style": "Self-taught through forums and documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for essentials, splurges on car upgrades",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Dividend-focused (USOI tracking), low-risk approach",
+        "financial_tools": "Credit cards, PayPal, Microsoft Rewards points"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent worker with collaborative troubleshooting",
+        "family_structure": "Lives with spouse/partner, no children indicated",
+        "friendship_circle": "Small group of close friends with shared interests",
+        "community_involvement": "Unknown",
+        "online_vs_offline_engagement": "70% digital interaction, 30% local car meets"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news check with coffee, Microsoft Rewards tasks",
+        "workday_habits": "Technical support sessions, automotive forum browsing",
+        "evening_and_leisure": "Gaming sessions, car research, UFC event viewing",
+        "weekend_activities": "Local car shows, hiking in Blue Mountains National Park",
+        "sleep_schedule": "Night owl (tech troubleshooting until 11pm)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional hiking, desk job posture awareness",
+        "mental_health": "Gaming as stress relief, no indicated disorders",
+        "work_life_balance": "Leisure-integrated tech use (35% overlap)",
+        "health_related_digital_behavior": "Searched sleep apnea solutions, natural hair care"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparisons (car specs, dividend yields)",
+        "brand_loyalty": "Strong preference for Microsoft/Lexus products",
+        "influence_factors": "Expert technical reviews, automotive forums",
+        "tech_adoption": "Early mainstream adopter (Windows updates)",
+        "privacy_and_security_concerns": "Moderate (router security searches)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, basic tech terminology",
+        "travel_habits": "Regional road trips, interest in European destinations",
+        "personal_projects": "Car performance tracking spreadsheets",
+        "unexpected_behavioral_traits": "Technical analyst who enjoys abstract dance forms (searched Samba/Tango)"
+    }
+}

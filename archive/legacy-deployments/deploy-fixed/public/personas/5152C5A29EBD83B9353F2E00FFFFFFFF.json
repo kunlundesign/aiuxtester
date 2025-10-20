@@ -1,0 +1,123 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret E. Collins",
+        "age": 54,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Brookville, Ohio, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Fashion Merchandising",
+            "institution": "Sinclair Community College"
+        },
+        "occupation": "Part-Time Retail Associate",
+        "company": "Local Boutique",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Curvy",
+            "Hairstyle": "Shoulder-length layered cut",
+            "Skin color": "Fair",
+            "Facial features": "Round face with glasses",
+            "Dress Style": "Casual-comfortable with occasional formal accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": [
+            "Social justice",
+            "Environmental conservation",
+            "Government accountability"
+        ],
+        "motivations": [
+            "Family care",
+            "Creative expression through style",
+            "Political awareness"
+        ],
+        "cognitive_style": "Research-driven with nostalgic leanings"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex queries about historical fashion/pet care, Boolean searches for political news",
+        "ad_interactions": "High engagement with formalwear/pet supply ads",
+        "preferred_content_sources": [
+            "MSN News",
+            "Wikipedia",
+            "Specialty blogs (fashion/perfume)"
+        ],
+        "social_media_usage": "Passive Facebook use, active MSN comment sections",
+        "ecommerce_behavior": "Budget-conscious for self, premium spending on dolls/pets",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": [
+            "Chewy Autoship",
+            "MSN Premium",
+            "Klondike game premium account"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Vintage fashion preservation",
+            "Retail merchandising trends"
+        ],
+        "hobbies": [
+            "Doll customization",
+            "Gardening with synthetic thatch decor",
+            "Sims 4 gameplay"
+        ],
+        "entertainment_preferences": [
+            "True crime documentaries",
+            "70s soul music",
+            "Psychological thrillers"
+        ],
+        "content_consumption": "Long-form investigative journalism mixed with nostalgic lifestyle content",
+        "learning_style": "YouTube tutorials + historical fashion archives"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with splurges on collectibles",
+        "income_level": "$35k-$45k annually",
+        "investment_habits": "Conservative (CDs/money market)",
+        "financial_tools": [
+            "PayPal",
+            "Store credit cards",
+            "Chewy Autoship"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Reliable team player avoids leadership roles",
+        "family_structure": "Lives with spouse and two cats",
+        "friendship_circle": "Small group of childhood friends",
+        "community_involvement": "Online doll collector forums",
+        "online_vs_offline_engagement": "90% digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news scan with coffee",
+        "workday_habits": "Afternoon/evening retail shifts",
+        "evening_and_leisure": "Sims 4 gameplay, perfume research",
+        "weekend_activities": "Gardening, doll maintenance, political blog reading",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking routine, pescatarian diet",
+        "mental_health": "Mindfulness app usage, no reported conditions",
+        "work_life_balance": "Leisure-focused outside work hours",
+        "health_related_digital_behavior": "Pet health research dominance"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis across 3+ sources",
+        "brand_loyalty": "Strong to Chewy/Men's Wearhouse",
+        "influence_factors": "Consumer reports + nostalgic appeal",
+        "tech_adoption": "Selective late adopter (adopts proven useful tech)",
+        "privacy_and_security_concerns": "Cookie rejector, VPN user"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with basic French knowledge",
+        "travel_habits": "Domestic trips with pets, plans for Parisian cultural tour",
+        "personal_projects": "Doll wardrobe design, vintage recipe archive",
+        "unexpected_behavioral_traits": "Combines true crime interest with doll restoration serenity"
+    }
+}

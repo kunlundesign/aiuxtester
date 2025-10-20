@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 41,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Middletown, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Local Ohio University"
+        },
+        "occupation": "Small Business Owner/Office Manager",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Natural curls (referenced in natural hair interest)",
+            "Skin_color": "Medium",
+            "Facial_features": "Warm expression with minimal makeup",
+            "Dress_Style": "Casual practical wear for home improvement tasks"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Community engagement, financial independence, craftsmanship appreciation",
+        "motivations": "Business efficiency, family security, creative home improvement",
+        "cognitive_style": "Structured problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services + technical specifications (e.g., scaffolding/miter saw details)",
+        "ad_interactions": "High engagement with footwear ads (Skechers Men's Slip-Ins clicked 8 times)",
+        "preferred_content_sources": "MSN News, QuickBooks portals, home improvement blogs",
+        "social_media_usage": "Limited active engagement (only Facebook event browsing)",
+        "ecommerce_behavior": "Bulk purchases via SAM's Club, business supplies shopping",
+        "device_usage": "Desktop for business management (QuickBooks usage patterns)",
+        "subscriptions": "QuickBooks Online, Brother Printer Services, local news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vendor relationship management, accounting automation",
+        "hobbies": "Gardening, DIY furniture projects, local festival participation",
+        "entertainment_preferences": "Sports news (Bengals football), political commentary",
+        "content_consumption": "Practical tutorials + local event updates",
+        "learning_style": "Hands-on experimentation (home improvement/landscaping projects)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases (SAM's Club visits)",
+        "income_level": "Middle-class ($60k-$80k/year based on Ohio small business averages)",
+        "investment_habits": "Conservative (HELOC research for home improvements)",
+        "financial_tools": "High-yield savings accounts (NerdWallet engagement)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Vendor-dependent (Spectrum Business/Virginia Abrasives interactions)",
+        "family_structure": "Likely married with children (men's apparel purchases + local family events)",
+        "friendship_circle": "Community-connected through local festivals",
+        "community_involvement": "Active in Middletown events (July 4th festival engagement)",
+        "online_vs_offline_engagement": "Balanced local/online presence"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage (2,282 unread messages pattern)",
+        "workday_habits": "Split between QuickBooks management & supplier coordination",
+        "evening_and_leisure": "Home improvement projects + MSN political/news consumption",
+        "weekend_activities": "Gardening, family events, hardware store visits",
+        "sleep_schedule": "Early riser (aligns with business management needs)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through gardening/DIY, no specific fitness routine",
+        "mental_health": "Stress management via hands-on projects",
+        "work_life_balance": "Blurred boundaries (business/personal email mixing)",
+        "health_related_digital_behavior": "Reactive searches (e.g., water heater reviews)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (extensive product comparisons)",
+        "brand_loyalty": "Mixed (SAM's Club bulk loyalty vs ad-driven shoe purchases)",
+        "influence_factors": "User reviews (electric water heater rankings), local reputations",
+        "tech_adoption": "Practical adopter (business tools but not cutting-edge)",
+        "privacy_and_security_concerns": "Medium (OTP usage but high ad engagement)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American, English-only",
+        "travel_habits": "Local/regional trips (Nā Pali Coast research exception)",
+        "personal_projects": "Patio/landscaping upgrades, woodworking crafts",
+        "unexpected_behavioral_traits": "Simultaneously researches Trump tariffs and natural hair beauty standards"
+    }
+}

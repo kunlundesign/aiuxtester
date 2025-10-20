@@ -1,0 +1,140 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Miller",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "West Dundee, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Finance or Information Technology",
+            "institution": "Loyola University Chicago"
+        },
+        "occupation": "Financial Services Associate",
+        "company": "Regional Financial Firm",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, neat",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual-business casual (polo shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Financial responsibility",
+            "Cultural exploration",
+            "Technological pragmatism"
+        ],
+        "motivations": [
+            "Career advancement",
+            "Financial security",
+            "Personal development"
+        ],
+        "cognitive_style": "Analytical problem-solver with structured planning"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on travel logistics (65% of queries), financial planning (25%), and tech solutions (10%)",
+        "ad_interactions": "High engagement with travel services (airlines/car rentals) and financial advisors",
+        "preferred_content_sources": [
+            "MSN News",
+            "TripAdvisor",
+            "Financial Times",
+            "TechRadar"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "Reddit (finance/travel subs)",
+                "YouTube tutorials",
+                "LinkedIn"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive content consumption"
+        },
+        "ecommerce_behavior": {
+            "Spending": "Budget-conscious traveler",
+            "Categories": [
+                "Travel accessories",
+                "Kitchenware",
+                "Smartphone peripherals"
+            ]
+        },
+        "device_usage": "70% mobile (Android), 30% desktop (Windows/Chrome)",
+        "subscriptions": [
+            "Xfinity Internet",
+            "Delta SkyMiles",
+            "YouTube Premium"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Retirement planning strategies",
+            "Tax optimization",
+            "Remote work tools"
+        ],
+        "hobbies": [
+            "Experimental cooking",
+            "Harry Potter universe exploration",
+            "Budget travel planning"
+        ],
+        "entertainment_preferences": {
+            "Music": "Pop/mainstream",
+            "Movies": "Fantasy franchises",
+            "Authors": "J.K. Rowling"
+        },
+        "content_consumption": "Mix of long-form financial guides and short travel vlogs",
+        "learning_style": "Self-directed research with supplemental YouTube tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with splurges on travel experiences",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Risk-averse retirement account contributor",
+        "financial_tools": [
+            "Fidelity retirement accounts",
+            "Xfinity Mobile",
+            "Multiple credit cards"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Detail-oriented collaborator in hybrid work environment",
+        "family_structure": "Lives with parents/siblings (multiple Illinois property searches)",
+        "friendship_circle": "Small group of close friends with shared interests",
+        "community_involvement": "Limited formal involvement, cultural curiosity via travel",
+        "online_vs_offline_engagement": "Balanced digital research with in-person experiences"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking financial/travel news",
+        "workday_habits": "Structured remote work sessions via Citrix",
+        "evening_and_leisure": "Meal experimentation, trip planning, streaming",
+        "weekend_activities": "Local exploration, cooking projects, family time",
+        "sleep_schedule": "Night owl (12am-7am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate exerciser, home-cooked meals",
+        "mental_health": "Stress management through cooking/travel planning",
+        "work_life_balance": "Compartmentalizes work/personal time effectively",
+        "health_related_digital_behavior": "Occasional fitness app use, no chronic conditions indicated"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with multiple price comparisons",
+        "brand_loyalty": "Prefers established brands (Delta, Adidas, Google Pixel)",
+        "influence_factors": "Expert reviews > social media trends",
+        "tech_adoption": "Mainstream adopter after thorough evaluation",
+        "privacy_and_security_concerns": "VPN use for financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, basic Spanish from travel research",
+        "travel_habits": "Semi-annual international trips (Caribbean focus)",
+        "personal_projects": "Developing multi-destination travel budgeting system",
+        "unexpected_behavioral_traits": "Combines meticulous financial planning with spontaneous cultural immersion during travels"
+    }
+}

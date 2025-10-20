@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Mary Broussard",
+        "age": 67,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Lafayette, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Louisiana at Lafayette"
+        },
+        "occupation": "Retired Financial Manager",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short silver-gray",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile with glasses",
+            "Dress Style": "Casual practical wear with occasional floral patterns"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial literacy, community safety, homeownership stability",
+        "motivations": "Maintaining financial security, preserving home comfort, staying mentally active",
+        "cognitive_style": "Structured thinking with practical problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed financial queries, home improvement research, multi-city weather comparisons",
+        "ad_interactions": "High engagement with home decor/travel ads, medium retail responsiveness",
+        "preferred_content_sources": "NYTimes, Yahoo Finance, MSN News, Zillow",
+        "social_media_usage": "Limited; occasional Nextdoor community interaction",
+        "ecommerce_behavior": "Budget-conscious home/outdoor purchases, periodic splurges on quality footwear",
+        "device_usage": "Desktop for financial management, mobile for casual browsing",
+        "subscriptions": "Netflix, NYTimes digital, Yahoo Mail Plus"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate trends, retirement fund management",
+        "hobbies": "Word puzzles (Wordle/Waffle), seasonal gardening, DIY home projects",
+        "entertainment_preferences": "Political news analysis, historical dramas, classic rock",
+        "content_consumption": "Detailed financial reports + brief local news updates",
+        "learning_style": "Self-guided through tutorials and community forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with strategic quality investments",
+        "income_level": "Upper-middle class (retirement funds + investments)",
+        "investment_habits": "Diversified conservative portfolio",
+        "financial_tools": "Multiple credit cards, online banking, Square payment systems"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Former collaborative team leader",
+        "family_structure": "Empty nester likely living alone",
+        "friendship_circle": "Close-knit local community ties",
+        "community_involvement": "Neighborhood safety initiatives via Nextdoor",
+        "online_vs_offline_engagement": "Balanced digital/face-to-face interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with email/news review, weather checks",
+        "workday_habits": "Property management tasks, bill payments",
+        "evening_and_leisure": "Puzzle games, Netflix binge-watching",
+        "weekend_activities": "Gardening, home improvement projects",
+        "sleep_schedule": "Consistent 10PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily walks (Brooks shoes usage), low-carb diet",
+        "mental_health": "Puzzle games for cognitive maintenance",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "MDVIP doctor research, fitness through daily activities"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Strong in footwear/financial services",
+        "influence_factors": "Consumer reviews, historical data",
+        "tech_adoption": "Mainstream user with selective upgrades",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English, French Cajun cultural influences",
+        "travel_habits": "Regional trips (Branson/Chicago), detailed safety research",
+        "personal_projects": "Patio furniture restoration, custom holiday decor",
+        "unexpected_behavioral_traits": "Tech-savvy retirement planning contrasting with handwritten recipe collection"
+    }
+}

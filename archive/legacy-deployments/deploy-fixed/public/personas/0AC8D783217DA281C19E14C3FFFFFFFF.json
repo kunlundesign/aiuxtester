@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Amanda Rodriguez",
+        "age": 47,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Fort Myers, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Florida State University"
+        },
+        "occupation": "Real Estate Agent / Small Business Owner",
+        "company": "Freelance",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Curvy",
+            "hairstyle": "Shoulder-length layered brunette",
+            "skin_color": "Olive",
+            "facial_features": "Minimal makeup with cat-eye glasses",
+            "dress_style": "Trendy-casual with fitted blouses and tailored pants"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Financial independence, practical problem-solving",
+        "motivations": "Property investment growth, maintaining stylish appearance",
+        "cognitive_style": "Structured researcher with aesthetic appreciation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Real estate comps, fashion trends, travel deals",
+        "ad_interactions": "High engagement with fashion/beauty and home decor ads",
+        "preferred_content_sources": "Zillow, SHEIN, eBay, NY Post",
+        "social_media_usage": "Passive engagement on Facebook/Pinterest for ideas",
+        "ecommerce_behavior": "Frequent mid-range fashion/home purchases",
+        "device_usage": "Desktop (Edge) for research, mobile for quick purchases",
+        "subscriptions": "Spotify Premium, NY Post newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Florida housing market trends, property management tools",
+        "hobbies": "Home decor DIY projects, beach vacations",
+        "entertainment_preferences": "Pop music playlists, celebrity news podcasts",
+        "content_consumption": "Detailed real estate listings with photo galleries",
+        "learning_style": "Video tutorials for home improvement projects"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused splurger on statement pieces",
+        "income_level": "$75,000-$95,000 annually",
+        "investment_habits": "Conservative real estate investor",
+        "financial_tools": "Bank of America credit card, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-focused negotiator",
+        "family_structure": "Single-parent household",
+        "friendship_circle": "Professional networking groups",
+        "community_involvement": "Local business associations",
+        "online_vs_offline_engagement": "Hybrid (virtual research, in-person showings)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking real estate leads",
+        "workday_habits": "Property showings with mobile document access",
+        "evening_and_leisure": "Online shopping during TV time",
+        "weekend_activities": "Open houses and beach outings",
+        "sleep_schedule": "11 PM - 6 AM regularity"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional yoga via YouTube tutorials",
+        "mental_health": "Music therapy playlists on Spotify",
+        "work_life_balance": "Compartmentalized work/personal time",
+        "health_related_digital_behavior": "Fitness tracker synced to phone"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison shopper with saved carts",
+        "brand_loyalty": "Repeat SHEIN/Warby Parker customer",
+        "influence_factors": "User reviews and price matching",
+        "tech_adoption": "Mainstream user with selective upgrades",
+        "privacy_and_security_concerns": "Basic antivirus protection"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Spanish",
+        "travel_habits": "Southeast US coastal destinations",
+        "personal_projects": "Rental property flip planning",
+        "unexpected_behavioral_traits": "Combines practical real estate research with bold fashion choices"
+    }
+}

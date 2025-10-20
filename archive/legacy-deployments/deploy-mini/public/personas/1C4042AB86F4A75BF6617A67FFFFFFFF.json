@@ -1,0 +1,132 @@
+{
+    "Core Identity": {
+        "full_name": "Isabella Martinez",
+        "age": 27,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Orlando, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Dental Assistance",
+            "institution": "Valencia College"
+        },
+        "occupation": "Dental Assistant (Job Seeker)",
+        "company": "Freelance",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Medium",
+            "facial_features": "Round face with minimal makeup",
+            "dress_style": "Casual professional (scrubs during work hours)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": [
+            "Environmental consciousness",
+            "Financial literacy",
+            "Work-life balance"
+        ],
+        "motivations": [
+            "Career stability",
+            "Entrepreneurial aspirations",
+            "Family well-being"
+        ],
+        "cognitive_style": "Practical problem-solver with systematic approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic research (finance, real estate, dental care) with complex queries",
+        "ad_interactions": "High engagement with financial services and local events",
+        "preferred_content_sources": [
+            "MSN News",
+            "YouTube tutorials",
+            "Government websites"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "YouTube",
+                "Educational gaming platforms"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumer with occasional active searches"
+        },
+        "ecommerce_behavior": "Value-driven purchases (Car research via Carvana, festival tickets)",
+        "device_usage": "Desktop-primary (Edge/Chrome) with mobile secondary",
+        "subscriptions": [
+            "GEICO insurance alerts",
+            "Experian credit monitoring"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Dental certification programs",
+            "Real estate entrepreneurship"
+        ],
+        "hobbies": [
+            "Family gaming (Roblox)",
+            "Home cooking",
+            "DIY sustainability projects"
+        ],
+        "entertainment_preferences": {
+            "music": "Country (Dolly Parton articles)",
+            "movies": "Documentaries (space/science content)",
+            "authors": "Practical non-fiction"
+        },
+        "content_consumption": "Mix of quick news updates and detailed how-to guides",
+        "learning_style": "Self-directed online learning with structured milestones"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with strategic splurges (festival tickets)",
+        "income_level": "Lower-middle class ($35k-$45k)",
+        "investment_habits": "Cautious (stock market research but no visible trading activity)",
+        "financial_tools": [
+            "Credit monitoring services",
+            "Online tax calculators"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player (Dental team workflows)",
+        "family_structure": "Single parent (Roblox/gaming site usage patterns)",
+        "friendship_circle": "Small close-knit group",
+        "community_involvement": "Local event participation (Strawberry Festival)",
+        "online_vs_offline_engagement": "Balanced mix favoring offline family time"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks email/news while preparing family breakfast",
+        "workday_habits": "Job searching interspersed with childcare duties",
+        "evening_and_leisure": "Meal preparation, educational gaming with child",
+        "weekend_activities": "Local attractions, home improvement projects",
+        "sleep_schedule": "Early-to-bed (10PM) with occasional late-night research"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (family outings), interest in nutritional cooking",
+        "mental_health": "Stress management through organization (tax/insurance tracking)",
+        "work_life_balance": "Actively prioritizing family time",
+        "health_related_digital_behavior": "Medical certification research (Wig Medical visits)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with expert validation",
+        "brand_loyalty": "Value-driven switcher (multiple insurance/credit checks)",
+        "influence_factors": [
+            "Professional certifications",
+            "User reviews",
+            "Cost-benefit analysis"
+        ],
+        "tech_adoption": "Mainstream adopter (uses established platforms)",
+        "privacy_and_security_concerns": "Moderate (engages with financial services cautiously)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English primary, basic Spanish comprehension",
+        "travel_habits": "Regional day trips (Maitland-Orlando-Narcoossee distance query)",
+        "personal_projects": "Real estate business planning (name generator usage)",
+        "unexpected_behavioral_traits": "Combines practical dental career with interest in speculative science content"
+    }
+}

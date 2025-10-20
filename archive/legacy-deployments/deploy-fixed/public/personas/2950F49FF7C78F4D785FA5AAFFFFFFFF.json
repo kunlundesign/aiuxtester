@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Aarav Sharma",
+        "age": 29,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Washington, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "Virginia Tech"
+        },
+        "occupation": "Software Engineer",
+        "company": "Microsoft",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, straight black hair",
+            "skin_color": "Medium brown",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Casual techwear (hoodies, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTJ",
+        "beliefs_and_values": "Technology optimism, Global citizenship",
+        "motivations": "Professional mastery, Systems optimization",
+        "cognitive_style": "Analytical problem-solver"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting, Mathematics, Global news",
+        "ad_interactions": "Clicks on VPNs, Security software, Tech hardware",
+        "preferred_content_sources": "Microsoft documentation, Wikipedia, Al Jazeera",
+        "social_media_usage": "Limited (GitHub contributions, MSN news browsing)",
+        "ecommerce_behavior": "Researches tech accessories, Budget-conscious",
+        "device_usage": "Windows desktop primary, Edge browser",
+        "subscriptions": "Microsoft 365, GitHub Pro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "OS development, AI integration, Cybersecurity",
+        "hobbies": "Language learning (Hindi/Arabic basics), Puzzle solving",
+        "entertainment_preferences": "Tech documentaries, Strategy games",
+        "content_consumption": "Technical documentation, Global politics",
+        "learning_style": "Self-directed experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech purchases",
+        "income_level": "$95,000-$110,000",
+        "investment_habits": "Tech stock focus",
+        "financial_tools": "Microsoft Wallet, Traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor, Technical mentor",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small tech-focused group",
+        "community_involvement": "Open-source contributions",
+        "online_vs_offline_engagement": "90% digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Tech news scan, System diagnostics check",
+        "workday_habits": "Deep work sessions, Virtual standups",
+        "evening_and_leisure": "Gaming, Documentation writing",
+        "weekend_activities": "Tech meetups, Outdoor debugging sessions",
+        "sleep_schedule": "12 AM - 7 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Ergonomic workstation, Occasional hiking",
+        "mental_health": "Puzzle-solving stress relief",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Posture reminder apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based optimization",
+        "brand_loyalty": "Microsoft ecosystem adherent",
+        "influence_factors": "Technical specifications, Peer reviews",
+        "tech_adoption": "Early enterprise adopter",
+        "privacy_and_security_concerns": "High encryption focus"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Hindi/English bilingual",
+        "travel_habits": "Tech conference attendance (Seattle/Redmond)",
+        "personal_projects": "Localization tools development",
+        "unexpected_behavioral_traits": "Enjoys abstract mathematical art despite technical precision focus"
+    }
+}

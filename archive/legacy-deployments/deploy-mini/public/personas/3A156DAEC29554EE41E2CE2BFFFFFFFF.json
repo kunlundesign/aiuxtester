@@ -1,0 +1,143 @@
+{
+    "Core Identity": {
+        "full_name": "Brandy Koster",
+        "age": 50,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Lakeville, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Finance",
+            "institution": "University of Minnesota"
+        },
+        "occupation": "Freelance Financial Advisor",
+        "company": "Self-Employed",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Medium build",
+            "hairstyle": "Shoulder-length blonde hair",
+            "skin_color": "Fair",
+            "facial_features": "Glasses, minimal makeup",
+            "dress_style": "Classic and functional (e.g., blazers, practical shoes)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": [
+            "Financial independence",
+            "Environmental sustainability",
+            "Fiscal conservatism"
+        ],
+        "motivations": [
+            "Financial security",
+            "Lifelong learning",
+            "Quality family experiences"
+        ],
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep financial research combined with transactional queries (e.g., 'fire calculator retirement', 'lake como hotels italy')",
+        "ad_interactions": "High engagement with travel and home goods ads (clicked 7/7 relevant ads)",
+        "preferred_content_sources": [
+            "Vanguard",
+            "MSN News",
+            "YouTube tutorials",
+            "IKEA/Pinterest for home ideas"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Facebook (business)",
+                "YouTube (learning)"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumption, active business posts"
+        },
+        "ecommerce_behavior": {
+            "spending": "Mid-range quality focus",
+            "categories": [
+                "Leather goods",
+                "Kitchenware",
+                "Sustainable home decor"
+            ]
+        },
+        "device_usage": {
+            "primary": "Desktop",
+            "os": "Windows",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "Atlas Coffee Club",
+            "YNAB",
+            "NYT Cooking"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "FIRE movement",
+            "Portfolio management",
+            "Small business finance"
+        ],
+        "hobbies": [
+            "Sourdough baking",
+            "Home renovation projects",
+            "Container gardening"
+        ],
+        "entertainment_preferences": {
+            "music": "Classic rock",
+            "movies": "Documentaries",
+            "authors": "Financial independence writers"
+        },
+        "content_consumption": "Long-form financial articles + short DIY videos",
+        "learning_style": "Self-directed through curated online resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned quality investments",
+        "income_level": "$75k-$100k annually",
+        "investment_habits": "Conservative index fund focus (Vanguard user)",
+        "financial_tools": [
+            "Credit cards",
+            "Mint/YNAB",
+            "Retirement calculators"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent consultant with collaborative client approach",
+        "family_structure": "Married, likely empty-nester (wedding planning in past)",
+        "friendship_circle": "Small group of close, like-minded friends",
+        "community_involvement": "Local sustainability initiatives + home business network",
+        "online_vs_offline_engagement": "Balanced mix (virtual research, in-person errands)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee + financial news review",
+        "workday_habits": "Client meetings interspersed with DIY project research",
+        "evening_and_leisure": "Meal prep while watching baking tutorials",
+        "weekend_activities": "Gardening + local day trips",
+        "sleep_schedule": "Early riser (bed by 10pm)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily walking, plant-forward diet",
+        "mental_health": "Financial planning as stress management",
+        "work_life_balance": "Structured separation (9-5 work hours)",
+        "health_related_digital_behavior": "Meal tracking apps, sustainable living blogs"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparison shopper",
+        "brand_loyalty": "Strong for financial services (Vanguard), flexible elsewhere",
+        "influence_factors": "Expert reviews + personal value alignment",
+        "tech_adoption": "Mainstream user with selective upgrades",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English speaker",
+        "travel_habits": "Biannual international trips (recent Italy focus)",
+        "personal_projects": "Developing sourdough recipe book",
+        "unexpected_behavioral_traits": "Financial analyst who creates abstract cookie recipes"
+    }
+}

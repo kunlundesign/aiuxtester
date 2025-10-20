@@ -1,0 +1,143 @@
+{
+    "Core Identity": {
+        "full_name": "Edward Villanueva",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Newark, USA",
+        "education": {
+            "degree": "Associate Degree (in progress)",
+            "major": "Mechanical Engineering",
+            "institution": "Essex County College"
+        },
+        "occupation": "College Student",
+        "company": "unknown",
+        "physical_attributes": {
+            "height": "5'9\"",
+            "body_shape": "Lean",
+            "hairstyle": "Short cropped",
+            "skin_color": "Medium",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual techwear with gaming/college merch"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": [
+            "Technology optimism",
+            "Educational accessibility"
+        ],
+        "motivations": [
+            "Academic achievement",
+            "Technical mastery",
+            "Gaming excellence"
+        ],
+        "cognitive_style": "Analytical problem-solver with pragmatic implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical specifications comparison, academic support resources, gaming strategies",
+        "ad_interactions": "High engagement with laptop/tech ads, moderate with education services",
+        "preferred_content_sources": [
+            "Microsoft Learn",
+            "Reddit tech communities",
+            "SparkNotes",
+            "YouTube tech channels"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Reddit",
+                "YouTube"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumption with occasional forum participation"
+        },
+        "ecommerce_behavior": {
+            "spending": "Budget-conscious tech purchases",
+            "categories": [
+                "Laptop accessories",
+                "Gaming subscriptions",
+                "Academic software"
+            ]
+        },
+        "device_usage": {
+            "primary": "Windows laptop",
+            "secondary": "Smartphone",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "Xbox Game Pass",
+            "Amazon Prime",
+            "Microsoft 365"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Mechanical design software",
+            "AI integration in engineering"
+        ],
+        "hobbies": [
+            "Competitive typing",
+            "Modding game hardware",
+            "Tech benchmarking"
+        ],
+        "entertainment_preferences": {
+            "games": [
+                "Valorant",
+                "Minecraft",
+                "Fable series"
+            ],
+            "music": "Slowed/reverb remixes of pop and electronic music"
+        },
+        "content_consumption": "Technical specifications analysis, literary analysis guides, gaming tutorials",
+        "learning_style": "Self-directed learning through documentation and video tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech investments",
+        "income_level": "Low (student budget)",
+        "investment_habits": "Conservative",
+        "financial_tools": [
+            "Student credit card",
+            "Amazon Store Card"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative project partner",
+        "family_structure": "Lives with parents",
+        "friendship_circle": "Medium-sized gaming/academic group",
+        "community_involvement": "Online tech forums",
+        "online_vs_offline_engagement": "70% online / 30% offline"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks academic portal and tech news",
+        "workday_habits": "Balances coursework with hardware research",
+        "evening_and_leisure": "Gaming sessions with technical benchmarking",
+        "weekend_activities": "Local tech store visits, multiplayer gaming",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Ergonomic workstation focus",
+        "mental_health": "Stress relief through gaming",
+        "work_life_balance": "Structured academic/gaming time blocks",
+        "health_related_digital_behavior": "Posture correction YouTube videos"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Specs-driven with Reddit validation",
+        "brand_loyalty": "Microsoft ecosystem adherent",
+        "influence_factors": "Professional reviews + community consensus",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Medium (prioritizes convenience)"
+    },
+    "Other Unique Attributes": {
+        "cultural_and_linguistic_background": "Hispanic-American, English primary",
+        "travel_habits": "Local commuter student",
+        "personal_projects": "Laptop performance optimization experiments",
+        "unexpected_behavioral_traits": "Combines mechanical engineering studies with competitive gaming analytics"
+    }
+}

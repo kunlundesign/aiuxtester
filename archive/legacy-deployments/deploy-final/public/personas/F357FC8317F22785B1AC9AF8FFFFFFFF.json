@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Latonya Bermudez",
+        "age": 40,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Missouri City, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Business Administration",
+            "institution": "San Jacinto College"
+        },
+        "occupation": "Administrative Assistant",
+        "company": "Freelance",
+        "physical attributes": {
+            "height": "165 cm",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length straight hair",
+            "skin_color": "Medium",
+            "facial_features": "Round face with glasses",
+            "dress_style": "Business casual with practical footwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Education accessibility, Work-life balance, Financial independence",
+        "motivations": "Career advancement, Family security, Professional skill development",
+        "cognitive_style": "Structured thinking with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Education resources, Job requirements, Technical grammar queries",
+        "ad_interactions": "High engagement with remote work tools and ergonomic furniture",
+        "preferred_content_sources": "San Jacinto College portals, Indeed, MSN News, Cengage Learning",
+        "social_media_usage": "Passive engagement on LinkedIn and Nextdoor",
+        "ecommerce_behavior": "Budget-conscious purchases (Sam's Club, Macy's clearance)",
+        "device_usage": "Desktop preference (Windows/Edge), iPhone secondary device",
+        "subscriptions": "Cengage MindTap, Yahoo Mail Plus, Skillcrush coding camp"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Administrative certifications, Insurance licensing, AI applications",
+        "hobbies": "Cooking experimental recipes, DIY fashion projects, Pet care",
+        "entertainment_preferences": "R&B music, True crime documentaries, Career-focused podcasts",
+        "content_consumption": "Long-form educational articles and job market analyses",
+        "learning_style": "Structured online courses with practical assignments"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with planned purchases",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (401k contributions, low-risk savings)",
+        "financial_tools": "Credit cards, Cash App, Synchrony financing"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent worker with occasional team coordination",
+        "family_structure": "Single parent with one elementary school-aged child",
+        "friendship_circle": "Small trusted group from parenting communities",
+        "community_involvement": "Local school PTA member, Nextdoor neighborhood updates",
+        "online_vs_offline_engagement": "Prefers digital communication but attends school events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks job alerts and school portal before daycare drop-off",
+        "workday_habits": "Balances freelance projects with online coursework",
+        "evening_and_leisure": "Meal preparation while streaming news, helps with homework",
+        "weekend_activities": "Grocery shopping at Sam's Club, park visits with child",
+        "sleep_schedule": "Night owl (typically retires after midnight)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work habits with weekend walks",
+        "mental_health": "Uses mindfulness apps during work breaks",
+        "work_life_balance": "Struggles to separate caregiving and professional duties",
+        "health_related_digital_behavior": "Researches ergonomic office setups and quick healthy recipes"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with multiple price comparisons",
+        "brand_loyalty": "Prefers established educational and tech brands",
+        "influence_factors": "Expert reviews, institutional endorsements, parent forums",
+        "tech_adoption": "Mainstream user who upgrades when necessary",
+        "privacy_and_security_concerns": "Cautious about financial data but reuses passwords"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Spanish speaker",
+        "travel_habits": "Occasional regional trips to Galveston beaches",
+        "personal_projects": "Building e-portfolio for career transition",
+        "unexpected_behavioral_traits": "Despite financial caution, invests in premium Apple ecosystem products"
+    }
+}

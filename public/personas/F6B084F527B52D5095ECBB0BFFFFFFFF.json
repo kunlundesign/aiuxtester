@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 37,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Lodi, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Accounting/Finance",
+            "institution": "Unknown"
+        },
+        "occupation": "Tax Preparer/Accountant",
+        "company": "Freelance/Small Tax Firm",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Curvy",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup with practical glasses",
+            "dress_style": "Business casual with occasional plus-size fashion items from Torrid"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, technological progress",
+        "motivations": "Accuracy in professional work, continuous learning in tech",
+        "cognitive_style": "Analytical with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical searches (tax codes, AI implementation), recurring retail queries",
+        "ad_interactions": "Medium engagement with home goods/financial services ads",
+        "preferred_content_sources": "IRS.gov, Microsoft Start, MSN News, tax software documentation",
+        "social_media_usage": "Passive Facebook user for news/community updates",
+        "ecommerce_behavior": "Budget-conscious home goods shopper (Wayfair, Amazon)",
+        "device_usage": "Desktop for tax work, mobile for casual browsing",
+        "subscriptions": "Amazon Prime, AMC Plus, TaxSlayer"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tax law updates, AI integration in accounting",
+        "hobbies": "Vintage doll carriage collecting, hiking in Texas parks",
+        "entertainment_preferences": "Country music (Chris Stapleton), political documentaries",
+        "content_consumption": "Long-form technical articles with occasional lifestyle content",
+        "learning_style": "Hands-on software experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned purchases",
+        "income_level": "$45,000-$60,000",
+        "investment_habits": "Conservative (CDs, basic retirement accounts)",
+        "financial_tools": "Chime, traditional bank accounts, credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with client-focused approach",
+        "family_structure": "Likely lives alone or with partner",
+        "friendship_circle": "Small close-knit group",
+        "community_involvement": "Limited beyond professional network",
+        "online_vs_offline_engagement": "Prefers digital communication for efficiency"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Yahoo Mail/IRS updates with coffee",
+        "workday_habits": "Structured tax preparation blocks with financial news breaks",
+        "evening_and_leisure": "Streams AMC Plus content, online shopping",
+        "weekend_activities": "Day hikes, vintage market visits",
+        "sleep_schedule": "Regular 11PM-6AM routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate fitness through hiking, home-cooked meals",
+        "mental_health": "Stress management through structured routines",
+        "work_life_balance": "Clear separation with evening digital detox",
+        "health_related_digital_behavior": "Occasional medical research via HIPAA-compliant portals"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with regulatory compliance focus",
+        "brand_loyalty": "High for tax software (CrossLink), medium elsewhere",
+        "influence_factors": "IRS guidelines, product reviews",
+        "tech_adoption": "Mainstream user with professional exceptions",
+        "privacy_and_security_concerns": "High sensitivity with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Texas native with Southern cultural influences",
+        "travel_habits": "Regional destinations (Bahamas consideration per MSNEvents)",
+        "personal_projects": "Vintage collection cataloging, AI side experiments",
+        "unexpected_behavioral_traits": "Combines technical tax work with artistic vintage curation"
+    }
+}

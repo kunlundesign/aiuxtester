@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Thompson",
+        "age": 33,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Hauppauge, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Suffolk County Community College"
+        },
+        "occupation": "Auto Repair Shop Manager",
+        "company": "Local Auto Repair Business",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with defined jawline",
+            "dress_style": "Casual workwear (polo shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical problem-solving, quality craftsmanship",
+        "motivations": "Business efficiency, technical mastery",
+        "cognitive_style": "Structured problem-solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Automotive parts research, technical specifications, rebate optimization",
+        "ad_interactions": "High engagement with automotive parts/tire ads",
+        "preferred_content_sources": "Manufacturer websites (GMPartsDirect), eBay, trade portals (Nexpart)",
+        "social_media_usage": "Limited (YouTube tutorials, Facebook connections)",
+        "ecommerce_behavior": "Budget-conscious bulk purchases for business needs",
+        "device_usage": "Desktop-first workflow with mobile email checks",
+        "subscriptions": "Trade newsletters (U.S. AutoForce), Gmail/AOL for business"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vintage car restoration, shop management tools",
+        "hobbies": "Auto customization, amateur night photography",
+        "entertainment_preferences": "Nostalgic TV shows (70s-90s sitcoms), car documentaries",
+        "content_consumption": "Technical manuals > opinion pieces",
+        "learning_style": "Hands-on experimentation with online tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused bulk purchasing",
+        "income_level": "$65k-$85k annually",
+        "investment_habits": "Conservative (business reinvestment)",
+        "financial_tools": "Business banking (Chase), credit cards for parts"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leader emphasizing team efficiency",
+        "family_structure": "Married with children",
+        "friendship_circle": "Close-knit automotive enthusiast group",
+        "community_involvement": "Local business networking",
+        "online_vs_offline_engagement": "Primarily offline professional interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking shop emails",
+        "workday_habits": "Split between hands-on repairs and supplier coordination",
+        "evening_and_leisure": "Family time, auto forum browsing",
+        "weekend_activities": "Car shows, DIY home projects",
+        "sleep_schedule": "Early riser (6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness through work",
+        "mental_health": "Stress relief through hands-on projects",
+        "work_life_balance": "Work-centric but family-oriented",
+        "health_related_digital_behavior": "Occasional medical research via news articles"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis with brand trust",
+        "brand_loyalty": "Prefers established automotive brands",
+        "influence_factors": "Technical specifications, vendor relationships",
+        "tech_adoption": "Mainstream business tech user",
+        "privacy_and_security_concerns": "Basic precautions for business accounts"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Long Island cultural influences",
+        "travel_habits": "Regional day trips for parts/events",
+        "personal_projects": "Restoring vintage Ford truck",
+        "unexpected_behavioral_traits": "Technical professional who enjoys 70s sitcom nostalgia"
+    }
+}

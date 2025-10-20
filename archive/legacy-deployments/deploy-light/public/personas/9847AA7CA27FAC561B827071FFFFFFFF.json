@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Stevens",
+        "age": 69,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Thornton, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Retired Administrative Professional",
+        "company": "unknown",
+        "physical_attributes": {
+            "Height": "unknown",
+            "Body shape": "unknown",
+            "Hairstyle": "unknown",
+            "Skin color": "unknown",
+            "Facial features": "unknown",
+            "Dress Style": "Casual with occasional boutique purchases (Sundance Catalog/Moco Boutique interest)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Pro-democracy activism, Skepticism of political corruption, Health consciousness",
+        "motivations": "Maintaining independence, Staying politically informed, Managing age-related health",
+        "cognitive_style": "Analytical researcher (verified collagen scam claims, compared court records)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Health management (38%), Local services (25%), Political news (20%), Shopping (17%)",
+        "ad_interactions": "High engagement with health supplements (collagen), Moderate political/court-related ads",
+        "preferred_content_sources": "MSN News, AARP platforms, Local government sites, Healthline",
+        "social_media_usage": "Facebook (passive), YouTube (music content)",
+        "ecommerce_behavior": "Frequent boutique returns, Moderate spending on health supplements",
+        "device_usage": "Desktop (Edge browser dominance), Secondary mobile use",
+        "subscriptions": "AARP games, Medicare/Wellcare portals, Local news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare policy, Retirement financial planning",
+        "hobbies": "Online puzzles (Mahjongg), Local politics monitoring, Gardening (hummingbird content)",
+        "entertainment_preferences": "Pink's music, Political commentary, Classic rock guitarists (Justin Derrico)",
+        "content_consumption": "Factual long-form articles (court documents, health research)",
+        "learning_style": "Self-learning through official portals (court, healthcare)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with premium health exceptions",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (Ameriprise financial logins)",
+        "financial_tools": "Traditional banking, Medicare plans"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Former collaborative role (admin history)",
+        "family_structure": "Likely lives alone (multiple email logins)",
+        "friendship_circle": "Small group with shared political views",
+        "community_involvement": "Local government engagement (court docket checks)",
+        "online_vs_offline_engagement": "Hybrid (online research, local pharmacy visits)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/health portal check, News review",
+        "workday_habits": "Scheduled medical appointments, Online gaming",
+        "evening_and_leisure": "Music videos, Political content consumption",
+        "weekend_activities": "Local dining (menu searches), Boutique shopping",
+        "sleep_schedule": "Regular hours (aligned with healthcare management)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Joint care focus (collagen/CBD), Walgreens prescriptions",
+        "mental_health": "Puzzle gaming for cognitive maintenance",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "UCHealth portal usage, Medical research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (verified supplement claims)",
+        "brand_loyalty": "Skeptical (checked 'is primal harvest a scam')",
+        "influence_factors": "Official documentation, Anti-corruption messaging",
+        "tech_adoption": "Competent mainstream user",
+        "privacy_and_security_concerns": "Cautious (multiple secure logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Occasional domestic trips (United.com logins)",
+        "personal_projects": "Local political monitoring, Health advocacy",
+        "unexpected_behavioral_traits": "Tech-savvy senior with strong political engagement despite age"
+    }
+}

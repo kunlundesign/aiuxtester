@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Laura Dawson",
+        "age": 44,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Peshtigo, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Wisconsin"
+        },
+        "occupation": "Small Business Owner/Agricultural Manager",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length straight",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, practical appearance",
+            "Dress Style": "Casual workwear (jeans, boots, branded polo)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, local community support, practical innovation",
+        "motivations": "Business sustainability, equipment modernization, financial optimization",
+        "cognitive_style": "Structured problem-solving with focus on measurable outcomes"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical business solutions (70%), financial tools (20%), equipment research (10%)",
+        "ad_interactions": "High engagement with accounting/farming equipment ads",
+        "preferred_content_sources": "Government portals, manufacturer websites, financial platforms",
+        "social_media_usage": "Limited (MSN for news, no visible mainstream platform activity)",
+        "ecommerce_behavior": "Business-focused purchases (equipment, software subscriptions)",
+        "device_usage": "Desktop (Edge browser, Windows OS)",
+        "subscriptions": "QuickBooks Online, Dropbox Basic"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Agricultural equipment, tax compliance, cash flow management",
+        "hobbies": "Recreational baseball, DIY projects, political news analysis",
+        "entertainment_preferences": "Political commentary, sports news, business podcasts",
+        "content_consumption": "Factual government documents + sensational political headlines",
+        "learning_style": "Self-learning through official documentation and vendor resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven business investments with careful ROI analysis",
+        "income_level": "$75k-$100k annually (small business estimate)",
+        "investment_habits": "Conservative (equipment upgrades over financial markets)",
+        "financial_tools": "QuickBooks, loan calculators, traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Vendor/client-focused (Duane Tschirhart/Robert Finger interactions)",
+        "family_structure": "Likely rural family household",
+        "friendship_circle": "Local business community connections",
+        "community_involvement": "Agricultural associations, local government compliance",
+        "online_vs_offline_engagement": "Primarily offline business operations with essential digital tools"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "QuickBooks check, equipment maintenance planning",
+        "workday_habits": "Split between field management and financial administration",
+        "evening_and_leisure": "MSN news review, equipment research",
+        "weekend_activities": "Equipment maintenance, family baseball activities",
+        "sleep_schedule": "Early riser (5-6 AM start)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active outdoor work, basic medical checkups (Mayo Clinic visit)",
+        "mental_health": "Stress management through practical problem-solving",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Occasional medical reference checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparisons (loan calculators, vendor reviews)",
+        "brand_loyalty": "Established business tools (QuickBooks), open to equipment alternatives",
+        "influence_factors": "Government guidelines, vendor reputations",
+        "tech_adoption": "Mainstream business user (adopts proven solutions)",
+        "privacy_and_security_concerns": "Basic precautions for financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, rural Midwestern values",
+        "travel_habits": "Regional equipment auctions/suppliers",
+        "personal_projects": "Farm facility upgrades (batting nets, steel buildings)",
+        "unexpected_behavioral_traits": "Combines practical business focus with interest in political drama"
+    }
+}

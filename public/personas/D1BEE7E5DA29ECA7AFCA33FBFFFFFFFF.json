@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Carter",
+        "age": 52,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Carle Place, United States",
+        "education": {
+            "degree": "Master of Science in Nursing",
+            "major": "Family Nurse Practitioner",
+            "institution": "New York University"
+        },
+        "occupation": "Nurse Practitioner",
+        "company": "NYU Langone Health",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette with subtle highlights",
+            "skin_color": "Fair",
+            "facial_features": "Minimal wrinkles, light makeup",
+            "dress_style": "Business casual with practical footwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Health advocacy, financial preparedness, lifelong learning",
+        "motivations": "Professional development, maintaining physical appearance, financial security",
+        "cognitive_style": "Analytical with practical application focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Medical procedures (BBL research), financial planning, local services",
+        "ad_interactions": "High engagement with cosmetic/medical and cooking-related ads",
+        "preferred_content_sources": "Government portals (SSA.gov), medical journals, Yelp reviews",
+        "social_media_usage": "LinkedIn for professional networking, limited personal use",
+        "ecommerce_behavior": "Mid-range spending on kitchenware and footwear",
+        "device_usage": "Desktop for research, mobile for quick searches",
+        "subscriptions": "HBO Max, Prime Video, NYTimes digital"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Oncology trends, medical conferences (Medical Crossfire)",
+        "hobbies": "Cooking with specialty cookware, restaurant exploration",
+        "entertainment_preferences": "Crime thrillers (Netflix), political commentary",
+        "content_consumption": "Long-form medical articles, local news briefings",
+        "learning_style": "Conference attendance combined with practical implementation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional quality splurges",
+        "income_level": "$110,000-$130,000 annually",
+        "investment_habits": "Conservative 401(k) focus with Fidelity management",
+        "financial_tools": "Bank of America checking, Webster Bank savings"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player with mentor tendencies",
+        "family_structure": "Empty nester with adult children",
+        "friendship_circle": "Close-knit professional colleagues and neighbors",
+        "community_involvement": "Church activities (FaithDirect.net usage)",
+        "online_vs_offline_engagement": "Hybrid - professional networking online, in-person socializing"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/News check → Protein shake → Clinical prep",
+        "workday_habits": "Patient care → EHR documentation → Team huddles",
+        "evening_and_leisure": "Meal prep → HBO Max/Netflix → LinkedIn updates",
+        "weekend_activities": "Restaurant outings → Medical conferences → Family calls",
+        "sleep_schedule": "Regular 11 PM - 6 AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Annual screenings at MSKCC, balanced diet",
+        "mental_health": "Journaling, occasional meditation apps",
+        "work_life_balance": "Structured separation with emergency availability",
+        "health_related_digital_behavior": "WebMD symptom checks, NYU Langone portal use"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with professional consultation",
+        "brand_loyalty": "Sticks with validated medical/financial providers",
+        "influence_factors": "Peer recommendations, FDA approvals",
+        "tech_adoption": "Mainstream user with selective early adoption (Photomyne)",
+        "privacy_and_security_concerns": "Cautious with financial/medical data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Second-generation Italian-American",
+        "travel_habits": "2-3 domestic trips/year (Hilton/Marriott preferences)",
+        "personal_projects": "Family photo digitization using Photomyne",
+        "unexpected_behavioral_traits": "Medical professional deeply engaged in cosmetic procedure research"
+    }
+}

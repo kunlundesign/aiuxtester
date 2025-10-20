@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Chen Wei",
+        "age": 29,
+        "gender": "Male",
+        "nationality": "Chinese-American",
+        "current_residence": "Redmond, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "University of Washington"
+        },
+        "occupation": "IT Support Specialist",
+        "company": "Microsoft",
+        "physical_attributes": {
+            "Height": "175cm",
+            "Body shape": "Slim",
+            "Hairstyle": "Short, straight black hair",
+            "Skin color": "Light tan",
+            "Facial features": "Rectangular glasses, clean-shaven",
+            "Dress Style": "Casual techwear (graphic tees, hoodies)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, cross-cultural understanding",
+        "motivations": "Professional mastery, system optimization",
+        "cognitive_style": "Structured problem-solving with creative implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting (Windows 11), mathematical solutions, multilingual news monitoring",
+        "ad_interactions": "Medium engagement with tech support and software tools",
+        "preferred_content_sources": "Microsoft documentation, Wikipedia, NHK/BBC news",
+        "social_media_usage": "YouTube for tutorials, Bilibili for gaming content",
+        "ecommerce_behavior": "Occasional tech accessory purchases",
+        "device_usage": "Windows 11 desktop primary, Edge browser",
+        "subscriptions": "Microsoft 365, PBS Documentaries"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Windows system architecture, cybersecurity trends",
+        "hobbies": "Language learning (Japanese/Chinese), puzzle games",
+        "entertainment_preferences": "Nature documentaries, strategy games",
+        "content_consumption": "Technical guides + cultural news digests",
+        "learning_style": "Self-directed experimentation with documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech purchases",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Conservative index funds",
+        "financial_tools": "Microsoft Wallet, traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Solution-focused collaborator",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small tech-oriented group",
+        "community_involvement": "Online programming forums",
+        "online_vs_offline_engagement": "70% digital/30% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Tech news scan with breakfast",
+        "workday_habits": "Split between user support tickets and system audits",
+        "evening_and_leisure": "Language practice, gaming sessions",
+        "weekend_activities": "Hiking, tech meetups",
+        "sleep_schedule": "11 PM - 7 AM regular"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional gym visits, packed lunches",
+        "mental_health": "Puzzle-solving stress relief",
+        "work_life_balance": "Compartmentalized tech downtime",
+        "health_related_digital_behavior": "Fitness tracker integration"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis of official documentation",
+        "brand_loyalty": "Strong Microsoft ecosystem preference",
+        "influence_factors": "Technical specifications, expert forums",
+        "tech_adoption": "Early mainstream adopter (non-beta)",
+        "privacy_and_security_concerns": "High configuration customization"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Trilingual (English/Mandarin/Japanese)",
+        "travel_habits": "Occasional tech conference attendance",
+        "personal_projects": "Home lab server configuration",
+        "unexpected_behavioral_traits": "Enjoys abstract architectural design despite technical pragmatism"
+    }
+}

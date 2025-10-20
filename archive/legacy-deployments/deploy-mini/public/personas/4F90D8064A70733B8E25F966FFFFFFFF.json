@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Li Wei Chen",
+        "age": 29,
+        "gender": "Male",
+        "nationality": "Chinese-American",
+        "current_residence": "Redmond, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "University of Washington"
+        },
+        "occupation": "IT Support Specialist",
+        "company": "Microsoft",
+        "physical attributes": {
+            "Height": "175 cm",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, neat cut",
+            "Skin color": "Light olive",
+            "Facial features": "Rectangular glasses, clean-shaven",
+            "Dress Style": "Casual techwear (graphic tees + hoodies)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technological progressivism, data privacy rights",
+        "motivations": "System optimization, knowledge mastery, digital security",
+        "cognitive_style": "Structured problem-solving with technical creativity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting > News aggregation > Language learning",
+        "ad_interactions": "Security software > Cloud services > Travel deals",
+        "preferred_content_sources": "Microsoft Docs, BBC Tech, NHK World",
+        "social_media_usage": "Minimal personal use, LinkedIn for professional networking",
+        "ecommerce_behavior": "Budget-conscious tech accessories, occasional gaming gear",
+        "device_usage": "Windows 11 desktop primary, Android secondary",
+        "subscriptions": "Microsoft 365, IDrive Backup, Basic Hulu"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "OS architecture, cybersecurity frameworks",
+        "hobbies": "Retro PC gaming, experimental cooking, language memes",
+        "entertainment_preferences": "Sci-fi podcasts, indie strategy games",
+        "content_consumption": "Technical documentation > Video tutorials > News digests",
+        "learning_style": "Self-directed experimentation with community forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven tech investments, minimal luxury purchases",
+        "income_level": "$65,000-$75,000",
+        "investment_habits": "Conservative index funds + tech ETFs",
+        "financial_tools": "Microsoft Wallet, Chase credit card, Acorns micro-investing"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Reliable support role, prefers ticket systems over meetings",
+        "family_structure": "Single, shares apartment with roommate",
+        "friendship_circle": "Small tech-focused group, online D&D sessions",
+        "community_involvement": "Open-source documentation contributor",
+        "online_vs_offline_engagement": "80% digital communication, monthly LAN parties"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Security patch checks > MSN news scan > oatmeal breakfast",
+        "workday_habits": "Split between user support tickets and system diagnostics",
+        "evening_and_leisure": "Gaming sessions > Recipe experiments > Language apps",
+        "weekend_activities": "Tech meetups, hiking with photography",
+        "sleep_schedule": "12 AM - 7 AM with occasional late-night debugging"
+    },
+    "Health & Well-being": {
+        "physical_health": "Ergonomic workstation setup, weekly swimming",
+        "mental_health": "Puzzle games for stress relief, no formal therapy",
+        "work_life_balance": "Strict 8-hour workday with after-hours emergency alerts",
+        "health_related_digital_behavior": "Fitbit tracking, WebMD symptom checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with multiple backup plans",
+        "brand_loyalty": "Microsoft ecosystem adherent, cautious new tech adoption",
+        "influence_factors": "Expert forums > User reviews > Corporate branding",
+        "tech_adoption": "Stable release cycle follower (6-12 month delay)",
+        "privacy_and_security_concerns": "VPN user, regular cookie clearance"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Mandarin native, JLPT N3 Japanese",
+        "travel_habits": "Annual family visits to China, regional tech conferences",
+        "personal_projects": "Retro game emulator development",
+        "unexpected_behavioral_traits": "Technical pragmatist who writes sci-fi microfiction"
+    }
+}

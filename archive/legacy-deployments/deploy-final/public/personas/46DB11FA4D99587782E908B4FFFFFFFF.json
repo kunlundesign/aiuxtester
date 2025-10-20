@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Thompson",
+        "age": 45,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Fowler, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Health Sciences",
+            "institution": "Community College of Kansas"
+        },
+        "occupation": "Health Supplement Retail Manager",
+        "company": "Local Wellness Store",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup with practical glasses",
+            "dress_style": "Casual professional with layered cardigans"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Holistic health advocacy, financial preparedness, Christian faith",
+        "motivations": "Health maintenance, financial security, family well-being",
+        "cognitive_style": "Research-driven decision maker with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Targeted health queries (peptides/supplements), financial planning searches, travel planning",
+        "ad_interactions": "High engagement with supplement discounts, moderate interest in travel ads",
+        "preferred_content_sources": "Medical research sites (Healthline), religious content (DavidJeremiah.org), QVC beauty",
+        "social_media_usage": "Facebook/Instagram for community connection, limited public posting",
+        "ecommerce_behavior": "Budget-conscious supplement purchases, occasional beauty splurges",
+        "device_usage": "Desktop-focused with mobile complement (Yahoo Mail access)",
+        "subscriptions": "Religious podcasts, supplement newsletters, MSN news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Nutraceutical trends, retail management strategies",
+        "hobbies": "Church activities, coupon hunting, light gardening",
+        "entertainment_preferences": "NASCAR updates, 80s TV nostalgia (Airwolf), Christian radio",
+        "content_consumption": "Detailed medical articles, financial advice columns",
+        "learning_style": "Product research through vendor sites and user reviews"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with strategic splurges on health products",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative saver with Roth IRA interest",
+        "financial_tools": "Discover credit card, Venmo for family transactions"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented manager with mentorship approach",
+        "family_structure": "Married with adult children",
+        "friendship_circle": "Close church community connections",
+        "community_involvement": "Church volunteer, local business network",
+        "online_vs_offline_engagement": "Balanced digital research with in-person community focus"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Devotional reading, supplement regimen, email check",
+        "workday_habits": "Customer consultations, inventory management, supplier research",
+        "evening_and_leisure": "MSN news review, Facebook family updates, skincare routine",
+        "weekend_activities": "Church attendance, family meals, light hiking",
+        "sleep_schedule": "10 PM - 6 AM regular schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Supplement-focused wellness, moderate activity",
+        "mental_health": "Faith-based stress management",
+        "work_life_balance": "Structured separation with Sunday rest",
+        "health_related_digital_behavior": "Peptide forums, medical research deep dives"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative researcher with coupon optimization",
+        "brand_loyalty": "Supplement brand loyalty (Metagenics/Physician Designed)",
+        "influence_factors": "Medical credentials, user testimonials, cost-effectiveness",
+        "tech_adoption": "Mainstream user with specific tool mastery",
+        "privacy_and_security_concerns": "Basic precautions with financial data vigilance"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with basic Spanish comprehension",
+        "travel_habits": "Regional road trips, RV rental consideration",
+        "personal_projects": "Church event planning, home herbal remedy experiments",
+        "unexpected_behavioral_traits": "NASCAR enthusiasm contrasts with holistic health focus"
+    }
+}

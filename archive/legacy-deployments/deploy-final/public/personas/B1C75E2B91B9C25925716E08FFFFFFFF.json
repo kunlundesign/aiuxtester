@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Carlos Hernandez",
+        "age": 35,
+        "gender": "Male",
+        "nationality": "United States",
+        "current_residence": "Pharr, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Healthcare Administration",
+            "institution": "South Texas College"
+        },
+        "occupation": "Dental Case Manager",
+        "company": "Texas Health Steps Provider",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short trimmed",
+            "Skin color": "Medium tan",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual polo shirts and khakis for work, sneakers"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Family-first mentality, trust in public healthcare systems",
+        "motivations": "Providing quality care for dependents, maintaining financial stability",
+        "cognitive_style": "Practical problem-solver with attention to regulatory details"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused local service searches (schools, parks), detailed healthcare code lookups",
+        "ad_interactions": "High engagement with medical scrubs, children's footwear, and budget appliances",
+        "preferred_content_sources": "Government portals (IRS, Texas benefits), MSN News, Amazon product listings",
+        "social_media_usage": "Passive Facebook use for school updates, no visible Twitter/Instagram activity",
+        "ecommerce_behavior": "Frequent mid-price household purchases (HEB, Walmart, Amazon)",
+        "device_usage": "Windows desktop with Edge browser for work, Android mobile for quick searches",
+        "subscriptions": "Amazon Prime, Texas Benefits alerts, local weather updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Dental Medicaid policies, early childhood health programs",
+        "hobbies": "DIY crafts with children, exploring local parks, budget home improvement",
+        "entertainment_preferences": "Family movies, regional Mexican music (Fuerza Regida)",
+        "content_consumption": "Government guidelines and how-to articles over opinion pieces",
+        "learning_style": "On-the-job training with PDF manuals and webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases (Costco), uses coupons from Bath & Body Works",
+        "income_level": "$45k-$55k annually",
+        "investment_habits": "Conservative saver with 401k contributions",
+        "financial_tools": "HEB debit card, Walmart credit card, Cash App"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player in healthcare administration",
+        "family_structure": "Married with 2 young children (one possibly with Down syndrome)",
+        "friendship_circle": "Small network of parent friends from school",
+        "community_involvement": "PSJA school district activities, local food drives",
+        "online_vs_offline_engagement": "Prefers in-person family time over digital socialization"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Texas Benefits portal, packs school lunches",
+        "workday_habits": "Schedules Medicaid appointments, files TMHP claims",
+        "evening_and_leisure": "Family dinners, helps with school crafts like Wocket in Pocket projects",
+        "weekend_activities": "Grocery shopping at HEB, park visits, car maintenance research",
+        "sleep_schedule": "Early riser (6 AM) to prepare children for school"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking for exercise, manages stress through routine",
+        "mental_health": "Pragmatic approach to challenges, no visible therapy use",
+        "work_life_balance": "Strict separation between work hours and family time",
+        "health_related_digital_behavior": "Researches pediatric health conditions, uses Texas Medicaid portal"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with emphasis on official guidelines",
+        "brand_loyalty": "Prefers trusted budget brands (HEB, Walmart)",
+        "influence_factors": "Government recommendations, verified purchaser reviews",
+        "tech_adoption": "Mainstream user focused on practical tools",
+        "privacy_and_security_concerns": "Cautious with official portals but uses saved passwords"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Spanish, Tex-Mex cultural influences",
+        "travel_habits": "Occasional road trips to South Padre Island, no international travel",
+        "personal_projects": "Home organization improvements, children's craft activities",
+        "unexpected_behavioral_traits": "Enjoys abstract Dr. Seuss crafts despite analytical job requirements"
+    }
+}

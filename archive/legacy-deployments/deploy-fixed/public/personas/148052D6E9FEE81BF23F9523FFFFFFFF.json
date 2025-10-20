@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jessica Martinez",
+        "age": 43,
+        "gender": "Female",
+        "nationality": "United States",
+        "current_residence": "Redondo Beach, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "California State University, Long Beach"
+        },
+        "occupation": "Project Manager",
+        "company": "Mid-sized Financial Services Company",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Light",
+            "Facial features": "Minimal makeup, practical glasses",
+            "Dress Style": "Casual-business casual mix (blouses with jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Financial responsibility, environmental consciousness, family-first values",
+        "motivations": "Family security, career stability, sustainable living",
+        "cognitive_style": "Practical problem-solver with data-driven tendencies"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Vehicle research (48% of queries), home/childcare solutions (32%), financial management (20%)",
+        "ad_interactions": "High engagement with automotive/family services ads",
+        "preferred_content_sources": "Manufacturer sites, Wikipedia, Yelp, financial institution portals",
+        "social_media_usage": "YouTube (DIY/entertainment), LinkedIn (professional), passive MSN news consumption",
+        "ecommerce_behavior": "Researches major purchases extensively, prefers bulk retailers like Costco",
+        "device_usage": "Desktop Chrome for research, Android mobile for quick tasks",
+        "subscriptions": "Google Workspace, YouTube Premium, Costco membership"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Hybrid vehicle technology, financial planning tools",
+        "hobbies": "DIY home projects, family outings, car maintenance",
+        "entertainment_preferences": "True crime documentaries, NBA updates (family-shared interest)",
+        "content_consumption": "Detailed product specs > reviews > price comparisons",
+        "learning_style": "Self-learning through manufacturer guides and YouTube tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with strategic splurges (e.g., ceramic car coating)",
+        "income_level": "$85,000-$100,000 household",
+        "investment_habits": "Conservative (High-yield savings, index funds via Wealthfront)",
+        "financial_tools": "Ally Bank, Discover Savings, Chase credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leader with strong organizational skills",
+        "family_structure": "Married with 2 elementary-aged children",
+        "friendship_circle": "Small group of neighborhood moms",
+        "community_involvement": "School PTA member, local parenting groups",
+        "online_vs_offline_engagement": "Offline-focused but uses digital tools for coordination"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Google Calendar/Keep while preparing school lunches",
+        "workday_habits": "Blocks focus time for project management between family tasks",
+        "evening_and_leisure": "Family dinner, YouTube DIY videos after kids' bedtime",
+        "weekend_activities": "Home improvement projects, kids' workshops at Lakeshore Learning",
+        "sleep_schedule": "10:30 PM - 6:30 AM (Balanced)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Walks kids to school, uses natural cleaning products for allergies",
+        "mental_health": "Manages stress through structured planning",
+        "work_life_balance": "Strict boundaries during family time",
+        "health_related_digital_behavior": "Researches childhood dermatological issues extensively"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with 3+ comparison points",
+        "brand_loyalty": "Strong with proven reliability (Toyota, Costco)",
+        "influence_factors": "Expert specs > user reviews > price",
+        "tech_adoption": "Mainstream user (waits for proven solutions)",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English/Spanish bilingual",
+        "travel_habits": "Regional weekend trips (Buena Park/Hermosa Beach)",
+        "personal_projects": "Converting family SUV to hybrid, home rainwater harvesting system",
+        "unexpected_behavioral_traits": "Meticulous researcher who enjoys impromptu fast food reviews"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Carter",
+        "age": 70,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Princeton, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Local Community College"
+        },
+        "occupation": "Retired Administrative Assistant",
+        "company": "N/A",
+        "physical_attributes": {
+            "Height": "5'4\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short, gray waves",
+            "Skin_color": "Fair",
+            "Facial_features": "Warm smile, glasses",
+            "Dress_Style": "Casual, practical clothing (cardigans and slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Financial prudence, community responsibility, self-reliance",
+        "motivations": "Financial security, maintaining independence, family well-being",
+        "cognitive_style": "Structured thinking with practical problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical queries (tax forms, CD rates), local news, recipes",
+        "ad_interactions": "High engagement with financial tools, baking supplies, gardening resources",
+        "preferred_content_sources": "Government websites (IRS.gov), local news (MSN), recipe blogs",
+        "social_media_usage": "Minimal engagement; occasional passive browsing",
+        "ecommerce_behavior": "Budget-conscious (Kroger/Walmart ads), occasional home/garden purchases",
+        "device_usage": "Desktop preferred (Edge browser), Windows OS",
+        "subscriptions": "Local news alerts, grocery store newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement planning, personal finance management",
+        "hobbies": "Gardening, baking, following local sports (NCAA/NFL)",
+        "entertainment_preferences": "Classic country music, cooking shows, local news",
+        "content_consumption": "Factual articles with practical applications",
+        "learning_style": "Self-learning through recipe blogs and government resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned purchases",
+        "income_level": "Fixed retirement income",
+        "investment_habits": "Conservative (CDs, local credit unions)",
+        "financial_tools": "Online banking tools, IRS payment systems"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative team player",
+        "family_structure": "Likely lives alone or with spouse",
+        "friendship_circle": "Small close-knit group",
+        "community_involvement": "Local government engagement (princetontx.gov visits)",
+        "online_vs_offline_engagement": "Prefers offline interactions with digital support"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with local news review",
+        "workday_habits": "Financial management, recipe research",
+        "evening_and_leisure": "Gardening, baking experiments, MSN news",
+        "weekend_activities": "Grocery shopping, family calls, church events",
+        "sleep_schedule": "Early riser (bed by 10 PM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light gardening as exercise, balanced diet",
+        "mental_health": "Structured routines for stability",
+        "work_life_balance": "Relaxed retirement lifestyle",
+        "health_related_digital_behavior": "Recipe modifications for dietary needs"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (CD rate comparisons, tax calculators)",
+        "brand_loyalty": "Prefers established brands (Kroger, Lowe's)",
+        "influence_factors": "Government resources, financial security",
+        "tech_adoption": "Mainstream user for essential tasks",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southern U.S. cultural influences",
+        "travel_habits": "Occasional regional trips (Myrtle Beach interest)",
+        "personal_projects": "Vegetable gardening, family recipe preservation",
+        "unexpected_behavioral_traits": "Technically proficient with tax software despite age"
+    }
+}

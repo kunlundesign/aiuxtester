@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Carlos Mendoza",
+        "age": 23,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "El Paso, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "El Paso Community College"
+        },
+        "occupation": "Mortgage Loan Officer Trainee",
+        "company": "First American Bank NM",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short fade with textured top",
+            "skin_color": "Olive",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Business casual (collared shirts, chinos)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Fiscal conservatism, environmental sustainability through practical solutions, animal welfare",
+        "motivations": "Career advancement in finance, financial stability, self-sufficiency through DIY projects",
+        "cognitive_style": "Detail-oriented with strong practical implementation skills"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on niche topics (eco-burial, financial certifications), frequent job market monitoring",
+        "ad_interactions": "High engagement with financial tools, home improvement products, and budget retailers",
+        "preferred_content_sources": "Government portals (.gov), educational platforms (Udemy), local news (KTSM)",
+        "social_media_usage": "Limited professional LinkedIn use, passive news consumption via MSN",
+        "ecommerce_behavior": "Price-sensitive with focus on home/office supplies (Walmart, Home Depot)",
+        "device_usage": "Desktop Chrome user for complex tasks, mobile for quick searches",
+        "subscriptions": "Udemy courses, MSN News, Google Drive storage"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Mortgage lending regulations, real estate market trends, NMLS certification",
+        "hobbies": "Urban farming, DIY home projects, animal rescue volunteering",
+        "entertainment_preferences": "True crime documentaries, 70s soul music (Al Green), classic cinema",
+        "content_consumption": "Fact-based long-form articles with practical applications",
+        "learning_style": "Structured online courses with certification outcomes"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned purchases, prioritizes professional development",
+        "income_level": "$35,000-$45,000 annually",
+        "investment_habits": "Conservative saver exploring first-time home buyer options",
+        "financial_tools": "Chase banking products, QuickBooks Online, mortgage calculators"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent worker seeking mentorship opportunities",
+        "family_structure": "Lives with roommates in shared housing",
+        "friendship_circle": "Small group of college friends and work colleagues",
+        "community_involvement": "Volunteers at animal shelters, follows local politics",
+        "online_vs_offline_engagement": "Prefers in-person professional interactions but consumes news digitally"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks financial markets and local news over coffee",
+        "workday_habits": "Balances bank operations with certification study sessions",
+        "evening_and_leisure": "Meal prepping while watching financial tutorials, animal shelter volunteering weekends",
+        "weekend_activities": "Home improvement projects, visiting local farmers markets",
+        "sleep_schedule": "Night owl (typically retires after midnight)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness through manual projects, vitamin-conscious diet",
+        "mental_health": "Stress management through hands-on projects",
+        "work_life_balance": "Work-focused but maintains pet companionship",
+        "health_related_digital_behavior": "Researches nutritional foods and environmental health impacts"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with extensive regulatory compliance checks",
+        "brand_loyalty": "Prefers established financial institutions but shops value retailers",
+        "influence_factors": "Government guidelines, professional certifications, local community norms",
+        "tech_adoption": "Mainstream user prioritizing productivity tools",
+        "privacy_and_security_concerns": "Uses Do Not Call registry, cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Spanish, Tex-Mex cultural influences",
+        "travel_habits": "Regional road trips for camping/animal rescue conferences",
+        "personal_projects": "Developing urban chicken coop business plan",
+        "unexpected_behavioral_traits": "Fiscally conservative professional deeply engaged in progressive eco-burial research"
+    }
+}

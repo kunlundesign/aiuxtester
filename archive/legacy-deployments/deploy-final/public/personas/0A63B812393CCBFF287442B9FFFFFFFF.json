@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Dawson",
+        "age": 62,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Toccoa, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Business Administration",
+            "institution": "North Georgia Technical College"
+        },
+        "occupation": "Retired Administrative Assistant",
+        "company": "State of Georgia Government (Former)",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Plus-size",
+            "hairstyle": "Short silver-gray bob",
+            "skin_color": "Fair",
+            "facial_features": "Round face with smile lines",
+            "dress_style": "Casual chic with occasional luxury accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Financial preparedness, quality home maintenance, accessible fashion for all body types",
+        "motivations": "Maintaining independence, staying technologically competent, finding value in purchases",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Combines practical queries (IRS refunds) with aspirational shopping (luxury handbags)",
+        "ad_interactions": "High engagement with discount fashion and government service ads",
+        "preferred_content_sources": "Yahoo News, MSN, Gilt sales portals, government websites",
+        "social_media_usage": "Daily Facebook use, occasional TikTok browsing",
+        "ecommerce_behavior": "Price comparison across Walmart/Dollar General/Macy's before purchasing",
+        "device_usage": "Desktop for financial matters, mobile for social media",
+        "subscriptions": "Gilt sale alerts, Yahoo News Digest, Social Security updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement planning systems, government employee benefits",
+        "hobbies": "Swimwear selection, coupon hunting, light DIY home projects",
+        "entertainment_preferences": "Country music, network TV dramas, celebrity news",
+        "content_consumption": "Deals-focused short-form content and detailed government policy articles",
+        "learning_style": "Self-guided research with official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with occasional luxury splurges during sales",
+        "income_level": "Fixed retirement income",
+        "investment_habits": "Conservative saver with government-backed securities",
+        "financial_tools": "Direct deposit for benefits, Macy's credit card, Kroger rewards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative team player",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Close-knit group of former coworkers",
+        "community_involvement": "Online retirement planning forums",
+        "online_vs_offline_engagement": "Primarily digital communication with occasional family visits"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Yahoo Mail and Social Security updates with coffee",
+        "workday_habits": "Manages household maintenance schedules",
+        "evening_and_leisure": "Browses fashion deals while watching network news",
+        "weekend_activities": "Day trips, grandchildren visits, home improvement projects",
+        "sleep_schedule": "Regular 10PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking routine, Southern-style home cooking",
+        "mental_health": "Stays grounded through family connections",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Reads brain health articles, uses medication reminders"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive for major purchases",
+        "brand_loyalty": "Loyal to Macy's and government services",
+        "influence_factors": "Limited-time offers, official documentation",
+        "tech_adoption": "Competent with essential productivity tools",
+        "privacy_and_security_concerns": "Cautious with financial data entry"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern English with basic Spanish",
+        "travel_habits": "Biannual Caribbean resort vacations",
+        "personal_projects": "Curating vintage handbag collection",
+        "unexpected_behavioral_traits": "Combines Walmart grocery orders with luxury consignment browsing"
+    }
+}

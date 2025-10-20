@@ -1,0 +1,138 @@
+{
+    "Core Identity": {
+        "full_name": "John Hirst Gasek",
+        "age": 45,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Medford, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Culinary Arts or History",
+            "institution": "University of Wisconsin"
+        },
+        "occupation": "Food Enthusiast/Small Business Owner",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, practical",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual, functional"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": [
+            "LGBTQ+ advocacy",
+            "Sustainable food sourcing",
+            "Cultural preservation"
+        ],
+        "motivations": [
+            "Culinary innovation",
+            "Cultural exploration",
+            "Community building"
+        ],
+        "cognitive_style": "Analytical yet creative"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex queries about food history, travel logistics, and music deep cuts",
+        "ad_interactions": "High engagement with body jewelry, language learning, and travel services",
+        "preferred_content_sources": [
+            "CNN",
+            "Spotify",
+            "Wikipedia",
+            "TravelGay",
+            "Specialty food blogs"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "Facebook",
+                "Spotify"
+            ],
+            "frequency": "Daily",
+            "engagement": "Active in niche groups"
+        },
+        "ecommerce_behavior": "Mid-range spending on specialty foods and body modification accessories",
+        "device_usage": "Desktop for research/design, mobile for social media",
+        "subscriptions": [
+            "Spotify Premium",
+            "1440 news digest",
+            "WPR membershipp"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Artisanal food production",
+            "Wisconsin dairy industry",
+            "Historical cooking methods"
+        ],
+        "hobbies": [
+            "Ear stretching",
+            "Vinyl record collecting",
+            "Experimental panini crafting"
+        ],
+        "entertainment_preferences": {
+            "Music": [
+                "Indie folk",
+                "70s disco",
+                "Turkish psych"
+            ],
+            "Authors": [
+                "Food historians",
+                "Travel memoirists"
+            ]
+        },
+        "content_consumption": "Long-form food history articles with music streaming background",
+        "learning_style": "Self-directed research through primary sources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Quality-focused for kitchen tools and travel experiences",
+        "income_level": "$55,000-$70,000 annually",
+        "investment_habits": "Conservative with occasional splurges",
+        "financial_tools": [
+            "Credit cards",
+            "Local credit union accounts"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator collaborating with local producers",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Tight-knit LGBTQ+ and foodie community",
+        "community_involvement": "Local school board participant",
+        "online_vs_offline_engagement": "Balanced digital/physical community interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Local news scan while preparing artisanal breakfast",
+        "workday_habits": "Recipe testing interspersed with supply sourcing",
+        "evening_and_leisure": "Vinyl listening sessions with wine pairings",
+        "weekend_activities": "Farmers market visits, regional food festivals",
+        "sleep_schedule": "Night owl with consistent 7-hour rest"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through cooking, occasional hiking",
+        "mental_health": "Music therapy, Facebook community support",
+        "work_life_balance": "Blended lifestyle integrating passions",
+        "health_related_digital_behavior": "ASPIRUS.org visits for local healthcare info"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with historical context analysis",
+        "brand_loyalty": "Strong for Wisconsin producers, open to new food tech",
+        "influence_factors": "Producer ethics, cultural authenticity",
+        "tech_adoption": "Early majority adopter for food/culture tools",
+        "privacy_and_security_concerns": "Basic precautions, trusts established platforms"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, basic Spanish learner",
+        "travel_habits": "Cultural immersion trips to food heritage sites",
+        "personal_projects": "Archiving historical Midwestern recipes",
+        "unexpected_behavioral_traits": "Combines precise measurement tracking (unit converters) with abstract musical tastes"
+    }
+}

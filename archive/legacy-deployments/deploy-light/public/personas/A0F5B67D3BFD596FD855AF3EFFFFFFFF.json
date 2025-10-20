@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 25,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Meridian, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Education",
+            "institution": "University of Mississippi"
+        },
+        "occupation": "Elementary School Teacher",
+        "company": "Meridian Public School District",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length wavy brown",
+            "Skin color": "Fair",
+            "Facial features": "Round face with glasses",
+            "Dress Style": "Casual-professional mix (cardigans, blouses)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENFJ",
+        "beliefs_and_values": "Educational equity, STEM empowerment",
+        "motivations": "Student success, creative expression",
+        "cognitive_style": "Structured yet creative problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Education resources (75%), basketball updates (15%), DIY projects (10%)",
+        "ad_interactions": "Educational tools (60%), fashion (20%), snacks (20%)",
+        "preferred_content_sources": "Google Workspace, Canva, OpenStax, MSN Sports",
+        "social_media_usage": "YouTube (educational content), Pinterest (lesson ideas)",
+        "ecommerce_behavior": "Classroom supplies, budget fashion finds",
+        "device_usage": "Desktop Chrome (school), Mobile Edge (personal)",
+        "subscriptions": "Canva Pro, Grammarly, NYT Cooking"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Interactive learning tools, STEM curriculum design",
+        "hobbies": "Basketball analysis, DIY bike projects",
+        "entertainment_preferences": "NBA highlights, educational YouTube channels",
+        "content_consumption": "Quick video tutorials + detailed lesson plans",
+        "learning_style": "Hands-on experimentation with digital tools"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused classroom investments",
+        "income_level": "$42,000-$48,000",
+        "investment_habits": "Conservative (state retirement plan)",
+        "financial_tools": "Debit cards, PayPal, school procurement system"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative grade-level teams",
+        "family_structure": "Lives with partner, no children",
+        "friendship_circle": "Teacher colleagues + college friends",
+        "community_involvement": "School STEM fair coordinator",
+        "online_vs_offline_engagement": "Hybrid (parent-teacher portals + in-person meetings)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Lesson plan review, educational podcast during commute",
+        "workday_habits": "Interactive teaching mornings, grading afternoons",
+        "evening_and_leisure": "Basketball highlights analysis, Canva design projects",
+        "weekend_activities": "DIY bike maintenance, curriculum research",
+        "sleep_schedule": "11 PM - 6:30 AM (school nights)"
+    },
+    "Health & Well-being": {
+        "physical_health": "School sports participation, packed lunches",
+        "mental_health": "Classroom-success journaling",
+        "work_life_balance": "Strict school/home separation",
+        "health_related_digital_behavior": "Nutrition research for students"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-informed (student performance metrics)",
+        "brand_loyalty": "Established education brands",
+        "influence_factors": "Peer recommendations, expert reviews",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Cautious with student data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English",
+        "travel_habits": "Regional educational conferences",
+        "personal_projects": "Developing STEM fair curriculum",
+        "unexpected_behavioral_traits": "Mechanically inclined educator who rebuilds bicycles"
+    }
+}

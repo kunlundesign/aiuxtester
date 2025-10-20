@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Richard Stockton",
+        "age": 66,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Tucson, Arizona, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "History",
+            "institution": "Unknown"
+        },
+        "occupation": "Retired Genealogist/Real Estate Investor",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "unknown",
+            "Body shape": "unknown",
+            "Hairstyle": "unknown",
+            "Skin color": "unknown",
+            "Facial features": "unknown",
+            "Dress Style": "Casual/practical attire for research and travel"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Historical preservation, financial independence",
+        "motivations": "Intellectual curiosity, family legacy preservation, health maintenance",
+        "cognitive_style": "Analytical with structured historical research methods"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Genealogy (Richard Stockton lineage), real estate (Zillow), health/diet (diabetes reversal), travel planning (Iceland/Central America)",
+        "ad_interactions": "High engagement with Etsy, cruise deals, ergonomic furniture",
+        "preferred_content_sources": "Zillow, Etsy, MSN, Wikipedia, genealogy platforms",
+        "social_media_usage": "Minimal (limited Facebook use)",
+        "ecommerce_behavior": "Frequent purchases of craft supplies (Etsy/Amazon stickers), real estate research",
+        "device_usage": "Desktop-focused (detailed property/ancestry research)",
+        "subscriptions": "MSN News, genealogy platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Genealogy, historical property valuation",
+        "hobbies": "Family tree research, DIY crafts, birdwatching (cedar waxwing query)",
+        "entertainment_preferences": "Historical documentaries, true crime (Buffy the Vampire Slayer query)",
+        "content_consumption": "Long-form historical articles, real estate listings",
+        "learning_style": "Self-directed research through primary sources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with splurges on travel/health",
+        "income_level": "Upper-middle class (real estate investments)",
+        "investment_habits": "Conservative with interest in blue-chip stocks ('Magnificent Seven' query)",
+        "financial_tools": "Traditional banking, mortgage products"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent researcher",
+        "family_structure": "Likely adult children/grandchildren (family tree focus)",
+        "friendship_circle": "Small genealogy/retiree groups",
+        "community_involvement": "Local historical societies",
+        "online_vs_offline_engagement": "Online research supplemented with property visits"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/news review (Yahoo/MSN)",
+        "workday_habits": "Genealogy research, property market analysis",
+        "evening_and_leisure": "Puzzle-solving (Amazon wooden puzzles), historical TV",
+        "weekend_activities": "Local history tours, home improvement projects",
+        "sleep_schedule": "Early riser"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages diabetes through diet (pork/buttermilk research)",
+        "mental_health": "Cognitive activities (puzzles, research)",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Nutrition research, medical alert systems (WhyILiveWhereILive.com)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (extensive Zillow/ancestry comparisons)",
+        "brand_loyalty": "Prefers established platforms (Zillow/Etsy)",
+        "influence_factors": "Historical data, expert reviews",
+        "tech_adoption": "Mainstream user with specific tool mastery",
+        "privacy_and_security_concerns": "Moderate (uses mainstream platforms)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Armenian heritage (Garni tours)",
+        "travel_habits": "Cultural/historical destinations (Iceland, Central America)",
+        "personal_projects": "Family history book compilation",
+        "unexpected_behavioral_traits": "Combines analytical genealogy work with creative DIY crafts"
+    }
+}

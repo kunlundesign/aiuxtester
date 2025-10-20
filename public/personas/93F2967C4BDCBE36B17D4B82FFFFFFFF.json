@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Maria Gonzalez",
+        "age": 66,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Houston, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Office Administration",
+            "institution": "Houston Community College"
+        },
+        "occupation": "Retired Office Manager",
+        "company": "Local Houston-based manufacturing firm",
+        "physical attributes": {
+            "Height": "5'4\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short gray curls",
+            "Skin color": "Light brown",
+            "Facial features": "Warm smile with glasses",
+            "Dress Style": "Casual yet practical (denim jackets, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "National security prioritization, cultural preservation, financial preparedness",
+        "motivations": "Maintaining technological literacy, staying informed on global affairs, fostering family connections",
+        "cognitive_style": "Detail-oriented researcher who cross-verifies information from multiple sources"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-session research on high-value purchases (electronics), quick checks for weather/travel",
+        "ad_interactions": "High engagement with musical instruments/electronics ads, moderate response to travel deals",
+        "preferred_content_sources": "YouTube (music/karaoke), eBay (product research), MSN (news), Craigslist (local deals)",
+        "social_media_usage": "YouTube (active viewer), ElChat (occasional participant), minimal mainstream platform use",
+        "ecommerce_behavior": "Budget-conscious comparison shopper favoring refurbished/open-box items",
+        "device_usage": "Desktop primary (83% usage), Windows OS, Edge browser",
+        "subscriptions": "YouTube Premium (ad-free music), basic MSN news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Office technology upgrades, workplace efficiency tools",
+        "hobbies": "Karaoke singing, casual online gaming, DIY home projects",
+        "entertainment_preferences": "Regional Mexican music, political commentary videos, telenovela recap channels",
+        "content_consumption": "Medium-length news analyses (10-15 minute videos), detailed product specs",
+        "learning_style": "Visual tutorials with hands-on application (YouTube DIY guides)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on musical equipment",
+        "income_level": "Middle-class retiree ($45k-$60k/year household)",
+        "investment_habits": "Conservative (credit union accounts, CD investments)",
+        "financial_tools": "Energy Capital Credit Union, basic credit cards, eBay purchase protection"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Former team coordinator who valued clear hierarchies",
+        "family_structure": "Likely lives with spouse/adult children given hunting gear searches",
+        "friendship_circle": "Close-knit group of 5-7 longtime friends",
+        "community_involvement": "Church choir member, local senior center volunteer",
+        "online_vs_offline_engagement": "70% offline socializing, 30% online chat forums"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking weather/security news on MSN",
+        "workday_habits": "Scheduled online shopping/research blocks between household tasks",
+        "evening_and_leisure": "Karaoke practice via YouTube, eBay deal hunting",
+        "weekend_activities": "Family gatherings, home improvement projects, church events",
+        "sleep_schedule": "Regular 10 PM-6 AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking regimen, manages blood pressure through diet",
+        "mental_health": "Uses karaoke as stress relief, strong family support network",
+        "work_life_balance": "Structured retirement routine with purposeful activities",
+        "health_related_digital_behavior": "Occasional Drugs.com checks, watches senior fitness YouTube tutorials"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Methodical researcher who reads 3+ reviews before purchases",
+        "brand_loyalty": "Prefers established brands (Yamaha, eBay) but verifies each deal",
+        "influence_factors": "Expert technical specifications, family recommendations",
+        "tech_adoption": "Late majority adopter focusing on practical utility",
+        "privacy_and_security_concerns": "Basic precautions without advanced encryption use"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Mexican-American heritage",
+        "travel_habits": "Annual family trips to Mexico, regional US coastal destinations",
+        "personal_projects": "Curating family music playlist archives, storm preparedness kits",
+        "unexpected_behavioral_traits": "Combines pragmatic news analysis with enthusiastic karaoke hobby"
+    }
+}

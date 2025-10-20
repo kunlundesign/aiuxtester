@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Brandon Askew",
+        "age": 49,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Virginia Beach, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Performing Arts",
+            "institution": "Old Dominion University"
+        },
+        "occupation": "Freelance Voice Actor",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, trimmed",
+            "skin_color": "Medium",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual, practical attire"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": "Values creativity, health awareness, and personal growth",
+        "motivations": "Career advancement in voice acting, maintaining physical/mental health, exploring creative hobbies",
+        "cognitive_style": "Analytical researcher with creative expression"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep, multi-source research on health, voice acting, and hobbies",
+        "ad_interactions": "High engagement with concert tickets, medical tech, and voiceover services",
+        "preferred_content_sources": "Healthline, Mayo Clinic, YouTube, IMDB",
+        "social_media_usage": "Passive engagement on Instagram; uses blocking features for privacy",
+        "ecommerce_behavior": "Moderate spending on health tech, gaming, and cooking supplies",
+        "device_usage": "Desktop-focused with Edge browser",
+        "subscriptions": "BetterHelp, YouTube Premium, gaming communities"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Voice acting techniques, audio equipment trends",
+        "hobbies": "Cooking, fantasy gaming, trivia quizzes, bonsai cultivation",
+        "entertainment_preferences": "R&B/soul music (Angie Stone, Maxwell), classic films",
+        "content_consumption": "Long-form health articles and YouTube tutorials",
+        "learning_style": "Self-guided learning supplemented by local workshops"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with splurges on health tech",
+        "income_level": "$45,000-$60,000 annually",
+        "investment_habits": "Conservative, focuses on retirement savings",
+        "financial_tools": "Credit cards, PayPal, Venmo"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with collaborative project teams",
+        "family_structure": "Unknown",
+        "friendship_circle": "Small group of close friends",
+        "community_involvement": "Local gardening workshops, online gaming communities",
+        "online_vs_offline_engagement": "Prefers online interactions for convenience"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks health metrics, reads news with coffee",
+        "workday_habits": "Voice recording sessions, job platform searches",
+        "evening_and_leisure": "Cooks experimental recipes, plays Elvenar",
+        "weekend_activities": "Gardening, bowling leagues, scenic drives",
+        "sleep_schedule": "Regular 11 PM - 6 AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Monitors diabetes risk, maintains light exercise routine",
+        "mental_health": "Uses BetterHelp for stress management",
+        "work_life_balance": "Structured separation of freelance work/personal time",
+        "health_related_digital_behavior": "Frequent checks on medical websites and forums"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with medical consultations",
+        "brand_loyalty": "Prefers established health brands but explores new tech",
+        "influence_factors": "Expert reviews, peer recommendations",
+        "tech_adoption": "Early adopter for health monitoring tools",
+        "privacy_and_security_concerns": "Actively manages social media privacy settings"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "African American cultural affinity in music preferences",
+        "travel_habits": "Cruise enthusiast, prefers domestic scenic destinations",
+        "personal_projects": "Voiceover demo reel development, succulent garden",
+        "unexpected_behavioral_traits": "Analytical health researcher who enjoys fantasy world-building games"
+    }
+}

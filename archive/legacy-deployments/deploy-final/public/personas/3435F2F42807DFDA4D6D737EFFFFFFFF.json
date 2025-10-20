@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 67,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Santa Fe, United States",
+        "education": {
+            "degree": "Master's Degree",
+            "major": "Clinical Social Work",
+            "institution": "University of New Mexico"
+        },
+        "occupation": "Retired Licensed Clinical Social Worker",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Caucasian",
+            "facial_features": "Wrinkles around eyes, clean-shaven",
+            "dress_style": "Casual (flannel shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Social justice advocacy, mental health awareness",
+        "motivations": "Maintaining professional relevance through AI tools, home improvement satisfaction",
+        "cognitive_style": "Analytical with structured thinking patterns"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Therapy resources + home improvement (avg 2-4 keyword queries)",
+        "ad_interactions": "High engagement with wood paneling/CBD ads",
+        "preferred_content_sources": "Psychology Today, CNN, MSN Politics",
+        "social_media_usage": "Facebook daily (154 sessions/90 days), passive MSN engagement",
+        "ecommerce_behavior": "Budget-conscious home improvement purchases",
+        "device_usage": "Desktop (90% Edge browser sessions)",
+        "subscriptions": "Blueprint AI, Zoom Pro, MSN Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "AI-assisted therapy documentation, dissociative disorders",
+        "hobbies": "Woodworking, home renovation, political analysis",
+        "entertainment_preferences": "Documentaries, classic rock (Bruce Dickinson ticket search)",
+        "content_consumption": "Long-form political analysis + short DIY tutorials",
+        "learning_style": "Self-learning through professional forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with selective quality investments",
+        "income_level": "$65k-$85k/year (retirement + consulting)",
+        "investment_habits": "Conservative (Fidelity/Mutual of America usage)",
+        "financial_tools": "Traditional banking + Medicare planning"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Consultative style via Zoom (23 sessions)",
+        "family_structure": "Lives alone (frequent home improvement autonomy)",
+        "friendship_circle": "Small professional network",
+        "community_involvement": "Nextdoor engagement (3 sessions)",
+        "online_vs_offline_engagement": "70% digital communication"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee + MSN political news review",
+        "workday_habits": "Client documentation via Theranest/Blueprint AI",
+        "evening_and_leisure": "Woodworking projects + CBD gummy usage",
+        "weekend_activities": "Home Depot trips, local seed library visits",
+        "sleep_schedule": "Early riser (5:30AM bedtimes)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Low-impact exercise, CBD pain management",
+        "mental_health": "Clinical self-monitoring (ADHD/Dissociative screens)",
+        "work_life_balance": "Structured retirement consulting schedule",
+        "health_related_digital_behavior": "Drugs.com/Cleveland Clinic research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (therapy assessment tools usage)",
+        "brand_loyalty": "Sticks with known brands (Amazon/Fidelity)",
+        "influence_factors": "Professional guidelines + product specifications",
+        "tech_adoption": "Mainstream user with selective AI adoption",
+        "privacy_and_security_concerns": "Medium (uses multiple logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southwest US cultural roots",
+        "travel_habits": "Occasional RV research (UETEvent)",
+        "personal_projects": "Log cabin interior renovation",
+        "unexpected_behavioral_traits": "Combines clinical professionalism with recreational adult content consumption"
+    }
+}

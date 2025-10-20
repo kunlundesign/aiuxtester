@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jessica Thompson",
+        "age": 39,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Benton Harbor, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Lake Michigan College"
+        },
+        "occupation": "Used Car Dealership Manager",
+        "company": "Dominion Chevrolet",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Caucasian",
+            "Facial features": "Minimal makeup, practical appearance",
+            "Dress Style": "Business casual with dealership-branded attire"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Practical problem-solving, automotive industry advocacy, financial preparedness",
+        "motivations": "Business growth, mechanical mastery, feline caregiving",
+        "cognitive_style": "Structured problem-solver with technical focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex automotive technical queries (e.g., '2018 Compass service start stop system')",
+        "ad_interactions": "High engagement with auto parts/service ads (82% click-through rate)",
+        "preferred_content_sources": "OEM technical databases, dealer portals, RV Trader",
+        "social_media_usage": "Limited personal use, professional forums (ChevroletMalibuForum)",
+        "ecommerce_behavior": "Business purchases (auto parts), occasional collectibles (Beanie Babies)",
+        "device_usage": "Desktop-focused (Edge browser), Dealertrack CRM integration",
+        "subscriptions": "ALLDATA Repair, CUDL Dealer Portal, Progressive Business Insurance"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Inventory management systems, extended warranty programs, electric vehicle adoption",
+        "hobbies": "Motorcycle maintenance, vintage toy collecting, softball",
+        "entertainment_preferences": "True crime documentaries, classic rock, automotive reality shows",
+        "content_consumption": "Technical service bulletins > news articles > video tutorials",
+        "learning_style": "Hands-on mechanical experimentation with OEM guidelines"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Business-critical investments prioritized (e.g., $4k Maxxd trailer research)",
+        "income_level": "$65k-$85k (Midwest dealership management)",
+        "investment_habits": "Conservative (401k contributions, real estate consideration)",
+        "financial_tools": "Dealertrack F&I systems, business credit lines, QuickBooks"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented leadership style (manages 8-12 staff)",
+        "family_structure": "Single with two cats (UTI research indicates pet ownership)",
+        "friendship_circle": "Industry peers through NADA conferences",
+        "community_involvement": "Local Chamber of Commerce, youth softball sponsorship",
+        "online_vs_offline_engagement": "Hybrid (in-person dealership ops + digital inventory management)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Dealership walkthrough → review auction listings → staff briefing",
+        "workday_habits": "40% customer negotiations, 30% inventory management, 20% service dept coordination",
+        "evening_and_leisure": "Ebay parts sourcing → cat care → MSN political/news updates",
+        "weekend_activities": "Motorcycle maintenance, RV research, Lake Michigan drives",
+        "sleep_schedule": "11 PM - 6 AM (Consistent work schedule)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (dealership movement), grab-and-go meals",
+        "mental_health": "Stress management through mechanical work",
+        "work_life_balance": "Work-integrated lifestyle (70% overlap)",
+        "health_related_digital_behavior": "Pet health research > personal wellness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (VIN analysis, market comps)",
+        "brand_loyalty": "Strong Chevrolet/Dealertrack preference",
+        "influence_factors": "OEM certification, auction market trends",
+        "tech_adoption": "Mainstream business tech user (CRM, DMS)",
+        "privacy_and_security_concerns": "Moderate (business data protection awareness)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwest English, basic Spanish for dealership ops",
+        "travel_habits": "Regional auto auctions (IN/IL/MI), retirement destination research",
+        "personal_projects": "Restoring 2008 Kawasaki KX450F motocross bike",
+        "unexpected_behavioral_traits": "Combines mechanical pragmatism with Titanic historical fascination"
+    }
+}

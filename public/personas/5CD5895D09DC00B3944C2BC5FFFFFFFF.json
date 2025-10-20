@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Raymond Marin",
+        "age": 53,
+        "gender": "Male",
+        "nationality": "United States",
+        "current_residence": "Miami, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Hospitality Management",
+            "institution": "Florida International University"
+        },
+        "occupation": "Travel Agent",
+        "company": "AP Vacations (Raymond.apvacations.com domain activity)",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short conservative cut",
+            "skin_color": "Light olive complexion",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Business casual (polo shirts, khakis) during work hours, resort wear (graphic tees, sunglasses) leisure"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Free market capitalism, importance of personal financial responsibility",
+        "motivations": "Professional expertise recognition, securing client satisfaction",
+        "cognitive_style": "Detail-oriented planner with strong logistical reasoning"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Cruise line policies, travel package comparisons, luxury amenities research",
+        "ad_interactions": "High engagement with cruise promotions and travel gear discounts",
+        "preferred_content_sources": "Cruise line portals (Royal Caribbean, NCL), industry tools (CruisingPower), financial services (Citi)",
+        "social_media_usage": "Limited professional use (Instagram for travel inspiration)",
+        "ecommerce_behavior": "Bulk purchases of travel accessories, price-sensitive luxury items",
+        "device_usage": "Desktop for reservations (Chrome/Edge), mobile for client communication",
+        "subscriptions": "Cruise industry newsletters, MSN Premium, Amazon Prime"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Cruise industry innovations, client relationship management",
+        "hobbies": "Comparing cruise amenities, exploring ethnic cuisine",
+        "entertainment_preferences": "Political commentary, travel vlogs",
+        "content_consumption": "Policy documents and pricing sheets > video content",
+        "learning_style": "On-the-job training through vendor webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious luxury (premium services at discounted rates)",
+        "income_level": "$75k-$90k annually",
+        "investment_habits": "Conservative 401(k) focus with travel industry stock watchlist",
+        "financial_tools": "Citi credit cards, Wells Fargo business accounts"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-focused service provider, maintains vendor partnerships",
+        "family_structure": "Likely single (no familial references in reservations)",
+        "friendship_circle": "Industry colleagues and repeat clients",
+        "community_involvement": "Local Miami tourism partnerships",
+        "online_vs_offline_engagement": "Hybrid model (digital bookings with in-person client meetings)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking cruise industry updates and reservation alerts",
+        "workday_habits": "Block scheduling for client consultations and vendor negotiations",
+        "evening_and_leisure": "MSN political news, Amazon shopping for work accessories",
+        "weekend_activities": "Scouting local tourism experiences, gym sessions",
+        "sleep_schedule": "Regular 11PM-6AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate exercise (gym 3x/week), Mediterranean diet influence",
+        "mental_health": "Stress management through meticulous planning",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Fitness gear research via Dick's Sporting Goods"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis of multiple vendor proposals",
+        "brand_loyalty": "Prefers established cruise lines but shops for client deals",
+        "influence_factors": "Client reviews, cancellation policies",
+        "tech_adoption": "Mainstream user favoring industry-specific tools",
+        "privacy_and_security_concerns": "Basic precautions for financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Venezuelan restaurant patronage",
+        "travel_habits": "Cruise industry fam trips, Mediterranean/Turkish destinations",
+        "personal_projects": "Maintaining client database with special preferences",
+        "unexpected_behavioral_traits": "Combines fiscal conservatism with progressive cruise entertainment preferences"
+    }
+}

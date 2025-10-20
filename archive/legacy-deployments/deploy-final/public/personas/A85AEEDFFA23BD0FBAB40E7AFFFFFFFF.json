@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 33,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Warroad, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Finance",
+            "institution": "University of Minnesota"
+        },
+        "occupation": "Financial Analyst",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'11\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, trimmed",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual (graphic tees/button-ups with jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Financial independence, practical sustainability",
+        "motivations": "Early retirement planning, maintaining active lifestyle",
+        "cognitive_style": "Analytical problem-solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on travel routes, financial planning, and niche hobbies",
+        "ad_interactions": "High engagement with RV gear, fishing equipment, financial services",
+        "preferred_content_sources": "Fidelity portal, TripAdvisor, Zillow, specialized blogs",
+        "social_media_usage": "YouTube (educational content), limited Facebook use",
+        "ecommerce_behavior": "Mid-range purchases (outdoor gear, financial tools)",
+        "device_usage": "Desktop for financial management, mobile for navigation",
+        "subscriptions": "Fidelity Premium Services, Xbox Game Pass"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Portfolio management, real estate trends",
+        "hobbies": "RV camping, saltwater fishing, strategy gaming",
+        "entertainment_preferences": "Historical documentaries, classic rock",
+        "content_consumption": "Detailed guides mixed with quick recipe videos",
+        "learning_style": "Self-directed research through case studies"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused investments with occasional outdoor gear splurges",
+        "income_level": "$75,000-$95,000",
+        "investment_habits": "Diversified (precious metals, real estate)",
+        "financial_tools": "Fidelity platform, cryptocurrency wallet"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with periodic team check-ins",
+        "family_structure": "Married without children",
+        "friendship_circle": "Small group of fishing/RV enthusiast friends",
+        "community_involvement": "Local outdoor conservation groups",
+        "online_vs_offline_engagement": "Balanced digital research with outdoor activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks financial markets during coffee",
+        "workday_habits": "Block scheduling for client work/research",
+        "evening_and_leisure": "Gaming sessions, recipe experimentation",
+        "weekend_activities": "Fishing trips, RV maintenance",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness through outdoor activities",
+        "mental_health": "Stress management through gaming/fishing",
+        "work_life_balance": "Structured separation of workspaces",
+        "health_related_digital_behavior": "Recipe nutrition tracking, workout recovery research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with backup contingency plans",
+        "brand_loyalty": "Sticks to proven outdoor/financial brands",
+        "influence_factors": "User reviews, historical performance data",
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Uses VPN for financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwest English with basic Spanish",
+        "travel_habits": "Extended RV trips along Gulf Coast",
+        "personal_projects": "Converting van into mobile office",
+        "unexpected_behavioral_traits": "Analytical financier who enjoys improvisational cooking"
+    }
+}

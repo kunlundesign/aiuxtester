@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Priya Sharma",
+        "age": 29,
+        "gender": "Female",
+        "nationality": "Indian",
+        "current_residence": "Unknown City, India",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "Unknown"
+        },
+        "occupation": "IT Professional/Software Developer",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "163 cm",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length straight",
+            "Skin color": "Medium",
+            "Facial features": "Round glasses, minimal makeup",
+            "Dress Style": "Casual techwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTJ",
+        "beliefs_and_values": "Technology optimism, privacy-conscious, financial independence",
+        "motivations": "Career advancement, self-improvement, financial security",
+        "cognitive_style": "Analytical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting, Microsoft ecosystem queries, multilingual news searches",
+        "ad_interactions": "Medium engagement (clicks on productivity tools, fashion, spiritual content)",
+        "preferred_content_sources": "Microsoft documentation, Wikipedia, financial news portals (MSN/YNA)",
+        "social_media_usage": "Limited (YouTube, TikTok), passive engagement",
+        "ecommerce_behavior": "Budget-conscious tech purchases, occasional fashion items",
+        "device_usage": "Windows PC with Edge browser",
+        "subscriptions": "Microsoft 365, MSN Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Software development, AI applications, Windows optimization",
+        "hobbies": "Tech DIY projects, financial market analysis, language learning",
+        "entertainment_preferences": "K-pop music (BigBang MV click), tech documentaries",
+        "content_consumption": "Technical documentation and financial long-form articles",
+        "learning_style": "Self-learning via documentation and forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech investments, planned purchases",
+        "income_level": "Mid-range ($45k-$65k)",
+        "investment_habits": "Emerging interest in stocks/AI companies",
+        "financial_tools": "Credit cards, Microsoft Store purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor with remote collaboration",
+        "family_structure": "Likely lives alone",
+        "friendship_circle": "Small tech-focused group",
+        "community_involvement": "Online developer forums (GitHub activity)",
+        "online_vs_offline_engagement": "Prefers digital interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks tech news/MSN updates, Microsoft To-Do list",
+        "workday_habits": "Deep work sessions with multiple documentation tabs",
+        "evening_and_leisure": "Windows gaming, financial research",
+        "weekend_activities": "Tech prototyping, stock market analysis",
+        "sleep_schedule": "Night owl (late-night coding sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary tech lifestyle, irregular exercise",
+        "mental_health": "Tech-mediated stress relief (gaming)",
+        "work_life_balance": "Work-leaning integration",
+        "health_related_digital_behavior": "Basic fitness app usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with Microsoft ecosystem bias",
+        "brand_loyalty": "High Microsoft/Windows allegiance",
+        "influence_factors": "Technical specifications, expert reviews",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "High (frequent privacy settings checks)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Multilingual (English/Hindi/Chinese basics)",
+        "travel_habits": "Occasional domestic trips (map queries)",
+        "personal_projects": "Self-hosted tools development (Excalidraw interest)",
+        "unexpected_behavioral_traits": "Technical analyst who enjoys K-pop entertainment"
+    }
+}

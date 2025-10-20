@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Orlando, USA",
+        "education": {
+            "degree": "Associate in Science",
+            "major": "Biology/Chemistry",
+            "institution": "Valencia College"
+        },
+        "occupation": "Part-time Retail Associate",
+        "company": "Walt Disney World Resort",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Lean",
+            "hairstyle": "Short, textured crop",
+            "skin_color": "Olive",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Casual vintage tees + utility jackets"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Skeptical of political extremism, values empirical evidence",
+        "motivations": "Academic excellence, cultural nostalgia preservation",
+        "cognitive_style": "Analytical pattern-finder with contextual thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (chemistry concepts) + pop culture cross-referencing",
+        "ad_interactions": "High engagement with music memorabilia/tech gear ads",
+        "preferred_content_sources": "Academic platforms (Cengage, Canvas), Discogs, eBay",
+        "social_media_usage": "Reddit for niche communities, YouTube tutorials",
+        "ecommerce_behavior": "Budget-conscious collector (vinyl records, vintage gear)",
+        "device_usage": "Windows laptop + iOS mobile",
+        "subscriptions": "Max, Tubi, Kahoot! Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare career pathways, lab techniques",
+        "hobbies": "Vintage audio equipment restoration, 80s metal album collecting",
+        "entertainment_preferences": "Political satire shows, classic rock documentaries",
+        "content_consumption": "Hybrid (academic papers + bite-sized trivia)",
+        "learning_style": "Gamified quizzes + AI-assisted problem solving"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurging on hobbies, frugal daily spending",
+        "income_level": "$18k-$22k/year",
+        "investment_habits": "Collectibles as alternative assets",
+        "financial_tools": "Student debit card, PayPal for vinyl purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented in service roles",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "Small group of fellow collectors/students",
+        "community_involvement": "Local record store events",
+        "online_vs_offline_engagement": "Balanced (in-person classes + vinyl forums)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Quick news scan while commuting",
+        "workday_habits": "Scheduled study blocks between shifts",
+        "evening_and_leisure": "Album categorization + gaming sessions",
+        "weekend_activities": "Thrift store hunting, Disney shifts",
+        "sleep_schedule": "Night owl (1-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Irregular gym visits, relies on campus food",
+        "mental_health": "Music as stress relief, avoids therapy",
+        "work_life_balance": "Compartmentalizes roles effectively",
+        "health_related_digital_behavior": "Occasional WebMD checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with historical precedent checks",
+        "brand_loyalty": "Vintage brands > contemporary labels",
+        "influence_factors": "Niche forum consensus + technical specs",
+        "tech_adoption": "Early mainstream (adopts proven edu-tech)",
+        "privacy_and_security_concerns": "Basic precautions, low anxiety"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern English with basic Spanish",
+        "travel_habits": "Regional road trips for record fairs",
+        "personal_projects": "Building modular synth setup",
+        "unexpected_behavioral_traits": "STEM-focused academic with encyclopedic 80s metal knowledge"
+    }
+}

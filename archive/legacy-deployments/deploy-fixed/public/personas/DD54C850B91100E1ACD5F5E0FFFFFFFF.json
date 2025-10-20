@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Overholt",
+        "age": 60,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Nashville, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Small Business Owner / Storage Solutions Provider",
+        "company": "Overholt & Sons",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray hair",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes, clean-shaven",
+            "Dress Style": "Casual workwear (flannel shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Fiscal conservatism, self-reliance, traditional craftsmanship",
+        "motivations": "Business sustainability, family legacy preservation, financial security",
+        "cognitive_style": "Practical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Weather tracking, local business solutions, storage infrastructure",
+        "ad_interactions": "High engagement with industrial storage ads, occasional curiosity about lifestyle products",
+        "preferred_content_sources": "Fox News, MSN, Yelp, local news sites",
+        "social_media_usage": "Minimal (occasional Facebook use)",
+        "ecommerce_behavior": "B2B purchases (storage equipment), occasional fast-food gift cards",
+        "device_usage": "Desktop (Windows/Edge) for business, mobile for weather/maps",
+        "subscriptions": "AccuWeather Premium, Fox News updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Outdoor storage trends, warehouse organization, small business management",
+        "hobbies": "Local sports following, DIY home projects, classic truck maintenance",
+        "entertainment_preferences": "Sylvester Stallone movies, country music, sports commentary",
+        "content_consumption": "Practical guides > opinion pieces, text-based news > video",
+        "learning_style": "Hands-on experimentation with occasional YouTube tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven business purchases, cautious personal spending",
+        "income_level": "$75,000-$100,000 annually",
+        "investment_habits": "Conservative (local real estate, retirement accounts)",
+        "financial_tools": "Business credit cards, PayPal, traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Hands-on leadership style, values long-term contractor partnerships",
+        "family_structure": "Married with adult children",
+        "friendship_circle": "Small network of local business owners",
+        "community_involvement": "Chamber of commerce member, high school sports booster",
+        "online_vs_offline_engagement": "Prefers face-to-face business interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather radar, reviews delivery schedules with coffee",
+        "workday_habits": "On-site facility management, client consultations",
+        "evening_and_leisure": "Local news, sports highlights, occasional family dinners at chain restaurants",
+        "weekend_activities": "Property maintenance, college football games",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity through work, occasional fast food",
+        "mental_health": "Stress management through practical problem-solving",
+        "work_life_balance": "Work-focused but values Sunday family time",
+        "health_related_digital_behavior": "Occasional medical price comparisons"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with proven solutions",
+        "brand_loyalty": "Strong in industrial supplies (ULINE, Quantum Storage)",
+        "influence_factors": "Peer recommendations, product durability",
+        "tech_adoption": "Mainstream user (adopts when proven beneficial)",
+        "privacy_and_security_concerns": "Basic precautions for financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English, rural Tennessee roots",
+        "travel_habits": "Regional trips for equipment auctions/sports events",
+        "personal_projects": "Restoring vintage storage buildings",
+        "unexpected_behavioral_traits": "Practical businessman who enjoys analyzing celebrity financial news"
+    }
+}

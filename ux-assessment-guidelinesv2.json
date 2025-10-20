@@ -1,0 +1,1040 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-10-16",
+  "description": "Comprehensive UX Assessment Guidelines - Including Usability, Accessibility, and UX Heuristics Standards",
+  
+  "evaluationDimensions": {
+    "usability": {
+      "name": "Usability",
+      "framework": "Nielsen's 10 Usability Heuristics",
+      "description": "Jakob Nielsen's foundational principles for interaction design",
+      "weight": 0.35,
+      "principles": [
+        {
+          "id": "visibility-system-status",
+          "name": "Visibility of system status",
+          "description": "The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time",
+          "checkpoints": [
+            "Loading states and progress indicators",
+            "Success/error message feedback",
+            "System state changes are visible",
+            "Real-time status updates"
+          ],
+          "examples": {
+            "good": "Clear loading spinner with percentage, success toast notifications",
+            "bad": "No feedback when action is processing, silent failures"
+          }
+        },
+        {
+          "id": "match-system-real-world",
+          "name": "Match between system and real world",
+          "description": "The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon",
+          "checkpoints": [
+            "Natural language usage",
+            "Familiar metaphors and concepts",
+            "Culturally appropriate icons",
+            "User-centric terminology"
+          ]
+        },
+        {
+          "id": "user-control-freedom",
+          "name": "User control and freedom",
+          "description": "Users need a clearly marked 'emergency exit' to leave an unwanted action without having to go through an extended process",
+          "checkpoints": [
+            "Undo/Redo functionality",
+            "Clear cancel options",
+            "Easy exit from processes",
+            "Non-destructive preview modes"
+          ]
+        },
+        {
+          "id": "consistency-standards",
+          "name": "Consistency and standards",
+          "description": "Users should not have to wonder whether different words, situations, or actions mean the same thing",
+          "checkpoints": [
+            "Consistent UI patterns",
+            "Platform conventions followed",
+            "Uniform terminology",
+            "Predictable behavior across features"
+          ]
+        },
+        {
+          "id": "error-prevention",
+          "name": "Error prevention",
+          "description": "Good error messages are important, but the best designs carefully prevent problems from occurring in the first place",
+          "checkpoints": [
+            "Input validation and constraints",
+            "Confirmation dialogs for destructive actions",
+            "Helpful defaults and suggestions",
+            "Clear affordances and constraints"
+          ]
+        },
+        {
+          "id": "recognition-recall",
+          "name": "Recognition rather than recall",
+          "description": "Minimize the user's memory load by making elements, actions, and options visible",
+          "checkpoints": [
+            "Visible navigation options",
+            "Clear action labels",
+            "Contextual help and tooltips",
+            "Recently used items visible"
+          ]
+        },
+        {
+          "id": "flexibility-efficiency",
+          "name": "Flexibility and efficiency of use",
+          "description": "Shortcuts — hidden from novice users — may speed up the interaction for the expert user",
+          "checkpoints": [
+            "Keyboard shortcuts available",
+            "Bulk operations support",
+            "Customization options",
+            "Progressive disclosure"
+          ]
+        },
+        {
+          "id": "aesthetic-minimalist",
+          "name": "Aesthetic and minimalist design",
+          "description": "Interfaces should not contain information that is irrelevant or rarely needed",
+          "checkpoints": [
+            "Clear visual hierarchy",
+            "Focused content presentation",
+            "Reduced cognitive load",
+            "Essential information prioritized"
+          ]
+        },
+        {
+          "id": "error-recovery",
+          "name": "Help users recognize, diagnose, and recover from errors",
+          "description": "Error messages should be expressed in plain language, precisely indicate the problem, and constructively suggest a solution",
+          "checkpoints": [
+            "Clear error descriptions",
+            "Specific problem identification",
+            "Actionable recovery steps",
+            "Contextual error placement"
+          ]
+        },
+        {
+          "id": "help-documentation",
+          "name": "Help and documentation",
+          "description": "It's best if the system doesn't need any additional explanation. However, it may be necessary to provide documentation",
+          "checkpoints": [
+            "Searchable help content",
+            "Context-sensitive assistance",
+            "Clear onboarding flows",
+            "Tutorial and guides access"
+          ]
+        }
+      ]
+    },
+    
+    "accessibility": {
+      "name": "Accessibility",
+      "framework": "WCAG POUR Principles",
+      "description": "Web Content Accessibility Guidelines - ensuring inclusive design for all users",
+      "weight": 0.30,
+      "principles": [
+        {
+          "id": "perceivable",
+          "name": "Perceivable",
+          "description": "Information and user interface components must be presentable to users in ways they can perceive",
+          "guidelines": [
+            {
+              "id": "text-alternatives",
+              "name": "Text Alternatives",
+              "description": "Provide text alternatives for non-text content",
+              "checkpoints": [
+                "Alt text for all images",
+                "Captions for video content",
+                "Transcripts for audio",
+                "Descriptive link text"
+              ],
+              "wcagLevel": "A",
+              "wcagRef": "1.1.1"
+            },
+            {
+              "id": "time-based-media",
+              "name": "Time-based Media",
+              "description": "Provide alternatives for time-based media",
+              "checkpoints": [
+                "Captions for live video",
+                "Audio descriptions",
+                "Sign language interpretation"
+              ],
+              "wcagLevel": "AA",
+              "wcagRef": "1.2"
+            },
+            {
+              "id": "adaptable",
+              "name": "Adaptable",
+              "description": "Create content that can be presented in different ways without losing information",
+              "checkpoints": [
+                "Semantic HTML structure",
+                "Proper heading hierarchy",
+                "Meaningful sequence",
+                "Orientation independence"
+              ],
+              "wcagLevel": "A",
+              "wcagRef": "1.3"
+            },
+            {
+              "id": "distinguishable",
+              "name": "Distinguishable",
+              "description": "Make it easier for users to see and hear content",
+              "checkpoints": [
+                "Color contrast ratio >= 4.5:1 (AA) or 7:1 (AAA)",
+                "Text resize up to 200%",
+                "Images of text avoided",
+                "Audio control available",
+                "Focus visible indicators"
+              ],
+              "wcagLevel": "AA",
+              "wcagRef": "1.4",
+              "specificRequirements": {
+                "contrastRatios": {
+                  "normalText": {
+                    "AA": "4.5:1",
+                    "AAA": "7:1"
+                  },
+                  "largeText": {
+                    "AA": "3:1",
+                    "AAA": "4.5:1"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "operable",
+          "name": "Operable",
+          "description": "User interface components and navigation must be operable",
+          "guidelines": [
+            {
+              "id": "keyboard-accessible",
+              "name": "Keyboard Accessible",
+              "description": "Make all functionality available from a keyboard",
+              "checkpoints": [
+                "All interactive elements keyboard accessible",
+                "No keyboard traps",
+                "Keyboard shortcuts available",
+                "Focus order logical"
+              ],
+              "wcagLevel": "A",
+              "wcagRef": "2.1"
+            },
+            {
+              "id": "enough-time",
+              "name": "Enough Time",
+              "description": "Provide users enough time to read and use content",
+              "checkpoints": [
+                "Timing adjustable",
+                "Pause, stop, hide for moving content",
+                "No time limits or extendable",
+                "Interruptions postponable"
+              ],
+              "wcagLevel": "A",
+              "wcagRef": "2.2"
+            },
+            {
+              "id": "seizures-physical",
+              "name": "Seizures and Physical Reactions",
+              "description": "Do not design content in a way that is known to cause seizures",
+              "checkpoints": [
+                "No content flashes more than 3 times per second",
+                "Animation from interactions can be disabled"
+              ],
+              "wcagLevel": "A",
+              "wcagRef": "2.3"
+            },
+            {
+              "id": "navigable",
+              "name": "Navigable",
+              "description": "Provide ways to help users navigate and find content",
+              "checkpoints": [
+                "Skip links provided",
+                "Descriptive page titles",
+                "Logical focus order",
+                "Link purpose clear from context",
+                "Multiple ways to find pages",
+                "Headings and labels descriptive"
+              ],
+              "wcagLevel": "AA",
+              "wcagRef": "2.4"
+            },
+            {
+              "id": "input-modalities",
+              "name": "Input Modalities",
+              "description": "Make it easier for users to operate functionality through various inputs",
+              "checkpoints": [
+                "Touch targets at least 44x44px",
+                "Pointer gestures can be operated with single pointer",
+                "Label in name matches accessible name",
+                "Motion actuation can be disabled"
+              ],
+              "wcagLevel": "AA",
+              "wcagRef": "2.5",
+              "specificRequirements": {
+                "touchTargetSize": {
+                  "minimum": "44x44px",
+                  "recommended": "48x48px",
+                  "spacing": "8px minimum between targets"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "understandable",
+          "name": "Understandable",
+          "description": "Information and the operation of user interface must be understandable",
+          "guidelines": [
+            {
+              "id": "readable",
+              "name": "Readable",
+              "description": "Make text content readable and understandable",
+              "checkpoints": [
+                "Language of page specified",
+                "Language of parts specified",
+                "Unusual words explained",
+                "Abbreviations expanded"
+              ],
+              "wcagLevel": "A",
+              "wcagRef": "3.1"
+            },
+            {
+              "id": "predictable",
+              "name": "Predictable",
+              "description": "Make web pages appear and operate in predictable ways",
+              "checkpoints": [
+                "On focus doesn't trigger unexpected changes",
+                "On input doesn't trigger unexpected changes",
+                "Consistent navigation",
+                "Consistent identification"
+              ],
+              "wcagLevel": "AA",
+              "wcagRef": "3.2"
+            },
+            {
+              "id": "input-assistance",
+              "name": "Input Assistance",
+              "description": "Help users avoid and correct mistakes",
+              "checkpoints": [
+                "Error identification clear",
+                "Labels or instructions provided",
+                "Error suggestions offered",
+                "Error prevention for legal/financial/data"
+              ],
+              "wcagLevel": "AA",
+              "wcagRef": "3.3"
+            }
+          ]
+        },
+        {
+          "id": "robust",
+          "name": "Robust",
+          "description": "Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies",
+          "guidelines": [
+            {
+              "id": "compatible",
+              "name": "Compatible",
+              "description": "Maximize compatibility with current and future user agents",
+              "checkpoints": [
+                "Valid HTML parsing",
+                "Name, role, value available for all UI components",
+                "Status messages programmatically determined",
+                "ARIA attributes properly used"
+              ],
+              "wcagLevel": "A",
+              "wcagRef": "4.1"
+            }
+          ]
+        }
+      ]
+    },
+    
+    "visual": {
+      "name": "Visual Design",
+      "framework": "12 Principles of Visual Design",
+      "description": "Core principles for effective visual communication and aesthetic appeal",
+      "weight": 0.35,
+      "principles": [
+        {
+          "id": "hierarchy",
+          "name": "Hierarchy",
+          "description": "Organize and prioritize content to guide users through the interface",
+          "checkpoints": [
+            "Clear visual importance levels",
+            "Primary actions most prominent",
+            "Content grouped by importance",
+            "Scannable information architecture"
+          ],
+          "techniques": [
+            "Size and scale variation",
+            "Color and contrast",
+            "Typography weight and size",
+            "Whitespace and grouping"
+          ]
+        },
+        {
+          "id": "balance",
+          "name": "Balance",
+          "description": "Distribute visual weight to create stability and structure",
+          "checkpoints": [
+            "Symmetrical or asymmetrical balance",
+            "Even distribution of elements",
+            "Visual equilibrium maintained",
+            "Intentional weight placement"
+          ],
+          "types": [
+            "Symmetrical balance",
+            "Asymmetrical balance",
+            "Radial balance"
+          ]
+        },
+        {
+          "id": "contrast",
+          "name": "Contrast",
+          "description": "Create visual interest and draw attention to important elements",
+          "checkpoints": [
+            "Adequate color contrast",
+            "Size contrast for emphasis",
+            "Texture and pattern variation",
+            "Typography contrast"
+          ],
+          "applications": [
+            "Text readability",
+            "Call-to-action emphasis",
+            "Content differentiation",
+            "Visual interest"
+          ]
+        },
+        {
+          "id": "repetition",
+          "name": "Repetition",
+          "description": "Create consistency and strengthen overall design unity",
+          "checkpoints": [
+            "Consistent color palette",
+            "Repeating visual patterns",
+            "Uniform component styling",
+            "Systematic spacing"
+          ]
+        },
+        {
+          "id": "proximity",
+          "name": "Proximity",
+          "description": "Group related items together to show relationships",
+          "checkpoints": [
+            "Related elements grouped",
+            "Clear spacing between groups",
+            "Visual relationships evident",
+            "Logical content organization"
+          ]
+        },
+        {
+          "id": "alignment",
+          "name": "Alignment",
+          "description": "Create visual connections and organize information",
+          "checkpoints": [
+            "Consistent edge alignment",
+            "Grid-based layout",
+            "Vertical and horizontal rhythm",
+            "Clean visual lines"
+          ]
+        },
+        {
+          "id": "white-space",
+          "name": "White Space",
+          "description": "Use negative space to improve readability and focus",
+          "checkpoints": [
+            "Adequate breathing room",
+            "Macro and micro spacing",
+            "Content not cramped",
+            "Visual rest areas"
+          ],
+          "types": [
+            "Macro white space (layout)",
+            "Micro white space (elements)"
+          ]
+        },
+        {
+          "id": "color",
+          "name": "Color",
+          "description": "Use color purposefully to communicate and evoke emotion",
+          "checkpoints": [
+            "Consistent color system",
+            "Accessible color combinations",
+            "Color meaning clear",
+            "Brand alignment"
+          ],
+          "considerations": [
+            "Color psychology",
+            "Cultural implications",
+            "Accessibility requirements",
+            "Brand consistency"
+          ]
+        },
+        {
+          "id": "typography",
+          "name": "Typography",
+          "description": "Choose and implement type to enhance readability and brand",
+          "checkpoints": [
+            "Appropriate font families",
+            "Clear type hierarchy",
+            "Readable line length and height",
+            "Proper letter spacing"
+          ],
+          "metrics": {
+            "bodyTextSize": "16px minimum",
+            "lineHeight": "1.5 for body text",
+            "lineLength": "50-75 characters ideal",
+            "paragraphSpacing": "1em minimum"
+          }
+        },
+        {
+          "id": "imagery",
+          "name": "Imagery",
+          "description": "Use images purposefully to support content and messaging",
+          "checkpoints": [
+            "High-quality images",
+            "Purposeful illustration",
+            "Consistent image style",
+            "Optimized file sizes"
+          ]
+        },
+        {
+          "id": "grid-systems",
+          "name": "Grid Systems",
+          "description": "Use structural frameworks to organize content consistently",
+          "checkpoints": [
+            "Consistent column structure",
+            "Responsive breakpoints",
+            "Systematic gutters",
+            "Modular layout"
+          ]
+        },
+        {
+          "id": "consistency",
+          "name": "Consistency",
+          "description": "Maintain uniform design language throughout the experience",
+          "checkpoints": [
+            "Consistent component library",
+            "Unified design patterns",
+            "Systematic styling",
+            "Predictable interactions"
+          ]
+        }
+      ]
+    }
+  },
+  
+  "scoringGuidelines": {
+    "description": "Guidelines for scoring designs across evaluation dimensions",
+    "scoreRange": {
+      "min": 0,
+      "max": 100
+    },
+    "scoreBands": {
+      "excellent": {
+        "range": "90-100",
+        "description": "Exemplary design that exceeds industry standards",
+        "characteristics": [
+          "All accessibility requirements met or exceeded",
+          "Intuitive and efficient user flows",
+          "Polished visual design with strong hierarchy",
+          "Comprehensive error prevention and recovery",
+          "Consistent patterns throughout"
+        ]
+      },
+      "good": {
+        "range": "75-89",
+        "description": "Solid design with minor areas for improvement",
+        "characteristics": [
+          "Core accessibility requirements met",
+          "Generally efficient user experience",
+          "Good visual design with clear hierarchy",
+          "Adequate error handling",
+          "Mostly consistent patterns"
+        ]
+      },
+      "fair": {
+        "range": "60-74",
+        "description": "Acceptable design with notable issues to address",
+        "characteristics": [
+          "Some accessibility gaps present",
+          "User experience has friction points",
+          "Visual design needs refinement",
+          "Error handling could be improved",
+          "Some inconsistencies present"
+        ]
+      },
+      "poor": {
+        "range": "40-59",
+        "description": "Significant issues that impact user experience",
+        "characteristics": [
+          "Multiple accessibility violations",
+          "Confusing or inefficient user flows",
+          "Weak visual hierarchy",
+          "Poor error prevention and recovery",
+          "Inconsistent design patterns"
+        ]
+      },
+      "critical": {
+        "range": "0-39",
+        "description": "Critical problems requiring immediate attention",
+        "characteristics": [
+          "Severe accessibility barriers",
+          "Broken or unusable core functionality",
+          "Chaotic or confusing visual design",
+          "Inadequate or missing error handling",
+          "Major inconsistencies throughout"
+        ]
+      }
+    },
+    "issueSeverity": {
+      "high": {
+        "description": "Blocks core functionality or creates significant barriers",
+        "examples": [
+          "Inaccessible to keyboard users",
+          "Critical information unreadable due to contrast",
+          "Primary actions hidden or non-functional",
+          "Data loss without warning",
+          "Complete lack of error feedback"
+        ],
+        "scoreImpact": "10-20 points",
+        "priority": "Must fix immediately"
+      },
+      "medium": {
+        "description": "Creates friction but workarounds exist",
+        "examples": [
+          "Inconsistent interaction patterns",
+          "Suboptimal visual hierarchy",
+          "Missing helpful feedback",
+          "Confusing navigation structure",
+          "Poor mobile optimization"
+        ],
+        "scoreImpact": "5-10 points",
+        "priority": "Should fix soon"
+      },
+      "low": {
+        "description": "Minor polish issues that don't significantly impact usability",
+        "examples": [
+          "Minor visual inconsistencies",
+          "Optional enhancements",
+          "Nice-to-have features",
+          "Slight spacing irregularities",
+          "Minor wording improvements"
+        ],
+        "scoreImpact": "1-5 points",
+        "priority": "Can fix when time permits"
+      }
+    },
+    "dimensionWeights": {
+      "usability": {
+        "weight": 0.35,
+        "rationale": "Core user experience and task completion effectiveness"
+      },
+      "accessibility": {
+        "weight": 0.30,
+        "rationale": "Inclusive design ensuring usability for all users"
+      },
+      "visual": {
+        "weight": 0.35,
+        "rationale": "Visual communication and aesthetic quality"
+      }
+    }
+  },
+  
+  "contextualFrameworks": {
+    "mobile": {
+      "name": "Mobile-Specific Considerations",
+      "description": "Special considerations for mobile interfaces and touch interactions",
+      "checkpoints": [
+        "Touch targets minimum 44x44px (iOS) or 48x48dp (Android)",
+        "Thumb-friendly primary actions in bottom third of screen",
+        "Gesture-based navigation support (swipe, pinch, etc.)",
+        "Vertical scrolling optimization",
+        "One-handed usability for key tasks",
+        "Network performance consideration for slow connections",
+        "Screen size adaptability (phone to tablet)",
+        "Orientation support (portrait and landscape)",
+        "Platform-specific conventions followed (iOS/Android)"
+      ],
+      "commonIssues": [
+        "Touch targets too small (<44px)",
+        "Important actions in hard-to-reach areas",
+        "Poor performance on mobile networks",
+        "Desktop-centric layouts not adapting well",
+        "Missing mobile-specific interactions"
+      ]
+    },
+    "desktop": {
+      "name": "Desktop-Specific Considerations",
+      "description": "Optimizations for desktop and large screen experiences",
+      "checkpoints": [
+        "Keyboard shortcuts available for common actions",
+        "Multi-window and multi-tasking support",
+        "Effective hover states for interactive elements",
+        "High information density where appropriate",
+        "Mouse and trackpad optimization",
+        "Large screen utilization (not just centered narrow content)",
+        "Copy/paste and drag-drop support",
+        "Right-click context menus where helpful"
+      ],
+      "commonIssues": [
+        "Missing keyboard shortcuts",
+        "Poor hover state feedback",
+        "Wasted space on large screens",
+        "Mobile-only interaction patterns",
+        "Lack of advanced desktop features"
+      ]
+    },
+    "tablet": {
+      "name": "Tablet-Specific Considerations",
+      "description": "Hybrid considerations for tablet devices",
+      "checkpoints": [
+        "Touch targets appropriate for finger interaction",
+        "Layout optimized for medium screen sizes",
+        "Support for both portrait and landscape",
+        "Split-screen and multitasking considerations",
+        "Stylus input support where relevant",
+        "Keyboard attachment compatibility"
+      ]
+    },
+    "flow": {
+      "name": "User Flow Considerations",
+      "description": "Evaluating multi-step processes and task flows",
+      "checkpoints": [
+        "Clear progress indication throughout the flow",
+        "Consistent navigation patterns across steps",
+        "Context preservation between steps",
+        "Logical step progression and sequencing",
+        "Easy backward navigation without data loss",
+        "Save and resume capability for long flows",
+        "Flow completion clarity and confirmation",
+        "Exit points at appropriate stages",
+        "Error recovery without losing progress"
+      ],
+      "commonIssues": [
+        "Unclear progress or remaining steps",
+        "Loss of data when navigating backward",
+        "Confusing step sequence",
+        "Inability to save and resume",
+        "No clear completion or next steps"
+      ]
+    },
+    "forms": {
+      "name": "Form Design Considerations",
+      "description": "Best practices for form design and input collection",
+      "checkpoints": [
+        "Clear labels for all input fields",
+        "Helpful placeholder text (not replacing labels)",
+        "Input validation with clear error messages",
+        "Inline validation where appropriate",
+        "Logical field grouping and sequence",
+        "Appropriate input types for data (email, tel, etc.)",
+        "Smart defaults and autofill support",
+        "Progress indication for multi-step forms",
+        "Clear required vs. optional field indication"
+      ]
+    },
+    "dataVisualization": {
+      "name": "Data Visualization Considerations",
+      "description": "Guidelines for charts, graphs, and data displays",
+      "checkpoints": [
+        "Clear axis labels and legends",
+        "Accessible color schemes (not relying solely on color)",
+        "Appropriate chart types for data being shown",
+        "Interactive tooltips for detailed information",
+        "Responsive sizing for different screens",
+        "Data table alternatives for accessibility",
+        "Clear titles and descriptions",
+        "Consistent formatting of numbers and dates"
+      ]
+    }
+  },
+  
+  "commonIssuePatterns": {
+    "accessibility": [
+      {
+        "issue": "Insufficient color contrast",
+        "wcagRef": "1.4.3",
+        "severity": "high",
+        "impact": "Users with low vision or color blindness cannot read content",
+        "solution": "Ensure minimum 4.5:1 contrast ratio for normal text, 3:1 for large text (18pt+ or 14pt+ bold)",
+        "howToTest": "Use browser DevTools or online contrast checkers"
+      },
+      {
+        "issue": "Missing alternative text for images",
+        "wcagRef": "1.1.1",
+        "severity": "high",
+        "impact": "Screen reader users cannot understand image content",
+        "solution": "Add descriptive alt text for all informative images, use alt='' for decorative images",
+        "howToTest": "Check HTML for alt attributes, test with screen reader"
+      },
+      {
+        "issue": "Touch targets too small",
+        "wcagRef": "2.5.5",
+        "severity": "medium",
+        "impact": "Difficult to tap accurately, especially for users with motor impairments",
+        "solution": "Increase interactive element size to at least 44x44px with adequate spacing",
+        "howToTest": "Measure button and link sizes in browser DevTools"
+      },
+      {
+        "issue": "Keyboard focus not visible",
+        "wcagRef": "2.4.7",
+        "severity": "high",
+        "impact": "Keyboard users cannot track their position in the interface",
+        "solution": "Add clear focus indicators with adequate contrast (3:1 minimum)",
+        "howToTest": "Navigate interface using Tab key and observe focus visibility"
+      },
+      {
+        "issue": "Form fields without labels",
+        "wcagRef": "3.3.2",
+        "severity": "high",
+        "impact": "Screen reader users and users with cognitive disabilities cannot identify field purpose",
+        "solution": "Provide visible labels or properly associated ARIA labels for all inputs",
+        "howToTest": "Test with screen reader, check for label elements or aria-label"
+      },
+      {
+        "issue": "Missing heading structure",
+        "wcagRef": "1.3.1",
+        "severity": "medium",
+        "impact": "Screen reader users cannot efficiently navigate page content",
+        "solution": "Use proper heading hierarchy (h1-h6) to structure content logically",
+        "howToTest": "Check HTML structure or use heading outline tools"
+      },
+      {
+        "issue": "Auto-playing content",
+        "wcagRef": "1.4.2",
+        "severity": "medium",
+        "impact": "Distracts users and interferes with screen readers",
+        "solution": "Provide pause/stop controls or limit auto-play to 5 seconds",
+        "howToTest": "Load page and observe any auto-playing content"
+      }
+    ],
+    "usability": [
+      {
+        "issue": "Primary action not prominent",
+        "heuristicRef": "aesthetic-minimalist",
+        "severity": "medium",
+        "impact": "Users struggle to identify and complete primary task",
+        "solution": "Increase visual weight of primary CTA through size, color, or position",
+        "howToTest": "Show to users and ask what the primary action is"
+      },
+      {
+        "issue": "Unclear system status",
+        "heuristicRef": "visibility-system-status",
+        "severity": "medium",
+        "impact": "Users don't know if actions are processing or completed",
+        "solution": "Add loading indicators, progress bars, and success/error messages",
+        "howToTest": "Perform actions and observe feedback provided"
+      },
+      {
+        "issue": "Missing error prevention",
+        "heuristicRef": "error-prevention",
+        "severity": "high",
+        "impact": "Users can accidentally perform destructive actions",
+        "solution": "Add confirmation dialogs for destructive actions, disable submit until valid",
+        "howToTest": "Try to delete or modify data and check for confirmation"
+      },
+      {
+        "issue": "Inconsistent navigation patterns",
+        "heuristicRef": "consistency-standards",
+        "severity": "medium",
+        "impact": "Users must relearn navigation in different sections",
+        "solution": "Standardize navigation patterns across all screens",
+        "howToTest": "Navigate through different sections and compare patterns"
+      },
+      {
+        "issue": "Poor error messages",
+        "heuristicRef": "error-recovery",
+        "severity": "medium",
+        "impact": "Users cannot understand or fix errors",
+        "solution": "Provide clear, specific error messages with actionable recovery steps",
+        "howToTest": "Trigger errors and evaluate message clarity"
+      },
+      {
+        "issue": "Hidden or unclear navigation",
+        "heuristicRef": "recognition-recall",
+        "severity": "medium",
+        "impact": "Users get lost or cannot find features",
+        "solution": "Make navigation visible and clearly labeled",
+        "howToTest": "Ask users to find specific features"
+      }
+    ],
+    "visual": [
+      {
+        "issue": "Weak visual hierarchy",
+        "principleRef": "hierarchy",
+        "severity": "medium",
+        "impact": "Users cannot quickly scan and understand content importance",
+        "solution": "Use size, color, weight, and spacing to establish clear importance levels",
+        "howToTest": "Blur the design and see if structure is still apparent"
+      },
+      {
+        "issue": "Inadequate white space",
+        "principleRef": "white-space",
+        "severity": "low",
+        "impact": "Content feels cramped and difficult to parse",
+        "solution": "Increase spacing between elements, especially around important content",
+        "howToTest": "Check spacing consistency and breathing room"
+      },
+      {
+        "issue": "Inconsistent component styling",
+        "principleRef": "consistency",
+        "severity": "medium",
+        "impact": "Interface feels unprofessional and confusing",
+        "solution": "Create and apply a unified design system with consistent patterns",
+        "howToTest": "Compare similar components across different screens"
+      },
+      {
+        "issue": "Poor typography choices",
+        "principleRef": "typography",
+        "severity": "medium",
+        "impact": "Reduced readability and comprehension",
+        "solution": "Use appropriate font sizes (16px+ for body), line height (1.5+), and line length",
+        "howToTest": "Read extended content and evaluate comfort"
+      },
+      {
+        "issue": "Cluttered layout",
+        "principleRef": "proximity",
+        "severity": "medium",
+        "impact": "Cognitive overload and difficulty finding information",
+        "solution": "Group related elements, remove unnecessary content, use progressive disclosure",
+        "howToTest": "Count distinct visual elements and information groups"
+      }
+    ]
+  },
+  
+  "evaluationProcess": {
+    "description": "Systematic process for conducting UX assessments",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Context Analysis",
+        "description": "Understand the design context and constraints",
+        "activities": [
+          "Identify device type (mobile, desktop, tablet)",
+          "Determine use case (user flow, single screen, feature)",
+          "Note any specific constraints or requirements",
+          "Consider target audience and industry"
+        ]
+      },
+      {
+        "step": 2,
+        "name": "Systematic Evaluation",
+        "description": "Apply evaluation frameworks systematically",
+        "activities": [
+          "Evaluate usability using Nielsen's heuristics",
+          "Assess accessibility using WCAG POUR principles",
+          "Analyze visual design using 12 principles",
+          "Document findings with specific examples"
+        ]
+      },
+      {
+        "step": 3,
+        "name": "Issue Identification",
+        "description": "Identify and categorize issues found",
+        "activities": [
+          "List all identified issues",
+          "Assign severity ratings (high, medium, low)",
+          "Provide specific examples from the design",
+          "Link to relevant standards or guidelines"
+        ]
+      },
+      {
+        "step": 4,
+        "name": "Recommendation Development",
+        "description": "Provide actionable improvement recommendations",
+        "activities": [
+          "Suggest specific solutions for each issue",
+          "Prioritize recommendations by impact",
+          "Provide examples of better approaches",
+          "Consider implementation feasibility"
+        ]
+      },
+      {
+        "step": 5,
+        "name": "Scoring",
+        "description": "Calculate scores based on findings",
+        "activities": [
+          "Start with base score of 100",
+          "Deduct points based on issue severity",
+          "Apply dimension weights",
+          "Calculate final composite score"
+        ]
+      }
+    ],
+    "scoreCalculation": {
+      "startingScore": 100,
+      "deductions": {
+        "high": "10-20 points per issue",
+        "medium": "5-10 points per issue",
+        "low": "1-5 points per issue"
+      },
+      "modifiers": {
+        "multipleHighIssues": "Apply diminishing returns for similar issues",
+        "positiveElements": "Note strengths but focus on improvement areas",
+        "context": "Consider device type and use case when scoring"
+      }
+    }
+  },
+  
+  "reportingGuidelines": {
+    "description": "Guidelines for presenting assessment findings",
+    "structure": {
+      "summary": {
+        "description": "Brief overview of overall assessment",
+        "content": [
+          "Overall quality assessment",
+          "Key strengths identified",
+          "Major areas for improvement",
+          "Final score with context"
+        ]
+      },
+      "highlights": {
+        "description": "Positive aspects of the design",
+        "content": [
+          "2-3 things done well",
+          "Specific examples of good practices",
+          "Strengths to maintain and build upon"
+        ]
+      },
+      "issues": {
+        "description": "Problems identified, organized by severity",
+        "content": [
+          "High severity issues first",
+          "Specific examples from the design",
+          "Impact on users explained",
+          "Link to relevant guidelines"
+        ]
+      },
+      "recommendations": {
+        "description": "Actionable steps for improvement",
+        "content": [
+          "Prioritized by severity and impact",
+          "Specific, implementable suggestions",
+          "Examples of better approaches",
+          "Quick wins highlighted"
+        ]
+      },
+      "scores": {
+        "description": "Numerical assessment with breakdown",
+        "content": [
+          "Overall score (0-100)",
+          "Dimension scores (usability, accessibility, visual)",
+          "Score justification",
+          "Comparison to score bands"
+        ]
+      }
+    },
+    "communicationPrinciples": {
+      "constructive": "Focus on improvement opportunities, not just criticism",
+      "specific": "Provide concrete examples rather than vague observations",
+      "actionable": "Always suggest how to address identified issues",
+      "balanced": "Acknowledge both strengths and areas for improvement",
+      "evidence-based": "Reference standards and best practices",
+      "prioritized": "Help readers focus on most impactful changes first"
+    }
+  }
+}

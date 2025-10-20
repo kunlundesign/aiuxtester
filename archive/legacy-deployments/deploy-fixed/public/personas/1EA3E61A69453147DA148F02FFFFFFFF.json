@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Harper",
+        "age": 70,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Lake Havasu City, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Mechanical Engineering",
+            "institution": "Community College"
+        },
+        "occupation": "Retired Mechanic",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'9\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short gray hair",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes, clean-shaven",
+            "Dress Style": "Casual (denim shirts, utility pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Self-reliance, fiscal conservatism, health awareness",
+        "motivations": "Maintaining independence, problem-solving through DIY projects",
+        "cognitive_style": "Analytical with hands-on practicality"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical queries (HVAC specs), product research (tomato cages), book series tracking",
+        "ad_interactions": "High engagement with home improvement & thriller novel ads",
+        "preferred_content_sources": "eBay, manufacturer forums (KZRider), home improvement stores",
+        "social_media_usage": "Minimal (passive YouTube usage for tutorials)",
+        "ecommerce_behavior": "Frequent eBay purchases (motorcycle parts, tools)",
+        "device_usage": "Desktop (Windows/Edge) for complex searches",
+        "subscriptions": "Audible (thriller novels), Lowe's newsletter"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vintage motorcycle restoration techniques",
+        "hobbies": "Gardening, small engine repair, audiobook listening",
+        "entertainment_preferences": "Preston & Child thriller novels, DIY project videos",
+        "content_consumption": "Detailed technical guides + political news articles",
+        "learning_style": "Hands-on experimentation with online research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (compares Home Depot vs Lowe's prices)",
+        "income_level": "Fixed retirement income",
+        "investment_habits": "Home improvement as primary investment",
+        "financial_tools": "Credit cards (Amazon, eBay purchases)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent problem-solver",
+        "family_structure": "Likely lives with spouse",
+        "friendship_circle": "Small group through motorcycle community",
+        "community_involvement": "Local gardening club participant",
+        "online_vs_offline_engagement": "Prefers in-person interactions for hobbies"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking MSN political news",
+        "workday_habits": "Scheduled home maintenance projects",
+        "evening_and_leisure": "Audiobook listening, eBay browsing",
+        "weekend_activities": "Motorcycle repair projects, plant care",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active gardening routine, UTI management research",
+        "mental_health": "Problem-solving through mechanical projects",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Mayo Clinic symptom checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares multiple product specs)",
+        "brand_loyalty": "Strong (Kawasaki parts, Trane HVAC)",
+        "influence_factors": "Technical specifications over marketing",
+        "tech_adoption": "Competent with essential tools (tracking numbers, forums)",
+        "privacy_and_security_concerns": "Cautious with financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English only, Southwestern U.S. cultural influences",
+        "travel_habits": "Local day trips (Cheddar Gorge research)",
+        "personal_projects": "Vintage Kawasaki Z650 restoration",
+        "unexpected_behavioral_traits": "Conservative political engagement coexists with environmental interests (avocado tree research)"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Ellis",
+        "age": 72,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Northeast Jefferson, Colorado, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Administrative Studies",
+            "institution": "Community College of Denver"
+        },
+        "occupation": "Retired Administrative Assistant",
+        "company": "Retired",
+        "physical_attributes": {
+            "height": "5'4\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray curls",
+            "skin_color": "Fair",
+            "facial_features": "Wrinkles around eyes from frequent smiling",
+            "dress_style": "Casual and practical (denim shirts, knit sweaters)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Family legacy preservation, financial responsibility, healthcare advocacy",
+        "motivations": "Maintaining independence, protecting family assets, understanding health conditions",
+        "cognitive_style": "Detail-oriented with strong procedural memory"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Health condition research (78%), household management (15%), financial planning (7%)",
+        "ad_interactions": "High engagement with medical/health ads, moderate home improvement interest",
+        "preferred_content_sources": "Medical websites, Ancestry.com, local news platforms",
+        "social_media_usage": "Facebook daily for family connections, passive engagement",
+        "ecommerce_behavior": "Budget-conscious online grocery shopper, occasional large appliance purchases",
+        "device_usage": "Windows desktop with Edge browser, basic Android smartphone",
+        "subscriptions": "Ancestry.com, Penny Dell Puzzles, King Soopers digital coupons"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement planning, genealogy research",
+        "hobbies": "Family history documentation, crossword puzzles, experimental baking",
+        "entertainment_preferences": "Historical documentaries, classic rock music, mystery novels",
+        "content_consumption": "Long-form medical articles, brief local news updates",
+        "learning_style": "Self-guided research with printed references"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases, planful major appliance investments",
+        "income_level": "Fixed middle-class retirement income",
+        "investment_habits": "Conservative FDIC-insured accounts",
+        "financial_tools": "CareCredit medical financing, King Soopers Mastercard"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Former collaborative team player",
+        "family_structure": "Widow living independently near extended family",
+        "friendship_circle": "Small group of lifelong friends",
+        "community_involvement": "Church newsletter contributor",
+        "online_vs_offline_engagement": "Balanced digital/physical world interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Medication management, check email/Facebook",
+        "workday_habits": "Bill payments, medical appointments, recipe research",
+        "evening_and_leisure": "Puzzle solving, ancestry research",
+        "weekend_activities": "Grocery shopping, family video calls",
+        "sleep_schedule": "Early riser (6 AM) with afternoon nap"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages chronic skin condition (lichen sclerosus)",
+        "mental_health": "Uses puzzles for cognitive maintenance",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Regularly checks Cleveland Clinic resources"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with professional validation",
+        "brand_loyalty": "Prefers established local brands (King Soopers)",
+        "influence_factors": "Medical professional advice, family recommendations",
+        "tech_adoption": "Competent mainstream user",
+        "privacy_and_security_concerns": "Cautious about financial scams"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Third-generation Colorado resident",
+        "travel_habits": "Local day trips to Denver conventions",
+        "personal_projects": "Digitizing family photo archives",
+        "unexpected_behavioral_traits": "Despite chronic health issues, maintains rigorous home improvement projects"
+    }
+}

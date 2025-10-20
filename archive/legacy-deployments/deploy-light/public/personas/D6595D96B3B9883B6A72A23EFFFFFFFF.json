@@ -1,0 +1,129 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 32,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Brooklyn, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Biology/Media Studies",
+            "institution": "CUNY Brooklyn College"
+        },
+        "occupation": "Digital Content Curator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short tousled",
+            "Skin color": "Light olive",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual geek-chic (graphic tees, hoodies)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": [
+            "Technology optimism",
+            "Environmental conservation"
+        ],
+        "motivations": [
+            "Intellectual curiosity",
+            "Creative expression"
+        ],
+        "cognitive_style": "Analytical pattern-seeker with speculative thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep-dive research on niche topics (wildlife symbolism, cruise prep)",
+        "ad_interactions": "Responds to collectibles (Beanie Babies) and travel accessories",
+        "preferred_content_sources": [
+            "YouTube",
+            "Wikipedia",
+            "Amazon",
+            "Specialized blogs"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "Discord",
+                "YouTube"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumer/niche community participant"
+        },
+        "ecommerce_behavior": "Budget-conscious collector (rare items <$200)",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": [
+            "Netflix",
+            "Max",
+            "YouTube Premium"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Digital content trends",
+            "Sci-fi worldbuilding"
+        ],
+        "hobbies": [
+            "Aquarium keeping",
+            "Retro music curation",
+            "SCP Foundation lore"
+        ],
+        "entertainment_preferences": {
+            "Music": "80s-90s rock/AOR, film scores",
+            "Movies": "Sci-fi (Doctor Who, Goonies)",
+            "Authors": "Speculative fiction writers"
+        },
+        "content_consumption": "Long-form YouTube essays + quick meme formats",
+        "learning_style": "Self-directed research through multimedia"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases with occasional nostalgic splurges",
+        "income_level": "$45k-$55k annually",
+        "investment_habits": "Conservative (focuses on tangible collectibles)",
+        "financial_tools": [
+            "PayPal",
+            "TD Bank",
+            "Amazon Credit"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor in collaborative teams",
+        "family_structure": "Lives alone in apartment",
+        "friendship_circle": "Small online fandom groups",
+        "community_involvement": "Digital conservation forums",
+        "online_vs_offline_engagement": "85% online/15% local meetups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while watching Daily Dose of Internet",
+        "workday_habits": "Blocks time for content curation/research",
+        "evening_and_leisure": "YouTube deep dives with Discord lurking",
+        "weekend_activities": "Record store browsing, aquarium maintenance",
+        "sleep_schedule": "Night owl (1am-9am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light cardio, pescatarian diet",
+        "mental_health": "Uses music for stress relief",
+        "work_life_balance": "Blurred boundaries with digital hobbies",
+        "health_related_digital_behavior": "Occasional medical article browsing"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with nostalgia bias",
+        "brand_loyalty": "Mix of Amazon reliance and indie creators",
+        "influence_factors": "Fandom community opinions + expert reviews",
+        "tech_adoption": "Mainstream-plus (early but cautious)",
+        "privacy_and_security_concerns": "Basic precautions (no extremes)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, Brooklyn cultural hybrid",
+        "travel_habits": "Occasional cruises with detailed planning",
+        "personal_projects": "Curating obscure music playlists",
+        "unexpected_behavioral_traits": "Analytical researcher who believes in spirit animal symbolism"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Tanaka",
+        "age": 51,
+        "gender": "Male",
+        "nationality": "Filipino-American",
+        "current_residence": "American Canyon, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Health Sciences",
+            "institution": "California State University"
+        },
+        "occupation": "Healthcare Administrator",
+        "company": "Kaiser Permanente",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, salt-and-pepper",
+            "skin_color": "Olive",
+            "facial_features": "Rectangular glasses, clean-shaven",
+            "dress_style": "Casual practical (Hoka shoes, Roots clothing)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Healthcare accessibility, cultural preservation, fiscal conservatism",
+        "motivations": "Family security, professional competence, cultural exploration",
+        "cognitive_style": "Detail-oriented planner with strong practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on medical topics (kidney diets) and travel logistics",
+        "ad_interactions": "High engagement with cleaning products (40% vinegar) and travel services",
+        "preferred_content_sources": "Medical authorities (kidney.org), travel guides (Japan-Guide), political news (MSN/Fox)",
+        "social_media_usage": "Limited to Reddit health forums and Yelp reviews",
+        "ecommerce_behavior": "Budget-conscious for essentials (Amazon), premium spending on travel",
+        "device_usage": "Desktop (Edge browser) for research, mobile for maps/Yelp",
+        "subscriptions": "MSN Premium, Kaiser Permanente portal, Airbnb alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare policy, occupational therapy education trends",
+        "hobbies": "Japanese cultural immersion, DIY home projects, hiking",
+        "entertainment_preferences": "Political commentary podcasts, Japanese cuisine shows",
+        "content_consumption": "Long-form travel guides and medical research papers",
+        "learning_style": "Self-directed research combined with local experiences"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven for household items, invests in quality travel experiences",
+        "income_level": "$85,000-$95,000",
+        "investment_habits": "Conservative 401(k) focus with real estate side investments",
+        "financial_tools": "Credit cards with travel rewards, PayPal for international transactions"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader in healthcare administration",
+        "family_structure": "Married with adult children",
+        "friendship_circle": "Small group of long-term friends from Filipino community",
+        "community_involvement": "Local Filipino cultural association, kidney health awareness volunteer",
+        "online_vs_offline_engagement": "Balanced digital research with in-person cultural activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news review with coffee, health supplement regimen",
+        "workday_habits": "Structured schedule with midday political news checks",
+        "evening_and_leisure": "Meal planning using kidney-friendly recipes, trip research",
+        "weekend_activities": "Home improvement projects, Filipino family gatherings",
+        "sleep_schedule": "Regular 11PM-6AM pattern"
+    },
+    "Health & Well-being": {
+        "physical_health": "Plant-based kidney diet, daily walking routine",
+        "mental_health": "Stress management through travel planning",
+        "work_life_balance": "Strict separation between healthcare work and personal interests",
+        "health_related_digital_behavior": "Frequent visits to plantbasedkidneys.com and Kaiser portal"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with multiple source verification",
+        "brand_loyalty": "Strong to Kaiser Permanente and Japanese brands",
+        "influence_factors": "Medical authority endorsements, local user reviews",
+        "tech_adoption": "Mainstream user favoring proven tools (Airbnb, Google Maps)",
+        "privacy_and_security_concerns": "Moderate (uses DMV portal but shares travel plans)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Tagalog, maintains Filipino traditions",
+        "travel_habits": "Biannual immersive cultural trips (Japan focus), family visits to Philippines",
+        "personal_projects": "Curating Japanese ceramics collection, home vinegar production",
+        "unexpected_behavioral_traits": "Conservative news consumer who seeks authentic cultural immersion"
+    }
+}

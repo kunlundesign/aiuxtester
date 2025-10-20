@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Alexey Aleshin",
+        "age": 29,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Somerville, United States",
+        "education": {
+            "degree": "Master's",
+            "major": "Molecular Biology or Biomedical Sciences",
+            "institution": "Unknown (frequent use of PubMed and academic domains suggests graduate-level education)"
+        },
+        "occupation": "Research Scientist/Precision Medicine Specialist",
+        "company": "Likely transitioning between biotech/pharma roles (based on job search activity)",
+        "physical_attributes": {
+            "height": "175-180cm",
+            "body_shape": "Average",
+            "hairstyle": "Short, professional",
+            "skin_color": "Light",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Business casual for work, casual denim/sweaters otherwise"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (engages with complex medical research and French culture)",
+            "conscientiousness": "High (structured job search, email management needs)",
+            "extraversion": "Medium (professional networking but limited social media activity)",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium (health-related searches suggest moderate anxiety)"
+        },
+        "mbti": "INTJ",
+        "beliefs_and_values": "Science-driven progress, health equity in medicine",
+        "motivations": "Career advancement in precision oncology, technological innovation in healthcare",
+        "cognitive_style": "Analytical (CTDNA research) with practical implementation focus (clinical applications)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical searches (e.g., 'EGFR ex20ins variant allele frequency'), repeated queries about French travel",
+        "ad_interactions": "High engagement with pharma career ads (Astellas) and travel deals",
+        "preferred_content_sources": "PubMed, AACR journals, LinkedIn, clinical trial databases",
+        "social_media_usage": "LinkedIn for professional networking, minimal other platforms",
+        "ecommerce_behavior": "Budget-conscious (CVS photo prints), invests in productivity tools",
+        "device_usage": "Windows 11 PC with multi-monitor setup, Chrome browser",
+        "subscriptions": "Microsoft Office 365, Duolingo Plus (inferred from repeated usage)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Liquid biopsy tech, PD-L1 biomarkers, career transitions in biotech",
+        "hobbies": "French language learning, Olympic sports analysis, photography",
+        "entertainment_preferences": "Biographical films (interest in Guy Pearce), classical music (ballet article engagement)",
+        "content_consumption": "Long-form research papers (78% of preferred domains are academic)",
+        "learning_style": "Self-directed (PubMed searches) with structured coursework (Duolingo streaks)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (compares Adobe pricing), splurges on travel preparation",
+        "income_level": "$85k-$110k (typical Boston-area biotech salary)",
+        "investment_habits": "Conservative (no cryptocurrency activity detected)",
+        "financial_tools": "Credit cards (travel bookings), digital wallets (CVS photo payments)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative (multiple LinkedIn job searches) but independent researcher",
+        "family_structure": "Likely single (no family-related content)",
+        "friendship_circle": "Small professional network (high unread emails suggest limited socialization)",
+        "community_involvement": "Local library events (Mudflat Pottery Workshop search)",
+        "online_vs_offline_engagement": "Prefers online professional interactions, offline cultural activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Gmail (14k+ unread), reads ASCO journal alerts",
+        "workday_habits": "Split between lab/research and job applications",
+        "evening_and_leisure": "Duolingo practice, knee exercises from Vive Health searches",
+        "weekend_activities": "Ballet performances (Boston Globe engagement), photo printing projects",
+        "sleep_schedule": "Late-night researcher (multiple midnight email checks)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages knee pain through Vive Health exercises, Mediterranean diet interest",
+        "mental_health": "Anxiety about job transition (unemployment office searches), uses structured routines",
+        "work_life_balance": "Work-focused but makes time for cultural activities",
+        "health_related_digital_behavior": "PubMed health studies, CVS photo therapy for mindfulness"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (CTDNA analysis interest) with career impulsiveness (multiple job applications)",
+        "brand_loyalty": "Prefers established medical brands (Natera, Astellas)",
+        "influence_factors": "Clinical trial results, LinkedIn peer activity",
+        "tech_adoption": "Early adopter of precision medicine tools but slow on consumer tech",
+        "privacy_and_security_concerns": "Moderate (uses institutional logins like Patient Gateway)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual Russian/English (name suggests heritage), learning French",
+        "travel_habits": "Planning Toulouse/Guadeloupe trip (French connections), prefers apartment rentals",
+        "personal_projects": "Building clinical trial metadata database, French translation of research papers",
+        "unexpected_behavioral_traits": "Combines rigorous scientific research with interest in avant-garde fashion (Oscars dress articles)"
+    }
+}

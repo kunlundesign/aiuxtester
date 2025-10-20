@@ -1,0 +1,100 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 65,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Slidell, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Hospitality Management",
+            "institution": "University of Louisiana at Lafayette"
+        },
+        "occupation": "Retired Travel Coordinator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray curls",
+            "skin_color": "Fair",
+            "facial_features": "Warm smile with glasses",
+            "dress_style": "Casual yet polished (capris + patterned blouses)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESFJ",
+        "beliefs_and_values": "Faith-based worldview (Bible Gateway usage), family-first mentality, value-conscious consumerism",
+        "motivations": "Maintaining family connections, securing good deals, staying physically/mentally active",
+        "cognitive_style": "Detail-oriented planner who cross-references multiple sources"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches (car specs comparison, cruise itineraries), frequent price comparisons",
+        "ad_interactions": "High engagement with automotive/travel ads (15+ car-related ad clicks), responsive to discount offers",
+        "preferred_content_sources": "Official brand sites (Toyota, Carnival), practical tutorials (YouTube cooking), MSN news",
+        "social_media_usage": "Daily Facebook engagement (family updates/reels), minimal other platforms",
+        "ecommerce_behavior": "Budget-focused (searches 'under $20k cars'), frequent Amazon/Target purchases",
+        "device_usage": "Desktop primary (detailed research), Edge browser",
+        "subscriptions": [
+            "Netflix",
+            "Amazon Prime",
+            "MSN News alerts"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Travel industry trends (Expedia TAAP research), automotive reliability data",
+        "hobbies": "Cruise planning, container gardening (mint cultivation), DIY jewelry making",
+        "entertainment_preferences": "Inspirational content (Myles Munroe videos), Nollywood films, true crime documentaries",
+        "content_consumption": "Practical how-to videos (YouTube cooking), detailed product reviews",
+        "learning_style": "Experiential learning (tests cruise packages, compares car features firsthand)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused (tracks sales/clearance), plans major purchases (cars) carefully",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (clicked stock ads but no follow-through)",
+        "financial_tools": [
+            "Credit cards",
+            "Bank apps",
+            "Carfax reports for big purchases"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative style honed in travel coordination career",
+        "family_structure": "Empty nester with adult children/grandchildren",
+        "friendship_circle": "Close-knit church group + cruise enthusiast friends",
+        "community_involvement": "Church activities, local gardening club",
+        "online_vs_offline_engagement": "Balanced (Facebook for family, in-person church events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN news/weather check, email triage (Yahoo/Gmail)",
+        "workday_habits": "Morning research sessions (car deals/travel), afternoon errands",
+        "evening_and_leisure": "Netflix/Prime Video after dinner, Facebook family updates",
+        "weekend_activities": "Church services, gardening, cruise planning sessions",
+        "sleep_schedule": "Early riser (bed by 10pm, up at 6am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active gardener, daily walks, monitors sodium intake",
+        "mental_health": "Faith-based coping (Bible Gateway), family Zoom calls",
+        "work_life_balance": "Structured retirement routine with purposeful activities",
+        "health_related_digital_behavior": "Uses Healthline for senior health tips, watches exercise videos"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares 5+ sources for car purchases)",
+        "brand_loyalty": "Strong preference for Toyota (7+ model searches), Bath & Body Works",
+        "influence_factors": "Expert reviews (Carfax), granddaughter's fashion input (Patricia Nash bag)",
+        "tech_adoption": "Competent mainstream user (Canva forms, streaming services)",
+        "privacy_and_security_concerns": "Cautious (avoids saving payment info, clears history)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern English speaker with cruise cultural exposure",
+        "travel_habits": "Annual cruises (Carnival/Royal Caribbean), regional road trips",
+        "personal_projects": "Compiling family recipe book, cruise scrapbooking",
+        "unexpected_behavioral_traits": "Tech-savvy senior who compares USB-C docks despite basic needs"
+    }
+}

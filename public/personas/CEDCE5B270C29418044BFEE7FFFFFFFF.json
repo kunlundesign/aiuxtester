@@ -1,0 +1,100 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 67,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Palm Harbor, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Secretarial Studies",
+            "institution": "Katharine Gibbs School (historical reference)"
+        },
+        "occupation": "Retired Administrative Professional",
+        "company": "Unknown",
+        "physical_attributes": {
+            "height": "5'4\"",
+            "body_shape": "Average",
+            "hairstyle": "Short grey bob",
+            "skin_color": "Fair",
+            "facial_features": "Glasses with rectangular frames",
+            "dress_style": "Casual Floridian attire (capri pants, patterned blouses)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, home security, political conservatism",
+        "motivations": "Maintaining independence, protecting assets, staying informed",
+        "cognitive_style": "Structured problem-solver with practical orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed product research (security systems, gardening supplies), financial comparisons (CD rates), local services (real estate, airports)",
+        "ad_interactions": "High engagement with home security ads, cleaning products, and home decor",
+        "preferred_content_sources": "MSN News, Wikipedia, manufacturer websites, financial blogs",
+        "social_media_usage": "Limited to Facebook (passive engagement)",
+        "ecommerce_behavior": "Frequent mid-range purchases (HSN, Amazon, specialty decor shops)",
+        "device_usage": "Windows 11 desktop user with Edge browser",
+        "subscriptions": [
+            "MSN Premium",
+            "Bath & Body Works emails",
+            "Retail newsletters"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Estate planning, retirement financial strategies",
+        "hobbies": "Gardening (tropical plants), home decorating, card games (Freecell/Solitaire)",
+        "entertainment_preferences": "Conservative political commentary, true crime documentaries",
+        "content_consumption": "Fact-based news articles with occasional long-form political analysis",
+        "learning_style": "Self-guided research through authoritative sources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional quality investments (security systems)",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (CDs, credit union products)",
+        "financial_tools": [
+            "Achieva Credit Union",
+            "NerdWallet",
+            "PayPal"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative support role",
+        "family_structure": "Likely lives alone (intensive home security research)",
+        "friendship_circle": "Small local network with shared conservative values",
+        "community_involvement": "Neighborhood watch programs, senior community groups",
+        "online_vs_offline_engagement": "Primarily offline social interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news review with coffee, garden maintenance",
+        "workday_habits": "Financial management, online shopping/research",
+        "evening_and_leisure": "Solitaire games, political commentary viewing",
+        "weekend_activities": "Home improvement projects, local flea markets",
+        "sleep_schedule": "Early riser (aligned with gardening/security monitoring)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active gardening routine, likely arthritis management (Cleveland Clinic visits)",
+        "mental_health": "Cognitive maintenance through puzzles/news analysis",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Medical reference checking, prescription management"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with price comparisons",
+        "brand_loyalty": "Strong in cleaning products (Caldrea), security systems",
+        "influence_factors": "Expert reviews, FDIC insurance status",
+        "tech_adoption": "Late majority adopter (adopts proven solutions)",
+        "privacy_and_security_concerns": "High (multiple security system comparisons)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southern US cultural influences",
+        "travel_habits": "Occasional domestic trips (airport research), avoids international travel",
+        "personal_projects": "Home security optimization, tropical plant cultivation",
+        "unexpected_behavioral_traits": "Tech-savvy senior maintaining complex security systems while enjoying simple card games"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 54,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Sapulpa, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Oklahoma State University"
+        },
+        "occupation": "Small Business Owner / Car Rental Entrepreneur",
+        "company": "Independent Turo Host",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, receding hairline",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven with crow's feet",
+            "Dress Style": "Casual practical (jeans/polo shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Financial independence, skepticism of bureaucratic systems, tech-enabled entrepreneurship",
+        "motivations": "Business expansion, credit optimization, staying current with automotive trends",
+        "cognitive_style": "Practical problem-solver with focus on tangible results"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches (credit systems, rental logistics), repeated financial institution comparisons",
+        "ad_interactions": "High engagement with financial services/auto ads (12+ credit/car rental ad clicks)",
+        "preferred_content_sources": "YouTube tutorials, MSN political/financial news, specialized forums (Turo Talk Facebook group)",
+        "social_media_usage": "Passive YouTube/Facebook consumption, no visible posting activity",
+        "ecommerce_behavior": "B2B purchasing (vehicle financing tools), occasional luxury apparel interest",
+        "device_usage": "Desktop-centric (65% YouTube usage suggests secondary mobile)",
+        "subscriptions": "Turo host tools, credit monitoring services, automotive YouTube channels"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Fleet management strategies, alternative financing models, credit score optimization",
+        "hobbies": "Car customization, following hip-hop culture, local business networking",
+        "entertainment_preferences": "True crime documentaries, rap music videos, automotive restoration shows",
+        "content_consumption": "Tutorial/analysis videos (7+ automotive YouTube clicks), political deep-dives",
+        "learning_style": "Solution-focused video tutorials combined with peer forum discussions"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic business investments vs personal frugality",
+        "income_level": "Middle-class business owner ($75k-$100k estimated)",
+        "investment_habits": "Asset-backed investments (rental vehicles), conservative financial products",
+        "financial_tools": "Business credit lines (Navy Federal), peer-to-peer financing (Turo)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Transactional yet fair (67 Turo transactions logged)",
+        "family_structure": "Likely empty nester (high business activity during standard work hours)",
+        "friendship_circle": "Niche professional network (car rental hosts/credit forums)",
+        "community_involvement": "Local business groups, online automotive communities",
+        "online_vs_offline_engagement": "70% digital business operations, 30% in-person vehicle maintenance"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/credit monitoring, MSN news scan, fleet status checks",
+        "workday_habits": "Vehicle maintenance coordination, client communications, market research",
+        "evening_and_leisure": "YouTube automotive/crime content, credit forum participation",
+        "weekend_activities": "Vehicle acquisitions, financial planning, family time",
+        "sleep_schedule": "Late-night researcher (UETEvents timestamped until 11PM local)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work habits offset by vehicle maintenance activities",
+        "mental_health": "Stress management through automotive projects",
+        "work_life_balance": "Business-integrated lifestyle (65% YouTube usage tied to work research)",
+        "health_related_digital_behavior": "No observed health tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-comparative (4 credit union comparisons)",
+        "brand_loyalty": "Service-driven (switched between Navy Federal/CreditOne based on offers)",
+        "influence_factors": "Peer reviews (11 car rental service comparisons), financial incentives",
+        "tech_adoption": "Early mainstream adopter (Turo power user but avoids crypto)",
+        "privacy_and_security_concerns": "Basic precautions (multiple financial logins but reuses passwords)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with African-American cultural affinity",
+        "travel_habits": "Business-focused regional travel (MI/OK vehicle logistics)",
+        "personal_projects": "Fleet expansion strategy, credit-building experimentation",
+        "unexpected_behavioral_traits": "Combines practical financial management with interest in hip-hop subculture"
+    }
+}

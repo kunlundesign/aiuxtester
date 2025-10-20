@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 45,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Crestview, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Northwest Florida State College"
+        },
+        "occupation": "Automotive Technician",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with mechanic's tan",
+            "dress_style": "Work boots, utility jeans, and auto shop polos"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Self-reliance through mechanical competence",
+        "motivations": "Mastering automotive systems, cost-effective vehicle maintenance",
+        "cognitive_style": "Systematic problem-solving with hands-on experimentation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed technical queries across 15+ vehicle models",
+        "ad_interactions": "High engagement with OEM parts and performance upgrades",
+        "preferred_content_sources": "Brand forums (CumminsForum, RamForum), YouTube tutorials, NHTSA databases",
+        "social_media_usage": "Limited to Reddit mechanical communities",
+        "ecommerce_behavior": "Frequent mid-price parts purchases (AutoZone, RockAuto)",
+        "device_usage": "Desktop-focused research with mobile for video tutorials",
+        "subscriptions": "ProDemand Repair Information, Pandora Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Hybrid vehicle conversions, torque optimization",
+        "hobbies": "Engine swaps, off-road modifications, classic car restoration",
+        "entertainment_preferences": "Classic rock (Metallica), automotive reality shows",
+        "content_consumption": "Forum threads with technical diagrams > video tutorials",
+        "learning_style": "Experimental trial-and-error with factory service manuals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented parts sourcing with splurges on performance upgrades",
+        "income_level": "$45,000-$60,000",
+        "investment_habits": "Tools/equipment appreciation over financial markets",
+        "financial_tools": "Amazon Store Card, PayPal for forum transactions"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor for multiple repair shops",
+        "family_structure": "Married with teenage children",
+        "friendship_circle": "Local car meetup group members",
+        "community_involvement": "DIY automotive workshops",
+        "online_vs_offline_engagement": "Forum advice-giving > in-person socializing"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check forum notifications with coffee",
+        "workday_habits": "Split between shop repairs and side projects",
+        "evening_and_leisure": "Garage tinkering with Pandora rock playlists",
+        "weekend_activities": "Junkyard parts hunting, family camping trips",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength from manual labor",
+        "mental_health": "Stress relief through mechanical problem-solving",
+        "work_life_balance": "Garage projects blend work/hobbies",
+        "health_related_digital_behavior": "Ergonomics research for lift techniques"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cross-referenced technical specifications",
+        "brand_loyalty": "OEM parts unless performance gains justify alternatives",
+        "influence_factors": "Forum consensus from experienced mechanics",
+        "tech_adoption": "Late adopter except for diagnostic tools",
+        "privacy_and_security_concerns": "Low; prioritizes parts accessibility"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English with technical jargon",
+        "travel_habits": "Regional road trips testing vehicle modifications",
+        "personal_projects": "1994 Acura Integra B18A1 swap",
+        "unexpected_behavioral_traits": "Combines mechanical precision with nostalgic classic rock tastes"
+    }
+}

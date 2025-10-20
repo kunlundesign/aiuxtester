@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ernest Borrelli",
+        "age": 44,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Berlin, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Community College of New Jersey"
+        },
+        "occupation": "Automotive Dealership Manager",
+        "company": "Bridge Auto Group",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length straight",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, rectangular glasses",
+            "Dress Style": "Business casual (blouses, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, American manufacturing pride, Work ethic",
+        "motivations": "Career advancement, Vehicle market expertise, Family security",
+        "cognitive_style": "Detail-oriented processor"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Automotive compliance docs (60%), Vehicle specs (25%), NJ MVC procedures (15%)",
+        "ad_interactions": "Auto loans/refinancing (72%), Insurance comparison (28%)",
+        "preferred_content_sources": "Dealer management systems, CARFAX, NBC Sports Philadelphia",
+        "social_media_usage": "Passive LinkedIn for industry news, Facebook for local community",
+        "ecommerce_behavior": "B2B parts procurement, Occasional personal vehicle accessories",
+        "device_usage": "Windows desktop (85%), iPhone (15%)",
+        "subscriptions": "DealerTrack Pro, CARFAX Dealer, MSN Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "F&I compliance, Used vehicle market trends, Dealer software systems",
+        "hobbies": "Sunday Eagles games, Weekend bridge tournaments, Classic car maintenance",
+        "entertainment_preferences": "NFL highlight reels, True crime documentaries, 80s rock",
+        "content_consumption": "Dealer memos (70%), Sports analytics (20%), DIY guides (10%)",
+        "learning_style": "On-the-job training, Manufacturer certifications"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Bulk business purchases, Conservative personal spending",
+        "income_level": "$72,000-$85,000",
+        "investment_habits": "401(k) match maximizer, Company stock options",
+        "financial_tools": "QuickBooks Dealer, Chase Business Complete Banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Process-driven leadership, Cross-departmental coordination",
+        "family_structure": "Single-parent household (2 teenage children)",
+        "friendship_circle": "Work colleagues, Little League parents",
+        "community_involvement": "Local Chamber of Commerce",
+        "online_vs_offline_engagement": "70% work-related digital, 30% in-person community"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "6:30 AM dealer reports review, 7:15 AM school drop-off",
+        "workday_habits": "Deal jacket approvals, Lender coordination, Inventory audits",
+        "evening_and_leisure": "ESPN highlights, Online bridge games, Email triage",
+        "weekend_activities": "Youth sports events, Used car lot walkthroughs",
+        "sleep_schedule": "11 PM - 6 AM (consistent)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Ergonomic workstation, Occasional lower back stiffness",
+        "mental_health": "High work stress tolerance, No current interventions",
+        "work_life_balance": "60-hour work weeks, Defined weekend boundaries",
+        "health_related_digital_behavior": "WebMD symptom checks, Posture reminder apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Compliance-first, Data-supported",
+        "brand_loyalty": "Stick with DealerTrack/Cox Automotive ecosystem",
+        "influence_factors": "NADA guidelines, Lender requirements",
+        "tech_adoption": "Mainstream business user",
+        "privacy_and_security_concerns": "Enterprise-grade security mandated"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Second-generation Italian-American",
+        "travel_habits": "Regional auto auctions, Annual Myrtle Beach family trip",
+        "personal_projects": "Restoring 1984 Mustang GT",
+        "unexpected_behavioral_traits": "High-pressure dealer negotiator who plays competitive online bridge"
+    }
+}

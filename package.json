@@ -5,7 +5,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -p $PORT"
+    "start": "next start -p ${PORT:-3000}",
+    "health:check": "node scripts/health-check.js",
+    "package:zip": "node scripts/package-zip.js",
+    "sample:evaluate": "node scripts/sample-evaluate.js"
+  },
+  "engines": {
+    "node": "20.x",
+    "npm": ">=10.0.0"
   },
   "dependencies": {
     "@google/generative-ai": "^0.2.0",

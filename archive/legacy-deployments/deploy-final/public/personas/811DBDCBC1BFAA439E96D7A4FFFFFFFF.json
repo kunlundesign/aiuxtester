@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 63,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Elburn, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Education or Fine Arts",
+            "institution": "Unknown"
+        },
+        "occupation": "Retired Educator/Crafts Entrepreneur",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "Average",
+            "Body shape": "Curvy",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Warm smile with glasses",
+            "Dress Style": "Casual knitwear and functional layers"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Religious faith, community responsibility, practical sustainability",
+        "motivations": "Maintaining cognitive sharpness through crafts, staying informed about family/community matters",
+        "cognitive_style": "Detail-oriented with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precise queries for crafts/DIY projects, repeated checks on school/community info",
+        "ad_interactions": "High engagement with crafting supplies/comfort wear ads",
+        "preferred_content_sources": "Yahoo Mail, MSN, Wikipedia, AllRecipes",
+        "social_media_usage": "Minimal (basic Facebook use)",
+        "ecommerce_behavior": "Budget-conscious craft supply purchases",
+        "device_usage": "Desktop (Edge browser), Android mobile for quick checks",
+        "subscriptions": "Netflix, Disney+, Yahoo Mail Plus"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Adult education crafts workshops",
+        "hobbies": "Jigsaw puzzles, diamond painting, genealogy research",
+        "entertainment_preferences": "NCIS series, classic Hollywood films, religious dramas",
+        "content_consumption": "Practical how-to guides, local news, nostalgia pieces",
+        "learning_style": "Step-by-step visual tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional craft splurges",
+        "income_level": "Middle-class retirement income",
+        "investment_habits": "Conservative (CDs/municipal bonds)",
+        "financial_tools": "Online banking, credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Past collaborative teaching style",
+        "family_structure": "Empty nester with nearby grandchildren",
+        "friendship_circle": "Church group and craft circle members",
+        "community_involvement": "School board notifications recipient",
+        "online_vs_offline_engagement": "Balanced digital convenience with in-person church activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email checking with coffee, local news review",
+        "workday_habits": "Craft projects between household management",
+        "evening_and_leisure": "Puzzle assembly while streaming shows",
+        "weekend_activities": "Church attendance, family visits",
+        "sleep_schedule": "Early-to-bed routine (10PM-6AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular check-ups via UnityPoint Health",
+        "mental_health": "Crafting as stress relief, prayer practice",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "UHC member portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for major purchases",
+        "brand_loyalty": "Prefers established craft brands like Cobble Hill",
+        "influence_factors": "User reviews, faith community recommendations",
+        "tech_adoption": "Mainstream user with basic digital literacy",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, basic church Latin phrases",
+        "travel_habits": "Regional road trips to family",
+        "personal_projects": "Family ancestry documentation",
+        "unexpected_behavioral_traits": "Enjoys mixing religious devotion with pop culture analysis"
+    }
+}

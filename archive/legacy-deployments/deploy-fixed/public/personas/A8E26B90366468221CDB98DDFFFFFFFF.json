@@ -1,0 +1,111 @@
+{
+    "Core Identity": {
+        "full_name": "Karen Mathis",
+        "age": 62,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Spearfish, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Black Hills State University"
+        },
+        "occupation": "Retired Office Manager",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray-blonde",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile, glasses",
+            "Dress Style": "Casual practical (jeans, layered tops)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Community support, fiscal responsibility, veteran advocacy",
+        "motivations": "Maintaining independence, lifelong learning, preserving local history",
+        "cognitive_style": "Practical problem-solver with nostalgic tendencies"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services research + national news cross-checking",
+        "ad_interactions": "Medium engagement (clicks 11/67 ads: 16% rate)",
+        "preferred_content_sources": "MSN, YouTube, Facebook, IMDB, local news sites",
+        "social_media_usage": {
+            "Platforms": [
+                "Facebook",
+                "YouTube"
+            ],
+            "Frequency": "Daily",
+            "Engagement": "Passive consumption with occasional shares"
+        },
+        "ecommerce_behavior": "Budget-conscious with splurges on crafting/DIY supplies",
+        "device_usage": "Windows PC + Android tablet via Edge browser",
+        "subscriptions": [
+            "Amazon Prime",
+            "YouTube Premium",
+            "Local news newsletters"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Small business operations, local government processes",
+        "hobbies": "Cricut crafting, vintage vehicle restoration, community theater",
+        "entertainment_preferences": {
+            "Music": "Classic country (Dolly Parton, Vince Gill)",
+            "Movies": "Marvel films, 80s-90s TV reboots",
+            "Authors": "Biographies of historical figures"
+        },
+        "content_consumption": "50/50 split between short videos and long-form news articles",
+        "learning_style": "YouTube tutorials + local workshop hands-on learning"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases with impulse buys on crafting/hobby items",
+        "income_level": "$45k-$55k/year (pension + investments)",
+        "investment_habits": "Conservative (CDs, municipal bonds)",
+        "financial_tools": [
+            "US Bank",
+            "Chase Credit Cards",
+            "State Farm B2B Portal"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative former team player",
+        "family_structure": "Empty nester with adult children in Midwest",
+        "friendship_circle": "Close-knit group of 5-8 longtime friends",
+        "community_involvement": "Veterans' support volunteer, local historical society",
+        "online_vs_offline_engagement": "70% offline community activities, 30% Facebook groups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Local news + coffee while checking Facebook",
+        "workday_habits": "Volunteer work mornings, home projects afternoons",
+        "evening_and_leisure": "MSNBC/YouTube viewing while crafting",
+        "weekend_activities": "Farmer's market visits, grandkids' sports events",
+        "sleep_schedule": "10PM-6AM consistent schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily walks, manages arthritis",
+        "mental_health": "Meditation via crafting, avoids stress triggers",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Researches non-invasive treatments online"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-heavy but trusts local recommendations",
+        "brand_loyalty": "Strong (Hobby Lobby, Walmart, State Farm)",
+        "influence_factors": "Word-of-mouth, senior discounts",
+        "tech_adoption": "Mainstream user (adopts after proven usefulness)",
+        "privacy_and_security_concerns": "Moderate (uses basic protections)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with basic Spanish",
+        "travel_habits": "Regional road trips (Black Hills), occasional Florida visits",
+        "personal_projects": "Digitizing local historical records, quilt-making",
+        "unexpected_behavioral_traits": "Tech-savvy senior who welds while listening to true crime podcasts"
+    }
+}

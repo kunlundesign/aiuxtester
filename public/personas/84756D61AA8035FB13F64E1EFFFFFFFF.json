@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Shirley Winston",
+        "age": 47,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Phenix City, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Local Community College"
+        },
+        "occupation": "Freelance Handywoman",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Olive",
+            "facial_features": "Warm smile with laugh lines",
+            "dress_style": "Practical workwear mixed with casual feminine pieces"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Community service, self-reliance, animal welfare",
+        "motivations": "Maintaining independence, problem-solving through DIY, family care",
+        "cognitive_style": "Practical problem-solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Vehicle maintenance queries, bulk shopping deals, DIY tutorials",
+        "ad_interactions": "High engagement with motorcycle gear and home improvement ads",
+        "preferred_content_sources": "Facebook Marketplace, YouTube DIY channels, Sam's Club deals",
+        "social_media_usage": "Active on Facebook Marketplace, passive on YouTube",
+        "ecommerce_behavior": "Value-focused bulk purchases, automotive parts spending",
+        "device_usage": "Mobile-first user with desktop for complex research",
+        "subscriptions": "Sam's Club membership, church newsletter, DIY YouTube channels"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Automotive customization, home repair techniques",
+        "hobbies": "Motorcycle maintenance, gardening, bargain hunting",
+        "entertainment_preferences": "Western films, true crime documentaries, classic rock",
+        "content_consumption": "DIY tutorial videos, product review articles",
+        "learning_style": "Video demonstrations and hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious bulk buyer with strategic big-ticket purchases",
+        "income_level": "Lower-middle class",
+        "investment_habits": "Conservative (prioritizes practical assets like tools)",
+        "financial_tools": "Sam's Club credit card, mobile banking app"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with strong local reputation",
+        "family_structure": "Single-parent household with teenage children",
+        "friendship_circle": "Close-knit church community and motorcycle enthusiasts",
+        "community_involvement": "Active church member, local volunteer projects",
+        "online_vs_offline_engagement": "Balanced mix of Marketplace transactions and in-person community"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather and job requests with coffee",
+        "workday_habits": "Varied schedule between client jobs and personal projects",
+        "evening_and_leisure": "Facebook Marketplace browsing, DIY video watching",
+        "weekend_activities": "Church attendance, motorcycle maintenance, family outings",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through work, basic home workouts",
+        "mental_health": "Stress relief through mechanical tinkering",
+        "work_life_balance": "Blurred boundaries due to self-employment",
+        "health_related_digital_behavior": "Occasional fitness video searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Practical cost-benefit analysis",
+        "brand_loyalty": "Loyal to workwear brands and automotive parts",
+        "influence_factors": "User reviews, community recommendations",
+        "tech_adoption": "Mainstream user with focus on practical tools",
+        "privacy_and_security_concerns": "Basic precautions but not highly concerned"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern American English speaker",
+        "travel_habits": "Occasional road trips to national parks",
+        "personal_projects": "Restoring vintage motorcycle, vegetable garden",
+        "unexpected_behavioral_traits": "Mechanically inclined with strong interest in feminine fashion"
+    }
+}

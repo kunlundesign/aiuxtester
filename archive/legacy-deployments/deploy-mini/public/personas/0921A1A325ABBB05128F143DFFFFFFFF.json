@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 30,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Houston, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Construction Management",
+            "institution": "University of Houston"
+        },
+        "occupation": "Construction Project Manager",
+        "company": "Houston Commercial Builders LLC",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short professional cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Business casual (collared shirts/chinos)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Quality craftsmanship, environmental sustainability in construction",
+        "motivations": "Delivering projects on time/under budget, staying updated on material innovations",
+        "cognitive_style": "Analytical problem-solver with strong attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical material specifications (e.g., '3/4 stainless steel corner molding'), construction bidding platforms",
+        "ad_interactions": "High engagement with architectural hardware/construction material ads",
+        "preferred_content_sources": "Industry portals (ConstructConnect), manufacturer catalogs (CRL), Gmail",
+        "social_media_usage": "Limited personal use, LinkedIn for professional networking",
+        "ecommerce_behavior": "Bulk purchases of construction materials, compares technical specs",
+        "device_usage": "Desktop (Windows 11) for work, Android mobile for navigation",
+        "subscriptions": "Procore, BuildingConnected, Adobe Acrobat"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Sustainable building materials, modular construction techniques",
+        "hobbies": "DIY home improvement projects, classic car restoration",
+        "entertainment_preferences": "Tech podcasts, Houston Astros games, space exploration documentaries",
+        "content_consumption": "Detailed product datasheets over videos, prefers factual reports",
+        "learning_style": "Hands-on experimentation with new materials/tools"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for professional purchases, selective luxury in personal tools",
+        "income_level": "$85,000-$95,000 annually",
+        "investment_habits": "Conservative with 401(k), explores REITs",
+        "financial_tools": "Corporate credit cards, QuickBooks for side projects"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader with 5 direct reports",
+        "family_structure": "Single, lives alone in condo",
+        "friendship_circle": "College alumni group, construction industry peers",
+        "community_involvement": "Local Habitat for Humanity volunteer",
+        "online_vs_offline_engagement": "Prefers in-person site meetings over virtual"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks project emails during breakfast, listens to construction industry podcasts during commute",
+        "workday_habits": "Site visits 3 days/week, uses Procore for submittal reviews",
+        "evening_and_leisure": "Works on vintage car restoration, monitors sports scores",
+        "weekend_activities": "Home improvement projects, visits Houston design showrooms",
+        "sleep_schedule": "11 PM - 6 AM (Night owl for urgent project bids)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Gym 3x/week, avoids processed foods due to site lunch constraints",
+        "mental_health": "Uses project completion as stress relief",
+        "work_life_balance": "Work-focused but protects Sundays for personal time",
+        "health_related_digital_behavior": "Uses Fitbit, reads OSHA safety updates"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with material test reports",
+        "brand_loyalty": "Prefers proven suppliers but explores new sustainable options",
+        "influence_factors": "Architect specifications, LEED certification requirements",
+        "tech_adoption": "Early adopter of construction management software",
+        "privacy_and_security_concerns": "Uses VPN for bid submissions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with basic Spanish construction terms",
+        "travel_habits": "Regional travel to Texas construction sites, annual beach vacation",
+        "personal_projects": "Restoring 1972 Chevrolet Corvette",
+        "unexpected_behavioral_traits": "Enjoys abstract architecture despite technical focus"
+    }
+}

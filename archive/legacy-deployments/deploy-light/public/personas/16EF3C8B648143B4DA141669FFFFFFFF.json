@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Martinez",
+        "age": 53,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Riverside, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "California State University, San Bernardino"
+        },
+        "occupation": "HR Coordinator",
+        "company": "Yamamotoyama U.S.A.",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Olive",
+            "Facial features": "Warm smile with expressive eyes",
+            "Dress Style": "Business casual with practical footwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical problem-solving, family responsibility, appreciation for craftsmanship",
+        "motivations": "Maintaining family well-being, preserving historical artifacts, professional efficiency",
+        "cognitive_style": "Systematic planner with strong attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-session research on mechanical solutions, real estate, and legal matters",
+        "ad_interactions": "High engagement with automotive parts/accessories and DIY solutions",
+        "preferred_content_sources": "YouTube tutorials, manufacturer websites, legal databases",
+        "social_media_usage": "Passive Facebook engagement, YouTube for instructional content",
+        "ecommerce_behavior": "Strategic purchases of automotive tools and home improvement items",
+        "device_usage": "Desktop-centric with Edge browser for work tasks",
+        "subscriptions": "Amazon Prime, Yamamotoyama enterprise tools, BringATrailer.com alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "HR compliance, employee benefits management, workplace safety regulations",
+        "hobbies": "Classic car restoration, vintage mechanical repairs, local history research",
+        "entertainment_preferences": "Classic rock, automotive restoration shows, historical documentaries",
+        "content_consumption": "Technical manuals, legal documents, auction listings",
+        "learning_style": "Video tutorials combined with hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven for daily expenses but invests in quality tools/equipment",
+        "income_level": "$65,000-$75,000",
+        "investment_habits": "Conservative with 401(k) focus",
+        "financial_tools": "Credit Union accounts, Amazon Store Card, traditional banking services"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Process-oriented collaborator with strict compliance focus",
+        "family_structure": "Multigenerational household with elder care responsibilities",
+        "friendship_circle": "Close-knit group from automotive enthusiast community",
+        "community_involvement": "Local car meet organizer, stroke survivor support volunteer",
+        "online_vs_offline_engagement": "Prefers in-person interactions for hobbies, digital for work"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage with Yamamotoyama updates, weather-check for commute",
+        "workday_habits": "Scheduled HR tasks interspersed with automotive forum browsing",
+        "evening_and_leisure": "Garage restoration projects, family dinner preparation",
+        "weekend_activities": "Auto swap meets, home improvement projects, family visits",
+        "sleep_schedule": "Consistent 11PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light daily stretching, manages chronic condition (arthritis)",
+        "mental_health": "Stress relief through mechanical projects, support group participation",
+        "work_life_balance": "Strict separation of work email access hours",
+        "health_related_digital_behavior": "Researching arthritis management, stroke recovery resources"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with multiple price comparisons",
+        "brand_loyalty": "Strong preference for automotive OEM parts",
+        "influence_factors": "Mechanic recommendations, historical value assessments",
+        "tech_adoption": "Mainstream user with selective adoption of enterprise tools",
+        "privacy_and_security_concerns": "Cautious with financial data but shares hobby content publicly"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English/Spanish bilingual, California Chicano cultural influences",
+        "travel_habits": "Regional road trips for car shows, avoids air travel",
+        "personal_projects": "Restoring 1970s pickup truck, family genealogy research",
+        "unexpected_behavioral_traits": "Combines strict HR compliance with creative automotive customization"
+    }
+}

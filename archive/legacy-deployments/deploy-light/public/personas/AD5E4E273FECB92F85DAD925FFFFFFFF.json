@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 42,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Schenectady, New York, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Business Administration",
+            "institution": "Schenectady County Community College"
+        },
+        "occupation": "Office Administrator",
+        "company": "Local Healthcare Facility",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, rectangular glasses",
+            "Dress Style": "Casual-business casual mix (blouses, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Fiscal responsibility, technological pragmatism",
+        "motivations": "Family security, personal competency",
+        "cognitive_style": "Structured problem-solver with practical creativity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic researcher (taxes, gaming tech, pet care, cooking)",
+        "ad_interactions": "High engagement with practical services (food delivery, insurance)",
+        "preferred_content_sources": "Fox News, Twitch, YouTube TV, recipe blogs",
+        "social_media_usage": "Passive Facebook user, active Twitch viewer",
+        "ecommerce_behavior": "Frequent DoorDash user, occasional Wayfair purchases",
+        "device_usage": "Windows PC with Edge browser, secondary Android phone",
+        "subscriptions": "Netflix, YouTube TV, DoorDash Pass"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tax preparation, healthcare benefits administration",
+        "hobbies": "Escape from Tarkov gaming, recipe experimentation",
+        "entertainment_preferences": "Action movies (Reacher), classic rock (Djo)",
+        "content_consumption": "Mix of short Twitch streams and long-form news articles",
+        "learning_style": "Guided tutorials with hands-on application"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with occasional splurges (Tatcha skincare)",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative (Charles Schwab usage)",
+        "financial_tools": "Credit cards, online banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Detail-oriented collaborator",
+        "family_structure": "Married with indoor cat(s)",
+        "friendship_circle": "Small group of long-term friends",
+        "community_involvement": "Local veteran support (MVP Arena interest)",
+        "online_vs_offline_engagement": "Balanced digital/physical socialization"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with Fox News updates",
+        "workday_habits": "Scheduled task management with Outlook",
+        "evening_and_leisure": "Gaming sessions, DoorDash meals",
+        "weekend_activities": "Grocery shopping, pet care, light hiking",
+        "sleep_schedule": "Night owl (gaming until 11PM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional walks, watches sodium intake",
+        "mental_health": "Stress management through gaming",
+        "work_life_balance": "Strict separation after work hours",
+        "health_related_digital_behavior": "Pet health research > personal health tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (comparison shops RAM specs)",
+        "brand_loyalty": "Sticks with verified providers (TaxAct, Lemonade)",
+        "influence_factors": "Expert reviews, first-hand user experiences",
+        "tech_adoption": "Mainstream-plus adopter (Amazon One interest)",
+        "privacy_and_security_concerns": "Basic precautions (McAfee user)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Japanese aesthetics (Tatcha)",
+        "travel_habits": "Regional trips (Albany area venues)",
+        "personal_projects": "Custom PC building/upgrading",
+        "unexpected_behavioral_traits": "Conservative news consumer who enjoys violent video games"
+    }
+}

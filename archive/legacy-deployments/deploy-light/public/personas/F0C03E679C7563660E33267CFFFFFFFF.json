@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 31,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Bonne Terre, United States",
+        "education": {
+            "degree": "Master's Degree",
+            "major": "Applied Humanities/Environmental Studies",
+            "institution": "Southern New Hampshire University"
+        },
+        "occupation": "Graduate Student/Research Assistant",
+        "company": "Southern New Hampshire University",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brown hair",
+            "skin_color": "Fair",
+            "facial_features": "Rectangular glasses, minimal makeup",
+            "dress_style": "Casual academic (cardigans, blouses, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INTJ",
+        "beliefs_and_values": "Environmental sustainability, educational accessibility, technological progress",
+        "motivations": "Academic achievement, environmental stewardship, career advancement in academia",
+        "cognitive_style": "Analytical with strong pattern recognition (evident in mineral structure research and political analysis)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical searches (geological cross-sections, academic citations) mixed with policy analysis",
+        "ad_interactions": "Education programs (DePaul University), budget travel deals, insurance comparison tools",
+        "preferred_content_sources": "Academic journals (.gov/.edu domains), MSN political analysis, YouTube tutorials",
+        "social_media_usage": "Limited; YouTube for educational content",
+        "ecommerce_behavior": "Budget-conscious (clicks on $69 hotel deals), career-related purchases (PyCharm)",
+        "device_usage": "Desktop-focused (coding/geology software), Chrome/Edge browsers",
+        "subscriptions": "SNHU online portal, zyBooks, JetBrains tools"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Mining environmental impacts, AI applications in education, academic writing standards",
+        "hobbies": "Astrophotography (DSLR star photography), classical music analysis, hiking",
+        "entertainment_preferences": "Political documentaries, classical opera (Wagner), sci-fi games (Halo Infinite)",
+        "content_consumption": "Long-form technical papers (SpringerLink), structured coding tutorials",
+        "learning_style": "Project-based learning (7-2 Groundwater Lab), self-guided research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (compares insurance, seeks refundable travel)",
+        "income_level": "Student-level ($20k-$35k)",
+        "investment_habits": "Conservative (no evidence of active investing)",
+        "financial_tools": "Traditional banking (Casenet MO gov searches)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent researcher (multiple solo academic projects)",
+        "family_structure": "Likely single (intensive academic focus)",
+        "friendship_circle": "Small academic network",
+        "community_involvement": "Environmental policy engagement (Superfund boundary research)",
+        "online_vs_offline_engagement": "Prefers online academic communities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Academic focus (checking SNHU portal, citation lists)",
+        "workday_habits": "Structured study blocks (evident in course module access patterns)",
+        "evening_and_leisure": "Political news analysis, coding practice (IT-140 course)",
+        "weekend_activities": "Local geology field work, movie theater visits",
+        "sleep_schedule": "Late night (coding/study sessions evident in timestamped academic access)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active (hiking interests), basic home cooking (Cacio e Pepe searches)",
+        "mental_health": "Stress management through structured routines",
+        "work_life_balance": "Work-leaning (frequent academic logins)",
+        "health_related_digital_behavior": "Reactive searches (measles outbreak tracking)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based (academic research patterns)",
+        "brand_loyalty": "Educational tools (consistent Citation Machine use)",
+        "influence_factors": "Academic validation, environmental impact data",
+        "tech_adoption": "Early mainstream (adopts PyCharm but not cutting-edge AI)",
+        "privacy_and_security_concerns": "Moderate (uses institutional logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwest American English, basic technical terminology",
+        "travel_habits": "Educational trips (Stellenbosch research), budget domestic travel (Lake Ozark)",
+        "personal_projects": "Geological mapping of SE Missouri, AI-assisted writing tools",
+        "unexpected_behavioral_traits": "Environmental scientist who analyzes political rhetoric"
+    }
+}

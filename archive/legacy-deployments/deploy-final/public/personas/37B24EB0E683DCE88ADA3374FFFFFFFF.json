@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "South Sioux City, USA",
+        "education": {
+            "degree": "Associate's (in progress)",
+            "major": "Business Administration",
+            "institution": "Wayne State College"
+        },
+        "occupation": "College Student",
+        "company": "N/A",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Medium-length straight hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup",
+            "Dress Style": "Casual chic (juniors' dresses from Amazon/SHEIN)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENFJ",
+        "beliefs_and_values": "Education advancement, family-oriented values, work-life balance",
+        "motivations": "Academic achievement, home improvement mastery, creative expression through gaming",
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Academic queries (math/business), home improvement research, entertainment/gaming",
+        "ad_interactions": "High engagement with baby shower products, gaming ads, and budget fashion",
+        "preferred_content_sources": "Educational portals (Mathway, ABCya), MSN sports news, retail sites",
+        "social_media_usage": "YouTube tutorials, casual gaming communities, limited Facebook",
+        "ecommerce_behavior": "Budget-conscious (SHEIN, Amazon), frequent small purchases",
+        "device_usage": "Desktop for schoolwork, mobile for gaming/shopping",
+        "subscriptions": "Max (Harry Potter content), Amazon Prime, Sycamore School portal"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Accounting principles, small business management",
+        "hobbies": "Minecraft building, casual cooking experiments, YA novel reading",
+        "entertainment_preferences": "Taylor Swift music, sports events (NBA/Olympics), baking shows",
+        "content_consumption": "Educational tutorials, DIY videos, sports analysis",
+        "learning_style": "Visual demonstrations + hands-on practice (evident in math/gaming searches)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on decor/gaming",
+        "income_level": "Student-level ($10k-$15k annually)",
+        "investment_habits": "No current investments",
+        "financial_tools": "Student debit card, PayPal, Amazon Store Card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative group study patterns",
+        "family_structure": "Likely lives with family while attending local college",
+        "friendship_circle": "Mix of college peers and childhood friends",
+        "community_involvement": "School-related activities, local sports events",
+        "online_vs_offline_engagement": "Balanced digital/IRL interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks email/calendar, Fitbit activity tracking",
+        "workday_habits": "Sycamore School portal usage, math problem sessions",
+        "evening_and_leisure": "Minecraft building, MSN sports updates, light novel reading",
+        "weekend_activities": "Family meals, local shopping trips, gaming marathons",
+        "sleep_schedule": "Regular (11 PM - 7 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual fitness tracking (Fitbit), balanced diet",
+        "mental_health": "Stress relief through gaming/reading",
+        "work_life_balance": "Structured study/leisure division",
+        "health_related_digital_behavior": "Basic activity tracking, no intensive health research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for purchases, impulsive in entertainment",
+        "brand_loyalty": "Budget-conscious switcher except for tech/education tools",
+        "influence_factors": "Peer recommendations, verified reviews",
+        "tech_adoption": "Mainstream user with gaming specialization",
+        "privacy_and_security_concerns": "Moderate (uses school/professional accounts)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English speaker, basic Spanish understanding",
+        "travel_habits": "Local/regional travel (Omaha shopping trips)",
+        "personal_projects": "Dorm room design, Minecraft architecture portfolio",
+        "unexpected_behavioral_traits": "Simultaneously meticulous (math studies) and creative (game design)"
+    }
+}

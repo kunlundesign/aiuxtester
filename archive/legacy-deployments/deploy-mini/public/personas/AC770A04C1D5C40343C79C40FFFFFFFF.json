@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Mitchell",
+        "age": 30,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Collbran, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Construction Management",
+            "institution": "Colorado Mesa University"
+        },
+        "occupation": "Construction Project Manager",
+        "company": "Collbran Supply Inc.",
+        "physical_attributes": {
+            "Height": "5'7\"",
+            "Body_shape": "Athletic",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin_color": "Fair",
+            "Facial_features": "Practical glasses, minimal makeup",
+            "Dress_Style": "Work boots, durable jeans, utility vest"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Environmental conservation, community resilience, practical self-reliance",
+        "motivations": "Professional craftsmanship, home improvement mastery, outdoor stewardship",
+        "cognitive_style": "Structured problem-solving with hands-on verification"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical construction queries (truss calculations, snow loads), vendor research, DIY tutorials",
+        "ad_interactions": "High engagement with tool/equipment ads (Dewalt, Simpson Strong-Tie), moderate with pet supplies",
+        "preferred_content_sources": "Manufacturer portals (Therma-Tru, Apollo PEX), municipal sites, engineering forums",
+        "social_media_usage": "Facebook for local community updates, YouTube for equipment tutorials",
+        "ecommerce_behavior": "Bulk material orders, periodic tool upgrades, recurring pet supplies",
+        "device_usage": "Desktop for CAD/BCcalc tools, mobile for jobsite reference",
+        "subscriptions": "Builder Digest newsletter, ANSI standards updates, Chewy Autoship"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Advanced framing techniques, sustainable building materials, COSP-EFT vendor programs",
+        "hobbies": "Weekend landscaping projects, amateur astronomy, violin practice",
+        "entertainment_preferences": "Classic rock/country playlists, home renovation shows, true crime documentaries",
+        "content_consumption": "Technical specification sheets, local news deep dives, how-to video guides",
+        "learning_style": "Workshop-based skill acquisition with peer verification"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven capital investments, bulk material purchasing, seasonal equipment upgrades",
+        "income_level": "$75,000-$90,000",
+        "investment_habits": "Conservative business equipment reinvestment",
+        "financial_tools": "Business credit card (Chase), QuickBooks Online, Zelle payments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative site leadership with subcontractor oversight",
+        "family_structure": "Multi-generational household with shared property maintenance",
+        "friendship_circle": "Trade professionals network, 4H alumni group",
+        "community_involvement": "CPW vendor program participant, wildfire preparedness volunteer",
+        "online_vs_offline_engagement": "Local hardware store meetups supplemented with supplier web portals"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Equipment checklists over coffee, jobsite weather review",
+        "workday_habits": "Morning material deliveries, afternoon site inspections, evening warranty documentation",
+        "evening_and_leisure": "Garden trellis projects, Colorado Parks research, pet care",
+        "weekend_activities": "High-altitude hiking, Mesa County Fairgrounds events, family DIY days",
+        "sleep_schedule": "Early riser (5:30 AM) aligned with construction timelines"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength training via manual labor, high-protein meals",
+        "mental_health": "Project completion satisfaction, outdoor stress relief",
+        "work_life_balance": "Seasonal intensity with winter planning periods",
+        "health_related_digital_behavior": "Ergonomics research, OSHA compliance tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Specification-compliant with vendor reliability checks",
+        "brand_loyalty": "Dewalt/STIHL for tools, Chewy for recurring pet needs",
+        "influence_factors": "Trade association ratings, peer recommendations",
+        "tech_adoption": "Purpose-driven early adoption (e.g., BCcalc software)",
+        "privacy_and_security_concerns": "Business data protection awareness"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Rural Western English with construction industry jargon",
+        "travel_habits": "Regional material sourcing trips, national park vacations",
+        "personal_projects": "Converting barn to music studio, experimental permaculture gardening",
+        "unexpected_behavioral_traits": "Combines structural engineering precision with astrology hobby"
+    }
+}

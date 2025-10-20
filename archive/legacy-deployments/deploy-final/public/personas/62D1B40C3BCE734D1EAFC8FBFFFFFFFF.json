@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Tricia Nichols",
+        "age": 63,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Tennessee, USA",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Community College"
+        },
+        "occupation": "Administrative Assistant",
+        "company": "Starlight Homes Tennessee, LLC",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Warm smile with glasses",
+            "Dress Style": "Business-casual with comfortable plus-size clothing"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Practical financial responsibility, work ethic",
+        "motivations": "Maintaining organizational efficiency, family security",
+        "cognitive_style": "Detail-oriented and structured thinker"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Business logistics (tax payments, vendor management), recipe research",
+        "ad_interactions": "High engagement with office supplies/equipment and plus-size fashion ads",
+        "preferred_content_sources": "Corporate portals (Ford, Regions Bank), recipe blogs",
+        "social_media_usage": "Limited (MSN news consumption only)",
+        "ecommerce_behavior": "Frequent office supply purchases, occasional clothing orders",
+        "device_usage": "Desktop (Edge browser with Xfinity email integration)",
+        "subscriptions": "Xfinity Connect, Microsoft 365"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Construction project coordination, financial compliance",
+        "hobbies": "Experimental cooking (sushi making), gardening",
+        "entertainment_preferences": "Country music celebrities, home improvement shows",
+        "content_consumption": "Factual business documents + light entertainment news",
+        "learning_style": "Task-focused video tutorials (e.g., Windows 11 customization)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious business purchases, selective personal splurges",
+        "income_level": "$45k-$55k annually",
+        "investment_habits": "Conservative (bank-managed accounts)",
+        "financial_tools": "EFTPS for taxes, multiple business credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player with vendor management duties",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Small group of long-term friends",
+        "community_involvement": "Local church/hospitality groups",
+        "online_vs_offline_engagement": "Prefers in-person interactions but adapts to digital workflows"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks work emails (Xfinity Connect) with coffee",
+        "workday_habits": "Coordinates purchase orders and insurance documents",
+        "evening_and_leisure": "Tests new recipes, watches MSN entertainment news",
+        "weekend_activities": "Gardening, family visits, meal preparation",
+        "sleep_schedule": "Early riser (5:30 AM bedtimes)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking routine, home-cooked meals",
+        "mental_health": "Stress management through cooking/organizing",
+        "work_life_balance": "Strict division between work hours and personal time",
+        "health_related_digital_behavior": "Occasional recipe nutrition research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with corporate compliance focus",
+        "brand_loyalty": "Strong (Ford, Office Depot, Woman Within)",
+        "influence_factors": "Institutional trust (banks, government portals)",
+        "tech_adoption": "Mainstream user (adopts employer-mandated tools)",
+        "privacy_and_security_concerns": "Cautious with financial data (MFA user)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English speaker",
+        "travel_habits": "Occasional business-conference travel via Delta",
+        "personal_projects": "Curating family recipe digital archive",
+        "unexpected_behavioral_traits": "Enjoys experimental cooking despite structured work persona"
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "Core Identity": {
+        "full_name": "Steven J. Alves",
+        "age": 44,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Los Angeles, United States",
+        "education": {
+            "degree": "Juris Doctor",
+            "major": "Law",
+            "institution": "University of Southern California"
+        },
+        "occupation": "Workers' Compensation Attorney",
+        "company": "Alves Law Office",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, professional cut",
+            "skin_color": "Olive",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Business casual (button-down shirts, slacks) during work hours; casual gaming-themed tees off-duty"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INTJ",
+        "beliefs_and_values": [
+            "Legal advocacy for workers' rights",
+            "Technological pragmatism",
+            "Merit-based systems"
+        ],
+        "motivations": [
+            "Professional expertise development",
+            "System optimization",
+            "Work-life balance through structured routines"
+        ],
+        "cognitive_style": "Analytical problem-solver with strong pattern recognition"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Legal statutes (Labor Code 3208)",
+            "Gaming mechanics (WoW)",
+            "Technical troubleshooting",
+            "Geographical trivia"
+        ],
+        "ad_interactions": {
+            "engagement_level": "Selective",
+            "preferred_ad_categories": [
+                "Legal tech tools",
+                "Footwear",
+                "Design software"
+            ]
+        },
+        "preferred_content_sources": [
+            "MerusCase",
+            "FindLaw",
+            "Reddit communities",
+            "WoWhead"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "LinkedIn (professional)",
+                "Reddit (anonymous)"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumer with occasional niche contributions"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Value-driven",
+            "product_categories": [
+                "Legal software subscriptions",
+                "Gaming peripherals",
+                "Specialty footwear"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop",
+            "os": "Windows 11",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "MerusCase Pro",
+            "WoW Monthly",
+            "Canva Pro"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Workers' comp case law",
+            "Legal tech automation",
+            "Medical-legal interfaces"
+        ],
+        "hobbies": [
+            "MMORPG gaming (WoW)",
+            "3D design",
+            "Urban exploration"
+        ],
+        "entertainment_preferences": {
+            "music": "Instrumental game soundtracks",
+            "movies": "Political thrillers",
+            "authors": "Brandon Sanderson (fantasy)"
+        },
+        "content_consumption": "Long-form legal analyses combined with quick gaming strategy guides",
+        "learning_style": "Self-directed research with structured documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurges on productivity tools",
+        "income_level": "$120,000-$140,000",
+        "investment_habits": "Conservative index funds",
+        "financial_tools": [
+            "Business credit cards",
+            "PayPal",
+            "QuickBooks"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Mentorship-focused with paralegals",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small group of gaming/legal peers",
+        "community_involvement": "Pro bono workers' rights clinics",
+        "online_vs_offline_engagement": "80% digital/20% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while reviewing case updates and WoW patch notes",
+        "workday_habits": "Block scheduling: 9AM-12PM client meetings, 1-5PM documentation",
+        "evening_and_leisure": "2 hours gaming, DIY home projects",
+        "weekend_activities": "Local hiking, gaming marathons, museum visits",
+        "sleep_schedule": "Night owl (1AM-8AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Ergonomic workstation focus, occasional gym visits",
+        "mental_health": "Stress management through gaming",
+        "work_life_balance": "Compartmentalized work hours",
+        "health_related_digital_behavior": "Occasional BMI/ergonomics research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with contingency planning",
+        "brand_loyalty": "Sticks with proven legal tech but experiments with gaming gear",
+        "influence_factors": "Peer recommendations in legal forums",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "High for client data, moderate personally"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Vietnamese cultural interest (dessert searches, language translations)",
+        "travel_habits": "Regional conferences with historical site visits",
+        "personal_projects": "Custom WoW UI mod development",
+        "unexpected_behavioral_traits": "Combines strict legal logic with fantasy RPG creativity"
+    }
+}

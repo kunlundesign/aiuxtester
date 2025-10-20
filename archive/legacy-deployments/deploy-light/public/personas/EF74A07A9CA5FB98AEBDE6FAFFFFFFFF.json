@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 35,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Wilmington, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of North Carolina Wilmington"
+        },
+        "occupation": "Small Business Owner/Manager",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, practical appearance",
+            "Dress Style": "Casual-chic with activewear influences"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Financial independence, family-oriented planning, technological pragmatism",
+        "motivations": "Business growth, family stability, creative expression through home design",
+        "cognitive_style": "Analytical problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Combines practical queries (QuickBooks login) with creative exploration (home decor trends)",
+        "ad_interactions": "High engagement with financial services, home decor, and family-oriented products",
+        "preferred_content_sources": "Industry-specific platforms (QuickBooks), retail sites (Amazon, Wayfair), financial news",
+        "social_media_usage": "Moderate use of YouTube for tutorials and Instagram for fashion inspiration",
+        "ecommerce_behavior": "Frequent mid-price purchases across fashion, home decor, and family needs",
+        "device_usage": "Desktop-focused for business management, mobile for quick shopping",
+        "subscriptions": "QuickBooks, Microsoft Office, Canva Pro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Financial management tools, retail industry trends, SMB communities",
+        "hobbies": "Home renovation projects, event planning, outdoor activities with family",
+        "entertainment_preferences": "Practical DIY content, family-friendly movies, business podcasts",
+        "content_consumption": "Balances quick how-to guides with in-depth market analysis articles",
+        "learning_style": "Self-directed learning through digital tutorials and industry forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with strategic splurges on durable goods",
+        "income_level": "$65,000-$85,000 annually",
+        "investment_habits": "Conservative with primary focus on home equity and retirement accounts",
+        "financial_tools": "QuickBooks for business, credit cards with rewards, online banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leadership style with clear delegation",
+        "family_structure": "Married with children (inferred from kid-focused searches)",
+        "friendship_circle": "Mix of professional contacts and neighborhood parents",
+        "community_involvement": "Local business networks, school activities",
+        "online_vs_offline_engagement": "Prefers in-person interactions but maintains strong digital presence for business"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks business emails and financial updates while preparing family breakfast",
+        "workday_habits": "Balances administrative tasks with client meetings and supply management",
+        "evening_and_leisure": "Family dinners followed by home improvement projects or online shopping",
+        "weekend_activities": "Local retail scouting, children's activities, home decoration projects",
+        "sleep_schedule": "Regular 11 PM - 6 AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Maintains active lifestyle through family outings, uses fitness tracking apps",
+        "mental_health": "Stress management through organizational systems and family time",
+        "work_life_balance": "Structured separation between business hours and family time",
+        "health_related_digital_behavior": "CPR certification research, occasional fitness apparel browsing"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with cost-benefit analysis",
+        "brand_loyalty": "Strong preference for verified business tools (QuickBooks) and durable apparel brands",
+        "influence_factors": "Professional reviews, product longevity, family needs",
+        "tech_adoption": "Early majority adopter focused on practical business applications",
+        "privacy_and_security_concerns": "Cautious with financial data but shares non-sensitive information for convenience"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Southern U.S. cultural influences",
+        "travel_habits": "Regional family trips, avoids international travel",
+        "personal_projects": "Home renovation documentation, small business blog",
+        "unexpected_behavioral_traits": "Combines analytical financial management with whimsical party planning aesthetics"
+    }
+}

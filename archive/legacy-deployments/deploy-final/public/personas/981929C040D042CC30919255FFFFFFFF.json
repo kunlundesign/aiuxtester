@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Miller",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Cedarburg, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Kinesiology",
+            "institution": "Local Community College"
+        },
+        "occupation": "Fitness Center Staff / Part-Time Barback",
+        "company": "Real Health and Fitness",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, neat",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual athleticwear (gym shorts, moisture-wicking shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Catholic faith, fitness as lifestyle, conservative political leanings",
+        "motivations": "Professional certification in fitness training, maintaining physical health",
+        "cognitive_style": "Structured thinking with practical application focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Fitness techniques (80%), Catholic practices (15%), bar equipment (5%)",
+        "ad_interactions": "Fitness gear (60%), cleaning supplies (30%), dietary supplements (10%)",
+        "preferred_content_sources": "Fox News, Mayo Clinic, Baseball-Reference, Catholic Answers",
+        "social_media_usage": "YouTube (fitness tutorials), Reddit (fitness communities), passive engagement",
+        "ecommerce_behavior": "Budget-conscious for personal items, business-related equipment research",
+        "device_usage": "Mobile-first (Gmail/Bing app usage patterns), Windows/Edge",
+        "subscriptions": "MindbodyOnline, PartnerOptumFitness, Fox News alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Fitness trends (2025 projections), gym management software",
+        "hobbies": "Weightlifting, baseball statistics analysis, ski equipment research",
+        "entertainment_preferences": "Sports news (Milwaukee Brewers), classic rock lyrics",
+        "content_consumption": "Factual guides (exercise techniques, sacramental preparation)",
+        "learning_style": "Hands-on practice complemented by industry certification courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious personal spending, business-critical purchases",
+        "income_level": "$25k-$35k (part-time roles)",
+        "investment_habits": "No current investments (focus on professional development)",
+        "financial_tools": "Traditional banking apps, employer health incentives programs"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team member in fitness center, detail-oriented bar support",
+        "family_structure": "Lives with parents/siblings (common in Midwest for 19yo)",
+        "friendship_circle": "Gym acquaintances, childhood friends, Catholic youth group",
+        "community_involvement": "Church activities, local baseball community engagement",
+        "online_vs_offline_engagement": "Offline-focused with selective digital tool usage"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Gym session before work, Fox News briefings",
+        "workday_habits": "Split shift between fitness center and bar equipment maintenance",
+        "evening_and_leisure": "Baseball stats analysis, Catholic prayer routines",
+        "weekend_activities": "Church attendance, Brewers games, family dinners",
+        "sleep_schedule": "Early riser (5:30 AM workouts)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Strict weightlifting regimen, tracks blood pressure",
+        "mental_health": "Faith-based coping mechanisms, structured routine",
+        "work_life_balance": "Highly scheduled with clear role separation",
+        "health_related_digital_behavior": "Mayo Clinic/WebMD symptom checks, fitness tracker research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (evidenced by comparison shopping for bar supplies)",
+        "brand_loyalty": "Sticks with proven fitness brands (Byrna, Rossignol)",
+        "influence_factors": "Industry certifications, Catholic teachings, sports analytics",
+        "tech_adoption": "Mainstream user focused on practical tools (Mindbody software)",
+        "privacy_and_security_concerns": "Moderate (uses multiple Google accounts)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American English, basic Spanish from service work",
+        "travel_habits": "Regional travel for baseball games, rare ski trips",
+        "personal_projects": "Developing gym member retention strategies",
+        "unexpected_behavioral_traits": "Combines analytical equipment maintenance with creative cocktail recipe research"
+    }
+}

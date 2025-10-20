@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 30,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Prairie, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Computer Science",
+            "institution": "University of Missouri"
+        },
+        "occupation": "IT Support Specialist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short fade with beard",
+            "skin_color": "Light brown",
+            "facial_features": "Rectangular glasses",
+            "dress_style": "Casual techwear (graphic tees, hoodies)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Low",
+            "neuroticism": "High"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology skepticism, men's rights advocacy, libertarian leanings",
+        "motivations": "Financial independence, technological mastery, escape from societal norms",
+        "cognitive_style": "Analytical pattern-seeker with speculative tendencies"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (AI/quantum computing), repetitive adult content searches, misspelled trading terms",
+        "ad_interactions": "High engagement with trading tools, musical equipment, and Instagram analytics services",
+        "preferred_content_sources": "Niche wikis (bg3.wiki), financial analysis platforms (TradingView), alt-tech forums (Incels.is)",
+        "social_media_usage": "YouTube (daily), Instagram (3-4x/week), Twitter/X (news monitoring)",
+        "ecommerce_behavior": "Mid-range tech purchases, occasional musical equipment splurges",
+        "device_usage": "Windows desktop primary, Android secondary (Edge browser with multiple profiles)",
+        "subscriptions": "YouTube Premium, TradingView Pro, Incels.is premium membership"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Quantum computing applications, algorithmic trading strategies",
+        "hobbies": "Modding RPG games, trap beat production, firearms simulation",
+        "entertainment_preferences": "Cyberpunk media (Anime/2077), experimental hip-hop (Death Grips), body horror films",
+        "content_consumption": "Technical white papers + shock content mix, 50/50 long-form vs meme formats",
+        "learning_style": "Autodidactic through wikis/forums, avoids structured courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Frugal daily living offset by periodic $500-$1k tech/music gear purchases",
+        "income_level": "$45k-$55k annually",
+        "investment_habits": "High-risk crypto day trading, occasional options plays",
+        "financial_tools": "Coinbase, Robinhood, Privacy.com masked cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Prefers solitary remote contracts, avoids team collaborations",
+        "family_structure": "Lives alone in studio apartment",
+        "friendship_circle": "Primarily online gaming/modding acquaintances",
+        "community_involvement": "Active Incels.is moderator, lurker in darknet markets",
+        "online_vs_offline_engagement": "95% digital interaction, meets IRL only for gear purchases"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks trading alerts > incel forums > YouTube analytics",
+        "workday_habits": "3-4 hour focused coding/trading blocks interspersed with gaming",
+        "evening_and_leisure": "Modding Baldur's Gate 3 characters, adult cam site browsing",
+        "weekend_activities": "Weapons research, testing AI voice clones, Thai language practice",
+        "sleep_schedule": "Night owl (2am-10am typical)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary lifestyle mitigated by VR fitness apps",
+        "mental_health": "Uses 4chan-style humor as coping mechanism, no professional help",
+        "work_life_balance": "Heavy screen time bleed (14+ hrs/day)",
+        "health_related_digital_behavior": "Researches nootropics, ignores conventional medical advice"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-obsessive yet vulnerable to conspiracy angles",
+        "brand_loyalty": "Microsoft ecosystem adherent, distrusts Apple/Google",
+        "influence_factors": "4chan-style crowd wisdom, contrarian YouTubers",
+        "tech_adoption": "Early adopter of AI tools, avoids mainstream social features",
+        "privacy_and_security_concerns": "Uses VPNs religiously but reuses passwords"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with basic Thai study",
+        "travel_habits": "Researching permanent Thailand relocation, rarely travels locally",
+        "personal_projects": "Developing AI girlfriend chatbot, firearms 3D-printing designs",
+        "unexpected_behavioral_traits": "Combines meticulous tech research with impulsive gore consumption"
+    }
+}

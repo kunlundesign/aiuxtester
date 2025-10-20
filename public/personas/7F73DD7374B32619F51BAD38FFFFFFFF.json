@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Bryan Carter",
+        "age": 34,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Stephenville, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Diesel Mechanics/Heavy Equipment Maintenance",
+            "institution": "Texas State Technical College"
+        },
+        "occupation": "Heavy Equipment Mechanic/Contractor",
+        "company": "Self-employed",
+        "physical_attributes": {
+            "height": "5'11\"",
+            "body_shape": "Athletic build",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Square jaw with work-related weathering",
+            "dress_style": "Work boots, cargo pants, and branded mechanic shirts"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Self-reliance, practical innovation, firearm rights",
+        "motivations": "Equipment ownership, financial independence through contracting work",
+        "cognitive_style": "Hands-on problem solver with strong technical diagnostics skills"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical specifications, auction listings, regulatory documents (Hood County CAD)",
+        "ad_interactions": "High engagement with industrial equipment/components ads",
+        "preferred_content_sources": "Proxibid auctions, machinery forums, manufacturer technical docs",
+        "social_media_usage": "Facebook Marketplace/Cowboy Truck groups (3-5x weekly)",
+        "ecommerce_behavior": "Bulk purchases of mechanical components (Amazon Business account)",
+        "device_usage": "Desktop-first (equipment research), Android mobile for field use",
+        "subscriptions": "Proxibid bidder, Ritchie Bros updates, NUMERALKOD technical resources"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Diesel engine innovations, waste management equipment auctions",
+        "hobbies": "Firearm maintenance, deer hunting, DIY truck modifications",
+        "entertainment_preferences": "Equipment restoration YouTube channels, country music",
+        "content_consumption": "Technical manuals (78%), auction catalogs (15%), political/news (7%)",
+        "learning_style": "Video tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven bulk purchases with 15+ domain-specific vendors",
+        "income_level": "$75k-$95k/year (contractor revenue)",
+        "investment_habits": "Equipment-as-investment focus (roll-off trucks/auction acquisitions)",
+        "financial_tools": "Business credit card (Amazon), Zoro.com commercial account"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with 5-7 repeat clients",
+        "family_structure": "Married with 2 children (implied by residential property searches)",
+        "friendship_circle": "Tight-knit hunting/mechanics peer group",
+        "community_involvement": "Local NRA chapter, volunteer fire department training",
+        "online_vs_offline_engagement": "70% offline (jobsites/hunting), 30% equipment forums"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check equipment auctions → coffee → jobsite dispatch",
+        "workday_habits": "Field repairs (AM), parts procurement/logistics (PM)",
+        "evening_and_leisure": "Firearm maintenance, auction bidding, local news",
+        "weekend_activities": "Hunting trips, equipment shows, family outdoor activities",
+        "sleep_schedule": "Night owl (equipment research until 11pm)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength training via labor, high-protein diet",
+        "mental_health": "Stress relief through mechanical tinkering",
+        "work_life_balance": "Work-integrated lifestyle (equipment at home)",
+        "health_related_digital_behavior": "Occasional OSHA compliance research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis with 3+ vendor quotes",
+        "brand_loyalty": "Sticky with Eaton/Spicer parts, open to alternatives when unavailable",
+        "influence_factors": "Peer mechanic recommendations, auction market trends",
+        "tech_adoption": "Late majority (proven industrial tech only)",
+        "privacy_and_security_concerns": "Low (prioritizes transaction efficiency)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Texan English with Spanish technical terms",
+        "travel_habits": "Regional for equipment auctions (TX/OK/LA)",
+        "personal_projects": "Vintage Mack truck restoration",
+        "unexpected_behavioral_traits": "Technically conservative mechanic who researches cutting-edge EV fire suppression"
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "Core Identity": {
+        "full_name": "Leilani Kekoa",
+        "age": 41,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Honolulu, Hawaii, USA",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Graphic Design",
+            "institution": "University of Hawaii System"
+        },
+        "occupation": "Freelance Graphic Designer",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length wavy hair",
+            "skin_color": "Medium",
+            "facial_features": "Warm smile with faint laugh lines",
+            "dress_style": "Casual with Hawaiian print accents"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": [
+            "Family-centric values",
+            "Environmental appreciation",
+            "Support for veteran services"
+        ],
+        "motivations": [
+            "Creative expression",
+            "Family well-being",
+            "Financial stability"
+        ],
+        "cognitive_style": "Practical problem-solver with artistic flair"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Travel planning",
+            "Graphic design tools",
+            "Health benefits",
+            "Creative DIY projects"
+        ],
+        "ad_interactions": [
+            "Custom apparel services",
+            "Health plans",
+            "E-commerce platforms"
+        ],
+        "preferred_content_sources": [
+            "Facebook Reels",
+            "MSN News",
+            "YouTube tutorials",
+            "Government portals"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Facebook",
+                "YouTube",
+                "Etsy"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive content consumption with active shopping"
+        },
+        "ecommerce_behavior": {
+            "spending": "Budget-conscious with strategic splurges",
+            "categories": [
+                "Craft supplies",
+                "Travel deals",
+                "Children's party items"
+            ]
+        },
+        "device_usage": "Desktop for design work, mobile for social browsing",
+        "subscriptions": [
+            "Adobe Creative Cloud",
+            "Hilton Grand Vacations",
+            "Active&Fit Direct"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Vector graphic creation",
+            "Brand identity design",
+            "Print-on-demand trends"
+        ],
+        "hobbies": [
+            "Landscape photography",
+            "Baking experimental recipes",
+            "Puzzle games"
+        ],
+        "entertainment_preferences": [
+            "Political news analysis",
+            "Travel documentaries",
+            "Retro pop music"
+        ],
+        "content_consumption": "Visual tutorials + news deep dives",
+        "learning_style": "Video tutorials + community forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven with occasional premium purchases",
+        "income_level": "$45,000-$60,000",
+        "investment_habits": "Conservative saver",
+        "financial_tools": [
+            "PayPal",
+            "Synchrony credit",
+            "VA benefits"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with client partnerships",
+        "family_structure": "Parent with school-age children",
+        "friendship_circle": "Close-knit local community",
+        "community_involvement": "Veteran family support networks",
+        "online_vs_offline_engagement": "Hybrid - virtual work + in-person family activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking MSN headlines, school prep",
+        "workday_habits": "Client projects interspersed with family care",
+        "evening_and_leisure": "Candy Crush sessions, recipe experimentation",
+        "weekend_activities": "Beach outings, farmers markets, photo shoots",
+        "sleep_schedule": "Early-to-bed routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active lifestyle through family activities",
+        "mental_health": "Puzzle gaming for stress relief",
+        "work_life_balance": "Fluid integration",
+        "health_related_digital_behavior": [
+            "VA healthcare portal usage",
+            "Chronic condition research"
+        ]
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with emotional validation",
+        "brand_loyalty": "Mix of trusted brands + new discoveries",
+        "influence_factors": [
+            "User reviews",
+            "Visual appeal",
+            "Cost-effectiveness"
+        ],
+        "tech_adoption": "Mainstream user with professional tool mastery",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Hawaiian cultural awareness, English fluency",
+        "travel_habits": "Domestic US trips with nature focus",
+        "personal_projects": "Family photography archive curation",
+        "unexpected_behavioral_traits": "Technical patent research (USPTO visits) juxtaposed with unicorn cookie baking"
+    }
+}

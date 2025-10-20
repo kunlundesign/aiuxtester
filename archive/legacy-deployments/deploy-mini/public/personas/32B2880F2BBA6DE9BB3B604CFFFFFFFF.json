@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Anderson",
+        "age": 66,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Maple Grove, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Home Economics or Practical Arts",
+            "institution": "Minnesota State Community College"
+        },
+        "occupation": "Retired (Previously Home Improvement Retail or Property Management)",
+        "company": "Unknown",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray bob",
+            "skin_color": "Fair",
+            "facial_features": "Wrinkles around eyes from frequent smiling",
+            "dress_style": "Casual practical wear (denim shirts, comfortable shoes)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, value-conscious spending, community loyalty",
+        "motivations": "Home maintenance/improvement, financial security, family comfort",
+        "cognitive_style": "Structured problem-solver with focus on tangible results"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical local searches (home goods, real estate, services)",
+        "ad_interactions": "High engagement with home improvement ads (clicked 6 grill-related ads)",
+        "preferred_content_sources": "Craigslist, Facebook Marketplace, retailer sites (Menards/Floor & Decor)",
+        "social_media_usage": "Passive Facebook use (Marketplace activity)",
+        "ecommerce_behavior": "Budget-focused (frequent Craigslist/Marketplace use)",
+        "device_usage": "Desktop-dominant (detailed home improvement research)",
+        "subscriptions": "Amazon Prime (multiple ad clicks), local news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Home renovation trends, property management",
+        "hobbies": "Grilling/BBQ, DIY home projects, RV/camping research",
+        "entertainment_preferences": "NFL news (Vikings/Packers coverage), cooking shows",
+        "content_consumption": "Practical how-to guides over entertainment",
+        "learning_style": "Hands-on experimentation with product research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused (frequent Craigslist/Marketplace use)",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (real estate interest via Zillow/Redfin)",
+        "financial_tools": "Traditional banking (Chase/Wells Fargo activity)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent problem-solver (extensive DIY research)",
+        "family_structure": "Likely empty nester (apartment/housing research)",
+        "friendship_circle": "Small local network (community-focused purchases)",
+        "community_involvement": "Local marketplace engagement",
+        "online_vs_offline_engagement": "Blended (online research for offline projects)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking local listings/news",
+        "workday_habits": "Project-focused home maintenance",
+        "evening_and_leisure": "NFL news reading, recipe research",
+        "weekend_activities": "Home improvement projects, RV/camping trips",
+        "sleep_schedule": "Early riser (aligned with retail store hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through home projects",
+        "mental_health": "Stable (routine-oriented lifestyle)",
+        "work_life_balance": "Relaxed retirement pace",
+        "health_related_digital_behavior": "MyChart medical portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (multiple product comparisons)",
+        "brand_loyalty": "Value-driven (switches for deals)",
+        "influence_factors": "User reviews, price comparisons",
+        "tech_adoption": "Mainstream user (avoids cutting-edge tech)",
+        "privacy_and_security_concerns": "Moderate (financial site usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English",
+        "travel_habits": "Regional trips (WI/MN RV parks/resorts)",
+        "personal_projects": "Bathroom renovation (vanity/shower research)",
+        "unexpected_behavioral_traits": "Retiree actively researching gaming PCs (Micro Center visit)"
+    }
+}

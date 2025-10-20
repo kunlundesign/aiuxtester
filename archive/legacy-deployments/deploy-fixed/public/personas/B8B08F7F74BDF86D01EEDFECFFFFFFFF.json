@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 41,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Springfield, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Public Administration",
+            "institution": "University of Oregon"
+        },
+        "occupation": "Federal Employee",
+        "company": "U.S. Department of Homeland Security",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, practical glasses",
+            "dress_style": "Casual-professional blend with outdoor-ready layers"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Government accountability, environmental stewardship, family-oriented community values",
+        "motivations": "Job stability, family security, outdoor recreation opportunities",
+        "cognitive_style": "Practical planner with strong organizational skills"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Travel planning (RV/camping), local services, federal benefits, word games",
+        "ad_interactions": "High engagement with vacation rentals (Airbnb/Vrbo), outdoor gear",
+        "preferred_content_sources": "Government portals (oregon.gov), weather services, Amazon, MSN News",
+        "social_media_usage": "Passive Facebook/Pinterest use for family updates and home decor ideas",
+        "ecommerce_behavior": "Frequent Amazon purchases (home goods, bags), price-conscious with Prime membership",
+        "device_usage": "Desktop for work/research, mobile for quick checks",
+        "subscriptions": "Amazon Prime, weather alerts, local event newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Federal workforce policies, emergency management systems",
+        "hobbies": "Skiing at Willamette Pass, word puzzles, DIY home organization",
+        "entertainment_preferences": "Local drive-in theaters, true crime documentaries, classic rock (iHeartRadio)",
+        "content_consumption": "Practical how-to guides, political news analysis, weather updates",
+        "learning_style": "Self-directed research through government resources and forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned purchases for family/home needs",
+        "income_level": "Middle-class government salary",
+        "investment_habits": "Conservative retirement planning through federal TSP",
+        "financial_tools": "Wells Fargo accounts, Amazon Prime credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player in structured government environment",
+        "family_structure": "Married with school-age children (Oakridge school district visits)",
+        "friendship_circle": "Close-knit community connections through school/local events",
+        "community_involvement": "Volunteers with outdoor conservation groups (Eugene Cascades Coast visits)",
+        "online_vs_offline_engagement": "Balances online research with active outdoor family activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks TripCheck/weather.gov for commute and family plans",
+        "workday_habits": "Structured schedule with federal benefit system navigation",
+        "evening_and_leisure": "Family movie nights, online shopping during downtime",
+        "weekend_activities": "Ski trips, RV camping, local restaurant outings",
+        "sleep_schedule": "Early riser aligned with school/work schedules"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active skier/hiker, monitors weather for outdoor safety",
+        "mental_health": "Stress relief through word puzzles and family activities",
+        "work_life_balance": "Strict separation between government work and family time",
+        "health_related_digital_behavior": "Relies on official .gov sites for health guidelines"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with multiple price comparisons",
+        "brand_loyalty": "Prefers established brands with verified reviews",
+        "influence_factors": "Family needs, product durability, official ratings",
+        "tech_adoption": "Mainstream user focused on practical applications",
+        "privacy_and_security_concerns": "Cautious with official .gov/.edu sources"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, Pacific Northwest cultural influences",
+        "travel_habits": "Regional explorer (Oregon/Idaho) with RV/camping focus",
+        "personal_projects": "Home organization systems, family photo archiving",
+        "unexpected_behavioral_traits": "Government analyst who enjoys escape room challenges"
+    }
+}

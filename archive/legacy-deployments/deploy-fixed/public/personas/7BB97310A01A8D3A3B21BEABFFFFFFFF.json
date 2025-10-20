@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Aylin Demir",
+        "age": 39,
+        "gender": "Female",
+        "nationality": "Turkish-American",
+        "current_residence": "Cheektowaga, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Graphic Design",
+            "institution": "Community College of Western New York"
+        },
+        "occupation": "Freelance Embroidery Designer & Etsy Shop Owner",
+        "company": "Digitape Designs",
+        "physical_attributes": {
+            "height": "165 cm",
+            "body_shape": "Average",
+            "hairstyle": "Medium-length straight brown hair",
+            "skin_color": "Olive",
+            "facial_features": "Round face with expressive brown eyes",
+            "dress_style": "Casual practical wear with occasional embroidered accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Cultural preservation, entrepreneurship empowerment, pragmatic problem-solving",
+        "motivations": "Business growth, family security, creative expression",
+        "cognitive_style": "Detail-oriented with systematic execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision queries for embroidery tech + Turkish cultural topics",
+        "ad_interactions": "High engagement with craft supplies/tech deals",
+        "preferred_content_sources": "Etsy Seller Handbook, BeIN Sports TR, USCIS guides",
+        "social_media_usage": "Passive Instagram browsing, active Etsy community participation",
+        "ecommerce_behavior": "Business-focused purchases with occasional family necessities",
+        "device_usage": "Windows desktop + iOS mobile, Edge browser",
+        "subscriptions": "Etsy Plus, Adobe Creative Cloud, BeIN Sports streaming"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Embroidery automation, small business taxation, textile trends",
+        "hobbies": "Turkish cooking, historical research, football fandom",
+        "entertainment_preferences": "Turkish dramas, true crime podcasts, classic rock",
+        "content_consumption": "Tutorial videos + government documentation",
+        "learning_style": "YouTube tutorials paired with hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven business investments, frugal personal spending",
+        "income_level": "$45k-$60k annually",
+        "investment_habits": "Conservative equipment upgrades over speculative ventures",
+        "financial_tools": "PayPal Business, Citizens Bank checking, USPS Click-N-Ship"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with structured client communication",
+        "family_structure": "Married with school-age children",
+        "friendship_circle": "Close-knit immigrant community ties",
+        "community_involvement": "Local Turkish cultural association",
+        "online_vs_offline_engagement": "Hybrid model favoring digital business interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Yahoo Mail check > order fulfillment > kids' school prep",
+        "workday_habits": "Batch processing: mornings for production, afternoons for client comms",
+        "evening_and_leisure": "Family dinner > MSN news > embroidery design work",
+        "weekend_activities": "Süper Lig matches > farmers market > shipping prep",
+        "sleep_schedule": "Regular 11PM-6AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Ergonomic workspace setup, occasional neck stretches",
+        "mental_health": "Stress relief through creative work",
+        "work_life_balance": "Blurred boundaries with scheduled family time",
+        "health_related_digital_behavior": "Occasional multivitamin research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis with vendor reputation checks",
+        "brand_loyalty": "Stick with proven embroidery suppliers",
+        "influence_factors": "Peer reviews in niche forums + official certifications",
+        "tech_adoption": "Early mainstream adopter for business tools",
+        "privacy_and_security_concerns": "Basic precautions for financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual Turkish/English, Anatolian heritage",
+        "travel_habits": "Biennial family trips to Turkey",
+        "personal_projects": "Ottoman embroidery patterns archive digitization",
+        "unexpected_behavioral_traits": "Combines technical machine expertise with historical textile artistry"
+    }
+}

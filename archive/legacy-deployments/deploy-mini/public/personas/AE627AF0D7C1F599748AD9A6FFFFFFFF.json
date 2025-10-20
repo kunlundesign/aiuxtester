@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Thompson",
+        "age": 53,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Winter Haven, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Polk State College"
+        },
+        "occupation": "Freelance Delivery Driver",
+        "company": "Uber Eats",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven with smile lines",
+            "Dress Style": "Casual Floridian attire (graphic tees, shorts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, appreciation for storytelling as cultural preservation",
+        "motivations": "Maintaining flexible employment, preserving Disney vacation traditions, vehicle customization",
+        "cognitive_style": "Hands-on problem solver who values tangible results"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed vehicle part queries, Disney resort logistics, local service providers",
+        "ad_interactions": "High engagement with automotive/Disney ads, medium retail responsiveness",
+        "preferred_content_sources": "YouTube tutorials, MSN news, Disney official platforms",
+        "social_media_usage": "Passive YouTube consumption, occasional Reddit browsing",
+        "ecommerce_behavior": "Mid-range automotive purchases, budget-conscious grocery orders",
+        "device_usage": "Android smartphone for quick searches, Windows desktop for detailed research",
+        "subscriptions": "Disney+, YouTube Premium, Florida Blue health alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Gig economy trends, automotive repair techniques",
+        "hobbies": "Truck customization, boxing news analysis, Disney park planning",
+        "entertainment_preferences": "Sci-fi/fantasy films, historical documentaries",
+        "content_consumption": "Mix of practical tutorials and escapist entertainment",
+        "learning_style": "Video tutorials combined with hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven for essentials, strategic splurges on Disney/auto hobbies",
+        "income_level": "$35k-$45k annually",
+        "investment_habits": "Conservative with vacation club points as primary 'investment'",
+        "financial_tools": "Disney Vacation Club financing, Walmart+ membership"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor preferring minimal supervision",
+        "family_structure": "Likely single or empty-nester based on Disney adult-focused travel",
+        "friendship_circle": "Small group of automotive/Disney enthusiast friends",
+        "community_involvement": "Local car meetups, Disney fan forums",
+        "online_vs_offline_engagement": "Balanced mix with COVID-era health awareness"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/route optimization apps with coffee",
+        "workday_habits": "Flexible delivery shifts with podcast listening",
+        "evening_and_leisure": "YouTube DIY videos, Disney trip planning",
+        "weekend_activities": "Car maintenance, boxing match viewings",
+        "sleep_schedule": "Night owl with late movie watching"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sporadic walking exercise through delivery work",
+        "mental_health": "Uses automotive projects as stress relief",
+        "work_life_balance": "Blurs leisure/work through gig economy flexibility",
+        "health_related_digital_behavior": "Vaccination tracking, insurance portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive for major purchases",
+        "brand_loyalty": "Strong to Disney/Ford, flexible elsewhere",
+        "influence_factors": "User reviews, historical track records",
+        "tech_adoption": "Mainstream adopter favoring proven tools",
+        "privacy_and_security_concerns": "Basic precautions for financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English with theme park culture familiarity",
+        "travel_habits": "Frequent Disney destination traveler",
+        "personal_projects": "Ford F-150 restoration, Disney memorabilia collection",
+        "unexpected_behavioral_traits": "Combines blue-collar practicality with fantasy fandom immersion"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 32,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Pittsburgh, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Construction Management",
+            "institution": "Pennsylvania State University"
+        },
+        "occupation": "Construction Project Manager",
+        "company": "Riverview Block",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brown hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, practical appearance",
+            "Dress Style": "Business casual (blouses, slacks) for office; rugged wear for site visits"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Sustainability in construction, technological efficiency",
+        "motivations": "Professional competence, work-life balance, family well-being",
+        "cognitive_style": "Analytical problem-solver with structured execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical queries (concrete calculations, payroll setup), project management tools, local traffic data",
+        "ad_interactions": "High engagement with construction equipment ads (Ritchie Bros), home improvement (Home Depot)",
+        "preferred_content_sources": "Construction Journal, Bizapedia, LinkedIn, CNN",
+        "social_media_usage": "Facebook (personal), LinkedIn (professional) - passive engagement",
+        "ecommerce_behavior": "Bulk purchases for construction materials, budget-conscious",
+        "device_usage": "Desktop (80%) for document management; mobile (20%) for maps/on-site checks",
+        "subscriptions": "Microsoft 365, LinkedIn Learning, Construction Journal digital access"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Concrete technology trends, workforce management software",
+        "hobbies": "Landscape gardening, experimental cooking, home renovation projects",
+        "entertainment_preferences": "True crime podcasts, home improvement shows, classic rock",
+        "content_consumption": "Technical manuals (70%), news articles (30%)",
+        "learning_style": "On-the-job training supplemented by structured online courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Business: Bulk material purchases; Personal: Value-oriented family expenses",
+        "income_level": "$85,000-$95,000 annually",
+        "investment_habits": "Conservative (401k, company stock options)",
+        "financial_tools": "Corporate credit cards, QuickBooks Online, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Authoritative but collaborative leadership style",
+        "family_structure": "Married with 2 children (Disney World searches)",
+        "friendship_circle": "Small close-knit group from college/work",
+        "community_involvement": "Local business networking groups",
+        "online_vs_offline_engagement": "Prefers in-person site meetings but uses digital tools for coordination"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks PA511 traffic cams, reviews project emails",
+        "workday_habits": "Split between office (budgeting/permits) and construction sites",
+        "evening_and_leisure": "Family dinner preparation, garden maintenance",
+        "weekend_activities": "Home improvement projects, children's sports events",
+        "sleep_schedule": "11 PM - 6 AM (Night owl tendencies mitigated by work schedule)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (site walks), occasional back pain from desk work",
+        "mental_health": "Stress managed through cooking/gardening hobbies",
+        "work_life_balance": "Strict 7 AM-5 PM work hours except critical project phases",
+        "health_related_digital_behavior": "MyGeisinger portal usage, WebMD symptom checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (material cost comparisons, traffic pattern analysis)",
+        "brand_loyalty": "Sticks with verified vendors (Home Depot, Sysdyne Technologies)",
+        "influence_factors": "Industry certifications, peer recommendations",
+        "tech_adoption": "Early majority adopter (implements proven construction tech)",
+        "privacy_and_security_concerns": "Moderate (uses VPN for payroll systems)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Pennsylvania Dutch cultural influences",
+        "travel_habits": "Regional travel for construction sites; annual family vacation to theme parks",
+        "personal_projects": "Backyard xeriscaping, smart home automation experiments",
+        "unexpected_behavioral_traits": "Technical project manager who hand-crafts furniture"
+    }
+}

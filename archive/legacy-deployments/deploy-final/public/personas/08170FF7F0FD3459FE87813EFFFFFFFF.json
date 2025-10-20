@@ -1,0 +1,105 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 35,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Roanoke, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "Virginia Tech"
+        },
+        "occupation": "IT Systems Analyst",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, neat cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Casual techwear (graphic tees, hoodies)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology optimism, merit-based achievement",
+        "motivations": "Mastery of complex systems, financial stability",
+        "cognitive_style": "Analytical problem-solver with tactical thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep-dive technical queries (RS3 boss strategies), cross-referencing multiple gaming resources",
+        "ad_interactions": "Moderate engagement with home improvement and sports equipment ads",
+        "preferred_content_sources": "RuneScape Wiki, Reddit communities, MSN NFL coverage",
+        "social_media_usage": {
+            "platforms": [
+                "Reddit",
+                "Facebook"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumption with occasional forum participation"
+        },
+        "ecommerce_behavior": "Budget-conscious tech purchases, frequent Amazon Prime user",
+        "device_usage": "Windows desktop primary, Edge browser",
+        "subscriptions": [
+            "Amazon Prime",
+            "RuneScape membership"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Game mechanics optimization, MMORPG economy systems",
+        "hobbies": "RuneScape end-game content, NBA statistics analysis, DIY home projects",
+        "entertainment_preferences": "Sports commentary podcasts, fantasy NFL leagues",
+        "content_consumption": "Detailed strategy guides over video tutorials",
+        "learning_style": "Self-directed experimentation with community knowledge sharing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented big purchases (home), microtransactions in gaming",
+        "income_level": "$85,000-$95,000",
+        "investment_habits": "Conservative 401(k) contributions",
+        "financial_tools": [
+            "Credit cards",
+            "PayPal"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor with team coordination via digital tools",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Tight-knit gaming clan members",
+        "community_involvement": "RS3 clan leadership role",
+        "online_vs_offline_engagement": "80% online, 20% local sports events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking sports news and RS3 updates",
+        "workday_habits": "Structured task blocks with gaming breaks",
+        "evening_and_leisure": "3-4 hours of RS3 boss fights and clan events",
+        "weekend_activities": "Home improvement projects, NFL analysis",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional basketball shooting practice, ergonomic setup",
+        "mental_health": "Gaming as stress relief, no indicated disorders",
+        "work_life_balance": "Blurred boundaries due to freelance/fun overlap",
+        "health_related_digital_behavior": "Occasional fitness tracker use"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with calculated risks",
+        "brand_loyalty": "Strong to Amazon/RS3, price-sensitive elsewhere",
+        "influence_factors": "Community consensus and empirical evidence",
+        "tech_adoption": "Mainstream user with enthusiast tendencies",
+        "privacy_and_security_concerns": "Basic precautions taken"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southern US cultural influences",
+        "travel_habits": "Regional trips for sports events",
+        "personal_projects": "Building modular home office, RS3 achievement hunting",
+        "unexpected_behavioral_traits": "Combines analytical IT work with creative gaming strategies"
+    }
+}

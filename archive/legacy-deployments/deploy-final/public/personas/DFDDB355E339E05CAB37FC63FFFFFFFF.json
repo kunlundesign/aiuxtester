@@ -1,0 +1,132 @@
+{
+    "Core Identity": {
+        "full_name": "Michael John Scott",
+        "age": 46,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Pembroke Pines, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Florida State College"
+        },
+        "occupation": "Office Support Specialist",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, neat",
+            "Skin color": "Light",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Business casual"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Fiscal conservatism",
+            "Technological optimism"
+        ],
+        "motivations": [
+            "Career stability",
+            "Homeownership",
+            "Financial security"
+        ],
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Real estate market analysis",
+            "Technical troubleshooting",
+            "Government services"
+        ],
+        "ad_interactions": [
+            "Medium engagement",
+            "Real estate, local events, financial services"
+        ],
+        "preferred_content_sources": [
+            "MSN News",
+            "Realtor.com",
+            "Government portals"
+        ],
+        "social_media_usage": [
+            "Passive news consumption",
+            "Limited personal engagement"
+        ],
+        "ecommerce_behavior": [
+            "Budget-conscious tech accessories",
+            "Home essentials"
+        ],
+        "device_usage": "Desktop (Windows) with Edge browser",
+        "subscriptions": [
+            "Grammarly Premium",
+            "Microsoft 365"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Office management systems",
+            "AI productivity tools"
+        ],
+        "hobbies": [
+            "Car maintenance",
+            "Local art festivals",
+            "F45 gym training"
+        ],
+        "entertainment_preferences": [
+            "Political commentary",
+            "Sports analytics"
+        ],
+        "content_consumption": "Fact-based long-form articles",
+        "learning_style": "Self-guided technical tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with strategic investments",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative (real estate interest)",
+        "financial_tools": [
+            "Conventional banking",
+            "Federal loan services"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with team coordination skills",
+        "family_structure": "Single with local familial connections",
+        "friendship_circle": "Small group of long-term associates",
+        "community_involvement": "Local cultural events attendee",
+        "online_vs_offline_engagement": "Balanced digital/IRL interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email review, job search applications",
+        "workday_habits": "Task-oriented scheduling",
+        "evening_and_leisure": "News consumption, property research",
+        "weekend_activities": "Car maintenance, open house visits",
+        "sleep_schedule": "Regular 11PM-6AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Gym 3x/week, basic nutritional awareness",
+        "mental_health": "Routine-based stress management",
+        "work_life_balance": "Structured separation",
+        "health_related_digital_behavior": "Minimal engagement beyond basic tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with historical data",
+        "brand_loyalty": "Established tech/services providers",
+        "influence_factors": "Government sources, verified reviews",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Colombian travel interest",
+        "travel_habits": "Domestic-focused with occasional international exploration",
+        "personal_projects": "Homeownership preparation",
+        "unexpected_behavioral_traits": "Combines technical pragmatism with art festival attendance"
+    }
+}

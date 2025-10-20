@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Benjamin Cohen",
+        "age": 54,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Duluth, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Education",
+            "institution": "University of Georgia"
+        },
+        "occupation": "High School Teacher",
+        "company": "Northview High School",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, salt-and-pepper",
+            "skin_color": "Fair",
+            "facial_features": "Rectangular glasses, clean-shaven",
+            "dress_style": "Business casual (button-down shirts, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Social justice through education, Jewish cultural preservation, community service",
+        "motivations": "Student success, family bonding through travel, lifelong learning",
+        "cognitive_style": "Structured planner with creative problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex multi-phase searches (e.g., vacation rentals + amenities comparisons)",
+        "ad_interactions": "High engagement with travel and educational resource ads",
+        "preferred_content_sources": "Wikihow, SuperTeacherWorksheets, Jewish educational portals, MSN news",
+        "social_media_usage": "Facebook for community updates, YouTube for educational content",
+        "ecommerce_behavior": "Strategic purchases (home improvement, educational tools)",
+        "device_usage": "Windows/Edge desktop primary, iPhone secondary",
+        "subscriptions": "Costco Same-Day, Teachers Pay Teachers, Jewish learning platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Educational technology integration, curriculum development",
+        "hobbies": "College baseball spectating, recipe experimentation, beach vacations",
+        "entertainment_preferences": "Political commentary podcasts, historical documentaries",
+        "content_consumption": "Detailed how-to guides (Google Docs workflows, Purim lesson planning)",
+        "learning_style": "Project-based learning with peer collaboration"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (waits for sales on major purchases)",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Moderate-risk (education-focused 529 plans)",
+        "financial_tools": "Bank of America checking, Amazon Prime card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Department team leader, mentorship-focused",
+        "family_structure": "Married with high school/college-age children",
+        "friendship_circle": "Synagogue members, educator colleagues",
+        "community_involvement": "Jewish cultural education volunteer",
+        "online_vs_offline_engagement": "Hybrid (virtual lesson planning, in-person community events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage → news scan → school prep",
+        "workday_habits": "Block scheduling (classes → meetings → grading)",
+        "evening_and_leisure": "Family dinners, UGA game replays, recipe testing",
+        "weekend_activities": "Home improvement projects, synagogue events",
+        "sleep_schedule": "10:30 PM - 6:00 AM (consistent weekday rhythm)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily walks, conscious sodium reduction",
+        "mental_health": "Stress management through cooking/hobbies",
+        "work_life_balance": "Compartmentalized work boundaries",
+        "health_related_digital_behavior": "AllTrails for outdoor activities"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analyzer (multiple vacation rental comparisons)",
+        "brand_loyalty": "Stick with proven services (Brett-Robinson vacations)",
+        "influence_factors": "Peer recommendations + verified reviews",
+        "tech_adoption": "Mainstream adopter (waits for v2 releases)",
+        "privacy_and_security_concerns": "Selective data sharing (avoids social media oversharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English/Hebrew bilingual, Ashkenazi traditions",
+        "travel_habits": "Southeastern US beach destinations (3-4 annual trips)",
+        "personal_projects": "Developing Jewish holiday lesson plan repository",
+        "unexpected_behavioral_traits": "Tech-savvy educator maintaining AOL email legacy"
+    }
+}

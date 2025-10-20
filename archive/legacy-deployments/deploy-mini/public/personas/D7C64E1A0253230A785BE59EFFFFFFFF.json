@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Martinez",
+        "age": 21,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Stockton, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Agricultural Science/Business",
+            "institution": "San Joaquin Delta College"
+        },
+        "occupation": "Part-time Farmhand/Poultry Keeper",
+        "company": "Local Stockton Agricultural Cooperative",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Lean",
+            "Hairstyle": "Short fade",
+            "Skin color": "Olive",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual workwear (flannels, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Self-reliance, fiscal conservatism, environmental stewardship",
+        "motivations": "Financial independence, skill development in agriculture, health management",
+        "cognitive_style": "Fact-based analysis with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (medical/financial) + practical agriculture how-tos",
+        "ad_interactions": "High engagement with health/finance/travel ads",
+        "preferred_content_sources": "Medical journals (Mayo Clinic), financial markets data, agricultural forums",
+        "social_media_usage": "YouTube (educational content), limited other platforms",
+        "ecommerce_behavior": "Price-sensitive tech/health purchases",
+        "device_usage": "Desktop (Edge browser) for research, mobile for quick checks",
+        "subscriptions": "Stock market alerts, Backyard Poultry magazine digital edition"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Sustainable agriculture, investment strategies",
+        "hobbies": "Backyard chicken keeping, military tech history, amateur meteorology",
+        "entertainment_preferences": "Documentaries (space/tech), classic animated films",
+        "content_consumption": "Data-driven long-form articles with visual aids",
+        "learning_style": "Self-directed research through forums/FAQs"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with strategic investments in tools/health",
+        "income_level": "$25k-$35k annually",
+        "investment_habits": "Conservative index fund participation",
+        "financial_tools": "High-yield savings accounts, basic credit building cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused collaborator in agricultural teams",
+        "family_structure": "Lives with parents/siblings in suburban home",
+        "friendship_circle": "Small group of agricultural/tech enthusiasts",
+        "community_involvement": "Local 4-H Club mentor",
+        "online_vs_offline_engagement": "80% online research/20% in-person farm work"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/market data, tends to poultry",
+        "workday_habits": "Balances physical farm work with financial research breaks",
+        "evening_and_leisure": "YouTube tech/agriculture tutorials, light gaming",
+        "weekend_activities": "Farmers market visits, equipment maintenance",
+        "sleep_schedule": "10 PM - 6 AM regular cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active farm work regimen, pescatarian diet",
+        "mental_health": "Problem-focused coping through research",
+        "work_life_balance": "Structured separation via physical/mental task switching",
+        "health_related_digital_behavior": "Proactive hearing health monitoring, clinical research validation"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis across 3+ verified sources",
+        "brand_loyalty": "Value-driven switcher except for agricultural tools",
+        "influence_factors": "Expert reviews > social proof",
+        "tech_adoption": "Mainstream user with selective early adoption (farming tech)",
+        "privacy_and_security_concerns": "Basic precautions without paranoia"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Spanish (Recárgame portal use)",
+        "travel_habits": "Regional road trips (CA/OR), Quebec research suggests future plans",
+        "personal_projects": "Automated coop system development, stock tracking spreadsheet",
+        "unexpected_behavioral_traits": "Military tech enthusiast maintaining pacifist worldview"
+    }
+}

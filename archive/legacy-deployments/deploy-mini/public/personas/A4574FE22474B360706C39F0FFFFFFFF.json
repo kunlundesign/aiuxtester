@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 31,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Southport, Florida, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Physical Education or Elementary Education",
+            "institution": "Florida State University"
+        },
+        "occupation": "Elementary School PE Teacher",
+        "company": "Bay District Schools",
+        "physical_attributes": {
+            "height": "unknown",
+            "body_shape": "unknown",
+            "hairstyle": "unknown",
+            "skin_color": "unknown",
+            "facial_features": "unknown",
+            "dress_style": "Casual athletic wear (frequent PE class sessions)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESFJ",
+        "beliefs_and_values": "Strong belief in education equity, skepticism about political interference in public institutions",
+        "motivations": "Student development, workplace safety, maintaining professional standards",
+        "cognitive_style": "Structured planner with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Education resources (75%), legal/administrative queries (15%), home security/tech (10%)",
+        "ad_interactions": "High engagement with educational tools, moderate with fitness equipment and legal services",
+        "preferred_content_sources": "Educational portals (PE Central), government sites (Bay County Clerk), MSN news",
+        "social_media_usage": "Limited: YouTube for instructional videos, Reddit for specific queries",
+        "ecommerce_behavior": "Budget-conscious for school supplies, occasional fitness equipment interest",
+        "device_usage": "Desktop dominance (school/work computer), Edge browser",
+        "subscriptions": "Planbook Plus, Bay District Schools portals, MSN News alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "PE curriculum development, school safety programs, teacher evaluation systems",
+        "hobbies": "Basketball coaching, genealogy research, home security tech",
+        "entertainment_preferences": "Sports news, political satire (SNL skits), space technology updates",
+        "content_consumption": "Policy documents > News articles > Instructional PDFs",
+        "learning_style": "Peer collaboration (evident from email threads) + structured lesson templates"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for personal items, institution-funded educational resources",
+        "income_level": "$45,000-$55,000 (Florida public school teacher average)",
+        "investment_habits": "Conservative (multiple insurance comparisons)",
+        "financial_tools": "Traditional banking, employer health plans (MyHealthOne)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative (frequent planbook sharing), union-aware (OJCC case searches)",
+        "family_structure": "Likely single (no familial references in behavioral data)",
+        "friendship_circle": "Professional peers dominate (school email patterns)",
+        "community_involvement": "School sports programs (basketball camp emails)",
+        "online_vs_offline_engagement": "Professional online activity, limited personal social media"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage (30k+ school emails), lesson plan review",
+        "workday_habits": "Split between classroom instruction and administrative tasks",
+        "evening_and_leisure": "News consumption (MSN political updates), genealogy research",
+        "weekend_activities": "School sports events, home security maintenance (Ring camera usage)",
+        "sleep_schedule": "Early riser (aligned with school schedule)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active (PE teaching), recumbent bike research for low-impact exercise",
+        "mental_health": "Stress management through structured planning (lesson templates)",
+        "work_life_balance": "Work-leaning (high email volume), weekend recovery periods",
+        "health_related_digital_behavior": "MyHealthOne portal usage, GoodRx price comparisons"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based (multiple source verification in legal/education queries)",
+        "brand_loyalty": "Institutional compliance (district-mandated tools) over personal preference",
+        "influence_factors": "Union guidelines, peer recommendations, official documentation",
+        "tech_adoption": "Mainstream user (adopts district-approved tech like Planbook)",
+        "privacy_and_security_concerns": "Moderate (Ring camera usage vs high institutional data exposure)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Florida coastal community norms",
+        "travel_habits": "Local focus (Panama City references), no leisure travel signals",
+        "personal_projects": "Family history research (Ancestry.com activity)",
+        "unexpected_behavioral_traits": "Combines strict institutional compliance with skepticism of political leadership (contradictory Trump administration engagement)"
+    }
+}

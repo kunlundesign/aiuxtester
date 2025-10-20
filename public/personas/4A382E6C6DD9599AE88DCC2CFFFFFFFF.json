@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Chen",
+        "age": 27,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "New York, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Nursing",
+            "institution": "Hunter College"
+        },
+        "occupation": "Registered Nurse",
+        "company": "NewYork-Presbyterian Hospital",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Athletic",
+            "Hairstyle": "Shoulder-length straight hair",
+            "Skin_color": "Medium",
+            "Facial_features": "Minimal makeup with emphasis on skincare",
+            "Dress_Style": "Casual-chic with scrubs during workdays"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESFJ",
+        "beliefs_and_values": "Health consciousness, work-life balance, practical sustainability",
+        "motivations": "Professional development in healthcare, maintaining family well-being, curated self-care",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Skincare research, family travel planning, luxury fashion trends",
+        "ad_interactions": "High engagement with footwear, skincare, and jewelry ads",
+        "preferred_content_sources": "MSN News, Women's Health, brand websites (Cettire, FIGS)",
+        "social_media_usage": "Instagram (fashion inspiration), Pinterest (family activities), YouTube (product reviews)",
+        "ecommerce_behavior": "Mid-to-high spending on quality essentials with occasional luxury splurges",
+        "device_usage": "Mobile-first user (iOS) with Edge browser for shopping",
+        "subscriptions": "Amazon Prime, Costco membership, MSN Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Medical equipment innovations, healthcare policy updates",
+        "hobbies": "Hiking with family, skincare regimen curation, luxury fashion browsing",
+        "entertainment_preferences": "NBA games, true crime podcasts, reality TV",
+        "content_consumption": "Product comparison articles, dermatologist-approved guides",
+        "learning_style": "Video tutorials for skincare techniques, professional webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented luxury (quality over quantity), planned purchases",
+        "income_level": "$85,000-$95,000",
+        "investment_habits": "Conservative (401k focus), some ESG fund interest",
+        "financial_tools": "Citi credit cards, Amazon Pay, automatic bill payments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented with mentorship tendencies",
+        "family_structure": "Married with one toddler",
+        "friendship_circle": "Mix of healthcare colleagues and mom groups",
+        "community_involvement": "Local parenting networks, hospital volunteer events",
+        "online_vs_offline_engagement": "Online research supplemented with in-person family activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Skincare regimen, MSN news check, toddler preparation",
+        "workday_habits": "12-hour hospital shifts with meal prepping",
+        "evening_and_leisure": "Online shopping during downtime, family TV time",
+        "weekend_activities": "Central Park visits, sample sales browsing",
+        "sleep_schedule": "Early riser (5:30 AM) with 7-hour sleep average"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily 30-minute home workouts, balanced diet with Costco bulk buys",
+        "mental_health": "Aromatherapy use, weekend nature outings",
+        "work_life_balance": "Strict separation of work devices/personal phone",
+        "health_related_digital_behavior": "Fitness tracker syncing, medical supply restock alerts"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with dermatologist/peer recommendations",
+        "brand_loyalty": "Established trust in FIGS scrubs, New Balance, and CeraVe",
+        "influence_factors": "Professional endorsements, verified purchase reviews",
+        "tech_adoption": "Mainstream user with healthcare-specific tech interest",
+        "privacy_and_security_concerns": "Cautious sharing of medical data, standard social media settings"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Second-generation Chinese-American, fluent English/Mandarin",
+        "travel_habits": "Annual family trips to nature destinations (e.g., Iceland research)",
+        "personal_projects": "Curating minimalist mom wardrobe, sunscreen testing blog",
+        "unexpected_behavioral_traits": "NBA enthusiast with detailed team trade knowledge"
+    }
+}

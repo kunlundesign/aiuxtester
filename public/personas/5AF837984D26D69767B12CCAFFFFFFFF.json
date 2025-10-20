@@ -1,0 +1,133 @@
+{
+    "Core Identity": {
+        "full_name": "Liam Carter",
+        "age": 21,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Manhattan, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Hospitality Management",
+            "institution": "Local Community College"
+        },
+        "occupation": "Part-Time Restaurant Staff",
+        "company": "Local Diner",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Slim",
+            "Hairstyle": "Short, messy",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual (graphic tees, hoodies)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": [
+            "Technology optimism",
+            "Creative expression"
+        ],
+        "motivations": [
+            "Career advancement",
+            "Creative fulfillment"
+        ],
+        "cognitive_style": "Analytical with creative problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Gaming strategies",
+            "AI tools",
+            "Streaming content analysis"
+        ],
+        "ad_interactions": "Medium engagement (career tools, pet-related ads)",
+        "preferred_content_sources": [
+            "Roblox Dev Forum",
+            "Wikipedia",
+            "MSN News"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "Discord",
+                "Facebook",
+                "Twitter"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumer"
+        },
+        "ecommerce_behavior": "Budget-conscious (Temu, Rent-A-Center)",
+        "device_usage": "Desktop (Windows/Edge)",
+        "subscriptions": [
+            "Hulu",
+            "Paramount+",
+            "Spotify"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Restaurant POS systems",
+            "Roblox game development"
+        ],
+        "hobbies": [
+            "GTA V modding",
+            "Anime fan art creation"
+        ],
+        "entertainment_preferences": [
+            "Streaming thriller series",
+            "Retro video game music"
+        ],
+        "content_consumption": "Mixed (long-form tutorials + short gameplay videos)",
+        "learning_style": "Self-directed through YouTube tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with occasional gaming splurges",
+        "income_level": "$15k-$25k/year",
+        "investment_habits": "Conservative",
+        "financial_tools": [
+            "Cash App",
+            "Prepaid debit cards"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team player in service roles",
+        "family_structure": "Shares apartment with roommate",
+        "friendship_circle": "Online gaming community friends",
+        "community_involvement": "Roblox roleplay groups",
+        "online_vs_offline_engagement": "80% online interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN political news with breakfast",
+        "workday_habits": "Evening shifts with mobile gaming breaks",
+        "evening_and_leisure": "Roblox development + anime streaming",
+        "weekend_activities": "Gaming marathons, fast food trials",
+        "sleep_schedule": "Night owl (2AM-10AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Irregular workouts, fast food diet",
+        "mental_health": "Games for stress relief",
+        "work_life_balance": "Leans toward workaholic for side projects",
+        "health_related_digital_behavior": "Symptom searches (ear infections)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for tech, impulsive in gaming",
+        "brand_loyalty": "Seeks discounts over brands",
+        "influence_factors": "User reviews, creator endorsements",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Low (multiple free service accounts)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwest English, anime-influenced aesthetics",
+        "travel_habits": "Virtual travel through gaming worlds",
+        "personal_projects": [
+            "Roblox police RP server",
+            "AI-generated poetry blog"
+        ],
+        "unexpected_behavioral_traits": "Analyzes political news despite low real-world engagement"
+    }
+}

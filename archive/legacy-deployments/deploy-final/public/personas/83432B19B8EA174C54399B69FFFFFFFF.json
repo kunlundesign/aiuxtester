@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jacob Mitchell",
+        "age": 33,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Midvale, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Utah Valley University"
+        },
+        "occupation": "Automotive Technician",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short cropped",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual workwear with mechanic's jacket"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technological pragmatism, DIY ethic, fiscal responsibility",
+        "motivations": "Mastery of mechanical systems, financial independence through side projects",
+        "cognitive_style": "Hands-on problem solver with strong spatial reasoning"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical automotive queries (35%), jewelry research (20%), government services (15%)",
+        "ad_interactions": "High engagement with vintage car parts/accessories (60% of clicks)",
+        "preferred_content_sources": "eBay tutorials, YouTube mechanic channels, government portals",
+        "social_media_usage": "YouTube (daily), LinkedIn (weekly), Instagram (occasional browsing)",
+        "ecommerce_behavior": "Frequent mid-range purchases ($50-$300) on automotive parts and collectibles",
+        "device_usage": "Windows desktop primary, Android mobile for quick searches",
+        "subscriptions": "YouTube Premium, RockAuto newsletter, eBay saved searches"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vintage Nissan/Datsun restoration techniques, metallurgy",
+        "hobbies": "Classic car restoration, coin collecting, miniature DIY crafts",
+        "entertainment_preferences": "Documentary-style mechanic YouTube channels, 80s nostalgia content",
+        "content_consumption": "Technical manuals (70%), short DIY videos (30%)",
+        "learning_style": "Project-based learning through disassembly/reassembly"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases for projects, occasional splurges on collectibles",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative with physical assets (tools, vintage items)",
+        "financial_tools": "PayPal, eBay credit system, standard checking account"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with strong client repeat rate",
+        "family_structure": "Single without children but active extended family ties",
+        "friendship_circle": "Small group of automotive enthusiasts",
+        "community_involvement": "Local car meet organizer, DIY workshops",
+        "online_vs_offline_engagement": "Prefers in-person collaboration on projects"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking mechanical forums/auction sites",
+        "workday_habits": "Scheduled client appointments with afternoon parts sourcing",
+        "evening_and_leisure": "Garage tinkering sessions, YouTube tutorial watching",
+        "weekend_activities": "Junkyard scavenging, car meetups, eBay listings management",
+        "sleep_schedule": "Night owl (typically retires after midnight)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness through manual labor, occasional hiking",
+        "mental_health": "Stress relief through hands-on projects",
+        "work_life_balance": "Work-integrated lifestyle with clear project boundaries",
+        "health_related_digital_behavior": "Occasional medical research via .gov sites"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Analytical comparison of technical specifications",
+        "brand_loyalty": "Strong preference for OEM vintage parts",
+        "influence_factors": "Peer recommendations in niche forums, historical reliability data",
+        "tech_adoption": "Selective early adopter for automotive tools",
+        "privacy_and_security_concerns": "Basic precautions with financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Japanese automotive terms",
+        "travel_habits": "Regional road trips for car parts/events",
+        "personal_projects": "1972 Datsun 521 pickup restoration",
+        "unexpected_behavioral_traits": "Combines mechanical precision with appreciation for vintage jewelry design"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "María González",
+        "age": 69,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Fort Myers, USA",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Local Community College"
+        },
+        "occupation": "Retired Administrative Assistant",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'4\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short silver-gray",
+            "Skin color": "Light olive",
+            "Facial features": "Warm smile, glasses",
+            "Dress Style": "Casual Floridian (light fabrics, floral patterns)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Family-centric values, appreciation for cultural diversity, financial prudence",
+        "motivations": "Maintaining independence, cultural preservation through cooking, staying digitally connected",
+        "cognitive_style": "Practical problem-solver with emphasis on personal experience"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Recipe tutorials (78% of YouTube visits), financial management, entertainment news",
+        "ad_interactions": "High engagement with discount retail (Temu) and senior-focused services",
+        "preferred_content_sources": "YouTube cooking channels, Facebook family content, MSN news",
+        "social_media_usage": "Daily Facebook use (311 visits/90 days), passive YouTube consumption",
+        "ecommerce_behavior": "Frequent low-cost purchases (Temu count:10), occasional Amazon splurges",
+        "device_usage": "Desktop for banking (Suncoast), mobile for social media",
+        "subscriptions": "Netflix (for Wicked streaming), Amazon Prime, Suncoast alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement financial planning, credit union benefits",
+        "hobbies": "Multicultural cooking (Puerto Rican/Korean fusion), gardening (lemon tree searches)",
+        "entertainment_preferences": "Broadway adaptations (Wicked), family-friendly comedies, cooking reality shows",
+        "content_consumption": "15-30 minute YouTube tutorials, MSN quick-read articles",
+        "learning_style": "Visual demonstration (82 cooking-related video views)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (Temu dominance), plans major purchases (Zillow/Redfin visits)",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (credit union reliance)",
+        "financial_tools": "Suncoast online banking, Synchrony credit"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative (admin background)",
+        "family_structure": "Multigenerational household (frequent family cooking content)",
+        "friendship_circle": "Close-knit local community + online foodie groups",
+        "community_involvement": "Cultural food events, credit union workshops",
+        "online_vs_offline_engagement": "Hybrid (online research, in-person family meals)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN news, check banking alerts",
+        "workday_habits": "Meal planning, YouTube recipe curation",
+        "evening_and_leisure": "Facebook family updates, streaming musicals",
+        "weekend_activities": "Local restaurant exploration (Cape Coral searches), family dinners",
+        "sleep_schedule": "Early riser (5AM financial check-ins)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active cooking as exercise, Mediterranean diet focus",
+        "mental_health": "Stress relief through cooking videos",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Natural remedies research (lemongrass oil)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (multiple price comparisons)",
+        "brand_loyalty": "Budget-flexible (Temu/Amazon/Walmart mix)",
+        "influence_factors": "Family recommendations, recipe reviews",
+        "tech_adoption": "Mainstream user (adopts established platforms)",
+        "privacy_and_security_concerns": "Basic caution (avoids unknown links)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Puerto Rican cultural ties",
+        "travel_habits": "Domestic scenic drives (mountain vista searches), Florida explorations",
+        "personal_projects": "Family recipe digital archive",
+        "unexpected_behavioral_traits": "Tech-competent retiree who troubleshoots Google Translate independently"
+    }
+}

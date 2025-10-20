@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 42,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Fairfax Station, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of Virginia"
+        },
+        "occupation": "Small Business Owner/Entrepreneur",
+        "company": "Vacuums Unlimited (Inferred from frequent visits to vacuum-related domains and YouTube content)",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, professional cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Business casual (button-down shirts, tailored trousers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (Interest in tech trends, quantum computing, and diverse cuisines)",
+            "conscientiousness": "High (Frequent financial planning, structured stock research)",
+            "extraversion": "Medium (Engages with professional communities but prefers curated social interactions)",
+            "agreeableness": "Medium",
+            "neuroticism": "Low (Stable financial management patterns)"
+        },
+        "mbti": "INTJ (Analytical, strategic planner with focus on long-term investments)",
+        "beliefs_and_values": "Technology optimism, financial independence, appreciation for craftsmanship",
+        "motivations": "Wealth growth, business expansion, maintaining luxury lifestyle",
+        "cognitive_style": "Data-driven analysis combined with intuitive market predictions"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical product research, stock analysis, luxury travel planning",
+        "ad_interactions": "High engagement with premium home appliances/luxury goods ads",
+        "preferred_content_sources": "Yahoo Finance, Eater DC, manufacturer websites (Miele, Rado)",
+        "social_media_usage": "YouTube (business/repair tutorials), Facebook (business pages), LinkedIn (passive)",
+        "ecommerce_behavior": "Premium purchases (Swiss watches, high-end vacuums), uses Amazon Pay",
+        "device_usage": "Desktop-dominant (85%) with Edge browser, iOS mobile for on-the-go trading",
+        "subscriptions": "Yahoo Finance Premium, Great Wolf Lodge loyalty program, Amazon Prime"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vacuum technology innovations, SMB financial management tools",
+        "hobbies": "Fine dining, watch collecting, cultural events (Kennedy Center performances)",
+        "entertainment_preferences": "Financial news podcasts, tech documentaries, classic rock",
+        "content_consumption": "Long-form investment analyses + concise product comparison guides",
+        "learning_style": "Video tutorials (YouTube Studio usage) supplemented by manufacturer documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Premium/luxury focus with calculated investments (e.g., $3k-$5k watches)",
+        "income_level": "$150k-$200k annually (Business owner with retail/service revenue streams)",
+        "investment_habits": "Aggressive tech stock positions (PLTR, META) balanced with blue chips",
+        "financial_tools": "Fidelity for investments, Square for business transactions, Amazon Pay"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Hands-on manager (Vacuum repair team oversight via YouTube tutorials)",
+        "family_structure": "Married with children (Family resort bookings at Great Wolf Lodge)",
+        "friendship_circle": "Small network of business owners/industry professionals",
+        "community_involvement": "Local business associations (Fairfax Chamber of Commerce)",
+        "online_vs_offline_engagement": "Hybrid (Virtual stock trading groups + in-person luxury dining)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Market news review (Yahoo Finance), equipment maintenance checks",
+        "workday_habits": "Split between retail operations management and investment research",
+        "evening_and_leisure": "Fine dining research (Michelin Guide), YouTube content creation",
+        "weekend_activities": "Family trips to DC cultural sites, appliance showroom visits",
+        "sleep_schedule": "Night owl (Late-night stock market monitoring)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate exercise (Carrying heavy equipment), pescatarian diet trend",
+        "mental_health": "Stress management through meticulous planning and luxury purchases",
+        "work_life_balance": "Work-integrated lifestyle (70% work focus)",
+        "health_related_digital_behavior": "Occasional diet research, no tracked fitness app usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Analytical (Compare 3+ options for major purchases)",
+        "brand_loyalty": "High for appliances (Miele/Bissell), moderate for tech",
+        "influence_factors": "Expert reviews (Jim Cramer), manufacturer specifications",
+        "tech_adoption": "Early majority (Adopts proven business tech like Square)",
+        "privacy_and_security_concerns": "Moderate (Uses mainstream platforms with 2FA)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Swiss/German engineering",
+        "travel_habits": "Regional luxury destinations (Poconos resorts, DC hotels)",
+        "personal_projects": "YouTube channel documenting vacuum repair techniques",
+        "unexpected_behavioral_traits": "Combines mechanical repair skills with stock market speculation expertise"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Miller",
+        "age": 68,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Idaho Falls, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Vocational Training (Welding/Metalwork)",
+            "institution": "Unknown"
+        },
+        "occupation": "Retired Tradesman/Handyman",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Stocky",
+            "Hairstyle": "Short gray hair",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkled from outdoor activity",
+            "Dress Style": "Practical workwear (denim jackets, cargo pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Self-reliance, Second Amendment rights, Environmental sustainability",
+        "motivations": "Energy independence, Home maintenance mastery, Cost-effective living",
+        "cognitive_style": "Practical problem-solver with technical orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical specifications (solar components, automotive parts), DIY tutorials, Auction monitoring",
+        "ad_interactions": "High engagement with solar equipment/energy storage ads",
+        "preferred_content_sources": "HowToGeek, MSN Weather, Prime Time Auctions, Firearms forums",
+        "social_media_usage": "Facebook daily (Marketplace/groups), Passive YouTube consumption",
+        "ecommerce_behavior": "Tools/outdoor equipment (Amazon, Sportsman's Warehouse), Budget-conscious",
+        "device_usage": "Desktop (Windows/Edge), Secondary mobile for maps/auctions",
+        "subscriptions": "Survivalist forums, Auction newsletters, Firearms maintenance channels"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Renewable energy systems, Metal fabrication techniques",
+        "hobbies": "Metal detecting, Small game hunting, Woodworking projects",
+        "entertainment_preferences": "Military drama shows (SEAL Team), Classic country music",
+        "content_consumption": "Detailed technical guides >90%",
+        "learning_style": "Experimental trial-and-error approach"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases (batteries/ammo)",
+        "income_level": "Middle-class retirement + side income",
+        "investment_habits": "Conservative (physical assets > stocks)",
+        "financial_tools": "Credit cards, PayPal, Walmart MoneyCard"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor",
+        "family_structure": "Likely married with adult children",
+        "friendship_circle": "Small group of hunting/DIY buddies",
+        "community_involvement": "Local auction participant",
+        "online_vs_offline_engagement": "70% offline hobby-focused"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee + MSN Weather check",
+        "workday_habits": "3-4 hours project work",
+        "evening_and_leisure": "Facebook Marketplace browsing",
+        "weekend_activities": "Metal detecting expeditions",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor",
+        "mental_health": "Project-focused stress management",
+        "work_life_balance": "Structured retirement activities",
+        "health_related_digital_behavior": "Thyroid health research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Feature-comparison spreadsheets",
+        "brand_loyalty": "Ruger/Southwire/Chevrolet",
+        "influence_factors": "Technical specifications sheets",
+        "tech_adoption": "Late majority adopter",
+        "privacy_and_security_concerns": "Medium (avoids biometrics)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Western US English",
+        "travel_habits": "Regional RV trips <100 miles",
+        "personal_projects": "Solar-powered workshop conversion",
+        "unexpected_behavioral_traits": "Combines firearms maintenance with gourmet cooking interest"
+    }
+}

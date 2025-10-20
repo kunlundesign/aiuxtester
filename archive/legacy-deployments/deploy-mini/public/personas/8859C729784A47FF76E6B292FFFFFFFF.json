@@ -1,0 +1,96 @@
+{
+    "Core Identity": {
+        "full_name": "Aarohi Sharma",
+        "age": 29,
+        "gender": "Female",
+        "nationality": "Indian",
+        "current_residence": "unknown",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "unknown"
+        },
+        "occupation": "IT Support Specialist",
+        "company": "Microsoft (contractor)",
+        "physical_attributes": {
+            "height": "163 cm",
+            "body_shape": "Slim",
+            "hairstyle": "Straight, shoulder-length",
+            "skin_color": "Medium",
+            "facial_features": "Round glasses, minimal makeup",
+            "dress_style": "Casual techwear (hoodies, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, privacy consciousness",
+        "motivations": "Technical mastery, system optimization, lifelong learning",
+        "cognitive_style": "Analytical problem-solver with structured workflow"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (Windows 11 configurations), multilingual news monitoring (JP/KR/HI/CN)",
+        "ad_interactions": "Medium engagement (clicked math tools, travel deals, tech discounts)",
+        "preferred_content_sources": "Microsoft documentation, GitHub, international news portals",
+        "social_media_usage": "Low engagement (TikTok login attempts, MSN comment browsing)",
+        "ecommerce_behavior": "Budget-conscious tech purchases (calculators, optimization tools)",
+        "device_usage": "Windows 11 PC primary, Edge browser with experimental builds",
+        "subscriptions": [
+            "Microsoft 365",
+            "Bing Wallpaper",
+            "MSN News alerts"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "OS customization, accessibility tech, cybersecurity",
+        "hobbies": "Language learning, casual gaming (Minecraft), tech DIY projects",
+        "entertainment_preferences": "Documentaries (space tech), K-pop music, cooking shows",
+        "content_consumption": "Technical manuals (70%), breaking news (20%), entertainment (10%)",
+        "learning_style": "Self-directed troubleshooting via official docs and forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven tech upgrades, planned software purchases",
+        "income_level": "Mid-level IT ($65k-$80k)",
+        "investment_habits": "Conservative (index funds), tech stock monitoring",
+        "financial_tools": "Microsoft Wallet, credit cards, expense trackers"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Remote collaboration, tiered support leadership",
+        "family_structure": "Single, urban apartment dweller",
+        "friendship_circle": "Small tech-focused group",
+        "community_involvement": "Open-source forums, Windows Insider Program",
+        "online_vs_offline_engagement": "90% digital (tech communities), 10% local meetups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news scan, system diagnostics check",
+        "workday_habits": "Batch troubleshooting sessions, documentation updates",
+        "evening_and_leisure": "Language practice, light gaming, tech blogs",
+        "weekend_activities": "Local tech workshops, meal prepping, park walks",
+        "sleep_schedule": "12am-7am (occasional late-night debugging)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Ergonomic workstation, occasional yoga",
+        "mental_health": "Tech detox Sundays, puzzle games",
+        "work_life_balance": "Strict 8pm device curfew",
+        "health_related_digital_behavior": "Posture reminder apps, blue light filters"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based (compares 3+ official sources)",
+        "brand_loyalty": "Microsoft ecosystem adherent",
+        "influence_factors": "Expert forums, release notes, peer reviews",
+        "tech_adoption": "Early majority (tests beta after stability reports)",
+        "privacy_and_security_concerns": "Custom firewall rules, regular audit trails"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Hindi/English fluent, Japanese/Korean learner",
+        "travel_habits": "Occasional tech conferences, prefers urban destinations",
+        "personal_projects": "Localization tools development, accessibility hackathons",
+        "unexpected_behavioral_traits": "Maintains analog sketchbook for UI design ideas"
+    }
+}

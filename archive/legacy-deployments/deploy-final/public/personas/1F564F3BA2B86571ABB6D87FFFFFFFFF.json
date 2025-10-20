@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Matthew Thompson",
+        "age": 44,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Neenah, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Business Management",
+            "institution": "Fox Valley Technical College"
+        },
+        "occupation": "Retail Operations Manager",
+        "company": "Walmart",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, neat haircut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Casual: Polo shirts, jeans, and sneakers"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Family-first mentality, appreciation for practical solutions",
+        "motivations": "Maintaining household efficiency, staying informed about local community",
+        "cognitive_style": "Structured problem-solver with focus on immediate practical needs"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical household solutions (appliance maintenance, recipes), local sports news, product research",
+        "ad_interactions": "High engagement with home improvement and sports merchandise ads",
+        "preferred_content_sources": "Retailer websites (Walmart, Amazon), local news platforms, recipe blogs",
+        "social_media_usage": "Limited to Facebook for local community updates",
+        "ecommerce_behavior": "Frequent mid-price purchases of household goods and sports merchandise",
+        "device_usage": "Desktop for bill management, mobile for quick searches",
+        "subscriptions": "MSN News, Walmart+ membership, Spectrum internet service"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retail operations, home appliance trends",
+        "hobbies": "Following MLB games, home cooking, DIY home maintenance",
+        "entertainment_preferences": "Local news broadcasts, sports documentaries, classic rock",
+        "content_consumption": "Practical how-to guides and concise sports updates",
+        "learning_style": "Task-oriented learning through video tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned purchases",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative savings through credit union accounts",
+        "financial_tools": "Community First Credit Union, Walmart credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented leadership style",
+        "family_structure": "Married with school-age children",
+        "friendship_circle": "Close-knit local community connections",
+        "community_involvement": "Attends local baseball games, church activities",
+        "online_vs_offline_engagement": "Prefers in-person interactions but uses digital tools for efficiency"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Brewers scores while drinking coffee",
+        "workday_habits": "Balances store operations with vendor management",
+        "evening_and_leisure": "Family dinners, helps with homework, watches sports highlights",
+        "weekend_activities": "Home maintenance projects, family outings, grocery shopping",
+        "sleep_schedule": "Regular 11 PM - 6 AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional weekend walks, monitors OTC medication expiration dates",
+        "mental_health": "Manages stress through structured routines",
+        "work_life_balance": "Prioritizes family time after work hours",
+        "health_related_digital_behavior": "Researches medication side effects, uses Walgreens for prescriptions"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Prefers trusted retailers but compares deals",
+        "influence_factors": "User reviews and product durability",
+        "tech_adoption": "Mainstream user of essential digital tools",
+        "privacy_and_security_concerns": "Uses MFA for financial accounts"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American, English monolingual",
+        "travel_habits": "Regional trips for baseball games and family visits",
+        "personal_projects": "Maintaining vintage kitchen appliances",
+        "unexpected_behavioral_traits": "Combines analytical product research with passionate sports fandom"
+    }
+}

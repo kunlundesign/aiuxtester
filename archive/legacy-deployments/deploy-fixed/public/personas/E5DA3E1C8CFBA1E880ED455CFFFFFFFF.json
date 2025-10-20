@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Martinez",
+        "age": 37,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Los Angeles, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Computer Science",
+            "institution": "California State University, Los Angeles"
+        },
+        "occupation": "IT Specialist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, straight",
+            "skin_color": "Light olive",
+            "facial_features": "Clean-shaven, rectangular glasses",
+            "dress_style": "Casual (graphic tees, jeans) for leisure; semi-formal (button-down shirts) for work"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, value-for-money consumption",
+        "motivations": "Tech mastery, home improvement efficiency, gaming community participation",
+        "cognitive_style": "Analytical problem-solver with creative implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (GPU comparisons, software troubleshooting), furniture optimization research",
+        "ad_interactions": "High engagement with tech tools (Tenorshare), furniture, and gaming gear ads",
+        "preferred_content_sources": "Reddit communities, YouTube tutorials, IKEA planning tools, technical wikis",
+        "social_media_usage": "Passive Reddit browsing for tech/gaming forums, occasional YouTube comments",
+        "ecommerce_behavior": "Budget-conscious tech upgrades (RTX 4060 research), bulk furniture purchases (Costco Murphy bed)",
+        "device_usage": "Windows PC (Edge browser), Android phone, Meta Quest VR headset",
+        "subscriptions": "Xbox Game Pass Core, Netflix, Amazon Prime"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Hardware optimization, VR/AR development trends",
+        "hobbies": "VR gaming (Gorilla Tag), retro console emulation, laser woodcraft projects",
+        "entertainment_preferences": "Action movies (Call of Duty lore), anime-inspired art (Cinnamoroll)",
+        "content_consumption": "Technical guides + gaming streaming content (70% video, 30% forums)",
+        "learning_style": "Self-guided through YouTube tutorials and Reddit communities"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurging on core tech (GPUs), value-focused for furniture",
+        "income_level": "$75,000-$90,000 annually",
+        "investment_habits": "Conservative with tech stock interest",
+        "financial_tools": "Amazon Prime Rewards Visa, PayPal, Chase checking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with collaborative project bursts",
+        "family_structure": "Single, lives alone (frequent furniture optimization for studio apartment)",
+        "friendship_circle": "Online gaming buddies, local VR cafe acquaintances",
+        "community_involvement": "Moderates subreddit for N64 emulation",
+        "online_vs_offline_engagement": "85% digital (Discord tech groups), 15% local gaming cafes"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks tech news (MSN headlines), VR fitness app",
+        "workday_habits": "Remote troubleshooting sessions, hardware benchmarking tests",
+        "evening_and_leisure": "VR multiplayer sessions, laser cutter projects",
+        "weekend_activities": "IKEA shopping trips, local eSports events",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional VR exercise games, ergonomic workspace focus",
+        "mental_health": "Stress relief through gaming, no indicated disorders",
+        "work_life_balance": "Blurred lines due to freelance tech work",
+        "health_related_digital_behavior": "Ergonomic product research, standing desk use"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (3+ comparison guides before GPU purchase)",
+        "brand_loyalty": "Microsoft ecosystem user but shops competitors",
+        "influence_factors": "Reddit consensus, YouTube creator reviews",
+        "tech_adoption": "Early majority (waits for v2 products)",
+        "privacy_and_security_concerns": "Moderate (uses 2FA but shares gaming specs)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with anime fandom lexicon",
+        "travel_habits": "Regional tech convention attendance (E3, CES)",
+        "personal_projects": "Custom N64 emulator frontend, laser-cut anime decor",
+        "unexpected_behavioral_traits": "Combines technical pragmatism with whimsical Cinnamoroll fandom"
+    }
+}

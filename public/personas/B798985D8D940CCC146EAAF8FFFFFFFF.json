@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Carlos Martinez",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Troy, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Finance",
+            "institution": "Rutgers University"
+        },
+        "occupation": "Financial Services Associate",
+        "company": "Prudential Financial",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, styled",
+            "Skin color": "Olive",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Business casual"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Financial independence, Professional growth",
+        "motivations": "Wealth accumulation, Career advancement",
+        "cognitive_style": "Analytical with structured execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex queries (legal document processes, financial instruments), Location-specific real estate research",
+        "ad_interactions": "High engagement with financial tools/templates, travel deals",
+        "preferred_content_sources": "Zillow, Investopedia, BiggerPockets, airline portals",
+        "social_media_usage": "Reddit (professional communities), Facebook (minimal)",
+        "ecommerce_behavior": "Budget-conscious with spikes for travel deals",
+        "device_usage": "Desktop (work tools), Mobile (travel planning)",
+        "subscriptions": "Miles for Opinions survey platform, AccuWeather Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate investing, Insurance lead generation",
+        "hobbies": "Fantasy sports, International travel planning",
+        "entertainment_preferences": "Sports documentaries, Action movies",
+        "content_consumption": "Data-driven articles, Real estate market analyses",
+        "learning_style": "Self-directed research through industry forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic investments over luxury, Value-focused travel",
+        "income_level": "$65,000-$75,000",
+        "investment_habits": "Moderate risk in real estate",
+        "financial_tools": "Mortgage calculators, Investment tracking spreadsheets"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team member",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small group with shared professional interests",
+        "community_involvement": "Local business networking groups",
+        "online_vs_offline_engagement": "Professional online presence, selective in-person networking"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks market trends and weather",
+        "workday_habits": "Scheduled client calls, document processing",
+        "evening_and_leisure": "Fantasy league management, real estate research",
+        "weekend_activities": "Property tours, sports events",
+        "sleep_schedule": "11 PM - 6:30 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Intermittent gym sessions, balanced diet",
+        "mental_health": "Stress management through structured planning",
+        "work_life_balance": "Work-focused with scheduled downtime",
+        "health_related_digital_behavior": "Basic fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparisons",
+        "brand_loyalty": "Value-based switching",
+        "influence_factors": "Peer recommendations in niche forums",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Moderate (uses 2FA for financial accounts)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish)",
+        "travel_habits": "Frequent Mexico visits (4-6x/year), budget airlines",
+        "personal_projects": "Building rental property portfolio",
+        "unexpected_behavioral_traits": "Combines actuarial precision with sports gambling enthusiasm"
+    }
+}

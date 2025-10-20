@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 29,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Monticello, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Iowa"
+        },
+        "occupation": "Freelance Marketing Consultant",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, side-parted",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual (jeans, flannel shirts) with occasional sportswear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTJ",
+        "beliefs_and_values": "Political engagement, skepticism of authority figures",
+        "motivations": "Staying informed, technological efficiency, work-life autonomy",
+        "cognitive_style": "Analytical with strong pattern recognition (evident in political analysis and sports statistics tracking)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent political/news queries, sports schedules, local services (Signal: 144 MSN visits, Cubs schedule searches)",
+        "ad_interactions": "High engagement with tech gadgets, sporting events (Signal: Clicked Lenovo/Samsung ads, Cubs ticket ads)",
+        "preferred_content_sources": "MSN News, The Gazette, KCRG (Signal: Top domains)",
+        "social_media_usage": "Passive Facebook use (Signal: Facebook notifications page visit)",
+        "ecommerce_behavior": "Mid-range tech purchases, occasional event tickets (Signal: UETEvents tablet/headphone views)",
+        "device_usage": "Windows desktop + Android mobile (Signal: Edge browser usage)",
+        "subscriptions": "Local news alerts, sports updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Digital marketing trends, small business tools (Signal: QuickBooks page visit)",
+        "hobbies": "Casual gaming (Solitaire/Euchre), following MLB (Signal: Game page visits)",
+        "entertainment_preferences": "Political satire (SNL sketches), sports documentaries",
+        "content_consumption": "Long-form political analysis (Signal: Multiple Trump-related deep-dive articles)",
+        "learning_style": "Self-directed research (Signal: Complex political query patterns)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious tech upgrades (Signal: Mid-range tablet/vacuum research)",
+        "income_level": "$55,000-$70,000",
+        "investment_habits": "Conservative (No crypto/stock signals observed)",
+        "financial_tools": "Credit cards, digital banking (Signal: Groupon deal interaction)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor (Signal: Freelance assumption from irregular schedule)",
+        "family_structure": "Lives alone (Signal: No family-related content)",
+        "friendship_circle": "Small group with shared political/sports interests",
+        "community_involvement": "Local news consumer but not active participant",
+        "online_vs_offline_engagement": "90% digital interaction (Signal: Heavy news consumption)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news review with coffee (Signal: Frequent morning MSN visits)",
+        "workday_habits": "Client calls between news/article reading sessions",
+        "evening_and_leisure": "Sports tracking, casual gaming (Signal: Solitaire/Euchre page titles)",
+        "weekend_activities": "Local sports events, tech gadget research",
+        "sleep_schedule": "Night owl (Signal: Late MSN event timestamps)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional outdoor activities (Signal: Ski gear interest)",
+        "mental_health": "Stress management through gaming/news analysis",
+        "work_life_balance": "Blurred boundaries (Freelance work patterns)",
+        "health_related_digital_behavior": "No significant signals"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (Signal: Multiple product comparisons)",
+        "brand_loyalty": "Tech-focused but price-sensitive (Signal: Lenovo/Samsung consideration)",
+        "influence_factors": "Expert reviews, political alignment (Signal: MSNBC/CNN references)",
+        "tech_adoption": "Mainstream adopter (Signal: Mid-range tech products)",
+        "privacy_and_security_concerns": "Basic precautions (No VPN/encryption signals)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English monolingual",
+        "travel_habits": "Regional trips (Signal: Local map searches)",
+        "personal_projects": "Political blog drafting (Signal: Heavy opinion piece consumption)",
+        "unexpected_behavioral_traits": "Combines analytical political research with casual solitaire gaming"
+    }
+}

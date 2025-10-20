@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Lithonia, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Part-Time Retail Associate",
+        "company": "Unknown",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Medium-length straight hair",
+            "skin_color": "Light Brown",
+            "facial_features": "Round face with subtle makeup",
+            "dress_style": "Casual with trendy elements (SHEIN ads, vacation outfits)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Health consciousness, financial responsibility, family-oriented values",
+        "motivations": "Maintaining physical health, securing stable finances, planning memorable family experiences",
+        "cognitive_style": "Practical problem-solver with attention to detail (printer comparisons, recipe searches)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on health supplements, home maintenance, and travel planning; uses specific long-tail queries",
+        "ad_interactions": "High engagement with travel (VRBO), health supplements, and affordable fashion ads",
+        "preferred_content_sources": "Medical sites (Cleveland Clinic), recipe blogs, anime platforms, travel review sites",
+        "social_media_usage": "Moderate usage; likely Pinterest for recipes, Instagram for fashion inspiration",
+        "ecommerce_behavior": "Budget-conscious shopper (SHEIN clicks, printer price comparisons)",
+        "device_usage": "Mobile-first user with desktop use for complex tasks (financial management)",
+        "subscriptions": "Hulu (Camp Camp viewings), YouTube Premium (music content)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare research, personal finance management",
+        "hobbies": "Anime consumption (Camp Camp), line dancing (Mississippi Slide search), home cooking",
+        "entertainment_preferences": "Animated series, K-pop (JISOO audio), comedy-drama shows",
+        "content_consumption": "Mix of instructional videos (line dance tutorials) and episodic storytelling",
+        "learning_style": "Visual learner (video tutorials for PS4 fixes), self-taught through online resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (waits for deals on printers, uses credit union services)",
+        "income_level": "Lower-middle class (part-time job, uses budget services)",
+        "investment_habits": "Conservative (multiple credit union logins, tax preparation sites)",
+        "financial_tools": "Credit cards (Capital One), online banking (JFCU), coupon sites"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player (group vacation planning searches)",
+        "family_structure": "Lives with parents/siblings (multi-bedroom vacation home searches)",
+        "friendship_circle": "Small close-knit group (shared anime interests)",
+        "community_involvement": "Local dance community (line dance searches)",
+        "online_vs_offline_engagement": "Balanced mix (online research, physical leisure activities)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks health updates, manages financial accounts",
+        "workday_habits": "Balances work shifts with personal research sessions",
+        "evening_and_leisure": "Streams anime, experiments with recipes, plans vacations",
+        "weekend_activities": "Family outings, dance practice, home improvement projects",
+        "sleep_schedule": "Moderate night owl (anime streaming patterns)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Proactive supplement user (calcium/magnesium searches), occasional exerciser",
+        "mental_health": "Uses entertainment for stress relief (anime, music)",
+        "work_life_balance": "Prioritizes family time over career advancement",
+        "health_related_digital_behavior": "Regularly checks medical portals (Kaiser Permanente logins)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (printer comparisons), influenced by family needs",
+        "brand_loyalty": "Seeks value over brands (multiple printer model comparisons)",
+        "influence_factors": "Expert reviews (medical sites), peer recommendations (anime communities)",
+        "tech_adoption": "Mainstream adopter (uses established platforms, no cutting-edge tech searches)",
+        "privacy_and_security_concerns": "Cautious (frequent financial account logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "African American (Georgia residence), English monolingual",
+        "travel_habits": "Family vacation planner (Orlando resort searches), budget-conscious traveler",
+        "personal_projects": "Home improvement (paint research), meal planning (recipe collection)",
+        "unexpected_behavioral_traits": "Combines analytical health research with creative anime fandom"
+    }
+}

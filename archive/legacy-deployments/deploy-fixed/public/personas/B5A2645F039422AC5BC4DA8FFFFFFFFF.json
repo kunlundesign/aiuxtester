@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Marlene Markon",
+        "age": 75,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Superior, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Office Administration",
+            "institution": "Wisconsin Technical College"
+        },
+        "occupation": "Retired Administrative Assistant",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'4\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short grey perm",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes from frequent smiling",
+            "Dress Style": "Casual sweaters with functional slacks"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Community responsibility, technological self-sufficiency, animal welfare",
+        "motivations": "Maintaining independence, staying informed, preserving local history",
+        "cognitive_style": "Detail-oriented problem solver with systematic approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical problem-solving queries (printer manuals), local news verification, weather tracking",
+        "ad_interactions": "Strong response to Medicare ads, printer supplies, budget electronics",
+        "preferred_content_sources": "Superior Telegram, Weather Underground, Yahoo News, MSN Politics",
+        "social_media_usage": "Passive Facebook use for local connections",
+        "ecommerce_behavior": "Budget-conscious tech purchases (TVs, printers), repeat Walmart orders",
+        "device_usage": "Windows desktop primary device, Microsoft Edge browser",
+        "subscriptions": "Yahoo Mail Plus, Superior Telegram digital edition"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Local government operations, office technology maintenance",
+        "hobbies": "Classic card games, pet care, weather tracking",
+        "entertainment_preferences": "Light political dramas, animal documentaries, classic rock",
+        "content_consumption": "Local news articles, printer manuals, obituary updates",
+        "learning_style": "Self-guided troubleshooting through manuals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious tech investments, planned purchases",
+        "income_level": "Fixed retirement income",
+        "investment_habits": "Risk-averse",
+        "financial_tools": "Walmart credit card, Medicare Advantage plan"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Former collaborative office worker",
+        "family_structure": "Lives with pet(s), regular family check-ins",
+        "friendship_circle": "Small group of lifelong local friends",
+        "community_involvement": "Passive civic engagement through news consumption",
+        "online_vs_offline_engagement": "Hybrid - local news online but prefers in-person errands"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather on Wunderground, sorts Yahoo Mail with coffee",
+        "workday_habits": "Morning home maintenance, afternoon card games between news checks",
+        "evening_and_leisure": "MSN political news viewing while playing solitaire",
+        "weekend_activities": "Grocery shopping at Walmart, pet care appointments",
+        "sleep_schedule": "Early riser (6 AM) with afternoon nap"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light activity through pet care, manages arthritis",
+        "mental_health": "Cognitive maintenance through card games, avoids stress triggers",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Medicare plan research, prescription refill tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive for major purchases",
+        "brand_loyalty": "Strong (Briggs & Stratton, Canon, Walmart)",
+        "influence_factors": "Local reputation, product longevity",
+        "tech_adoption": "Competent with essential home tech",
+        "privacy_and_security_concerns": "Basic caution with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with Finnish heritage traces",
+        "travel_habits": "Day trips within Wisconsin, avoids air travel",
+        "personal_projects": "Maintaining vintage snow thrower, tracking local history",
+        "unexpected_behavioral_traits": "Tech-competent senior who troubleshoots printers but struggles with email management"
+    }
+}

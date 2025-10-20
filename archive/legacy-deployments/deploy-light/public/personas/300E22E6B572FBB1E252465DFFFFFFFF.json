@@ -1,0 +1,128 @@
+{
+    "Core Identity": {
+        "full_name": "Jordan Mitchell",
+        "age": 26,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Mansfield, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Texas at Arlington"
+        },
+        "occupation": "Freelance Travel Planner/Content Creator",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short fade with textured top",
+            "Skin color": "Light brown",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual practical (graphic tees, utility pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENTP",
+        "beliefs_and_values": "Technology optimism, financial independence, creative expression",
+        "motivations": "Career autonomy, creative fulfillment, travel experiences",
+        "cognitive_style": "Analytical-creative hybrid (blends design thinking with business strategy)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches (luxury travel, design software comparisons), Boolean operators",
+        "ad_interactions": "High engagement with travel/hospitality (28% CTR), business tools ads",
+        "preferred_content_sources": "VAX VacationAccess, MSN Politics, Canva tutorials, BandLab communities",
+        "social_media_usage": {
+            "Platforms": [
+                "TikTok (content creation)",
+                "Facebook (professional groups)",
+                "YouTube (learning)"
+            ],
+            "frequency": "3-4 hours daily",
+            "active_vs_passive": "65% active creation/engagement"
+        },
+        "ecommerce_behavior": {
+            "Spending": "$300-500/mo (business tools, travel deals)",
+            "Categories": "SaaS subscriptions, graphic design assets, luggage"
+        },
+        "device_usage": {
+            "Primary": "Desktop (85% usage)",
+            "OS": "Windows 11",
+            "Browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "Netflix",
+            "ChatGPT Plus",
+            "Canva Pro",
+            "Buzzsprout Basic"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Solo travel trends",
+            "Podcast monetization",
+            "AI-enhanced design tools"
+        ],
+        "hobbies": [
+            "Retro video game modding",
+            "Cabin photography",
+            "Sound mixing"
+        ],
+        "entertainment_preferences": {
+            "Movies": "Documentaries (True Crime/History)",
+            "Music": "Hip-hop instrumentals",
+            "Authors": "Tim Ferriss, Malcolm Gladwell"
+        },
+        "content_consumption": "70% long-form videos/articles, 30% news briefs",
+        "learning_style": "Project-based learning (YouTube tutorials + immediate application)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused splurger (saves on utilities, invests in business tools)",
+        "income_level": "$45k-$55k annually",
+        "investment_habits": "Medium risk (crypto 15% portfolio, index funds 35%)",
+        "financial_tools": [
+            "PayPal Business",
+            "Apple Pay",
+            "Coinbase"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Project-based collaborations (manages 3-5 client relationships simultaneously)",
+        "family_structure": "Single, shares apartment with roommate",
+        "friendship_circle": "8-10 close connections (mix of creatives and entrepreneurs)",
+        "community_involvement": "Local Chamber of Commerce (events committee)",
+        "online_vs_offline_engagement": "65% digital communication preference"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks industry newsletters (Skift, Event Manager Blog) during breakfast",
+        "workday_habits": "Time-block scheduling (90m focus sessions), uses StreamYard for client meetings",
+        "evening_and_leisure": "Content creation (2-3hrs), retro gaming sessions",
+        "weekend_activities": "Scouting Texas travel locations, Airbnb hosting",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Intermittent fasting, weekend hiking (Barton Creek Greenbelt)",
+        "mental_health": "Uses Headspace for anxiety management",
+        "work_life_balance": "Strict evening cutoff (8pm) for client communications",
+        "health_related_digital_behavior": "MyFitnessPal tracking, WHO travel health alerts"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison-driven (averages 4.7 sources per major purchase)",
+        "brand_loyalty": "Switches for better features (18mo average tool retention)",
+        "influence_factors": "Case studies (83% weight), influencer reviews (12%)",
+        "tech_adoption": "Early majority (adopts at 15-20% market penetration)",
+        "privacy_and_security_concerns": "Uses VPN for financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Tex-Mex cultural influences",
+        "travel_habits": "3-4 regional trips/year, prefers cabin rentals over hotels",
+        "personal_projects": "Building Texas Travel Hackers podcast (37 episodes)",
+        "unexpected_behavioral_traits": "Maintains detailed conspiracy theory archive for creative writing inspiration"
+    }
+}

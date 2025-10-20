@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jacob Mitchell",
+        "age": 25,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Milford, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Agricultural Mechanics",
+            "institution": "unknown"
+        },
+        "occupation": "Farm Equipment Operator/Maintenance Specialist",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'11\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with weathered skin",
+            "Dress Style": "Work boots, durable jeans, and utility jackets"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Self-reliance, practical innovation, environmental stewardship",
+        "motivations": "Equipment optimization, financial stability, outdoor independence",
+        "cognitive_style": "Hands-on problem solver with technical precision"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical equipment specifications, auction listings, regulatory compliance (90+ machinery-related queries)",
+        "ad_interactions": "High engagement with farm equipment/auto tools (16/30 ad clicks)",
+        "preferred_content_sources": "AgWeb, Equipmentfacts, specialized repair forums",
+        "social_media_usage": "Limited; YouTube for tutorial content",
+        "ecommerce_behavior": "Business-critical purchases (parts/tools), budget-conscious",
+        "device_usage": "Desktop-dominant (87% Edge usage), Android mobile secondary",
+        "subscriptions": "Farm Credit alerts, Weather Channel Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Heavy equipment restoration, agricultural commodity markets",
+        "hobbies": "Fly fishing, competitive shooting, vintage tractor restoration",
+        "entertainment_preferences": "Outdoor documentaries, classic rock, technical manuals",
+        "content_consumption": "Detailed repair guides >90% of video views",
+        "learning_style": "Experimental tinkering (evident in 23 DIY equipment modification queries)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Business-first budgeting with 72% expenses on equipment/tools",
+        "income_level": "$45k-$60k (regional agricultural services average)",
+        "investment_habits": "Conservative (multiple retirement planning queries)",
+        "financial_tools": "PNC/Chase business accounts, Agricultural credit lines"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor (87 auction platform visits)",
+        "family_structure": "Likely single (no family-related content)",
+        "friendship_circle": "Niche trade networks (14 auction community visits)",
+        "community_involvement": "Local 4H/Farm Bureau (multiple extension service logins)",
+        "online_vs_offline_engagement": "70% equipment forums / 30% in-person trade meets"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Equipment checks + AgWeb markets review",
+        "workday_habits": "Field repairs interspersed with parts research",
+        "evening_and_leisure": "Gun maintenance sessions (9 NJ firearms law queries)",
+        "weekend_activities": "Fly fishing trips (7 river condition checks)",
+        "sleep_schedule": "Early riser (5:30AM weather checks)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active outdoor work (no sedentary patterns observed)",
+        "mental_health": "Stress management through hands-on projects",
+        "work_life_balance": "Vocation-integrated lifestyle",
+        "health_related_digital_behavior": "First aid certification renewals (3 queries)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Spec-to-spec comparisons (27 OEM part searches)",
+        "brand_loyalty": "Case IH/NH equipment preference (9 decal searches)",
+        "influence_factors": "Trade community reputation (auctionzip engagement)",
+        "tech_adoption": "Purpose-driven early adopter (pro camera interest)",
+        "privacy_and_security_concerns": "Basic precautions (McAfee subscription)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Rural Northeastern U.S. English",
+        "travel_habits": "Regional equipment auctions (United Airlines 21 logins)",
+        "personal_projects": "Vintage Peterbilt restoration (7 manual PDF searches)",
+        "unexpected_behavioral_traits": "Technical pragmatist with abstract art interest (1 gallery auction query)"
+    }
+}

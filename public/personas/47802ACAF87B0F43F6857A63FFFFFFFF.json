@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Nguyen",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "Vietnamese-American",
+        "current_residence": "Vienna, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "STEM (Pending College Enrollment)",
+            "institution": "Local Virginia High School"
+        },
+        "occupation": "Student/Part-Time Music Store Assistant",
+        "company": "Unknown",
+        "physical attributes": {
+            "Height": "175cm",
+            "Body shape": "Lean",
+            "Hairstyle": "Short textured cut",
+            "Skin color": "Light brown",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual graphic tees (band/gaming themes) and jeans"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, educational equity, cultural preservation",
+        "motivations": "Musical mastery, academic achievement, community leadership through scouting",
+        "cognitive_style": "Analytical problem-solving blended with creative expression through music"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical guitar specs, math concepts, current events (3-5 daily deep-dive sessions)",
+        "ad_interactions": "High engagement with guitar gear ads (7 clicks), moderate tax software interest",
+        "preferred_content_sources": "Wikipedia, Sweetwater, Reddit, Songsterr, MSN News",
+        "social_media_usage": "Instagram (daily stories), YouTube (2hrs/day shorts/lessons), Discord (gaming communities)",
+        "ecommerce_behavior": "Budget-conscious guitar upgrades ($100-300 range), Roblox in-app purchases",
+        "device_usage": "Windows PC + Android phone, Chrome/Edge browsers",
+        "subscriptions": "None paid, follows 10+ guitar/tech YouTube channels"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Electrical engineering, audio technology, FIRST Robotics competitions",
+        "hobbies": "Guitar modding, Roblox/Bee Swarm Simulator, scouting backpacking trips",
+        "entertainment_preferences": "Progressive rock (Pink Floyd), tech documentaries, anime-inspired games",
+        "content_consumption": "70% tutorial videos, 20% news articles, 10% gaming streams",
+        "learning_style": "Project-based (e.g., guitar setup guides) with Khan Academy supplements"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases for gear ($50/month savings), impulse Robux buys",
+        "income_level": "$800/month (part-time job + allowance)",
+        "investment_habits": "Conserves earnings for major gear purchases",
+        "financial_tools": "Debit card, Google Pay, limited credit history"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team member in robotics club",
+        "family_structure": "Lives with parents and younger sibling",
+        "friendship_circle": "5 close friends from school/scouting, 50+ online gaming contacts",
+        "community_involvement": "Boy Scouts troop leader, Vietnamese cultural events",
+        "online_vs_offline_engagement": "60% online (evenings), 40% in-person scouting/weekends"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN headlines, AP class prep, quick guitar warm-up",
+        "workday_habits": "School from 8AM-3PM, robotics club Tues/Thurs, 1hr practice nightly",
+        "evening_and_leisure": "7-9PM homework, 9-11PM guitar/YouTube, 11PM-1AM gaming",
+        "weekend_activities": "Scouting trips, family meals, guitar store browsing",
+        "sleep_schedule": "Night owl (1AM-8AM on weekends)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through scouting hikes, occasional fast food",
+        "mental_health": "Uses music for stress relief, no reported conditions",
+        "work_life_balance": "Balances academics with creative outlets",
+        "health_related_digital_behavior": "Occasional symptom searches, no tracked apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive for gear purchases (3+ source checks)",
+        "brand_loyalty": "Strong with Ibanez/Dimarzio, switches tech brands",
+        "influence_factors": "Reddit reviews, Sweetwater specs, peer recommendations",
+        "tech_adoption": "Early adopter for audio tech, mainstream for phones",
+        "privacy_and_security_concerns": "Basic precautions, shares gaming accounts"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (Vietnamese/English), maintains traditions",
+        "travel_habits": "Annual family visits to Vietnam, regional scouting trips",
+        "personal_projects": "Building custom 7-string guitar, Roblox level design",
+        "unexpected_behavioral_traits": "Technical mindset paired with punk rock aesthetic"
+    }
+}

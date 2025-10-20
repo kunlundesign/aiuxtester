@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 61,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Port Saint Lucie, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Art History",
+            "institution": "University of Florida"
+        },
+        "occupation": "Retired Art Curator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short gray bob",
+            "Skin_color": "Fair",
+            "Facial_features": "Round glasses, minimal makeup",
+            "Dress_Style": "Casual Floridian attire with artistic accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Art appreciation, financial responsibility, health awareness",
+        "motivations": "Maintaining intellectual engagement, financial security, preserving cultural heritage",
+        "cognitive_style": "Detail-oriented with practical creativity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Art valuation, real estate research, health queries, celebrity news",
+        "ad_interactions": "Art reproductions, travel deals, home goods",
+        "preferred_content_sources": "MSN News, Zillow, eBay, Pinterest",
+        "social_media_usage": "Facebook Marketplace (active), Pinterest (passive)",
+        "ecommerce_behavior": "Budget-conscious with premium art purchases",
+        "device_usage": "Desktop (Edge browser), occasional mobile",
+        "subscriptions": "MSN Premium, Sam's Club, Rakuten"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Art market trends, retirement planning",
+        "hobbies": "Art collecting, recipe experimentation, home decoration",
+        "entertainment_preferences": "Celebrity documentaries, political commentary, cooking shows",
+        "content_consumption": "Detailed real estate listings, art history articles",
+        "learning_style": "Self-directed research through authoritative sources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused with strategic investments",
+        "income_level": "$80,000-$100,000 annually",
+        "investment_habits": "Real estate cautious, art assets",
+        "financial_tools": "PNC Online Banking, retirement accounts"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent researcher",
+        "family_structure": "Empty nester, likely widowed/divorced",
+        "friendship_circle": "Small community of art enthusiasts",
+        "community_involvement": "Local art events, senior groups",
+        "online_vs_offline_engagement": "Hybrid (online research, in-person cultural events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news review, health monitoring",
+        "workday_habits": "Art market analysis, property research",
+        "evening_and_leisure": "Recipe testing, online shopping",
+        "weekend_activities": "Estate sales, local fairs",
+        "sleep_schedule": "Regular 10PM-6AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Proactive about minor health issues",
+        "mental_health": "Art therapy, social media moderation",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Symptom research, Healthline usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with multiple comparisons",
+        "brand_loyalty": "Established retailers with price checks",
+        "influence_factors": "Expert valuations, historical data",
+        "tech_adoption": "Mainstream user with specific tool mastery",
+        "privacy_and_security_concerns": "Basic precautions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, Southern US cultural influences",
+        "travel_habits": "Regional trips (NC/NM), cruise considerations",
+        "personal_projects": "Art collection cataloging, recipe blog",
+        "unexpected_behavioral_traits": "Simultaneously practical (tax queries) and artistic (Renoir research)"
+    }
+}

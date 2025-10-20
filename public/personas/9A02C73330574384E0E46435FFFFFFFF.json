@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Carter",
+        "age": 50,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Deep River, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Electrical Technology",
+            "institution": "Community College of Connecticut"
+        },
+        "occupation": "Electrical Contractor / Business Owner",
+        "company": "CZ Electric LLC",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, graying hair",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Practical workwear (polo shirts, cargo pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Community service, self-reliance, practical problem-solving",
+        "motivations": "Business sustainability, technical mastery, family security",
+        "cognitive_style": "Structured problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical specifications, local services, generator maintenance procedures",
+        "ad_interactions": "High engagement with electrical equipment ads",
+        "preferred_content_sources": "Trade websites (Electrical Wholesalers), local news (WFSB), equipment manuals",
+        "social_media_usage": "Limited professional use (LinkedIn), passive news consumption",
+        "ecommerce_behavior": "Business-focused purchases (electrical components, tools)",
+        "device_usage": "Desktop for work, mobile for directions/field use",
+        "subscriptions": "Trade publications, local news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Electrical code updates, generator technologies, contracting business management",
+        "hobbies": "Home improvement projects, local history research",
+        "entertainment_preferences": "True crime documentaries, classic rock music",
+        "content_consumption": "Technical documentation and local news articles",
+        "learning_style": "Hands-on experience with supplemental online research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious business purchases",
+        "income_level": "Middle-class business owner ($75k-$100k)",
+        "investment_habits": "Conservative business reinvestment",
+        "financial_tools": "Business credit cards, online invoicing systems"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with team leadership",
+        "family_structure": "Married with teenage children",
+        "friendship_circle": "Close-knit local professional network",
+        "community_involvement": "Volunteer fire department member",
+        "online_vs_offline_engagement": "Preference for face-to-face client interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while reviewing work orders",
+        "workday_habits": "Split between job sites and office management",
+        "evening_and_leisure": "Family dinners, equipment maintenance",
+        "weekend_activities": "Home projects, local historical site visits",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate fitness from physical work",
+        "mental_health": "Stress management through practical problem-solving",
+        "work_life_balance": "Work-focused with dedicated family time",
+        "health_related_digital_behavior": "Occasional research on work-related ergonomics"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with vendor reputation consideration",
+        "brand_loyalty": "Prefers established electrical brands (Kohler, Cummins)",
+        "influence_factors": "Peer recommendations, technical specifications",
+        "tech_adoption": "Mainstream user with focus on practical tools",
+        "privacy_and_security_concerns": "Basic precautions for business accounts"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "New England upbringing, English only",
+        "travel_habits": "Local service area focused, occasional trade shows",
+        "personal_projects": "Restoring vintage electrical equipment",
+        "unexpected_behavioral_traits": "Technical professional with interest in local history preservation"
+    }
+}

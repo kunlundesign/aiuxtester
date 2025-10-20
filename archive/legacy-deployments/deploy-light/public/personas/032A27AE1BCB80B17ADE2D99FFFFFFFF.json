@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Rene Liberty",
+        "age": 48,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Long Beach, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "Western Washington University"
+        },
+        "occupation": "Real Estate Agent",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Glasses, minimal makeup",
+            "dress_style": "Business casual with outdoor-ready layers"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Community engagement, financial independence",
+        "motivations": "Professional autonomy, family security, travel experiences",
+        "cognitive_style": "Practical problem-solver with structured planning"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Travel logistics, real estate transactions, local services",
+        "ad_interactions": "High engagement with travel/transportation and financial services ads",
+        "preferred_content_sources": "Government portals (secureaccess.wa.gov), property platforms (Zillow), cruise operators (Royal Caribbean)",
+        "social_media_usage": "Facebook Marketplace, Nextdoor (passive engagement)",
+        "ecommerce_behavior": "Mid-range spending on travel and home services",
+        "device_usage": "Desktop (Windows/Edge) for complex tasks, mobile for quick searches",
+        "subscriptions": "Hulu, Microsoft 365, Royal Caribbean loyalty programs"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Property valuation, senior living facilities, local regulations",
+        "hobbies": "Cruise travel, ATV adventures, home renovation projects",
+        "entertainment_preferences": "True crime documentaries, inspirational dramas",
+        "content_consumption": "Mix of official documentation and user reviews",
+        "learning_style": "Self-guided research through government resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with planned major purchases",
+        "income_level": "$75,000-$95,000 annually",
+        "investment_habits": "Conservative real estate investments",
+        "financial_tools": "Credit union accounts (WECU), credit cards (Capital One)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-focused networking with independent operations",
+        "family_structure": "Likely cares for aging parents (assisted living research)",
+        "friendship_circle": "Small group of trusted associates",
+        "community_involvement": "Active on Nextdoor for local updates",
+        "online_vs_offline_engagement": "Prefers in-person client meetings with digital follow-ups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/calendar review, local news scanning",
+        "workday_habits": "Property showings interspersed with contract management",
+        "evening_and_leisure": "Hulu documentaries, cruise planning",
+        "weekend_activities": "Outdoor excursions, open house visits",
+        "sleep_schedule": "Regular 11PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity through property visits, Mediterranean diet interest",
+        "mental_health": "Stress management through travel planning",
+        "work_life_balance": "Blurred boundaries with mobile office setup",
+        "health_related_digital_behavior": "Occasional Medicare/DSHS research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison-driven with backup plans",
+        "brand_loyalty": "Sticks with known brands (Microsoft, Royal Caribbean)",
+        "influence_factors": "Official documentation, first-hand testimonials",
+        "tech_adoption": "Mainstream user preferring established tools",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English primary, basic Spanish comprehension",
+        "travel_habits": "Combines regional getaways (Idaho) with international cruising",
+        "personal_projects": "Vacation property investment research in Mexico",
+        "unexpected_behavioral_traits": "Enjoys adrenaline activities (ATV tours) despite analytical nature"
+    }
+}

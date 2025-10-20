@@ -1,0 +1,85 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 41,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Lansdale, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science or Engineering",
+            "institution": "Unknown"
+        },
+        "occupation": "Technical Specialist / Freelance Translator",
+        "company": "Freelance",
+        "physical_attributes": "Unknown"
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, environmental awareness",
+        "motivations": "Intellectual curiosity, financial pragmatism",
+        "cognitive_style": "Analytical and structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent tech/gaming queries, multi-source verification",
+        "ad_interactions": "High engagement with 3D printing/tech ads",
+        "preferred_content_sources": "Reddit, technical blogs, OEM documentation",
+        "social_media_usage": "Limited (Reddit, Weibo passive engagement)",
+        "ecommerce_behavior": "Budget-conscious tech/gadget purchases",
+        "device_usage": "Windows desktop, Chrome/Edge browsers",
+        "subscriptions": "Steam, Printables.com, gaming news sites"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "3D printing, localization, emerging tech",
+        "hobbies": "Retro gaming, DIY electronics, 3D modeling",
+        "entertainment_preferences": "Metroidvania games, sci-fi/horror media",
+        "content_consumption": "Technical documentation, long-form analyses",
+        "learning_style": "Self-directed project-based learning"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech investments",
+        "income_level": "Middle-class ($60k-$85k)",
+        "investment_habits": "Conservative",
+        "financial_tools": "Credit cards, auto loans"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor",
+        "family_structure": "Unknown",
+        "friendship_circle": "Niche online communities",
+        "community_involvement": "3D printing/gaming forums",
+        "online_vs_offline_engagement": "Primarily online"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Tech news review",
+        "workday_habits": "Project-focused with troubleshooting breaks",
+        "evening_and_leisure": "Gaming/3D printing projects",
+        "weekend_activities": "Tech tinkering, content creation",
+        "sleep_schedule": "Night owl"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary tech-focused lifestyle",
+        "mental_health": "Problem-solving as coping mechanism",
+        "work_life_balance": "Blurred boundaries",
+        "health_related_digital_behavior": "Incidental tech ergonomics research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven pragmatist",
+        "brand_loyalty": "Function-over-brand (3D printing/gadgets)",
+        "influence_factors": "Technical specifications, user reviews",
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Moderate (avoids obvious risks)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, Chinese proficiency",
+        "travel_habits": "Domestic tech conferences",
+        "personal_projects": "3D-printed Japanese garden decor models",
+        "unexpected_behavioral_traits": "Combines mechanical precision with gothic horror interests"
+    }
+}

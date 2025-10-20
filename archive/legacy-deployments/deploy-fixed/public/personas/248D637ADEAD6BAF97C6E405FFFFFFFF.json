@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Thompson",
+        "age": 38,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Hazleton, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Automotive Technology",
+            "institution": "Pennsylvania College of Technology"
+        },
+        "occupation": "Freelance Automotive Mechanic",
+        "company": "Freelance Contractor",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short fade with trimmed goatee",
+            "skin_color": "Caucasian",
+            "facial_features": "Square jawline, light stubble",
+            "dress_style": "Casual workwear (denim jackets, cargo pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Self-reliance, technological pragmatism, personal freedom",
+        "motivations": "Mastery of technical skills, financial independence, creative problem-solving",
+        "cognitive_style": "Hands-on experimental learning with structured troubleshooting"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical DIY queries (welding parameters, automotive specs), price comparisons, legal documentation",
+        "ad_interactions": "High engagement with tools/equipment ads, moderate response to tech deals",
+        "preferred_content_sources": "YouTube tutorials, Reddit forums, manufacturer websites (Harbor Freight, MSI)",
+        "social_media_usage": "Facebook Marketplace (active seller/buyer), passive YouTube consumption",
+        "ecommerce_behavior": "Budget-focused bulk purchases (vaping supplies, tools), occasional tech splurges",
+        "device_usage": "Windows desktop primary, Android smartphone secondary",
+        "subscriptions": "Steam, YouTube Premium, PA lottery alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Automotive customization, welding techniques, power equipment maintenance",
+        "hobbies": "Motorcycle restoration, retro gaming (Nintendo 64), home brewing",
+        "entertainment_preferences": "Hip-hop/Drill music, action films, ABBA classics (based on YouTube Music history)",
+        "content_consumption": "Tutorial videos > text guides, product review comparisons",
+        "learning_style": "Experimental trial-and-error with supplemental video guidance"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven bulk purchases (vaping supplies), strategic investments in tools",
+        "income_level": "$45k-$55k annually",
+        "investment_habits": "Conservative (focuses on tangible assets like tools/vehicles)",
+        "financial_tools": "Traditional checking account (Truist Bank), PayPal for Marketplace transactions"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor preferring solo projects",
+        "family_structure": "Single, lives alone in rented workshop-style space",
+        "friendship_circle": "Small group of automotive/motorcycle enthusiasts",
+        "community_involvement": "Local trade skill exchanges, occasional flea market vendor",
+        "online_vs_offline_engagement": "70% online research/transactions, 30% in-person meetups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/PA lottery results, vapes with coffee",
+        "workday_habits": "Splits time between client jobs and personal projects",
+        "evening_and_leisure": "Gaming sessions (Steam), YouTube tech tutorials",
+        "weekend_activities": "Motorcycle maintenance, Marketplace deals hunting",
+        "sleep_schedule": "Night owl (1-2AM bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor, nicotine user (vaping/snus)",
+        "mental_health": "Stress relief through mechanical tinkering",
+        "work_life_balance": "Work-integrated lifestyle (shop doubles as living space)",
+        "health_related_digital_behavior": "Occasional medical price comparisons (dental implants)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with 3+ source comparisons",
+        "brand_loyalty": "Strong in tools (Harbor Freight), fluid in tech",
+        "influence_factors": "User reviews > marketing claims",
+        "tech_adoption": "Early majority adopter (waits for proven utility)",
+        "privacy_and_security_concerns": "Low (frequent adult site visits indicate minimal data caution)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Russian music ('Sigma Boy' searches)",
+        "travel_habits": "Regional motorcycle meetups within 200-mile radius",
+        "personal_projects": "Building hydraulic pipe bender system, restoring 2008 Can-Am Spyder",
+        "unexpected_behavioral_traits": "Enjoys ABBA music juxtaposed with rugged mechanical work"
+    }
+}

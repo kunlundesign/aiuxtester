@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Mariana González",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Newburgh, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Part-time Retail Associate",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'4\"",
+            "Body shape": "Average",
+            "Hairstyle": "Long straight brown hair",
+            "Skin color": "Olive",
+            "Facial features": "Round face with minimal makeup",
+            "Dress Style": "Casual (jeans, graphic tees, sneakers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical sustainability, cultural preservation",
+        "motivations": "Financial independence, skill development",
+        "cognitive_style": "Structured problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical DIY projects (solar panels, car maintenance), job hunting, local news",
+        "ad_interactions": "High engagement with automotive (VW) and home improvement ads",
+        "preferred_content_sources": "Local newspapers, YouTube tutorials, job boards",
+        "social_media_usage": "Passive YouTube consumption, minimal Facebook use",
+        "ecommerce_behavior": "Budget-focused purchases (Craigslist, eBay)",
+        "device_usage": "Mobile-first user (Android/Chrome)",
+        "subscriptions": "Minecraft modding communities, local news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Administrative work, automotive industry basics",
+        "hobbies": "Minecraft modding, classic car research, Spanish-language music",
+        "entertainment_preferences": "Gaming videos (Five Nights at Freddy's), Latin ballads",
+        "content_consumption": "Short practical tutorials mixed with deep dives into niche topics",
+        "learning_style": "Self-taught through YouTube and forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on cultural items",
+        "income_level": "Lower-middle class (<$25k/year)",
+        "investment_habits": "No active investments",
+        "financial_tools": "Basic checking account, prepaid debit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused collaboration",
+        "family_structure": "Lives with immigrant parents",
+        "friendship_circle": "Small bilingual group with shared gaming interests",
+        "community_involvement": "Passive observer of Peruvian cultural events",
+        "online_vs_offline_engagement": "Prefers online interactions for hobbies"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks local news and job listings with breakfast",
+        "workday_habits": "Balances part-time shifts with DMV test prep",
+        "evening_and_leisure": "Minecraft modding and YouTube gaming content",
+        "weekend_activities": "Car shows, thrift shopping, family meals",
+        "sleep_schedule": "Moderate night owl (midnight bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional walks, basic home cooking",
+        "mental_health": "Games as stress relief",
+        "work_life_balance": "Clear separation between job and personal time",
+        "health_related_digital_behavior": "Occasional medical symptom checks (Mayo Clinic visit)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Prefers established practical brands (VW, Jenn-Air)",
+        "influence_factors": "User reviews, cultural relevance",
+        "tech_adoption": "Mainstream user with niche gaming exceptions",
+        "privacy_and_security_concerns": "Basic precautions (McAfee awareness)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Peruvian-American heritage",
+        "travel_habits": "Local day trips, aspirations for Peru visit",
+        "personal_projects": "Restoring vintage VW model kits",
+        "unexpected_behavioral_traits": "Combines practical job hunting with nostalgic automotive enthusiasm"
+    }
+}

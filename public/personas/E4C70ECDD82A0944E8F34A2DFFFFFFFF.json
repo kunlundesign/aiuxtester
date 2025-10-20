@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Martinez",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Los Angeles, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Student/Part-Time Retail Worker",
+        "company": "unknown",
+        "physical_attributes": {
+            "Height": "5'9\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, casual",
+            "Skin color": "Olive",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual (graphic tees, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Political curiosity, Practical sustainability",
+        "motivations": "Skill development, Financial independence",
+        "cognitive_style": "Analytical problem-solver"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Gardening techniques, Appliance usage, Local services",
+        "ad_interactions": "High engagement with gardening/kitchen ads",
+        "preferred_content_sources": "How-to guides, News websites, E-commerce platforms",
+        "social_media_usage": "Passive MSN news consumer",
+        "ecommerce_behavior": "Budget-focused (Temu, Craigslist bargains)",
+        "device_usage": "Desktop (Edge browser)",
+        "subscriptions": "MSN news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Basic tech literacy",
+        "hobbies": "Container gardening, Solitaire, DIY food prep",
+        "entertainment_preferences": "Political commentary, Celebrity news",
+        "content_consumption": "Instructional videos, News articles",
+        "learning_style": "Visual/experimental learning"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious bargain hunter",
+        "income_level": "Under $20k annually",
+        "investment_habits": "No visible investments",
+        "financial_tools": "Traditional banking (U.S. Bank, PayPal)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused collaborator",
+        "family_structure": "Likely lives with family",
+        "friendship_circle": "Small local group",
+        "community_involvement": "Local gardening exchanges",
+        "online_vs_offline_engagement": "Blended (local deals + online research)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/account checks",
+        "workday_habits": "School/work + personal errands",
+        "evening_and_leisure": "Gardening, Casual gaming",
+        "weekend_activities": "Thrift shopping, Family time",
+        "sleep_schedule": "Moderate night owl"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through gardening",
+        "mental_health": "Solitaire for stress relief",
+        "work_life_balance": "Balanced routine",
+        "health_related_digital_behavior": "No significant patterns"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven pragmatist",
+        "brand_loyalty": "Deal-seeker",
+        "influence_factors": "Price comparisons, User reviews",
+        "tech_adoption": "Mainstream user",
+        "privacy_and_security_concerns": "Basic precautions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Local/regional trips",
+        "personal_projects": "Apartment gardening",
+        "unexpected_behavioral_traits": "Political news interest despite technical focus"
+    }
+}

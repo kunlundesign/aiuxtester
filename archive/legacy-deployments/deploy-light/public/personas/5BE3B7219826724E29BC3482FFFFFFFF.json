@@ -1,0 +1,100 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Las Vegas, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Nevada, Las Vegas"
+        },
+        "occupation": "E-commerce Specialist",
+        "company": "Amazon",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, side-parted",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with oval face",
+            "Dress Style": "Casual-chic (graphic tees with jeans or chinos)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENTP",
+        "beliefs_and_values": "Technology optimism, work-life balance, environmental awareness",
+        "motivations": "Career advancement, financial stability, creative expression",
+        "cognitive_style": "Analytical with creative problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic research (real estate, entertainment, current events)",
+        "ad_interactions": "High engagement with travel/entertainment ads",
+        "preferred_content_sources": "Wikipedia, MSN News, Amazon product pages",
+        "social_media_usage": "Facebook/LinkedIn daily, TikTok weekly (passive scroller)",
+        "ecommerce_behavior": "Frequent mid-range purchases (home goods, fashion)",
+        "device_usage": "Windows desktop (Edge) + Android phone",
+        "subscriptions": [
+            "Netflix",
+            "Amazon Prime",
+            "Disney Plus"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "E-commerce trends, affiliate marketing",
+        "hobbies": "Gardening, movie trivia quizzes, party planning",
+        "entertainment_preferences": "Superhero films, Broadway musicals, pop-rock music",
+        "content_consumption": "Mix of clickbait headlines and in-depth articles",
+        "learning_style": "Video tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with occasional splurges",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (401k contributions)",
+        "financial_tools": [
+            "Credit cards",
+            "PayPal",
+            "Venmo"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team collaborator with leadership aspirations",
+        "family_structure": "Single, lives in apartment with dog",
+        "friendship_circle": "5-7 close friends from college",
+        "community_involvement": "Local dog park volunteer",
+        "online_vs_offline_engagement": "60% digital communication, 40% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks news/emails during breakfast",
+        "workday_habits": "Scheduled deep work blocks with music",
+        "evening_and_leisure": "Streaming shows while online shopping",
+        "weekend_activities": "Home projects, dog walks, movie nights",
+        "sleep_schedule": "Night owl (1am-9am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light gym 3x/week, pescatarian diet",
+        "mental_health": "Podcast-based mindfulness practice",
+        "work_life_balance": "Strict separation after 7pm",
+        "health_related_digital_behavior": "Fitbit tracking, Chewy auto-shipments"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with backup plans",
+        "brand_loyalty": "Amazon/Walmart preferred but price-sensitive",
+        "influence_factors": "User reviews + professional testimonials",
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Basic precautions (password manager)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Hispanic heritage",
+        "travel_habits": "2 domestic trips/year, prefers beach destinations",
+        "personal_projects": "DIY home improvement blog",
+        "unexpected_behavioral_traits": "Political news junkie who hates voting"
+    }
+}

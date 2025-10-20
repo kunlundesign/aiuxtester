@@ -1,0 +1,108 @@
+{
+    "Core Identity": {
+        "full_name": "James Mitchell",
+        "age": 56,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Louisville, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Agricultural Science or Technical Education",
+            "institution": "Bradley University"
+        },
+        "occupation": "Technical Educator or Agricultural Consultant",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual (polo shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, community involvement, technological pragmatism",
+        "motivations": "Maintaining household security, staying informed on finance/tech, preserving rural lifestyle",
+        "cognitive_style": "Structured problem-solver with preference for tangible solutions"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent tech/home improvement queries (Ring.com, Dell SupportAssist), detailed local service searches (appliance repair)",
+        "ad_interactions": "High engagement with home security/tech ads (Amazon Prime, Dell), moderate response to food delivery ads (Subway)",
+        "preferred_content_sources": "MSN News, eBay, Amazon, Bing Maps, Wikipedia",
+        "social_media_usage": "Passive Facebook user (multiple login records), no other platforms",
+        "ecommerce_behavior": "Frequent eBay purchases (14 domain visits), budget-conscious Amazon shopper",
+        "device_usage": "Windows/Edge desktop primary (166 Bing visits), secondary mobile use",
+        "subscriptions": "Amazon Prime, MSN Money, financial newsletters (Nasdaq)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Agricultural technology",
+            "STEM education trends",
+            "Equipment maintenance"
+        ],
+        "hobbies": [
+            "Poultry breeding (Maran chickens)",
+            "Local volleyball leagues",
+            "Home automation projects"
+        ],
+        "entertainment_preferences": [
+            "Sports documentaries",
+            "Classic rock",
+            "DIY building shows"
+        ],
+        "content_consumption": "News articles > videos, prefers factual reporting with practical applications",
+        "learning_style": "Hands-on experimentation (chicken breeding), structured online tutorials (Dell support)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious bulk purchases (Amazon organizers), selective tech investments (Netgear Orbi)",
+        "income_level": "$60k-$80k/year",
+        "investment_habits": "Conservative (Blue Cross insurance, Country Financial)",
+        "financial_tools": [
+            "Chase online banking",
+            "PayPal",
+            "Compeer Financial"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent consultant with collaborative project approach",
+        "family_structure": "Married with teenage children",
+        "friendship_circle": "Small group from local community/volleyball leagues",
+        "community_involvement": "Youth sports coordinator (IESA volleyball), church activities (Psalm 33:12 search)",
+        "online_vs_offline_engagement": "Prefers in-person interactions but uses online tools for convenience"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN News/Facebook over coffee, reviews financial accounts",
+        "workday_habits": "Structured client consultations, equipment maintenance tasks",
+        "evening_and_leisure": "Home security system monitoring, eBay browsing, family TV time",
+        "weekend_activities": "Volleyball tournaments, hardware store trips, chicken coop maintenance",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (sports events participation), prefers home-cooked meals (Olive Garden/Panera searches)",
+        "mental_health": "Stress management through hands-on projects, no indicated disorders",
+        "work_life_balance": "Clear separation (evening family time, weekend hobbies)",
+        "health_related_digital_behavior": "Occasional medical portal use (OSF MyChart), no fitness trackers"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (extensive product comparisons), slow adopter for major purchases",
+        "brand_loyalty": "Strong in tech (Dell, Netgear), flexible in services",
+        "influence_factors": "Consumer reviews, brand reputation, local recommendations",
+        "tech_adoption": "Mainstream user (adopts proven smart home tech), avoids experimental AI",
+        "privacy_and_security_concerns": "Moderate (uses home security systems, shares minimal personal data)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American, monolingual English speaker",
+        "travel_habits": "Occasional regional trips (Enterprise rentals), prefers driveable destinations",
+        "personal_projects": "Backyard chicken breeding, home automation system customization",
+        "unexpected_behavioral_traits": "Technologically competent yet maintains analog organizational systems (file folder searches)"
+    }
+}

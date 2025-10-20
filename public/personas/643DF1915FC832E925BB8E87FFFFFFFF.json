@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Rodriguez",
+        "age": 30,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Spring Hill, United States",
+        "education": {
+            "degree": "Bachelor of Science in Nursing",
+            "major": "Nursing",
+            "institution": "Galen College of Nursing"
+        },
+        "occupation": "Registered Nurse",
+        "company": "Local Healthcare Facility",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Medium-length straight hair",
+            "skin_color": "Light olive",
+            "facial_features": "Round face with glasses",
+            "dress_style": "Casual practical clothing with anime-themed accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": "Health equity advocacy, creative expression through fandom communities",
+        "motivations": "Professional development in nursing, escapism through fantasy narratives",
+        "cognitive_style": "Analytical with strong narrative thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches for manga plot details + practical local service queries",
+        "ad_interactions": "Medium engagement with automotive parts/pet supplies/home improvement ads",
+        "preferred_content_sources": "Niche manga platforms (MangaBuddy), medical databases (PubMed), fanfiction communities",
+        "social_media_usage": "Passive engagement on Facebook/Nextdoor for local updates",
+        "ecommerce_behavior": "Budget-conscious with frequent secondhand purchases (eBay/Craigslist)",
+        "device_usage": "Windows desktop primary device with mobile complement",
+        "subscriptions": "Crunchyroll, Paramount+, local event newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Health literacy initiatives, nurse staffing reforms",
+        "hobbies": "Fanfiction writing, aquarium maintenance, DIY home projects",
+        "entertainment_preferences": "Isekai anime, dark fantasy web novels, true crime documentaries",
+        "content_consumption": "Long-form narrative content with strong character development",
+        "learning_style": "Self-directed research blended with peer discussion forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on collectibles",
+        "income_level": "$65,000-$75,000 annually",
+        "investment_habits": "Conservative retirement-focused through Fidelity",
+        "financial_tools": "Traditional banking with eBay seller account"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player with mentoring tendencies",
+        "family_structure": "Lives with partner and pet(s)",
+        "friendship_circle": "Small group of close friends from fandom communities",
+        "community_involvement": "Local festival participation, online nursing forums",
+        "online_vs_offline_engagement": "Primarily online social interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks nursing updates while commuting",
+        "workday_habits": "Structured hospital shifts with documentation periods",
+        "evening_and_leisure": "Manga reading sessions with anime background viewing",
+        "weekend_activities": "Local festival attendance, aquarium maintenance, eBay listings",
+        "sleep_schedule": "Night owl with late-night reading sessions"
+    },
+    "Health & Well-being": {
+        "physical_health": "Conscious of heart-healthy diet, light yoga practice",
+        "mental_health": "Uses fantasy media for stress relief",
+        "work_life_balance": "Strict boundaries between clinical work and personal time",
+        "health_related_digital_behavior": "Evidence-based medical research combined with holistic wellness trends"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with backup options",
+        "brand_loyalty": "Mix of trusted medical brands + fandom-driven purchases",
+        "influence_factors": "Peer recommendations in niche communities",
+        "tech_adoption": "Mainstream user with specific platform expertise",
+        "privacy_and_security_concerns": "Basic precautions without obsession"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Spanish with anime fandom jargon",
+        "travel_habits": "Regional day trips for festivals/conventions",
+        "personal_projects": "Maintaining fanfiction archive, custom car modifications",
+        "unexpected_behavioral_traits": "Combines clinical pragmatism with elaborate fantasy world-building"
+    }
+}

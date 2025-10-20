@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 34,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Van Buren, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Graphic Design",
+            "institution": "Community College of Michigan"
+        },
+        "occupation": "Freelance Photographer",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, neat",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual (jeans, t-shirts, practical outerwear)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology optimism, appreciation for practical craftsmanship",
+        "motivations": "Mastery of technical skills, creative expression through photography",
+        "cognitive_style": "Analytical problem-solving combined with visual creativity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (photo editing, camera gear), repeated comparisons of products",
+        "ad_interactions": "High engagement with photography equipment and tech ads",
+        "preferred_content_sources": "YouTube tutorials, B&H Photo, Amazon product reviews",
+        "social_media_usage": "YouTube (active learner), limited other platforms",
+        "ecommerce_behavior": "Mid-range spending on tech/photo gear, frequent Amazon/Walmart purchases",
+        "device_usage": "Desktop primary (Adobe software usage), Chrome browser",
+        "subscriptions": "Adobe Creative Cloud, YouTube Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Photography techniques, lens technology, photo editing software",
+        "hobbies": "Amateur photography, Michigan football fandom, military aviation history",
+        "entertainment_preferences": "Documentaries (military history), tech tutorial videos",
+        "content_consumption": "Detailed product reviews + brief how-to videos",
+        "learning_style": "Self-learning through tutorials and manuals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious quality seeker in tech, occasional impulse on photography gear",
+        "income_level": "$45,000-$60,000",
+        "investment_habits": "Conservative with savings, strategic spending on equipment",
+        "financial_tools": "Amazon Prime Card, Chase banking services"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor, occasional client collaborations",
+        "family_structure": "Lives alone",
+        "friendship_circle": "Small group of photography enthusiasts",
+        "community_involvement": "Local photography meetups",
+        "online_vs_offline_engagement": "Prefers online tech communities, occasional in-person events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks sports news, reviews photography workflow",
+        "workday_habits": "Flexible schedule with focused editing sessions",
+        "evening_and_leisure": "Photo editing projects, YouTube tutorials",
+        "weekend_activities": "Local photo shoots, tech research, football games",
+        "sleep_schedule": "Night owl (late editing sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional hiking for photography, uses ergonomic workspace setup",
+        "mental_health": "Stress relief through creative projects",
+        "work_life_balance": "Blends work and hobby intentionally",
+        "health_related_digital_behavior": "Occasional vitamin research, Norton security vigilance"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive for tech purchases",
+        "brand_loyalty": "Prefers established photography brands (Sony, Canon)",
+        "influence_factors": "Expert reviews, technical specifications",
+        "tech_adoption": "Early mainstream adopter (adopts proven upgrades)",
+        "privacy_and_security_concerns": "Security-conscious (Norton usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Midwestern cultural influences",
+        "travel_habits": "Occasional domestic photography trips, interest in European castles",
+        "personal_projects": "Building vintage military aircraft photo archive",
+        "unexpected_behavioral_traits": "Technical precision in photography combined with interest in abstract military history"
+    }
+}

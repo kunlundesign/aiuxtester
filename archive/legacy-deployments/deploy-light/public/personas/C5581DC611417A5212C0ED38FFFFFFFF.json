@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Reynolds",
+        "age": 56,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Keyser, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "West Virginia University"
+        },
+        "occupation": "Legal Administrative Assistant",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile with glasses",
+            "Dress Style": "Casual professional with earth tones"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, privacy rights, artistic self-expression",
+        "motivations": "Financial security, creative fulfillment, maintaining independence",
+        "cognitive_style": "Analytical with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex queries (DSLR astrophotography setup), financial research, real estate analytics",
+        "ad_interactions": "High engagement with home equity loans, luxury beauty products, and office supplies",
+        "preferred_content_sources": "Zillow, Microsoft 365, legal databases, Etsy artisans",
+        "social_media_usage": "Passive YouTube consumption, limited Facebook",
+        "ecommerce_behavior": "Mid-range spending on crafts/home decor, comparison shops using Rakuten",
+        "device_usage": "Windows desktop primary, Edge browser",
+        "subscriptions": "Microsoft 365, Zillow alerts, Etsy seller updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate law trends, document management systems",
+        "hobbies": "Star photography, DIY wedding crafts, home staging",
+        "entertainment_preferences": "True crime documentaries, classic rock",
+        "content_consumption": "Long-form legal articles, step-by-step DIY tutorials",
+        "learning_style": "Video tutorials paired with hands-on practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious luxury (premium skincare but shops sales)",
+        "income_level": "$55,000-$65,000",
+        "investment_habits": "Conservative (TreasuryDirect activity)",
+        "financial_tools": "PayPal, Wells Fargo online banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with strong deadline focus",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Small craft group meets weekly",
+        "community_involvement": "Local photography club member",
+        "online_vs_offline_engagement": "Prefers in-person crafting, online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking Zillow alerts/MSN finance updates",
+        "workday_habits": "Blocks morning for legal research, afternoons for administrative tasks",
+        "evening_and_leisure": "Etsy crafting projects, photo editing",
+        "weekend_activities": "Property scouting trips, amateur photography outings",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light yoga routine, monitors sleep apnea treatment options",
+        "mental_health": "Stress relief through crafting, avoids work email after 7 PM",
+        "work_life_balance": "Structured separation between freelance work and personal time",
+        "health_related_digital_behavior": "Researches Inspire Therapy, follows Cleveland Clinic health guides"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with backup plans",
+        "brand_loyalty": "Sticks with proven brands (Microsoft, Olay)",
+        "influence_factors": "Expert reviews + personal testing",
+        "tech_adoption": "Mainstream user with specific tool mastery",
+        "privacy_and_security_concerns": "Uses dedicated email for financial accounts"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Appalachian cultural roots, English only",
+        "travel_habits": "Regional trips for property photography",
+        "personal_projects": "Creating wedding sign inventory for Etsy store",
+        "unexpected_behavioral_traits": "Simultaneously pragmatic (legal research) and creatively expressive (DIY crafts)"
+    }
+}

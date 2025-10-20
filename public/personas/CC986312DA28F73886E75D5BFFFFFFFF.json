@@ -1,0 +1,105 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 31,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Durham, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Building Inspection Technology",
+            "institution": "Durham Technical Community College"
+        },
+        "occupation": "Certified Home Inspector",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length straight hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, practical appearance",
+            "Dress Style": "Casual workwear (polo shirts, durable pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical problem-solving, regulatory compliance",
+        "motivations": "Professional credibility, technical mastery",
+        "cognitive_style": "Detail-oriented analytical thinker"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical property details (76% of queries), code compliance (18%), tech gadgets (6%)",
+        "ad_interactions": "Tools/equipment (58%), real estate services (32%), tech (10%)",
+        "preferred_content_sources": [
+            "Zillow",
+            "InterNACHI forums",
+            "MSN News",
+            "Inspectapedia"
+        ],
+        "social_media_usage": "Facebook (professional networking), passive engagement",
+        "ecommerce_behavior": "Work-related purchases (85%), occasional tech gadgets (15%)",
+        "device_usage": "Windows desktop (73%), Android mobile (27%), Edge browser",
+        "subscriptions": [
+            "HomeGauge Pro",
+            "InterNACHI Education",
+            "Zillow Premier Agent"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Building code updates, thermal imaging tech",
+        "hobbies": "Drone photography, DIY home projects",
+        "entertainment_preferences": "True crime documentaries, country music",
+        "content_consumption": "Technical manuals (65%), market reports (25%), tech reviews (10%)",
+        "learning_style": "Certification courses + field experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Essential tool upgrades (70%), strategic tech investments (20%), occasional luxuries (10%)",
+        "income_level": "$62,000 annually",
+        "investment_habits": "Conservative (401k focus)",
+        "financial_tools": [
+            "Business credit card",
+            "PayPal",
+            "QuickBooks"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-focused independent operator",
+        "family_structure": "Unknown",
+        "friendship_circle": "Professional network contacts",
+        "community_involvement": "ASHI member, local contractor meetups",
+        "online_vs_offline_engagement": "Hybrid (virtual research, in-person inspections)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Review inspection schedules, check industry alerts",
+        "workday_habits": "3-4 property inspections daily, afternoon report writing",
+        "evening_and_leisure": "Drone practice flights, home improvement projects",
+        "weekend_activities": "Open house visits, equipment maintenance",
+        "sleep_schedule": "11 PM - 6 AM (Consistent work rhythm)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active job demands, packable lunches",
+        "mental_health": "Stress managed through task completion",
+        "work_life_balance": "Integrated (hobbies support professional skills)",
+        "health_related_digital_behavior": "Ergonomics research, OSHA guidelines"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based compliance checks",
+        "brand_loyalty": "Tools: Milwaukee > Ryobi; Tech: DJI > competitors",
+        "influence_factors": "ICC codes, manufacturer specs",
+        "tech_adoption": "Early adopter for imaging tools, cautious otherwise",
+        "privacy_and_security_concerns": "Standard precautions for client data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English (native), basic Spanish",
+        "travel_habits": "Regional travel within NC inspection radius",
+        "personal_projects": "Drone-based thermal mapping prototype",
+        "unexpected_behavioral_traits": "Combines technical rigor with creative aerial photography"
+    }
+}

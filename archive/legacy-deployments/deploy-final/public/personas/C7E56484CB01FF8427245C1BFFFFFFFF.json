@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Spencer, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Wisconsin"
+        },
+        "occupation": "Office Manager",
+        "company": "Country Wireless",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, neat",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual (polo shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, financial independence",
+        "motivations": "Career stability, financial security, personal relationships",
+        "cognitive_style": "Analytical with practical problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical queries (equipment specs), financial research (silver prices), sports analytics",
+        "ad_interactions": "High engagement with precious metals ads, moderate interest in machinery parts",
+        "preferred_content_sources": "MSN Sports, JM Bullion, eBay, technical forums",
+        "social_media_usage": "Passive browsing on Facebook Marketplace, no public posts",
+        "ecommerce_behavior": "Budget-conscious for tech gear, invests in silver bullion",
+        "device_usage": "Desktop (Edge browser) for work, mobile for news",
+        "subscriptions": "MSN Sports newsletter, JM Bullion price alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Wireless infrastructure, network optimization tools",
+        "hobbies": "Golf equipment collecting, NBA analysis",
+        "entertainment_preferences": "NFL games, sports documentaries, action movies",
+        "content_consumption": "Fact-driven sports analytics, technical manuals",
+        "learning_style": "Self-directed research via forums and product specs"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases (engagement ring budgeting), value-oriented tech upgrades",
+        "income_level": "$50,000-$60,000",
+        "investment_habits": "Conservative (physical silver assets)",
+        "financial_tools": "Credit cards, PayPal, banking apps"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team manager, process-oriented",
+        "family_structure": "Likely living with partner (engagement planning signals)",
+        "friendship_circle": "Small group of close friends",
+        "community_involvement": "Minimal formal participation",
+        "online_vs_offline_engagement": "Prefers online research over social gatherings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks NFL updates with coffee",
+        "workday_habits": "Network monitoring, customer support coordination",
+        "evening_and_leisure": "Sports analysis, equipment maintenance research",
+        "weekend_activities": "Golf practice, tech DIY projects",
+        "sleep_schedule": "11 PM - 6:30 AM (consistent work schedule)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through golf, no extreme fitness regimen",
+        "mental_health": "Stable, problem-focused coping",
+        "work_life_balance": "Structured separation",
+        "health_related_digital_behavior": "Occasional symptom searches, no chronic tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive, comparison-driven",
+        "brand_loyalty": "Prefers established brands (Titleist clubs, JM Bullion)",
+        "influence_factors": "Expert reviews, product certifications",
+        "tech_adoption": "Early majority (adopts proven solutions)",
+        "privacy_and_security_concerns": "Moderate (avoids unnecessary data sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American, monolingual English",
+        "travel_habits": "Regional trips for sports events",
+        "personal_projects": "Home network optimization, silver investment tracking",
+        "unexpected_behavioral_traits": "Technical professional deeply engaged in sports fandom analysis"
+    }
+}

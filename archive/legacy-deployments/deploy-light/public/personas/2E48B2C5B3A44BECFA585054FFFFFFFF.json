@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "William Fitzgerald",
+        "age": 80,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "South Saint Paul, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "History",
+            "institution": "University of Minnesota"
+        },
+        "occupation": "Retired Archivist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles, rectangular glasses",
+            "Dress Style": "Casual (polo shirts, loose-fitting trousers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Political conservatism, historical preservation, financial prudence",
+        "motivations": "Health maintenance, staying politically informed, preserving personal/family history",
+        "cognitive_style": "Fact-based analysis with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep historical research, health diagnostics, political merchandise",
+        "ad_interactions": "High engagement with Trump merchandise, health products, ergonomic furniture",
+        "preferred_content_sources": "Wikipedia, local news (twincities.com), legacy.com",
+        "social_media_usage": "Passive Facebook engagement for community updates",
+        "ecommerce_behavior": "Budget-conscious purchases of practical items",
+        "device_usage": "Desktop (Edge browser), occasional mobile",
+        "subscriptions": "MSN News, local obituary alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Historical archives, local Minnesota history",
+        "hobbies": "Genealogy research, classic film appreciation",
+        "entertainment_preferences": "1940s cinema (e.g., 'The Lost Weekend'), classic rock",
+        "content_consumption": "Long-form articles with factual reporting",
+        "learning_style": "Self-directed research using primary sources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Practical purchases with occasional political merchandise splurges",
+        "income_level": "Fixed middle-class retirement income",
+        "investment_habits": "Conservative (CDs, municipal bonds)",
+        "financial_tools": "US Bank online banking, credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent researcher, occasional collaboration with historical societies",
+        "family_structure": "Widowed, lives alone",
+        "friendship_circle": "Small group of lifelong friends",
+        "community_involvement": "Local history preservation groups",
+        "online_vs_offline_engagement": "Primarily online research with limited in-person interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking email and local news",
+        "workday_habits": "3-4 hours of genealogical research, online shopping",
+        "evening_and_leisure": "Classic film streaming, Facebook browsing",
+        "weekend_activities": "Visiting local archives, family history documentation",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages liver concerns, uses Healthline for medical info",
+        "mental_health": "Uses historical research as cognitive exercise",
+        "work_life_balance": "Structured daily routine",
+        "health_related_digital_behavior": "Monitors liver function research, nutrition guides"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with political bias",
+        "brand_loyalty": "Strong loyalty to Trump merchandise, US Bank",
+        "influence_factors": "Historical precedents, conservative media",
+        "tech_adoption": "Mainstream user with specific tool mastery",
+        "privacy_and_security_concerns": "Minimal (uses basic antivirus)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, Scandinavian heritage",
+        "travel_habits": "Local historical sites, rare international trips (e.g., Jordan research)",
+        "personal_projects": "Family tree documentation spanning 5 generations",
+        "unexpected_behavioral_traits": "Tech-savvy octogenarian maintaining detailed digital archives"
+    }
+}

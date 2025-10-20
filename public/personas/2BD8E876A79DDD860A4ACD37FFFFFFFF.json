@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Locust, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of North Carolina at Charlotte"
+        },
+        "occupation": "Florist Business Owner/Entrepreneur",
+        "company": "Self-employed",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short fade with textured top",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual-chic (slim-fit polos, dark jeans, functional sneakers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Entrepreneurial self-reliance, health consciousness, community-oriented business practices",
+        "motivations": "Business expansion, creative expression through floral design, financial independence",
+        "cognitive_style": "Practical problem-solver who blends analytical planning (SmartDraw usage) with creative execution (Adobe Express projects)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-session commercial research (3+ queries for wholesale flowers), technical how-tos (sink relocation), business compliance (food permits)",
+        "ad_interactions": "High engagement with B2B ads (WebstaurantStore, Torani syrups), moderate wedding industry interest (Birdy Grey dresses)",
+        "preferred_content_sources": "Reddit communities, Microsoft math tools, Yelp business reviews, realtor.com market data",
+        "social_media_usage": "Passive Pinterest browsing for design ideas, Facebook for local community updates",
+        "ecommerce_behavior": "Bulk purchasing (Costco/Sam's Club), boutique wholesale platforms (Faire.com)",
+        "device_usage": "Desktop-centric workflow (SmartDraw/Adobe tools) with mobile ordering apps",
+        "subscriptions": "Adobe Creative Cloud, SmartDraw Pro, MSN Premium ad-free"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Floral supply chain optimization, retail display design, small business SaaS tools",
+        "hobbies": "DIY woodcraft projects, casual pickleball, sports analytics (NFL/NBA)",
+        "entertainment_preferences": "Sports talk podcasts, home improvement reality shows, indie folk music",
+        "content_consumption": "Hybrid consumer - detailed business articles (floral trends) + snackable sports updates",
+        "learning_style": "Project-based experimentation (wood flower tutorials) supplemented by vendor documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurging on business infrastructure (commercial ice machine research) with personal budget consciousness",
+        "income_level": "$45,000-$65,000 (small business owner)",
+        "investment_habits": "Reinvesting profits, exploring commercial real estate (Indian Trail property searches)",
+        "financial_tools": "Square payment processing, QuickBooks Online, business credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Hands-on leader who participates in floral design while managing 2-3 part-time employees",
+        "family_structure": "Lives alone in rented space with home office",
+        "friendship_circle": "Mix of entrepreneurial peers and recreational sports teammates",
+        "community_involvement": "Local farmers market vendor, Chamber of Commerce events",
+        "online_vs_offline_engagement": "70% business-related digital interaction, 30% in-person supplier meetings/customer consultations"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Quick gym session (Planet Fitness), wholesale order management over coffee",
+        "workday_habits": "Mornings: floral arrangements, afternoons: business admin/meetings, evenings: product research",
+        "evening_and_leisure": "Sports news catch-up, mocktail experimentation for potential menu expansion",
+        "weekend_activities": "Farmers market vending, DIY home projects, hiking with friends",
+        "sleep_schedule": "11 PM - 6 AM (disciplined rest for productivity)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active lifestyle (gym 4x/week), transitioning to heart-healthy diet (cholesterol management searches)",
+        "mental_health": "Stress management through woodworking, no indicated therapy use",
+        "work_life_balance": "Blurred boundaries typical of entrepreneurs, but conscious gym scheduling",
+        "health_related_digital_behavior": "Nutrition research focus over fitness apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-informed risk taker (comparing multiple wholesale suppliers)",
+        "brand_loyalty": "Flexible - switches between Adobe/Microsoft tools but loyal to Faire wholesale",
+        "influence_factors": "Peer recommendations in Reddit entrepreneur groups, vendor reputation",
+        "tech_adoption": "Early mainstream adopter (POS systems) with caution on IoT devices",
+        "privacy_and_security_concerns": "Moderate - uses 2FA for financial accounts but shares business data with vendors"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English with basic Spanish for supplier communication",
+        "travel_habits": "Regional business travel (NC/SC/GA floral markets), no frequent leisure travel",
+        "personal_projects": "Prototyping wooden floral centerpieces, exploring soda shop concept",
+        "unexpected_behavioral_traits": "Sports enthusiast who analyzes team strategies but doesn't play competitively"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 18,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Lancaster, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Psychology (Planned)",
+            "institution": "Conestoga Valley School District (Assumed)"
+        },
+        "occupation": "Part-Time Retail Associate (Assumed)",
+        "company": "Old Navy (Inferred from frequent visits to Old Navy pages)",
+        "physical attributes": {
+            "Height": "5'5\" (Average for female demographic)",
+            "Body shape": "Athletic (Inferred from lululemon/Hoka brand interest)",
+            "Hairstyle": "Mid-length with subtle highlights (Fashion-conscious from ad clicks)",
+            "Skin color": "Fair (Common in Pennsylvania demographics)",
+            "Facial features": "Minimal makeup, natural brows (Inferred from brow tinting searches)",
+            "Dress Style": "Casual-comfortable with trend accents (Old Navy/lululemon preferences)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (Diverse interests in gaming, design, true crime)",
+            "conscientiousness": "Medium (Academic planning but impulse shopping tendencies)",
+            "extraversion": "Medium (Balances solo gaming with social event planning)",
+            "agreeableness": "High (Engages with community via school district research)",
+            "neuroticism": "Medium (Financial/career planning anxiety from refund/job searches)"
+        },
+        "mbti": "ISFJ (Practical planner with strong empathy from psychology focus)",
+        "beliefs_and_values": "Education accessibility, creative self-expression",
+        "motivations": "Academic achievement, financial independence, creative fulfillment",
+        "cognitive_style": "Structured problem-solving with design creativity (Canva/OSRS optimization)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-session academic research, transactional retail queries",
+        "ad_interactions": "High engagement with fashion/design ads (7/10 clicked ads)",
+        "preferred_content_sources": "Niche (gaming forums), US News (academic), MSN/Peacock (news/entertainment)",
+        "social_media_usage": "Visual platforms (Instagram/Pinterest inferred from Canva use)",
+        "ecommerce_behavior": "Budget-conscious with occasional splurges (Old Navy sales + lululemon)",
+        "device_usage": "Windows desktop (Edge browser dominance), secondary mobile",
+        "subscriptions": "Peacock, Hulu, Max (Streaming preferences from domain visits)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Clinical psychology, educational counseling",
+        "hobbies": "Gaming (OSRS/Fallout 76), DIY design (Canva), theme park tourism",
+        "entertainment_preferences": "Crime dramas (Chicago P.D./Fire), Lana Del Rey, superhero films (Deadpool)",
+        "content_consumption": "Hybrid (Long-form academic articles + snackable deal alerts)",
+        "learning_style": "Self-guided research (University program comparisons)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused (Old Navy deals) with targeted luxury (lululemon)",
+        "income_level": "$20k-$30k (Part-time retail wage)",
+        "investment_habits": "Conservative (No signals beyond basic banking)",
+        "financial_tools": "Debit cards, mobile banking (Xfinity login activity)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented (Retail environment assumption)",
+        "family_structure": "Lives with parents (Typical for 18yo in school transition)",
+        "friendship_circle": "Close-knit group (Escape room party planning focus)",
+        "community_involvement": "Local school district engagement",
+        "online_vs_offline_engagement": "Balanced (Digital research + in-person retail work)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check academic deadlines, MSN news skim",
+        "workday_habits": "Afternoon/evening shifts (Retail schedule assumption)",
+        "evening_and_leisure": "Gaming sessions, streaming marathons",
+        "weekend_activities": "Mall outings (Hollister/Old Navy), resort research",
+        "sleep_schedule": "Moderate night owl (Gaming/streaming late hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light activity (Walking shifts), balanced diet (No specific signals)",
+        "mental_health": "Music/therapy through gaming (Stress management)",
+        "work_life_balance": "Moderate (Academic pressure vs leisure time)",
+        "health_related_digital_behavior": "Basic symptom checks (CDC/Clinic page visits)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for major purchases (University comparisons)",
+        "brand_loyalty": "Selective (Old Navy + lululemon mix)",
+        "influence_factors": "Peer reviews (Boxbollen research), official rankings (Niche)",
+        "tech_adoption": "Mainstream user (No cutting-edge signals)",
+        "privacy_and_security_concerns": "Basic caution (No VPN/advanced privacy tools)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual (No contrary signals)",
+        "travel_habits": "Regional trips (Kalahari Resorts/Poconos interest)",
+        "personal_projects": "Escape room design (AdEvent templates)",
+        "unexpected_behavioral_traits": "Strategic gamer pursuing creative writing (OSRS optimization + story ideas)"
+    }
+}

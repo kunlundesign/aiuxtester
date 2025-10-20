@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Rodriguez",
+        "age": 37,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Brooklyn, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "CUNY Brooklyn College"
+        },
+        "occupation": "Administrative Assistant",
+        "company": "Local government agency",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length straight hair",
+            "Skin color": "Light olive",
+            "Facial features": "Minimal makeup with rectangular glasses",
+            "Dress Style": "Business casual with occasional designer accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-improvement through education",
+        "motivations": "Career advancement and financial stability",
+        "cognitive_style": "Structured problem-solver with attention to bureaucratic detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Government procedures (DMV, MTA), consumer electronics troubleshooting, financial credit management",
+        "ad_interactions": "High engagement with fashion (Marc Jacobs, Fendi) and tech product ads",
+        "preferred_content_sources": "Government portals, MSN news, Amazon product pages",
+        "social_media_usage": "Passive engagement on platforms with embedded video content",
+        "ecommerce_behavior": "Mid-range spending on clothing and home goods",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": "Disney+, Peacock, Philo"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate licensing preparation",
+        "hobbies": "Reality TV watching, home decoration research",
+        "entertainment_preferences": "True crime documentaries (Philo's Fear Thy Neighbor), Disney animations",
+        "content_consumption": "Procedural government guides and product specs",
+        "learning_style": "Structured online courses with official certification"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with occasional luxury splurges on accessories",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative savings focus",
+        "financial_tools": "Chase checking account, CareCredit"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Process-oriented collaborator",
+        "family_structure": "Single parent with young child",
+        "friendship_circle": "Small group of neighborhood acquaintances",
+        "community_involvement": "School program participation (Summer Rising)",
+        "online_vs_offline_engagement": "Prefers practical online transactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks government portals before work",
+        "workday_habits": "Balances bureaucratic tasks with personal admin during breaks",
+        "evening_and_leisure": "Streams reality TV while managing household needs",
+        "weekend_activities": "Childcare coordination and online course progress",
+        "sleep_schedule": "Midnight to 7 AM routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work lifestyle with occasional walks",
+        "mental_health": "Stress management through entertainment",
+        "work_life_balance": "Rigid separation of professional/personal time",
+        "health_related_digital_behavior": "Occasional medical credit research (CareCredit)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Bureaucracy-informed risk aversion",
+        "brand_loyalty": "Trusts established institutions over new brands",
+        "influence_factors": "Government guidelines and verified reviews",
+        "tech_adoption": "Mainstream user replacing broken electronics",
+        "privacy_and_security_concerns": "Accepts data collection for convenience"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-dominant with NYC urban culture",
+        "travel_habits": "Aspirational planner (Bali research)",
+        "personal_projects": "Real estate license preparation alongside full-time work",
+        "unexpected_behavioral_traits": "Combines pragmatic bureaucracy navigation with reality TV escapism"
+    }
+}

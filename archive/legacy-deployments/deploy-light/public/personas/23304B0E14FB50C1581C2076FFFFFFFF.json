@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 49,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Cleveland, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Business Administration",
+            "institution": "Cuyahoga Community College"
+        },
+        "occupation": "Freelance Reseller/Small Business Owner",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Stocky",
+            "hairstyle": "Short, receding hairline",
+            "skin_color": "Light brown",
+            "facial_features": "Round face with stubble",
+            "dress_style": "Casual (graphic tees, baseball jerseys)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Pragmatic individualism, skepticism of institutions",
+        "motivations": "Financial independence, maintaining lifestyle flexibility",
+        "cognitive_style": "Practical problem-solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on practical solutions (government services, tech troubleshooting), deep commercial research (cannabis products, auctions)",
+        "ad_interactions": "Engages with work-from-home opportunities, budget apparel, and food deals",
+        "preferred_content_sources": "Government portals (IRS, ODJFS), auction platforms (BidFTA), cannabis dispensary sites",
+        "social_media_usage": "Passive browsing on Facebook Marketplace, Instagram stories",
+        "ecommerce_behavior": "Budget-conscious across Temu/Etsy, splurges on cannabis products",
+        "device_usage": "Desktop for official business, mobile for social media",
+        "subscriptions": "Quarter Price auction alerts, dispensary newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Resale markets, cannabis industry trends, government contracting",
+        "hobbies": "ATV riding, DIY crafts, following Cleveland Cavaliers",
+        "entertainment_preferences": "Hip-hop/R&B (Party Next Door), crime documentaries",
+        "content_consumption": "Factual local news, tutorial videos, auction catalogs",
+        "learning_style": "YouTube tutorials for tech issues, trial-and-error for crafts"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with occasional cannabis/entertainment splurges",
+        "income_level": "$35,000-$45,000 annually",
+        "investment_habits": "Conservative (real estate interest but no active investments)",
+        "financial_tools": "Cash App, traditional banking, EBT benefits"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with occasional vendor collaborations",
+        "family_structure": "Likely single/divorced with teenage children (16th birthday Etsy searches)",
+        "friendship_circle": "Small group of local buddies (sports/ATV connections)",
+        "community_involvement": "Monitor of local politics/housing issues",
+        "online_vs_offline_engagement": "Primarily offline with strategic digital use"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks auction updates, local news with coffee",
+        "workday_habits": "Balances resale business with benefit management",
+        "evening_and_leisure": "Streams crime shows, browses dispensary menus",
+        "weekend_activities": "ATV trips, flea market scavenging",
+        "sleep_schedule": "Night owl (late-night MSN browsing)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work habits balanced with outdoor recreation",
+        "mental_health": "Uses cannabis for relaxation, no formal therapy",
+        "work_life_balance": "Blurred boundaries due to freelance work",
+        "health_related_digital_behavior": "Researches herbal remedies (tea tree oil)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis with contingency planning",
+        "brand_loyalty": "Price-driven switching (Temu vs Amazon)",
+        "influence_factors": "Deal availability, peer recommendations",
+        "tech_adoption": "Mainstream user with practical upgrades",
+        "privacy_and_security_concerns": "Low (multiple account logins visible)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "African American Vernacular English",
+        "travel_habits": "Regional road trips (Florida/Michigan)",
+        "personal_projects": "Custom t-shirt printing business",
+        "unexpected_behavioral_traits": "Combines bureaucratic diligence (tax filings) with cannabis entrepreneurship"
+    }
+}

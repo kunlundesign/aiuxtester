@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Carlos Mendoza",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "United States (Nicaraguan cultural ties)",
+        "current_residence": "Daly City, United States",
+        "education": {
+            "degree": "Associate Degree (in progress)",
+            "major": "Nursing/Healthcare",
+            "institution": "City College of San Francisco"
+        },
+        "occupation": "Part-Time Hospitality Worker",
+        "company": "Qwick/Temporary Staffing",
+        "physical_attributes": {
+            "height": "unknown",
+            "body_shape": "unknown",
+            "hairstyle": "unknown",
+            "skin_color": "unknown",
+            "facial_features": "unknown",
+            "dress_style": "Casual with anime/Sanrio-inspired accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": "Technology optimism, cultural preservation",
+        "motivations": "Career stability in healthcare, financial independence",
+        "cognitive_style": "Creative problem-solver with structured learning habits"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-lingual searches (English/Spanish), focused on education/finance/entertainment",
+        "ad_interactions": "High engagement with travel/auto/tech ads",
+        "preferred_content_sources": "YouTube, MSN News, Pluto TV, educational institution sites",
+        "social_media_usage": "Daily Facebook/YouTube usage, passive consumption",
+        "ecommerce_behavior": "Budget-conscious with occasional splurges on tech/beauty",
+        "device_usage": "Mobile-first user (T-Mobile account activity), Edge browser",
+        "subscriptions": "Pluto TV, Microsoft 365 (probable)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare education, Microsoft certification paths",
+        "hobbies": "Anime culture, 80s music curation, exploring Nicaraguan heritage",
+        "entertainment_preferences": "Sci-fi films (Arrival, Star Trek), Latin pop/Rock en Español",
+        "content_consumption": "Bilingual video content, educational tutorials",
+        "learning_style": "Self-directed video learning supplemented with formal courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with targeted tech/beauty splurges",
+        "income_level": "Lower-middle ($20k-$30k/year)",
+        "investment_habits": "Conservative (401k interest via family account)",
+        "financial_tools": "Wells Fargo/Chase accounts, credit building through T-Mobile"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented (banquet service experience)",
+        "family_structure": "Lives with immigrant parents",
+        "friendship_circle": "Small bilingual peer group",
+        "community_involvement": "Nicaraguan expat community engagement",
+        "online_vs_offline_engagement": "Hybrid (virtual learning + in-person service work)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN News/T-Mobile account",
+        "workday_habits": "Balances college courses with evening shifts",
+        "evening_and_leisure": "Streams Pluto TV sci-fi content, browses Sanrio art",
+        "weekend_activities": "Family time, SF Bay Area exploration",
+        "sleep_schedule": "Late night YouTube sessions (80s music playlists)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light activity (campus commuting), interest in cosmetic care",
+        "mental_health": "Music/Therapy through nostalgic media consumption",
+        "work_life_balance": "Structured schedule balancing work/study",
+        "health_related_digital_behavior": "Beauty product research, no fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with family consultation",
+        "brand_loyalty": "Microsoft/T-Mobile affinity, experiments with beauty brands",
+        "influence_factors": "Cultural heritage, peer recommendations",
+        "tech_adoption": "Early mainstream adopter (Surface laptop interest)",
+        "privacy_and_security_concerns": "Basic precautions (financial account monitoring)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Nicaraguan-American",
+        "travel_habits": "Virtual exploration via Pluto TV Travel, family trips to Nicaragua",
+        "personal_projects": "Curating bilingual music playlists, Sanrio fan art",
+        "unexpected_behavioral_traits": "Teen interested in retirement planning through family 401k access"
+    }
+}

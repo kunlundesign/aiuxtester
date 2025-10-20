@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "David Coulter",
+        "age": 48,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Reno, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Electrical Engineering",
+            "institution": "Unknown"
+        },
+        "occupation": "Electrical Engineer",
+        "company": "Florida Power & Light",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual workwear (polo shirts, utility pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, energy efficiency, practical problem-solving",
+        "motivations": "Technical mastery, infrastructure reliability, financial security",
+        "cognitive_style": "Analytical with structured problem-solving approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical electrical engineering terms, power systems, DIY home projects",
+        "ad_interactions": "High engagement with electrical components and solar equipment ads",
+        "preferred_content_sources": "Engineering manuals, MSN news, YouTube tutorials",
+        "social_media_usage": "Limited (YouTube for tutorials, MSN for news)",
+        "ecommerce_behavior": "Research-intensive purchases for technical equipment",
+        "device_usage": "Desktop preferred for technical work (Edge browser)",
+        "subscriptions": "Microsoft 365, SmarterU LMS, CPR training platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Power grid infrastructure, renewable energy systems, electrical safety standards",
+        "hobbies": "Motorcycle maintenance (Honda Grom), DIY home electrical projects",
+        "entertainment_preferences": "Tech explainer videos, political news commentary, engineering documentaries",
+        "content_consumption": "Technical manuals and long-form instructional videos",
+        "learning_style": "Structured professional development with hands-on application"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented for household items, quality-focused for technical tools",
+        "income_level": "$85,000-$100,000",
+        "investment_habits": "Conservative (home equity, retirement accounts)",
+        "financial_tools": "Credit cards, online banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Technical mentorship role, collaboration on infrastructure projects",
+        "family_structure": "Married with children",
+        "friendship_circle": "Professional colleagues and hobbyist groups",
+        "community_involvement": "CPR certification maintenance, local energy initiatives",
+        "online_vs_offline_engagement": "Professional online interaction, offline family focus"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email checking, industry news review",
+        "workday_habits": "Field inspections, technical documentation, safety audits",
+        "evening_and_leisure": "YouTube tutorial watching, home improvement projects",
+        "weekend_activities": "Motorcycle maintenance, family outdoor activities",
+        "sleep_schedule": "Early riser (6:00 AM wake-up)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate fitness routine, balanced diet",
+        "mental_health": "Stress management through hands-on projects",
+        "work_life_balance": "Structured separation of work and personal time",
+        "health_related_digital_behavior": "CPR certification updates via online training"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with safety prioritization",
+        "brand_loyalty": "Strong preference for industrial brands (Square D, Schneider Electric)",
+        "influence_factors": "Technical specifications, industry certifications",
+        "tech_adoption": "Mainstream professional tool adoption",
+        "privacy_and_security_concerns": "Moderate (work-related data protection focus)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Pacific Northwest cultural influences",
+        "travel_habits": "Regional work-related travel, family camping trips",
+        "personal_projects": "Home solar power system installation planning",
+        "unexpected_behavioral_traits": "Combines technical precision with interest in political commentary content"
+    }
+}

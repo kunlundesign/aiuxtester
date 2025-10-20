@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 20,
+        "gender": "Female",
+        "nationality": "Canadian",
+        "current_residence": "Toronto, Canada",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Textile Design",
+            "institution": "Seneca College"
+        },
+        "occupation": "Freelance Embroidery Artist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "165 cm",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length wavy brown hair",
+            "skin_color": "Fair",
+            "facial_features": "Round face, minimal makeup",
+            "dress_style": "Casual with handmade embroidery accents"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Support for local businesses, appreciation for handcrafted art",
+        "motivations": "Creative expression, financial independence",
+        "cognitive_style": "Detail-oriented with practical creativity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Sports statistics, embroidery tutorials, local services",
+        "ad_interactions": "High engagement with celebrity memorabilia and craft supplies",
+        "preferred_content_sources": "YouTube tutorials, ESPN, niche crafting blogs",
+        "social_media_usage": "Active on Facebook for community groups, passive on YouTube",
+        "ecommerce_behavior": "Frequent eBay visits for collectibles, mid-range spending",
+        "device_usage": "Mobile-centric (iOS), Edge browser",
+        "subscriptions": "Paramount+ for nostalgic shows, embroidery pattern newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Textile innovation, small business marketing",
+        "hobbies": "Embroidery, wildlife observation, sports analytics",
+        "entertainment_preferences": "SNL skits, 2000s sitcoms (iCarly), cooking competition shows",
+        "content_consumption": "Video tutorials > text guides, fact-based sports analysis",
+        "learning_style": "Visual demonstrations + hands-on practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for essentials, splurges on collectibles",
+        "income_level": "$25k-$35k annually",
+        "investment_habits": "Conservative (high-yield savings accounts)",
+        "financial_tools": "Citizens Bank mobile app, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor, occasional craft fair collaborations",
+        "family_structure": "Lives with parents, assists elderly relatives",
+        "friendship_circle": "Small group of crafting enthusiasts",
+        "community_involvement": "Local embroidery guild, Facebook neighborhood groups",
+        "online_vs_offline_engagement": "Prefers online communities but values family interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks sports updates while breakfasting",
+        "workday_habits": "Balances embroidery orders with YouTube tutorial filming",
+        "evening_and_leisure": "Watches cooking shows while crafting",
+        "weekend_activities": "Visits fabric stores, follows live sports events",
+        "sleep_schedule": "Night owl (often up past midnight crafting)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional yoga, avoids processed foods",
+        "mental_health": "Uses crafting as stress relief",
+        "work_life_balance": "Blurs lines due to freelance work",
+        "health_related_digital_behavior": "Occasional WebMD checks, no fitness trackers"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for purchases >$50",
+        "brand_loyalty": "Loyal to craft supplies brands, switches streaming services",
+        "influence_factors": "User reviews, tutorial creators' recommendations",
+        "tech_adoption": "Mainstream user (avoids beta features)",
+        "privacy_and_security_concerns": "Uses 2FA for banking, otherwise unconcerned"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Italian family roots",
+        "travel_habits": "Regional day trips, prefers staycations",
+        "personal_projects": "Creating sports team-themed embroidery patterns",
+        "unexpected_behavioral_traits": "Combines sports analytics skills with delicate embroidery work"
+    }
+}

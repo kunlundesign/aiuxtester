@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Carter",
+        "age": 35,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Teaneck, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Construction Management",
+            "institution": "New Jersey Institute of Technology"
+        },
+        "occupation": "Contractor/Handyman",
+        "company": "Self-Employed",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual workwear (denim shirts, hoodies)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical problem-solving, self-reliance, technology optimism",
+        "motivations": "Mastering DIY projects, staying updated on tech trends, maintaining property value",
+        "cognitive_style": "Analytical problem-solver with hands-on execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical queries (phone specs, van modifications), project tutorials, soccer news",
+        "ad_interactions": "High engagement with tech accessories and tool ads",
+        "preferred_content_sources": "Reddit communities, YouTube tutorials, manufacturer forums",
+        "social_media_usage": "Reddit (active), Instagram (passive browsing), YouTube (daily)",
+        "ecommerce_behavior": "Researches extensively before purchasing tools/tech",
+        "device_usage": "Android (Pixel 7a/8a), Windows desktop for research",
+        "subscriptions": "DIY YouTube channels, tech review newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Construction techniques, smart home integration",
+        "hobbies": "DIY home projects, following European soccer leagues",
+        "entertainment_preferences": "Sports highlights, tech comparison videos",
+        "content_consumption": "Detailed tutorial videos and forum discussions",
+        "learning_style": "Hands-on experimentation with supplemental video guides"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented for tools, premium for durable tech",
+        "income_level": "$65k-$85k annually",
+        "investment_habits": "Conservative (home equity focus)",
+        "financial_tools": "Credit cards with cashback, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with client consultations",
+        "family_structure": "Married with children",
+        "friendship_circle": "Small group of tradespeople and soccer fans",
+        "community_involvement": "Local home improvement workshops",
+        "online_vs_offline_engagement": "Prefers online research but values in-person client meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks soccer scores and weather while having coffee",
+        "workday_habits": "Divides time between project sites and parts sourcing",
+        "evening_and_leisure": "Researches tech/products, watches sports highlights",
+        "weekend_activities": "Family projects, youth soccer games",
+        "sleep_schedule": "Night owl (typically retires after midnight)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor, monitors ergonomics",
+        "mental_health": "De-stresses through hands-on projects",
+        "work_life_balance": "Blends work and personal projects intentionally",
+        "health_related_digital_behavior": "Occasional fitness app usage, ergonomics research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with Reddit validation",
+        "brand_loyalty": "Sticks with proven tools but experiments with new tech",
+        "influence_factors": "User reviews and durability testing videos",
+        "tech_adoption": "Early majority adopter (waits for initial reviews)",
+        "privacy_and_security_concerns": "Moderate (avoids unnecessary data sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, Northeast US cultural norms",
+        "travel_habits": "Regional trips for equipment/supplies",
+        "personal_projects": "Van conversion for mobile workshop",
+        "unexpected_behavioral_traits": "Combines practical trade skills with cutting-edge tech interests"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Johnson",
+        "age": 47,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Somerset, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Construction Technology",
+            "institution": "Bristol Community College"
+        },
+        "occupation": "Home Improvement Contractor",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Angular jawline, minimal makeup",
+            "dress_style": "Practical workwear (cargo pants, utility vests)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Traditional family values, self-reliance, biblical literacy",
+        "motivations": "Mastery of practical skills, home security, preserving history through antique restoration",
+        "cognitive_style": "Detail-oriented problem solver with strong technical reasoning"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (e.g., 'WWII radio wave fuses'), cross-verifies information from multiple sources",
+        "ad_interactions": "High engagement with home improvement (64%), baking supplies (22%), firearms accessories (14%)",
+        "preferred_content_sources": "Fox News, specialized forums (SnipersHide, RimfireCentral), King Arthur Baking tutorials",
+        "social_media_usage": "Limited to Facebook for local community updates, YouTube for DIY tutorials",
+        "ecommerce_behavior": "Mid-range spending on specialized tools, bulk purchases of reloading supplies",
+        "device_usage": "Desktop for research, mobile for quick price comparisons",
+        "subscriptions": "BibleStudyTools Plus, King Arthur Baking newsletter, NRA membership portal"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Sustainable building materials, historic preservation techniques",
+        "hobbies": "Competitive target shooting, fly fishing, clock restoration",
+        "entertainment_preferences": "WWII documentaries, college basketball games, true crime podcasts",
+        "content_consumption": "Long-form technical guides with diagrams, video tutorials for hands-on projects",
+        "learning_style": "Experiential learning through trial and error supplemented by expert forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven quality purchases (e.g., lifetime warranty tools)",
+        "income_level": "$75,000-$90,000 annually",
+        "investment_habits": "Conservative (FDIC-insured accounts, precious metals)",
+        "financial_tools": "Multiple regional bank accounts (Arvest, Centennial), PayPal for firearm forum transactions"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with rotating crew members",
+        "family_structure": "Single homeowner with adult children in Arkansas",
+        "friendship_circle": "Small group of shooting range regulars and antique collectors",
+        "community_involvement": "Volunteers at historical society, church bake sales",
+        "online_vs_offline_engagement": "Prefers in-person transactions for collectibles, uses forums for technical advice"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Fox News briefings while preparing sourdough starter",
+        "workday_habits": "Split between job sites and home workshop for clock repairs",
+        "evening_and_leisure": "Firearms maintenance while streaming historical documentaries",
+        "weekend_activities": "Fishing trips to White River, AR; estate sales for antiques",
+        "sleep_schedule": "Early riser (5:30 AM) with strict 10 PM bedtime"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness through labor-intensive work, monitors blood sugar levels",
+        "mental_health": "Uses shooting sports for stress relief, avoids formal therapy",
+        "work_life_balance": "Work-integrated lifestyle with clear project boundaries",
+        "health_related_digital_behavior": "Researches alternative therapies (grounding mats), tracks macros via MyFitnessPal"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with historical precedent consideration",
+        "brand_loyalty": "Strong allegiance to heritage brands (RCBS, King Arthur Flour)",
+        "influence_factors": "Peer recommendations in niche forums, product longevity data",
+        "tech_adoption": "Selective adopter (adopts productivity tools but avoids smart home devices)",
+        "privacy_and_security_concerns": "Uses separate devices for financial transactions vs browsing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "New England practicality blended with Southern recreational habits",
+        "travel_habits": "Seasonal drives to Arkansas for fishing, avoids air travel",
+        "personal_projects": "Restoring 19th-century Welch mantle clock collection",
+        "unexpected_behavioral_traits": "Combines ballistic calculations with artistic clock face painting"
+    }
+}

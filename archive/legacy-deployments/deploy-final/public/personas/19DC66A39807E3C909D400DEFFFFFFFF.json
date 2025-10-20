@@ -1,0 +1,139 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 46,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Nashville, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Tennessee"
+        },
+        "occupation": "Restaurant Owner/Manager",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, professional cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Business casual (RLX Ralph Lauren polos, designer sunglasses)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": [
+            "Entrepreneurial spirit",
+            "Technological progression",
+            "Luxury as status symbol"
+        ],
+        "motivations": [
+            "Business expansion",
+            "Maintaining competitive edge",
+            "Lifestyle curation"
+        ],
+        "cognitive_style": "Analytical decision-maker with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on luxury vehicles (Cadillac Escalade comparisons), real estate market analysis, restaurant supply chain management",
+        "ad_interactions": "High engagement with luxury brands (Cartier, Ralph Lauren) and travel services",
+        "preferred_content_sources": [
+            "MSN News",
+            "Zillow",
+            "US Foods portal",
+            "Automotive blogs"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "YouTube (minimal)",
+                "Facebook (business pages)"
+            ],
+            "frequency": "Occasional",
+            "active_vs_passive": "Passive consumer"
+        },
+        "ecommerce_behavior": {
+            "Spending habits": "Strategic luxury purchases (vehicles) with cost-saving measures for business supplies",
+            "product_categories": [
+                "Professional kitchen equipment",
+                "Limited-edition sneakers",
+                "3D printing services"
+            ]
+        },
+        "device_usage": "Desktop primary (xtraCHEF dashboard usage), Windows/Edge ecosystem",
+        "subscriptions": [
+            "Toast restaurant management suite",
+            "Sling scheduling",
+            "StockX sneaker alerts"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Restaurant automation tech",
+            "Supply chain optimization",
+            "Commercial real estate"
+        ],
+        "hobbies": [
+            "Luxury car research",
+            "Sneaker collecting",
+            "3D printing design"
+        ],
+        "entertainment_preferences": {
+            "Music": "Exotic cumbia (MINIMI artist interest)",
+            "Movies": "Anime content (Naruto/Jujutsu Kaisen history)",
+            "Reading": "Automotive industry reports"
+        },
+        "content_consumption": "Detailed technical specs with quick news updates",
+        "learning_style": "Self-directed research through industry portals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "High-value asset investments with operational cost consciousness",
+        "income_level": "Upper-middle class ($150k-$250k/year from restaurant + investments)",
+        "investment_habits": "Real estate (Mexico/US properties) and luxury vehicles as appreciating assets",
+        "financial_tools": [
+            "Frost Bank business accounts",
+            "Citi credit cards",
+            "Commercial mortgage services"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Authoritative yet collaborative (Sling shift management patterns)",
+        "family_structure": "Unknown",
+        "friendship_circle": "Industry professionals and car enthusiasts",
+        "community_involvement": "Local business associations",
+        "online_vs_offline_engagement": "Offline business networking with digital research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check US Foods deliveries, review MSN immigration policy updates",
+        "workday_habits": "Inventory management via xtraCHEF, staff scheduling on Sling",
+        "evening_and_leisure": "Luxury vehicle research, NFT art browsing",
+        "weekend_activities": "Car dealership visits, real estate scouting",
+        "sleep_schedule": "Regular (11 PM - 6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work balanced with occasional golf (RLX apparel interest)",
+        "mental_health": "Stress management through hobby research",
+        "work_life_balance": "Work-centric with scheduled leisure",
+        "health_related_digital_behavior": "Stem cell therapy research per ad clicks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparisons (vehicle specs analysis)",
+        "brand_loyalty": "Premium brands with proven reliability (Lexus/Lincoln interest)",
+        "influence_factors": "Expert reviews, historical performance data",
+        "tech_adoption": "Early business tech adopter (xtraCHEF implementation)",
+        "privacy_and_security_concerns": "Cautious with financial data (frostbank usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English primary, basic Spanish (Mexico property searches)",
+        "travel_habits": "Frequent Las Vegas/Mexico trips (hotel/casino research)",
+        "personal_projects": "3D model creation (Mommy Long Legs print searches)",
+        "unexpected_behavioral_traits": "Anime enthusiast with luxury car dealer persona"
+    }
+}

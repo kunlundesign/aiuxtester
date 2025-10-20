@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Mitchell",
+        "age": 53,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Park City, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Religious Studies",
+            "institution": "Brigham Young University"
+        },
+        "occupation": "Religious Educator",
+        "company": "Church Educational System",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Shoulder-length blonde",
+            "Skin_color": "Fair",
+            "Facial_features": "Minimal makeup, glasses",
+            "Dress_Style": "Modest professional attire"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Strong LDS faith, community service, cultural preservation",
+        "motivations": "Spiritual growth, family values, cultural education",
+        "cognitive_style": "Structured thinking with practical application"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on religious topics, fashion, and travel destinations",
+        "ad_interactions": "High engagement with modest fashion and financial services",
+        "preferred_content_sources": "Church news portals, MSN politics, recipe blogs",
+        "social_media_usage": "Instagram/Facebook (passive), religious forums (active)",
+        "ecommerce_behavior": "Targeted purchases of temple dresses and kitchenware",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": "BYUtv, Church News, MSN Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Religious curriculum development, temple garment design",
+        "hobbies": "Baking traditional recipes, temple dress customization",
+        "entertainment_preferences": "Choral music, historical dramas, J.K. Rowling",
+        "content_consumption": "Long-form doctrinal articles + short cooking videos",
+        "learning_style": "Structured religious courses + hands-on sewing practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious for daily items, invests in quality apparel",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Conservative saver with CD investments",
+        "financial_tools": "CIT Bank accounts, religious community credit union"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Mentorship-focused leadership style",
+        "family_structure": "Married with adult children",
+        "friendship_circle": "Close church community network",
+        "community_involvement": "Temple volunteer, relief society leader",
+        "online_vs_offline_engagement": "Balanced digital research + in-person worship"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Scripture study → MSN news → family breakfast",
+        "workday_habits": "Course preparation → student meetings → administrative tasks",
+        "evening_and_leisure": "Recipe testing → family calls → political news analysis",
+        "weekend_activities": "Temple visits → hiking → meal prep for elderly members",
+        "sleep_schedule": "Consistent 10PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular gym sessions, whole foods diet",
+        "mental_health": "Prayer-based stress management",
+        "work_life_balance": "Strict separation of professional/private time",
+        "health_related_digital_behavior": "Fitness class bookings via Vasa portal"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Values-aligned with practical verification",
+        "brand_loyalty": "Prefers church-affiliated vendors",
+        "influence_factors": "Religious leadership guidance + product reviews",
+        "tech_adoption": "Mainstream user with selective AI tool usage",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes": {
+        "cultural_and_linguistic_background": "English + basic Portuguese from missionary work",
+        "travel_habits": "Domestic religious conferences + Asian cultural tours",
+        "personal_projects": "Digitizing vintage temple dress patterns",
+        "unexpected_behavioral_traits": "Devout conservative who analyzes liberal news sources"
+    }
+}

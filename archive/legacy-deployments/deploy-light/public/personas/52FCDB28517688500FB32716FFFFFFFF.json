@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 56,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Brookline, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Electrical Engineering/Computer Science",
+            "institution": "University of New Hampshire"
+        },
+        "occupation": "Senior Electrical Engineer/Technical Consultant",
+        "company": "unknown",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, graying",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with glasses",
+            "dress_style": "Casual practical (flannels/outdoor wear)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, fiscal conservatism, national security focus",
+        "motivations": "Technical mastery, financial stability, outdoor self-reliance",
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical documentation, financial management, DIY solutions",
+        "ad_interactions": "High engagement with financial services/tech ads (clicked 6/6 relevant ads)",
+        "preferred_content_sources": "Fox News, CNBC, technical blogs, manufacturer websites",
+        "social_media_usage": "Limited (Facebook for family, YouTube for content creation)",
+        "ecommerce_behavior": "Research-intensive purchases for outdoor gear/tech accessories",
+        "device_usage": "Windows desktop primary, iPhone secondary",
+        "subscriptions": "Fox News Digital, Fidelity Insights, AMD Developer Network"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Semiconductor industry trends, IoT security, engineering workflows",
+        "hobbies": "Ice fishing, archery, DIY home projects, NFL analysis",
+        "entertainment_preferences": "Patriots football games, tech documentaries, classic rock",
+        "content_consumption": "Long-form technical articles + breaking news alerts",
+        "learning_style": "Self-directed research with hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven quality purchases (premium outdoor gear, reliable tech)",
+        "income_level": "$90k-$120k/year",
+        "investment_habits": "Conservative 401(k)/index fund focus",
+        "financial_tools": "Fidelity investments, Synchrony credit, ADP payroll management"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Mentorship-focused collaborator",
+        "family_structure": "Married with adult children",
+        "friendship_circle": "Small group of hunting/fishing buddies",
+        "community_involvement": "Local shooting range member",
+        "online_vs_offline_engagement": "Prefers in-person outdoor activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with Fox News alerts, checks financial portfolios",
+        "workday_habits": "Structured technical problem-solving with documentation reviews",
+        "evening_and_leisure": "YouTube content editing, gear maintenance",
+        "weekend_activities": "Ice fishing trips, Patriots game watch parties",
+        "sleep_schedule": "Early riser (5:30 AM bed, 10 PM rise)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active outdoorsman, high-protein diet",
+        "mental_health": "Stress relief through fishing/hunting",
+        "work_life_balance": "Compartmentalized work/leisure time",
+        "health_related_digital_behavior": "MyChart user for annual checkups"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with cost-benefit analysis",
+        "brand_loyalty": "Strong in tech (AMD/Fidelity) but shops deals for outdoor gear",
+        "influence_factors": "Expert technical reviews, historical performance data",
+        "tech_adoption": "Early mainstream adopter (waits for v2 products)",
+        "privacy_and_security_concerns": "Cybersecurity-conscious (Aura/F-Secure usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "New England English, basic Spanish",
+        "travel_habits": "Florida fishing trips, tech conference attendance",
+        "personal_projects": "YouTube tech tutorial channel, custom fishing gear modifications",
+        "unexpected_behavioral_traits": "Combines semiconductor expertise with traditional outdoor skills"
+    }
+}

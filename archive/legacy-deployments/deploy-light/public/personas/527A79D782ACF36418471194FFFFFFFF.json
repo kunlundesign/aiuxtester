@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Susan Thompson",
+        "age": 53,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Taylor, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Wayne County Community College"
+        },
+        "occupation": "Office Manager",
+        "company": "Local Healthcare Facility",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile, rectangular glasses",
+            "Dress Style": "Casual practical (jeans, sneakers, branded t-shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Family responsibility, financial pragmatism, local community support",
+        "motivations": "Maintaining household stability, supporting family needs, preparing for retirement",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Specific product queries (home goods, pet care), local services, financial management",
+        "ad_interactions": "High engagement with home improvement, family products, Michigan-focused services",
+        "preferred_content_sources": "MSN News, Facebook Marketplace, retailer websites (Home Depot, Wayfair)",
+        "social_media_usage": "Daily Facebook use (personal + Marketplace), passive MSN consumption",
+        "ecommerce_behavior": "Budget-conscious bulk purchasing (Sam's Club), seasonal home goods",
+        "device_usage": "Desktop for financial tasks, mobile for quick searches",
+        "subscriptions": "Meijer mPerks, Bank of America alerts, local weather updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare administration workflows, office supply management",
+        "hobbies": "Gardening, home DIY projects, following Detroit Lions",
+        "entertainment_preferences": "Classic rock concerts, family-oriented films, true crime articles",
+        "content_consumption": "Local news briefings, product review videos, long-form how-to guides",
+        "learning_style": "Video tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven bulk purchases, plans major home investments",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative (CDs, high-yield savings)",
+        "financial_tools": "Bank of America checking, PayPal, credit karma monitoring"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Supportive team player with process optimization focus",
+        "family_structure": "Empty nester with adult children, possibly grandchildren",
+        "friendship_circle": "Close-knit local group from church/work",
+        "community_involvement": "Follows local politics (Michigan.gov visits), charity donations",
+        "online_vs_offline_engagement": "Balanced - uses digital tools to enable in-person activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/MSN headlines, manages household emails",
+        "workday_habits": "Structured office hours with lunchtime deal browsing",
+        "evening_and_leisure": "TV news, Facebook family updates, home project planning",
+        "weekend_activities": "Home improvement stores, family visits, NFL watching",
+        "sleep_schedule": "Consistent 10PM-6AM pattern"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional walks, monitors prescription refills online",
+        "mental_health": "Family-focused stress management, no indicated disorders",
+        "work_life_balance": "Strict separation - no work devices after hours",
+        "health_related_digital_behavior": "Pharmacy portal usage, Medicare research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-heavy with price comparisons",
+        "brand_loyalty": "Prefers established home/patio brands",
+        "influence_factors": "User reviews, local recommendations",
+        "tech_adoption": "Mainstream user (adopts proven solutions)",
+        "privacy_and_security_concerns": "Cautious with financial data, less with social"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, German heritage influences",
+        "travel_habits": "Regional trips (Frankenmuth searches), rare flights",
+        "personal_projects": "Backyard renovation, Bengal cat adoption research",
+        "unexpected_behavioral_traits": "Combines practical finance management with impulse pet purchases"
+    }
+}

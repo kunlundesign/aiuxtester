@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Thompson",
+        "age": 20,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Saint Simons Island, United States",
+        "education": {
+            "degree": "Bachelor's (in progress)",
+            "major": "Sports Science/Recreation Management",
+            "institution": "University of Georgia"
+        },
+        "occupation": "Student",
+        "company": "University of Georgia",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length blonde with highlights",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, sporty glasses",
+            "dress_style": "Preppy casual (Lilly Pulitzer/Vineyard Vines) mixed with athletic wear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (explores Caribbean cultures, EV tech interest)",
+            "conscientiousness": "High (meal planning, workout routines)",
+            "extraversion": "Medium (balanced social/solo activities)",
+            "agreeableness": "High (family travel planning)",
+            "neuroticism": "Low (structured routines)"
+        },
+        "mbti": "ESTJ (practical, organized leadership style)",
+        "beliefs_and_values": "Fitness as lifestyle, environmental consciousness",
+        "motivations": "Academic achievement, physical performance optimization",
+        "cognitive_style": "Data-driven with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision queries (specific product comparisons), vertical-specific searches",
+        "ad_interactions": "High engagement with fitness apparel/gear (28% clicked ads)",
+        "preferred_content_sources": "Amazon, university portals, sports brands' official sites",
+        "social_media_usage": "Pinterest for fashion, limited Facebook",
+        "ecommerce_behavior": "Frequent mid-range purchases ($50-200)",
+        "device_usage": "Mobile-first (67% sessions), Edge browser",
+        "subscriptions": "Amazon Subscribe & Save, Carnivore Snax"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Sports physiology, event management",
+        "hobbies": "Competitive swimming, Caribbean cultural research",
+        "entertainment_preferences": "Superhero films (The Boys franchise)",
+        "content_consumption": "Hybrid (long-form workout guides + snackable travel content)",
+        "learning_style": "Experimental learning (fitness tech integration)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious premium buyer (Lululemon via Poshmark)",
+        "income_level": "Student-level ($10k-20k annually)",
+        "investment_habits": "Conservative (high-yield savings)",
+        "financial_tools": "Amazon Prime Card, Cash App"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented (swim camp participation)",
+        "family_structure": "Parent-supported nuclear family",
+        "friendship_circle": "Training partners + sorority network",
+        "community_involvement": "Campus recreation programs",
+        "online_vs_offline_engagement": "70% offline (sports), 30% social media"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Pre-workout nutrition check, swim training",
+        "workday_habits": "Class → training → study sessions",
+        "evening_and_leisure": "Meal prep, light gaming (Roblox)",
+        "weekend_activities": "Beach workouts, family excursions",
+        "sleep_schedule": "Consistent 11PM-7AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Rigorous swim/rowing regimen, macro tracking",
+        "mental_health": "Exercise-mediated stress relief",
+        "work_life_balance": "Structured time-blocking",
+        "health_related_digital_behavior": "MyFitnessPal, Concept2 app"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis (vacuum research)",
+        "brand_loyalty": "Curated mix (Lilly Pulitzer + budget tech)",
+        "influence_factors": "Expert reviews (swim gear), user testimonials",
+        "tech_adoption": "Early mainstream (EV interest before ownership)",
+        "privacy_and_security_concerns": "Moderate (uses incognito for shopping)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern English, basic Spanish",
+        "travel_habits": "Family-funded Caribbean trips, Marriott loyalty",
+        "personal_projects": "Swim technique vlogging",
+        "unexpected_behavioral_traits": "Tech pragmatist with vintage fashion curation"
+    }
+}

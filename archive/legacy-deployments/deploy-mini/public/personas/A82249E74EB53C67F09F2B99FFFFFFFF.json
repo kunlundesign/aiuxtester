@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 23,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Sterling Heights, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Finance or Business Administration",
+            "institution": "Unknown"
+        },
+        "occupation": "Financial Advisor Trainee",
+        "company": "Unknown (likely entry-level financial services firm)",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short professional cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Business casual (button-down shirts, chinos)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial literacy advocacy, technology integration in finance",
+        "motivations": "Career advancement in wealth management, technological proficiency",
+        "cognitive_style": "Analytical with structured thinking (evidenced by exam prep patterns)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical searches (financial instruments, Windows customization), frequent exam-related queries",
+        "ad_interactions": "High engagement with financial education ads (Kaplan), tech accessories",
+        "preferred_content_sources": "Quizlet, CNBC, Investopedia, Kaplan learning modules",
+        "social_media_usage": "LinkedIn (professional networking), YouTube (educational content)",
+        "ecommerce_behavior": "Budget-conscious tech purchases (mice, cables), occasional luxury items (leather briefcase)",
+        "device_usage": "Windows PC with dual monitors (based on technical queries), Microsoft Edge browser",
+        "subscriptions": "Kaplan SIE prep, RightCapital financial planning tools"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Securities licensing, portfolio management, financial planning methodologies",
+        "hobbies": "Tech customization, photography/4K wallpapers collection",
+        "entertainment_preferences": "Finance podcasts, tech review videos",
+        "content_consumption": "Structured educational content (flashcards, exam prep), market analysis articles",
+        "learning_style": "Self-guided study with practice exams (Quizlet usage patterns)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven for daily tech needs, strategic investments in career tools",
+        "income_level": "Entry-level professional ($45k-$55k range)",
+        "investment_habits": "Emerging interest (Robinhood research), risk-averse initial approach",
+        "financial_tools": "Traditional banking apps, beginning exploration of trading platforms"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative learner (APEG community engagement), mentee-focused",
+        "family_structure": "Likely single, independent living",
+        "friendship_circle": "Small group of career-focused peers",
+        "community_involvement": "Professional finance communities online",
+        "online_vs_offline_engagement": "70% online professional development, 30% local dining/events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "CNBC market updates, email check, Kaplan study sessions",
+        "workday_habits": "Structured study blocks, financial plan simulations",
+        "evening_and_leisure": "Tech forum browsing, wallpaper curation, light exercise",
+        "weekend_activities": "Meal prep (Panera visits), local exploration, study marathons",
+        "sleep_schedule": "Night owl (late-night research sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual gym user (Planet Fitness search), takeout-conscious diet",
+        "mental_health": "Stress management through structured study plans",
+        "work_life_balance": "Work-leaning (80/20 split during exam prep)",
+        "health_related_digital_behavior": "Basic fitness tracking, ergonomic workspace research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (multiple source verification)",
+        "brand_loyalty": "Functional loyalty (Logitech/Kaplan based on utility)",
+        "influence_factors": "Regulatory compliance, peer recommendations in finance forums",
+        "tech_adoption": "Early majority adopter (waits for proven solutions)",
+        "privacy_and_security_concerns": "Moderate (uses mainstream security tools)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, midwestern US cultural influences",
+        "travel_habits": "Local metro exploration (Detroit area), interest in Asian cuisine (Bangkok searches)",
+        "personal_projects": "Custom PC setup optimization, financial literacy blog drafts",
+        "unexpected_behavioral_traits": "Combines rigid financial analysis with creative visual design interests"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jeremy Carter",
+        "age": 32,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Bangor, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Computer Maintenance Technology",
+            "institution": "Eastern Maine Community College"
+        },
+        "occupation": "Commercial Truck Driver",
+        "company": "TNStumpff Enterprises LLC",
+        "physical attributes": {
+            "height": "5'11\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short crew cut",
+            "skin_color": "Fair",
+            "facial_features": "Square jawline with light stubble",
+            "dress_style": "Casual tech-themed t-shirts and jeans"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Environmental awareness, technology skepticism regarding corporate practices",
+        "motivations": "Career stability, gaming mastery, technical troubleshooting",
+        "cognitive_style": "Analytical problem-solver with hands-on learning preference"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical queries (PC troubleshooting), gaming strategies, NASCAR updates",
+        "ad_interactions": "Medium engagement with PC components and tax software ads",
+        "preferred_content_sources": "Reddit forums, YouTube tutorials, abandonware repositories",
+        "social_media_usage": "YouTube (daily), Reddit (weekly), Facebook Marketplace (occasional)",
+        "ecommerce_behavior": "Budget-conscious tech upgrades, fast food delivery orders",
+        "device_usage": "Windows 11 desktop primary, Edge browser",
+        "subscriptions": "EA Play, Twitch channel subscriptions for Aztecross"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "CDL certification maintenance, logistics industry trends",
+        "hobbies": "Retro PC gaming, NASCAR fantasy leagues, DIY computer builds",
+        "entertainment_preferences": "Sports documentaries, 1990s-2000s racing games",
+        "content_consumption": "Technical guides (75%), gaming streams (20%), celebrity gossip (5%)",
+        "learning_style": "Video tutorials combined with hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech purchases, impulse fast food orders",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative 401(k) contributions through employer",
+        "financial_tools": "KeyBank checking, TurboTax for filings, PayPal transactions"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with limited team interaction",
+        "family_structure": "Single without dependents",
+        "friendship_circle": "Small gaming-focused online group",
+        "community_involvement": "Local racing enthusiast meetups",
+        "online_vs_offline_engagement": "80% online (gaming communities), 20% local NASCAR events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Weather check, coffee with MSN news brief",
+        "workday_habits": "Irregular schedule with mobile job search during breaks",
+        "evening_and_leisure": "Gaming sessions (3-4hrs), YouTube tech tutorials",
+        "weekend_activities": "PC maintenance, online racing tournaments",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Irregular exercise routine, fast food diet",
+        "mental_health": "Stress relief through gaming, no recorded interventions",
+        "work_life_balance": "Work-leisure blend through mobile job searching",
+        "health_related_digital_behavior": "Occasional medical wiki searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for tech purchases, impulsive for entertainment",
+        "brand_loyalty": "AMD/ATI for graphics, Dell for pre-built systems",
+        "influence_factors": "Reddit community recommendations, benchmark comparisons",
+        "tech_adoption": "Mid-cycle adopter (1-2 year upgrade cycle)",
+        "privacy_and_security_concerns": "Basic precautions without advanced measures"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with New England regionalisms",
+        "travel_habits": "Regional trucking routes, occasional NASCAR event travel",
+        "personal_projects": "Retro gaming PC build using abandonware",
+        "unexpected_behavioral_traits": "Combines technical troubleshooting skills with celebrity gossip consumption"
+    }
+}

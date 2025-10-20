@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jennifer Carter",
+        "age": 59,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Paso Robles, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Health Sciences",
+            "institution": "Community College (inferred)"
+        },
+        "occupation": "Real Estate Consultant (part-time)",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length layered cut",
+            "Skin color": "Fair",
+            "Facial features": "Minimal wrinkles, wears light makeup",
+            "Dress Style": "Casual-chic with activewear influences"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Health consciousness, homeownership importance, value-for-money consumption",
+        "motivations": "Maintaining independence, aging gracefully, home comfort optimization",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on home improvement, skincare research, and local real estate",
+        "ad_interactions": "High engagement with beauty/skincare (61%) and furniture (25%) ads",
+        "preferred_content_sources": "MSN News, Healthline, YouTube tutorials, retailer blogs",
+        "social_media_usage": "Passive Pinterest/Youtube usage, no visible public profiles",
+        "ecommerce_behavior": "Mid-range spending ($50-$200 purchases), prefers free shipping thresholds",
+        "device_usage": "Desktop-primary (83% traffic) with Chrome browser",
+        "subscriptions": "MSN Premium, Costco membership, YouTube Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Property valuation trends, home staging techniques",
+        "hobbies": "Pilates, home decorating, skincare research",
+        "entertainment_preferences": "True crime documentaries, lifestyle YouTube channels",
+        "content_consumption": "How-to guides > news analysis > product reviews",
+        "learning_style": "Video tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented premium buyer (waits for sales on quality items)",
+        "income_level": "$65k-$85k/year (estimated)",
+        "investment_habits": "Conservative (real estate-focused)",
+        "financial_tools": "Costco Visa, PayPal, retail credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative advisor style",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Close-knit local group from Pilates/community",
+        "community_involvement": "Local historical society volunteer",
+        "online_vs_offline_engagement": "Balanced (online research, offline purchases)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Thyroid medication > MSN news > skincare regimen",
+        "workday_habits": "Afternoon client meetings > property research",
+        "evening_and_leisure": "Pilates streaming > home improvement shows",
+        "weekend_activities": "Open houses > Costco runs > family Zoom calls",
+        "sleep_schedule": "Consistent 11pm-7am (supports thyroid health)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily Pilates, thyroid management, SPF-focused skincare",
+        "mental_health": "Routine-focused stress management",
+        "work_life_balance": "Structured semi-retirement schedule",
+        "health_related_digital_behavior": "Hypothyroidism forums > fitness trackers"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with 3+ source verification",
+        "brand_loyalty": "Stick to proven brands (Neutrogena, Costco)",
+        "influence_factors": "Expert reviews > celebrity endorsements",
+        "tech_adoption": "Mainstream user (avoids beta-testing)",
+        "privacy_and_security_concerns": "Medium (avoids financial data storage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Central Coast lifestyle",
+        "travel_habits": "Regional weekend trips > international travel",
+        "personal_projects": "Home renovation blog, vintage furniture restoration",
+        "unexpected_behavioral_traits": "Tech-savvy property researcher using Zillow/Realtor tools extensively"
+    }
+}

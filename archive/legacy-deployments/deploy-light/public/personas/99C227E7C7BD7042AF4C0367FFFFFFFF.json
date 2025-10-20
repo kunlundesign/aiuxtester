@@ -1,0 +1,140 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Carter",
+        "age": 40,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Desert Hot Springs, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Automotive Technology",
+            "institution": "Riverside Community College"
+        },
+        "occupation": "Classic Car Restorer/Real Estate Investor",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with weathering from outdoor work",
+            "dress_style": "Casual workwear (denim, mechanic shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": [
+            "Technical craftsmanship",
+            "Financial independence",
+            "Free market principles"
+        ],
+        "motivations": [
+            "Preserving automotive history",
+            "Building wealth through real estate",
+            "DIY mastery"
+        ],
+        "cognitive_style": "Analytical problem-solver with hands-on implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical searches (engine specifications), comparative marketplace queries",
+        "ad_interactions": "High engagement with automotive parts (78% of ad clicks), moderate home improvement interest",
+        "preferred_content_sources": [
+            "Technical forums (Stovebolt)",
+            "Marketplaces (eBay/Craigslist)",
+            "MSN Politics"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Facebook (Marketplace focus)"
+            ],
+            "frequency": "Daily",
+            "engagement": "Transactional (buy/sell)"
+        },
+        "ecommerce_behavior": {
+            "spending": "$500-$2,000/month on auto parts",
+            "categories": [
+                "Vintage auto components",
+                "Power tools",
+                "Land parcels"
+            ]
+        },
+        "device_usage": "Desktop for complex research (75%), mobile for marketplace monitoring",
+        "subscriptions": [
+            "Fidelity Portfolio Services",
+            "Realtor.com alerts",
+            "eBay Motors newsletters"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Mid-century automotive engineering",
+            "Land acquisition strategies",
+            "Tax lien investing"
+        ],
+        "hobbies": [
+            "Engine rebuilding",
+            "Desert property development",
+            "Vintage motorcycle restoration"
+        ],
+        "entertainment_preferences": [
+            "Classic rock (Led Zeppelin)",
+            "Political news commentary",
+            "Auto restoration shows"
+        ],
+        "content_consumption": "Technical manuals (70%), market trend analyses (20%), political news (10%)",
+        "learning_style": "Experimental tinkering supplemented by forum knowledge-sharing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven bulk purchases (auto parts), strategic real estate investments",
+        "income_level": "$85,000-$120,000/year",
+        "investment_habits": "Conservative real estate holdings, moderate-risk stock portfolio",
+        "financial_tools": [
+            "Fidelity investment accounts",
+            "PayPal Business",
+            "Home equity lines"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor network, transaction-focused",
+        "family_structure": "Likely single/divorced (no child-related activity)",
+        "friendship_circle": "Niche automotive enthusiast contacts",
+        "community_involvement": "Local car meetups (non-official)",
+        "online_vs_offline_engagement": "90% online commerce, 10% in-person mechanical collaboration"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while scanning MSN political updates, check Fidelity portfolio",
+        "workday_habits": "Split between garage restoration projects and property management",
+        "evening_and_leisure": "Forum participation, eBay auctions monitoring",
+        "weekend_activities": "Desert property inspections, auto salvage yard visits",
+        "sleep_schedule": "11 PM - 6 AM (Consistent)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate fitness from manual labor, high-fat diet typical of single males",
+        "mental_health": "Stress management through mechanical work",
+        "work_life_balance": "Blurred boundaries (work as lifestyle)",
+        "health_related_digital_behavior": "Reactive searches only (e.g., shower door safety)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-heavy comparative analysis (visible in engine part research)",
+        "brand_loyalty": "Conditional (prefers OEM parts but seeks alternatives)",
+        "influence_factors": "Technical specifications over brand reputation",
+        "tech_adoption": "Mainstream pragmatist (adopts when proven useful)",
+        "privacy_and_security_concerns": "Low (extensive third-party platform usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southern California cultural influences",
+        "travel_habits": "Regional (Southwest US salvage yard circuits)",
+        "personal_projects": [
+            "1956 Chevy 235 engine rebuild",
+            "5-acre desert lot development"
+        ],
+        "unexpected_behavioral_traits": "Combines meticulous mechanical work with high-risk property investments"
+    }
+}

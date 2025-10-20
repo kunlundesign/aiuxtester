@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jason Mitchell",
+        "age": 34,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Petaluma, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Sports Management",
+            "institution": "California State University"
+        },
+        "occupation": "Sports Event Coordinator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'11\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short fade",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with angular jawline",
+            "dress_style": "Casual sportswear with golf/racing brand logos"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Sportsmanship ethics, physical fitness as lifestyle foundation",
+        "motivations": "Sports industry advancement, personal athletic achievement",
+        "cognitive_style": "Data-driven decision maker with structured planning"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Sports event logistics, golf course specifications, travel planning",
+        "ad_interactions": "High engagement with sports equipment/travel ads",
+        "preferred_content_sources": "ESPN, PGATour.com, Ironman official sites",
+        "social_media_usage": "Facebook/Pinterest for event planning, YouTube for sports content",
+        "ecommerce_behavior": "Mid-range spending on sports gear/apparel",
+        "device_usage": "Desktop Chrome user with mobile complement",
+        "subscriptions": "PGA Tour Live, ESPN+, Ironman Track Club"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tournament operations, athlete training regimens",
+        "hobbies": "Amateur golf, triathlon training, sports bar trivia",
+        "entertainment_preferences": "Sports documentaries, motorsports broadcasts",
+        "content_consumption": "Event recaps/analyses, rulebook updates",
+        "learning_style": "Video tutorials combined with practical application"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented quality purchases",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Conservative with 401(k) focus",
+        "financial_tools": "Credit cards with travel rewards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Detail-oriented collaborator",
+        "family_structure": "Single without children",
+        "friendship_circle": "Sports league teammates",
+        "community_involvement": "Local triathlon volunteer",
+        "online_vs_offline_engagement": "Balanced digital research/event attendance"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Weather/sports news check, protein-focused breakfast",
+        "workday_habits": "Spreadsheet-based event planning",
+        "evening_and_leisure": "Gym sessions, sports stream replays",
+        "weekend_activities": "Golf outings, regional motorsport events",
+        "sleep_schedule": "11 PM - 6 AM regular cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Structured cardio/strength training",
+        "mental_health": "Stress management through physical activity",
+        "work_life_balance": "Disciplined separation",
+        "health_related_digital_behavior": "Swim center apps, Ironman training platforms"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison-focused researcher",
+        "brand_loyalty": "Taylormade/NASCAR merchandise",
+        "influence_factors": "Athlete endorsements, spec sheets",
+        "tech_adoption": "Mainstream adopter after peer validation",
+        "privacy_and_security_concerns": "Basic precautions without obsession"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Domestic sports destination traveler",
+        "personal_projects": "Local golf course review blog",
+        "unexpected_behavioral_traits": "Combines analytical sports data review with adrenaline-seeking motorsport fandom"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Mateo Hernandez",
+        "age": 29,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Pioneer, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Sports Management",
+            "institution": "California State University Sacramento"
+        },
+        "occupation": "High School Football Coach",
+        "company": "Amador County Unified School District",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short fade with clean lines",
+            "Skin color": "Olive-toned",
+            "Facial features": "Clean-shaven with strong jawline",
+            "Dress Style": "Casual sportswear mixed with Chicano-inspired graphic tees"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Community empowerment through youth sports, appreciation of cultural heritage",
+        "motivations": "Developing athlete potential, preserving Chicano art forms",
+        "cognitive_style": "Structured problem-solving with creative cultural integration"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Sports analytics, cultural art references, event planning resources",
+        "ad_interactions": "High engagement with sports tickets, home improvement, and tech deals",
+        "preferred_content_sources": "Sports training platforms (Hudl), Amazon product reviews, local news via Nextdoor",
+        "social_media_usage": "Facebook for community connections, YouTube for coaching tutorials",
+        "ecommerce_behavior": "Frequent Amazon purchases (sports equipment, home goods), compares prices using Groupon",
+        "device_usage": "iPhone with iCloud integration, Windows desktop for sports analytics",
+        "subscriptions": "XVIDEOS premium access, Amazon Prime, Nextdoor notifications"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Safer contact techniques in football, sports team sponsorship strategies",
+        "hobbies": "Lowrider culture preservation, fantasy sports leagues, DIY home projects",
+        "entertainment_preferences": "Hard rock/metal concerts (Aftershock Festival), sports documentaries",
+        "content_consumption": "Technical coaching manuals mixed with Chicano art history content",
+        "learning_style": "Video tutorials for coaching techniques, hands-on equipment testing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for team equipment, splurges on cultural events",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative 401(k) contributions, no visible stock market activity",
+        "financial_tools": "Venmo for team transactions, Apple Pay for personal purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Player-focused mentorship style, collaborative with coaching staff",
+        "family_structure": "Single, lives alone in rented home",
+        "friendship_circle": "Close-knit group from coaching community and car culture scene",
+        "community_involvement": "Organizes youth sports fundraisers, active in local Chicano art events",
+        "online_vs_offline_engagement": "Balances digital coaching tools with in-person community events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Hudl analytics over coffee, reviews practice plans",
+        "workday_habits": "Field sessions mornings, video analysis afternoons, parent meetings evenings",
+        "evening_and_leisure": "Gaming (Clash of Clans), hot tub relaxation, adult content consumption",
+        "weekend_activities": "Lowrider meetups, camping trips to Lake Camanche",
+        "sleep_schedule": "Night owl (bedtime 1-2AM) with 6-hour sleep average"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness through coaching demonstrations, high caffeine intake",
+        "mental_health": "Stress relief through automotive projects, no formal therapy",
+        "work_life_balance": "Work-focused during season, cultural hobbies in off-season",
+        "health_related_digital_behavior": "Researches sports injury prevention, no fitness trackers used"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven coaching decisions, intuitive art purchases",
+        "brand_loyalty": "Strong preference for Nike sports gear, Apple ecosystem",
+        "influence_factors": "Player performance metrics, cultural community trends",
+        "tech_adoption": "Early adopter of sports analytics tools, late adopter of smart home tech",
+        "privacy_and_security_concerns": "Minimal despite frequent public WiFi use for team updates"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Third-generation Mexican-American, basic Spanish comprehension",
+        "travel_habits": "Regional traveler (California/Nevada) for sports events and casinos",
+        "personal_projects": "Curating local Chicano art exhibit, building custom lowrider bike",
+        "unexpected_behavioral_traits": "Combines analytical sports data tracking with abstract Chicano art creation"
+    }
+}

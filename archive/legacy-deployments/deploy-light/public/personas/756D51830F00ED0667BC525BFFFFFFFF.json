@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Wei Chen",
+        "age": 32,
+        "gender": "Female",
+        "nationality": "Chinese-American",
+        "current_residence": "Chino, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Supply Chain Management",
+            "institution": "California State Polytechnic University, Pomona"
+        },
+        "occupation": "Logistics Coordinator",
+        "company": "Semi Supply Inc",
+        "physical_attributes": {
+            "Height": "165cm (5'5\")",
+            "Body shape": "Athletic",
+            "Hairstyle": "Straight black shoulder-length",
+            "Skin color": "Light olive",
+            "Facial_features": "Minimal makeup with rectangular glasses",
+            "Dress_Style": "Casual professional (athleisure during weekends)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Education emphasis, work ethic, cultural preservation",
+        "motivations": "Career advancement, family stability, outdoor lifestyle maintenance",
+        "cognitive_style": "Analytical problem-solver with structured execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical logistics queries + ski equipment comparisons (3+ product comparisons per session)",
+        "ad_interactions": "High engagement with ski gear/outdoor ads (8/17 ad clicks)",
+        "preferred_content_sources": "Industry portals (OOCL/ZIM), REI Co-op, Chinese news sites",
+        "social_media_usage": "Limited: WeChat for family, LinkedIn for work",
+        "ecommerce_behavior": "Mid-range outdoor gear ($500-$1500 purchases quarterly)",
+        "device_usage": "Windows 11 desktop (Edge browser) for work, iPhone for mobile",
+        "subscriptions": "Ikon Pass alerts, REI Co-op membership, Sina News push"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Container shipping innovations, ERP systems optimization",
+        "hobbies": "Alpine skiing, hiking, Chinese calligraphy",
+        "entertainment_preferences": "Action sports documentaries, Mandopop music",
+        "content_consumption": "Dual-language technical manuals + lifestyle blogs",
+        "learning_style": "Hybrid (video tutorials + hands-on equipment testing)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven big-ticket purchases (annual ski pass)",
+        "income_level": "$75k-$90k (Logistics coordinator salary range)",
+        "investment_habits": "Conservative (Chase savings/401k)",
+        "financial_tools": "Chase Mobile, East West Bank app, Alipay"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Process-oriented team player",
+        "family_structure": "Married with school-age children",
+        "friendship_circle": "Bilingual social group (Chinese-American community)",
+        "community_involvement": "CNUSD parent committee, local ski club",
+        "online_vs_offline_engagement": "70% professional digital/30% in-person family activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "School prep → logistics system checks → commute podcasts",
+        "workday_habits": "Container tracking → vendor coordination → ERP updates",
+        "evening_and_leisure": "Homework help → ski maintenance → Chinese drama streaming",
+        "weekend_activities": "Big Bear Mountain skiing → Asian supermarket runs",
+        "sleep_schedule": "11 PM - 6 AM (Night owl when resolving shipment issues)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Seasonal skier conditioning, pescatarian diet",
+        "mental_health": "Slope meditation, family movie nights",
+        "work_life_balance": "Strict work cutoff post 7 PM except emergencies",
+        "health_related_digital_behavior": "Ski resort webcam checks, REI gear maintenance guides"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison-heavy (3+ alternatives analyzed)",
+        "brand_loyalty": "Ski gear: Nordica/Blizzard, Tech: Microsoft ecosystem",
+        "influence_factors": "Professional reviews + user testimonials",
+        "tech_adoption": "Mainstream with cautious enterprise tool adoption",
+        "privacy_and_security_concerns": "Two-factor authentication user (Microsoft Authenticator)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Mandarin native, business English proficiency",
+        "travel_habits": "West Coast ski resorts → annual China family visits",
+        "personal_projects": "Bilingual parenting blog draft, custom ski tuning",
+        "unexpected_behavioral_traits": "Logistics precision expert who enjoys extreme skiing"
+    }
+}

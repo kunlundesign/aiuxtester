@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Denise Sanchez-Hume",
+        "age": 65,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Davis, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Retired",
+        "company": "Unknown",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile, glasses",
+            "Dress Style": "Casual, practical"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Community-oriented, values financial security",
+        "motivations": "Maintaining independence, staying informed, family connections",
+        "cognitive_style": "Practical decision-maker with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services, senior living, recipes, financial management",
+        "ad_interactions": "High engagement with craft supplies, groceries, senior housing",
+        "preferred_content_sources": "Local news (Davis Enterprise), government portals, recipe blogs",
+        "social_media_usage": "Facebook (moderate usage), Nextdoor (community updates)",
+        "ecommerce_behavior": "Budget-conscious, frequent grocery/hobby purchases",
+        "device_usage": "Desktop (Edge browser), Windows OS",
+        "subscriptions": "Local news alerts, MSN updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement planning, community education",
+        "hobbies": "Crafts/sewing, cooking, solitaire games",
+        "entertainment_preferences": "Local news, classic R&B music (Al Green), cooking shows",
+        "content_consumption": "Practical how-to guides, financial updates, recipe videos",
+        "learning_style": "Self-learning through tutorials and community workshops"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional craft splurges",
+        "income_level": "Fixed retirement income",
+        "investment_habits": "Conservative (Social Security reliance)",
+        "financial_tools": "Wells Fargo/Capital One accounts, Social Security portal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Former collaborative worker, now volunteer-oriented",
+        "family_structure": "Likely lives alone (senior housing research)",
+        "friendship_circle": "Local community connections",
+        "community_involvement": "Yolo Crisis Nursery volunteer",
+        "online_vs_offline_engagement": "Balanced local/online community participation"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks email/news, plans meals",
+        "workday_habits": "Volunteer work, household management",
+        "evening_and_leisure": "Cooking, crafts, solitaire",
+        "weekend_activities": "Local errands, family visits",
+        "sleep_schedule": "Regular early bedtime"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages minor issues (heartburn research), home cooking focus",
+        "mental_health": "Stable through routines/social connections",
+        "work_life_balance": "Structured retirement lifestyle",
+        "health_related_digital_behavior": "Medication management tools, light health research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (housing/medical decisions)",
+        "brand_loyalty": "Prefers established brands (Safeway, Wells Fargo)",
+        "influence_factors": "Community recommendations, official sources",
+        "tech_adoption": "Competent with essential services (online banking, email)",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-speaking, Californian",
+        "travel_habits": "Occasional domestic trips (Phoenix/Scottsdale research)",
+        "personal_projects": "Quilting, recipe curation",
+        "unexpected_behavioral_traits": "Tech-proficient senior who researches vented dryers while enjoying classic solitaire"
+    }
+}

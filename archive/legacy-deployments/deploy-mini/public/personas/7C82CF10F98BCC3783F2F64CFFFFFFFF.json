@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Angela Martinez",
+        "age": 48,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Mount Laurel, United States",
+        "education": {
+            "degree": "Master's",
+            "major": "Clinical Psychology",
+            "institution": "Rutgers University"
+        },
+        "occupation": "Licensed Clinical Social Worker",
+        "company": "Private Practice",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Medium",
+            "Facial features": "Warm smile, minimal makeup",
+            "Dress Style": "Professional-casual (blouses, cardigans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Mental health advocacy, social equity, lifelong learning",
+        "motivations": "Client success, creative expression, financial stability",
+        "cognitive_style": "Empathetic problem-solver balancing analytical rigor"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Mental health resources (DAP notes), acting opportunities, veteran services",
+        "ad_interactions": "High engagement with therapy tools, acting classes, financial services",
+        "preferred_content_sources": "Mayo Clinic, Teachers Pay Teachers, MSN Lifestyle",
+        "social_media_usage": "Pinterest (creative ideas), Nextdoor (local community)",
+        "ecommerce_behavior": "Moderate spending on professional resources, budget-friendly fashion",
+        "device_usage": "Desktop for telehealth sessions, mobile for quick searches",
+        "subscriptions": "Therapy worksheet platforms, telehealth portals"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Behavioral activation techniques, oppositional defiance strategies",
+        "hobbies": "Open mic nights, beginner acting classes, community mixers",
+        "entertainment_preferences": "Inspirational entrepreneurship stories, practical fashion guides",
+        "content_consumption": "Detailed clinical guides, bite-sized lifestyle articles",
+        "learning_style": "Workshop-based skill development"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented professional tools, occasional fashion splurges",
+        "income_level": "$75,000-$90,000",
+        "investment_habits": "Conservative (credit union usage)",
+        "financial_tools": "USAA banking, IRS payment portals"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-focused telehealth sessions, peer supervision",
+        "family_structure": "Likely single/independent household",
+        "friendship_circle": "Mix of colleagues and activity-based acquaintances",
+        "community_involvement": "Local mental health initiatives, veteran support networks",
+        "online_vs_offline_engagement": "Hybrid (virtual client work, in-person hobbies)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage, client session prep",
+        "workday_habits": "Back-to-back video sessions, documentation breaks",
+        "evening_and_leisure": "Therapy resource curation, acting class research",
+        "weekend_activities": "Open mic nights, community events",
+        "sleep_schedule": "Consistent 11 PM - 6 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Ergonomic workspace focus, occasional walks",
+        "mental_health": "Mindfulness practice modeling for clients",
+        "work_life_balance": "Guarded personal time via schedule boundaries",
+        "health_related_digital_behavior": "Mayo Clinic reference checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (cross-referenced clinical tools)",
+        "brand_loyalty": "Sticks to HIPAA-compliant platforms",
+        "influence_factors": "Peer-reviewed resources, veteran community needs",
+        "tech_adoption": "Purpose-driven mainstream user",
+        "privacy_and_security_concerns": "High (strict EHR compliance)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English, basic Spanish for client needs",
+        "travel_habits": "Occasional regional conferences, no frequent flying",
+        "personal_projects": "Curating affordable therapy resources toolkit",
+        "unexpected_behavioral_traits": "Methodical clinician with open mic night passion"
+    }
+}

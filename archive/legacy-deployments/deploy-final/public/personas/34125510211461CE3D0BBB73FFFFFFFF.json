@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Daniel Carter",
+        "age": 37,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Los Angeles, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Film Studies",
+            "institution": "UCLA"
+        },
+        "occupation": "Freelance Screenwriter",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, tousled",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven, rectangular glasses",
+            "Dress Style": "Casual (graphic tees, jeans) with retro accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, creative expression",
+        "motivations": "Creative fulfillment, intellectual curiosity",
+        "cognitive_style": "Analytical with creative problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical automotive terms, screenwriting techniques, gaming mods",
+        "ad_interactions": "Medium engagement (clicked 7/46 ads for tech/creative tools)",
+        "preferred_content_sources": "Wikipedia, fandom wikis, automotive forums, film industry blogs",
+        "social_media_usage": "LinkedIn (professional), Instagram (passive), Reddit (active in niche communities)",
+        "ecommerce_behavior": "Mid-range spending on vintage tech/auto parts",
+        "device_usage": "Windows PC with Edge browser, secondary Android phone",
+        "subscriptions": "EA Play, Tubi, Audible trial"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Screenwriting structure, film financing models",
+        "hobbies": "Car customization, retro gaming hardware collecting",
+        "entertainment_preferences": "Sci-fi franchises (Star Trek/DC), 80s synthwave music",
+        "content_consumption": "Long-form technical guides mixed with nostalgic media",
+        "learning_style": "Self-directed research through forums/video tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious for essentials, splurges on automotive/retro tech",
+        "income_level": "$65k-$85k annually",
+        "investment_habits": "Conservative (primary focus on emergency fund)",
+        "financial_tools": "Credit cards, PayPal, Venmo"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with occasional collaborations",
+        "family_structure": "Unknown",
+        "friendship_circle": "Small group of creative professionals",
+        "community_involvement": "Online gaming/modding communities",
+        "online_vs_offline_engagement": "70% digital/30% in-person (car meets)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while scanning automotive news/MSN headlines",
+        "workday_habits": "Block writing sessions interspersed with technical research",
+        "evening_and_leisure": "The Sims 4 mod testing, vintage tech repair projects",
+        "weekend_activities": "Car meets, flea market hunting, family law episode marathons",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light cardio via car maintenance work",
+        "mental_health": "Gaming as primary stress relief",
+        "work_life_balance": "Blurred boundaries due to freelance schedule",
+        "health_related_digital_behavior": "Occasional fitness app use"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with nostalgia influences",
+        "brand_loyalty": "Mixed (tech early adopter but prefers vintage auto parts)",
+        "influence_factors": "Community forums, technical specifications",
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Moderate (uses MFA on critical accounts)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, basic French studies",
+        "travel_habits": "Regional road trips exploring filming locations",
+        "personal_projects": "Screenplay about automotive culture",
+        "unexpected_behavioral_traits": "Combines technical automotive research with fantasy gaming mod creation"
+    }
+}

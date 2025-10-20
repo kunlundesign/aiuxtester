@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Hartman",
+        "age": 51,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Carey, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Arts & Crafts",
+            "institution": "Ohio Community College"
+        },
+        "occupation": "Freelance Quilter/Home Decor Entrepreneur",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brown hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, practical glasses",
+            "Dress Style": "Casual, functional clothing with handmade accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Traditional craftsmanship, fiscal conservatism, community-oriented values",
+        "motivations": "Preserving handmade traditions, maintaining family health, financial stability",
+        "cognitive_style": "Practical problem-solving with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on furniture/quilting (4+ related queries), quick fact-checking (slang/terms)",
+        "ad_interactions": "High engagement with Amish furniture (4 clicks) and craft supplies (2 clicks)",
+        "preferred_content_sources": "Yahoo News (244 visits), MSN (5 visits), Etsy tutorials",
+        "social_media_usage": "Limited (Facebook 4 visits), YouTube for music tutorials",
+        "ecommerce_behavior": "Budget-conscious for daily items, invests in quality furniture ($500+ range)",
+        "device_usage": "Desktop (Microsoft Edge for 277 Bing sessions)",
+        "subscriptions": "Spotify Premium (5 visits), Yahoo News alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Amish woodworking techniques, quilting market trends",
+        "hobbies": "Quilting, DIY home projects, vintage furniture restoration",
+        "entertainment_preferences": "Country music (Koe Wetzel searches), classic films (Bo Hopkins/Ric Flair views)",
+        "content_consumption": "Long-form news articles (Yahoo/MSN), recipe tutorials",
+        "learning_style": "Hands-on practice (DIY searches), community workshops"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases for furniture (32 eBay visits), impulse craft supply buys",
+        "income_level": "$45k-$60k/year (based on freelance work)",
+        "investment_habits": "Conservative (local bank visits in preferred domains)",
+        "financial_tools": "Credit cards (Amazon/EBay use), local bank accounts"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent craftswoman (Freelance status), collaborates with local Amish artisans",
+        "family_structure": "Likely empty nester (home improvement focus)",
+        "friendship_circle": "Small craft community (Etsy/Facebook interactions)",
+        "community_involvement": "Local auctions (HiBid 3 visits), church activities (Legacy.com visits)",
+        "online_vs_offline_engagement": "Balanced (online research, in-person craft fairs)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with Yahoo News check (244 domain visits)",
+        "workday_habits": "Crafting sessions interspersed with research (Bing/YouTube)",
+        "evening_and_leisure": "Quilting while streaming country music (Spotify 5 visits)",
+        "weekend_activities": "Local auctions (HiBid), furniture markets in Holmes County",
+        "sleep_schedule": "Early riser (5am news checks)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages menopause weight (phentermine search), moderate activity (gardening)",
+        "mental_health": "Crafts as stress relief, avoids digital overload",
+        "work_life_balance": "Structured schedule (consistent domain visit patterns)",
+        "health_related_digital_behavior": "Research on weight management (phentermine chart click)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (multiple furniture queries), brand-loyal to Amish crafts",
+        "brand_loyalty": "High for handmade goods (Etsy 10 visits), switches tech tools",
+        "influence_factors": "Artisan reputation, product durability (Amish furniture click snippets)",
+        "tech_adoption": "Mainstream user (established platforms only)",
+        "privacy_and_security_concerns": "Moderate (avoids suspicious sales per MSN warning)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, basic Spanish (Duolingo visit)",
+        "travel_habits": "Local Ohio day trips (multiple OH location searches)",
+        "personal_projects": "Restoring vintage boat-shaped bookcase (7+ furniture queries)",
+        "unexpected_behavioral_traits": "Conservative news reader who enjoys experimental music (DaBaby/Post Malone views)"
+    }
+}

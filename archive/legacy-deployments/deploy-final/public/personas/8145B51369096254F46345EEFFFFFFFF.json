@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Miller",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Yorktown, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Information Technology",
+            "institution": "Community College"
+        },
+        "occupation": "Military IT Specialist",
+        "company": "U.S. Armed Forces",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, military cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual (graphic tees, jeans) and military uniforms"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "National security prioritization, technology optimism",
+        "motivations": "Career advancement in military tech, mastery of gaming strategies",
+        "cognitive_style": "Analytical problem-solver with tactical thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting, gaming strategies, defense policy updates",
+        "ad_interactions": "Practical tech gear (dash cams), insurance, automotive",
+        "preferred_content_sources": "MSN for news, Reddit communities, gaming wikis",
+        "social_media_usage": "Twitch/Discord (active), Reddit (lurker), YouTube (daily)",
+        "ecommerce_behavior": "Budget-conscious tech purchases, occasional gaming merchandise",
+        "device_usage": "Windows PC for gaming, Chrome browser",
+        "subscriptions": "YouTube Premium, Twitch Turbo, Hulu"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Military technology infrastructure, cybersecurity trends",
+        "hobbies": "Multiplayer gaming (Battlefield/Overwatch), D&D campaigns, jigsaw puzzles",
+        "entertainment_preferences": "Anime series (Tower of God), military documentaries",
+        "content_consumption": "Technical guides (80%) + political news (20%)",
+        "learning_style": "Hands-on experimentation with tech hardware"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused essentials with occasional gaming splurges",
+        "income_level": "$45k-$55k (military E-5 rank)",
+        "investment_habits": "Conservative (TSP contributions)",
+        "financial_tools": "Navy Federal Credit Union, Apple Pay"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented military hierarchy adherence",
+        "family_structure": "Single, lives in base housing",
+        "friendship_circle": "Gaming squad + military colleagues",
+        "community_involvement": "Online D&D groups, LAN party organizer",
+        "online_vs_offline_engagement": "80% digital socialization"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "PT training, MSN news scan, protein shake",
+        "workday_habits": "Structured military IT maintenance shifts",
+        "evening_and_leisure": "Gaming marathons, anime streaming",
+        "weekend_activities": "Paintball matches, hardware modding projects",
+        "sleep_schedule": "Night owl (1am-7am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regimented military fitness, protein-heavy diet",
+        "mental_health": "Stress relief through gaming immersion",
+        "work_life_balance": "Work-focused with scheduled leisure",
+        "health_related_digital_behavior": "Fitness tracker integration with Xbox"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-assessed tactical choices",
+        "brand_loyalty": "Tech brands (NVIDIA), varies elsewhere",
+        "influence_factors": "Expert technical reviews, squad recommendations",
+        "tech_adoption": "Early adopter for gaming hardware",
+        "privacy_and_security_concerns": "Moderate (military-trained caution)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, military culture",
+        "travel_habits": "Military-related relocations, domestic destinations",
+        "personal_projects": "Custom PC builds, D&D campaign design",
+        "unexpected_behavioral_traits": "Strategic gamer who enjoys abstract puzzle-solving"
+    }
+}

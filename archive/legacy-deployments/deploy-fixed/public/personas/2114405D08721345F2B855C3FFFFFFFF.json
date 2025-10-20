@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Rockford, USA",
+        "education": {
+            "degree": "Associate Degree (in progress)",
+            "major": "Biological Sciences",
+            "institution": "Rock Valley College"
+        },
+        "occupation": "College Student (Part-Time)",
+        "company": "Unknown",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, casual",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual (graphic tees, jeans, sneakers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, conservative political leanings, educational prioritization",
+        "motivations": "Academic achievement, sports fandom, technical skill development",
+        "cognitive_style": "Analytical with structured thinking (evidenced by chemistry/math queries and exam PDFs)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "STEM-focused queries (chemistry equations, math problems), sports statistics, cooking techniques",
+        "ad_interactions": "High engagement with golf equipment, tech tools, and travel services",
+        "preferred_content_sources": "NYTimes, academic platforms (ALEKS), conservative blogs (Power Line Blog)",
+        "social_media_usage": "Moderate use (Reddit for gaming, YouTube for tutorials)",
+        "ecommerce_behavior": "Mid-range spending on sports gear and tech accessories",
+        "device_usage": "Desktop primary (mathsolver.microsoft.com dominance), Chrome/Edge",
+        "subscriptions": "Spotify, NYTimes (Wordle access), Medi-Share health plan"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "STEM education, sports analytics, AI applications",
+        "hobbies": "Gaming (Minecraft/Fortnite), golf simulation, baking Swedish pancakes",
+        "entertainment_preferences": "Sports documentaries, Harry Potter universe, action RPG games",
+        "content_consumption": "Factual articles (80%) vs opinion pieces (20%)",
+        "learning_style": "Structured courses with hands-on practice (ALEKS usage)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned tech/sports purchases",
+        "income_level": "Student-level ($10k-$20k/year)",
+        "investment_habits": "Conservative (401k research, Fidelity login)",
+        "financial_tools": "Cash App, traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative in academic settings",
+        "family_structure": "Likely lives with parents (frequent homeschool resource searches)",
+        "friendship_circle": "Medium-sized group (gaming and sports connections)",
+        "community_involvement": "Church activities (Saint James donations)",
+        "online_vs_offline_engagement": "Balanced (online research, offline sports)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks sports news (Cubs/Bears updates), academic prep",
+        "workday_habits": "Class attendance, STEM homework, gaming breaks",
+        "evening_and_leisure": "Gaming sessions, recipe experimentation",
+        "weekend_activities": "Golf practice, family meals, movie nights",
+        "sleep_schedule": "Night owl (late gaming/study sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular weight training, occasional running",
+        "mental_health": "Gaming as stress relief, no indicated issues",
+        "work_life_balance": "Disciplined academic/gaming balance",
+        "health_related_digital_behavior": "Ophthalmology research (ocular migraine queries)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (chemistry calculations, sports stats)",
+        "brand_loyalty": "Strong (Microsoft tools, Callaway Golf)",
+        "influence_factors": "Expert reviews (sports analysis), personal research",
+        "tech_adoption": "Early mainstream adopter (ChatGPT, Fusion 360)",
+        "privacy_and_security_concerns": "Medium (multiple Google service logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American English",
+        "travel_habits": "Domestic trip planning (VRBO research), interest in European landmarks",
+        "personal_projects": "3D modeling experiments, sports statistics tracking",
+        "unexpected_behavioral_traits": "Combines STEM analytical rigor with creative cooking experimentation"
+    }
+}

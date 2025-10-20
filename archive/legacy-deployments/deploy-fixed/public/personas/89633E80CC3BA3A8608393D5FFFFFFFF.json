@@ -1,0 +1,141 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Roseville, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Business Fundamentals (Dual Enrollment)",
+            "institution": "Roseville High School"
+        },
+        "occupation": "Student/Entrepreneur",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short fade with textured top",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual sportswear mixed with tech-themed graphic tees"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENTP",
+        "beliefs_and_values": [
+            "Technological progressivism",
+            "Financial independence",
+            "Entrepreneurial freedom"
+        ],
+        "motivations": [
+            "Building passive income streams",
+            "Mastering emerging technologies",
+            "Balancing risk-taking with calculated decisions"
+        ],
+        "cognitive_style": "Pattern recognition across disparate domains (business-tech-sports)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic exploration with spikes in business formation (LLC), audio tech specs, and trending memes",
+        "ad_interactions": "High engagement with business tools (logo makers) and audio equipment ads",
+        "preferred_content_sources": [
+            "YouTube tutorials",
+            "MSN tech news",
+            "BiggerPockets forums"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "YouTube (creator)",
+                "LinkedIn (nascent)",
+                "Roblox/Xbox Live"
+            ],
+            "frequency": "Daily active user",
+            "engagement": "Content consumer > creator"
+        },
+        "ecommerce_behavior": {
+            "Spending": "Strategic purchases (audio tech/business services)",
+            "Categories": [
+                "Electronics",
+                "Digital services",
+                "Outdoor gear"
+            ]
+        },
+        "device_usage": "Windows desktop primary, Android mobile secondary",
+        "subscriptions": [
+            "YouTube Premium",
+            "LinkedIn Learning",
+            "Xbox Game Pass"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Real estate wholesaling",
+            "AI applications",
+            "Franchise economics"
+        ],
+        "hobbies": [
+            "Modding gaming PCs",
+            "Mountain bike trail design",
+            "Food challenge videos"
+        ],
+        "entertainment_preferences": {
+            "Music": "90s rock revival (Nirvana), country-rock fusion (Zac Brown Band)",
+            "Movies": "Tech documentaries, action-comedies"
+        },
+        "content_consumption": "Tutorial videos > long articles > memes",
+        "learning_style": "Experimental trial-and-error with supplemental video guides"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven tech investments, frugal daily expenses",
+        "income_level": "Part-time/Project-based ($15k-$25k annually)",
+        "investment_habits": "Micro-investing in crypto/tech stocks",
+        "financial_tools": [
+            "PayPal",
+            "Venmo",
+            "Robinhood"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Solo operator seeking mentorship",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "Multi-platform gaming clan members",
+        "community_involvement": "Online business forums participant",
+        "online_vs_offline_engagement": "70% digital/30% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Skims business/tech news during breakfast",
+        "workday_habits": "Schoolwork mornings, business research evenings",
+        "evening_and_leisure": "Gaming sessions, YouTube content marathons",
+        "weekend_activities": "Mountain biking, local food challenges",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Cardio through biking, occasional gym visits",
+        "mental_health": "Stress relief via gaming/music",
+        "work_life_balance": "Emerging time management skills",
+        "health_related_digital_behavior": "Fitness tracker basic usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-heavy with impulse tech buys",
+        "brand_loyalty": "Flexible within tech/audio niches",
+        "influence_factors": "Creator testimonials, spec comparisons",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Basic precautions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with gaming slang fluency",
+        "travel_habits": "Regional day trips (NorCal/Nevada)",
+        "personal_projects": [
+            "3D printed audio accessories",
+            "Local food truck revenue analysis"
+        ],
+        "unexpected_behavioral_traits": "Simultaneously analyzes LLC tax code while watching absurdist YouTube pranks"
+    }
+}

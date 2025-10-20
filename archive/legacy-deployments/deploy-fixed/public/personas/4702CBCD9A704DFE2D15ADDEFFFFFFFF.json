@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ava Martinez",
+        "age": 36,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Los Angeles, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Healthcare Administration",
+            "institution": "University of California, Los Angeles (UCLA)"
+        },
+        "occupation": "Medical Office Administrator",
+        "company": "Pediatric Associates Medical Group Inc.",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brown hair",
+            "skin_color": "Light olive",
+            "facial_features": "Minimal makeup, practical glasses",
+            "dress_style": "Business casual with medical scrubs for work"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Healthcare accessibility advocacy, work ethic, family-first philosophy",
+        "motivations": "Professional competence, family wellbeing, community health improvement",
+        "cognitive_style": "Structured problem-solving with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Medical coding (CPT/ICD), pediatric care resources, local services (DMV/pharmacies), event planning",
+        "ad_interactions": "Healthcare products, family-oriented retail, tech solutions",
+        "preferred_content_sources": "Medical portals (UCLA Health), Yelp, Amazon, MSN news",
+        "social_media_usage": "Passive MSN/Yelp engagement, limited Facebook",
+        "ecommerce_behavior": "Frequent small purchases (medical supplies, children's items), occasional fashion splurges",
+        "device_usage": "Desktop for work (Edge), mobile for personal use",
+        "subscriptions": "Amazon Prime, Blue Shield portal, MSN news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Pediatric care protocols, medical billing updates, healthcare IT systems",
+        "hobbies": "Family cooking, local restaurant exploration, light gardening",
+        "entertainment_preferences": "Celebrity news, comfort food recipes, award show coverage",
+        "content_consumption": "Medical guidelines + lifestyle articles combination",
+        "learning_style": "On-the-job training with official certification courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious essentials with selective quality investments (medical gear)",
+        "income_level": "$65,000-$75,000",
+        "investment_habits": "Conservative 401(k) contributions",
+        "financial_tools": "Chase credit cards, Amazon Store Card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team coordinator with matrix management style",
+        "family_structure": "Married with 2 school-aged children",
+        "friendship_circle": "Close-knit parent community + medical colleagues",
+        "community_involvement": "School health programs, local clinic volunteering",
+        "online_vs_offline_engagement": "Hybrid (digital coordination for in-person activities)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "School prep + medical news scan",
+        "workday_habits": "Clinic coordination + insurance processing",
+        "evening_and_leisure": "Meal preparation, pediatric emails, light streaming",
+        "weekend_activities": "Family outings, medical supply shopping, recipe testing",
+        "sleep_schedule": "Early riser (6 AM) with consistent 7-hour sleep"
+    },
+    "Health & Well-being": {
+        "physical_health": "Preventive care focus, basic yoga routine",
+        "mental_health": "Stress management through family time",
+        "work_life_balance": "Strict clinic/home separation",
+        "health_related_digital_behavior": "Insurance portals, prescription tracking apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with professional guidelines",
+        "brand_loyalty": "Strong in healthcare, exploratory in retail",
+        "influence_factors": "Medical associations, parent networks",
+        "tech_adoption": "Mainstream workflow enhancers",
+        "privacy_and_security_concerns": "HIPAA-compliant practices"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Spanish (medical terminology)",
+        "travel_habits": "Regional family trips, convention attendance",
+        "personal_projects": "Local parent health education blog",
+        "unexpected_behavioral_traits": "Medical pragmatist who enjoys celebrity gossip"
+    }
+}

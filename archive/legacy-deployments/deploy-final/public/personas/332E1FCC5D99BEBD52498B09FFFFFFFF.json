@@ -1,0 +1,186 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 58,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "El Paso, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Military Science",
+            "institution": "Community College of the Air Force"
+        },
+        "occupation": "Retired Military Officer",
+        "company": "U.S. Military (Retired)",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with faint wrinkles",
+            "dress_style": "Casual (polo shirts, cargo pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Veterans' rights advocacy",
+            "Patriotism",
+            "Financial independence"
+        ],
+        "motivations": [
+            "Securing VA benefits",
+            "Maintaining financial stability",
+            "Understanding political impacts on military affairs"
+        ],
+        "cognitive_style": "Structured thinking with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "VA disability claims processes",
+            "Military health impacts",
+            "Local financial services"
+        ],
+        "ad_interactions": {
+            "engagement_level": "Selective (disability benefits, firearms)",
+            "preferred_ad_categories": [
+                "VA claim assistance",
+                "Financial services",
+                "Home defense products"
+            ]
+        },
+        "preferred_content_sources": [
+            "va.gov",
+            "Yahoo Finance",
+            "MSN News"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "None observed"
+            ],
+            "frequency": "Rare",
+            "engagement": "Passive news consumption"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Research-driven purchases",
+            "product_categories": [
+                "Financial services",
+                "Home improvement tools"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop",
+            "os": "Windows",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "VA benefits updates",
+            "Yahoo Finance alerts"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Veterans' healthcare policy",
+            "Military history preservation"
+        ],
+        "hobbies": [
+            "Home improvement projects",
+            "Following NFL (Dallas Cowboys)"
+        ],
+        "entertainment_preferences": {
+            "music_genres": [
+                "Classic rock"
+            ],
+            "movie_types": [
+                "War documentaries"
+            ],
+            "authors": [
+                "Military historians"
+            ]
+        },
+        "content_consumption": "Long-form policy articles",
+        "learning_style": "Self-learning through official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with strategic investments",
+        "income_level": "$60,000-$80,000/year (military pension + benefits)",
+        "investment_habits": "Conservative (credit union deposits)",
+        "financial_tools": [
+            "Schwab investment account",
+            "Raiz Federal Credit Union"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator",
+        "family_structure": "Married with adult children",
+        "friendship_circle": "Small veteran peer group",
+        "community_involvement": [
+            "Veterans of Foreign Wars",
+            "Local shooting range"
+        ],
+        "online_vs_offline_engagement": "Prefers face-to-face veteran gatherings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": [
+            "VA benefits portal check",
+            "Local news review"
+        ],
+        "workday_habits": "Managing VA claims paperwork",
+        "evening_and_leisure": [
+            "Political news analysis",
+            "Home repair projects"
+        ],
+        "weekend_activities": [
+            "Visiting military surplus stores",
+            "Family barbecues"
+        ],
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": [
+            "CPAP user",
+            "VA healthcare patient"
+        ],
+        "mental_health": "Stable through routine",
+        "work_life_balance": "Leisure-focused retirement",
+        "health_related_digital_behavior": [
+            "VA medical portal usage",
+            "WebMD symptom checks"
+        ]
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based (relies on VA documentation)",
+        "brand_loyalty": "Strong to military-affiliated brands",
+        "influence_factors": [
+            "VA official guidelines",
+            "Fellow veteran experiences"
+        ],
+        "tech_adoption": "Mainstream user (avoids cutting-edge tech)",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": [
+            "English monolingual",
+            "Southwestern U.S. cultural influences"
+        ],
+        "travel_habits": [
+            "Domestic military base visits",
+            "Dallas Cowboys games"
+        ],
+        "personal_projects": [
+            "Veteran benefit guide compilation",
+            "Mid-century home renovation"
+        ],
+        "unexpected_behavioral_traits": [
+            "Combines military traditionalism with interest in progressive social policies",
+            "Maintains adult content consumption alongside conservative social values"
+        ]
+    }
+}

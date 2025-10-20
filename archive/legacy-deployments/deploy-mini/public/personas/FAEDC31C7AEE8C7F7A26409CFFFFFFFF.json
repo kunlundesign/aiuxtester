@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Lillian Goodwin",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Stedman, United States",
+        "education": {
+            "degree": "Associate's Degree (in progress)",
+            "major": "History or Liberal Arts",
+            "institution": "University of North Georgia"
+        },
+        "occupation": "Student/Part-time Retail Worker",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Medium-length with casual styling",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup with practical glasses",
+            "Dress Style": "Casual/Comfort-focused (hoodies, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": "Community collaboration, creative expression, practical environmentalism (reusing materials)",
+        "motivations": "Creative fulfillment, academic progression, maintaining social connections",
+        "cognitive_style": "Creative problem-solving with structured execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical searches (mixer attachments) + broad exploratory queries (art/anime)",
+        "ad_interactions": "High engagement with cooking appliances, bags, and beauty products",
+        "preferred_content_sources": "DeviantArt, YouTube tutorials, MSN recipe articles, academic portals",
+        "social_media_usage": "Active on Discord (daily), passive on Facebook (weekly)",
+        "ecommerce_behavior": "Budget-conscious with frequent small purchases (Amazon, eBay)",
+        "device_usage": "Mobile primary (Yahoo Mail app), Chrome/Edge browsers",
+        "subscriptions": "Amazon Prime, Kroger Plus, DeviantArt Core membership"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Historical research methods, community management strategies",
+        "hobbies": "Digital art creation, automotive mechanics basics, fantasy roleplay scenarios",
+        "entertainment_preferences": "VeggieTales nostalgia content, Touhou Project music, baking shows",
+        "content_consumption": "Tutorial videos (70%), text-based RPGs (20%), news articles (10%)",
+        "learning_style": "Visual demonstrations + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with occasional splurges on art supplies",
+        "income_level": "Under $20k/year (student part-time work)",
+        "investment_habits": "Conservative (basic savings account)",
+        "financial_tools": "Capital One credit card, PayPal, Kroger Rewards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team member with independent task execution",
+        "family_structure": "Lives with family (parental home)",
+        "friendship_circle": "Small close-knit online group + IRL acquaintances",
+        "community_involvement": "Digital art communities, local library events",
+        "online_vs_offline_engagement": "80% online interaction, 20% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Yahoo Mail, makes coffee with Mr. Coffee machine",
+        "workday_habits": "Balances coursework with Discord moderation breaks",
+        "evening_and_leisure": "Digital art creation, testing mixer recipes",
+        "weekend_activities": "Local drag strip visits, library research sessions",
+        "sleep_schedule": "Night owl (1am-9am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light activity (walking), basic home cooking",
+        "mental_health": "Art therapy, online support communities",
+        "work_life_balance": "Structured separation (fixed study hours)",
+        "health_related_digital_behavior": "Livestrong.com consultations"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-heavy with peer validation",
+        "brand_loyalty": "Strong (KitchenAid, Amazon, Kroger)",
+        "influence_factors": "User reviews, tutorial availability",
+        "tech_adoption": "Mainstream user with niche early adoption (Discord features)",
+        "privacy_and_security_concerns": "Basic precautions (password management)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English with basic Spanish knowledge",
+        "travel_habits": "Regional day trips (GA/NC), no frequent long-distance",
+        "personal_projects": "Fantasy world-building documentation, mixer recipe blog",
+        "unexpected_behavioral_traits": "Combines mechanical interests (cars/mixers) with delicate jewelry preferences"
+    }
+}

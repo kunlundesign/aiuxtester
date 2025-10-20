@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 40,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Cottekill, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Political Science or Social Work",
+            "institution": "State University of New York"
+        },
+        "occupation": "Nonprofit Coordinator",
+        "company": "Community Foundation",
+        "physical attributes": {
+            "Height": "unknown",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length",
+            "Skin color": "Caucasian",
+            "Facial features": "Minimal makeup",
+            "Dress Style": "Casual-professional blend (Nordstrom boots, thrifted dresses)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Social justice, environmental sustainability, civic responsibility",
+        "motivations": "Community impact, intellectual growth, work-life balance",
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep political/legal research (ProPublica), health literacy, home decor",
+        "ad_interactions": "High engagement with eco-products (Liquid Death), travel services",
+        "preferred_content_sources": "The Guardian, NPR, ProPublica, Wikipedia",
+        "social_media_usage": "Passive consumption (Instagram/Facebook), professional networking (LinkedIn)",
+        "ecommerce_behavior": "Sustainable brands (Liquid Death), secondhand fashion (ThredUp)",
+        "device_usage": "Desktop (Edge browser dominance)",
+        "subscriptions": "Liquid Death via Amazon, political newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Nonprofit management, public policy analysis",
+        "hobbies": "Interior decorating, political blogging, hiking (Maine yurt research)",
+        "entertainment_preferences": "Documentaries (Letterboxd usage), literary fiction (Goodreads)",
+        "content_consumption": "Long-form investigative journalism",
+        "learning_style": "Self-directed research (Wikipedia/healthline deep dives)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with splurges on health/eco-products",
+        "income_level": "$55,000-$70,000",
+        "investment_habits": "Conservative (no crypto signals)",
+        "financial_tools": "Credit cards, e-wallets (DoorDash/Canva usage)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leader (AFP Global community engagement)",
+        "family_structure": "Likely single/independent (pet sitting needs, solo travel research)",
+        "friendship_circle": "Small close-knit group",
+        "community_involvement": "Food rescue volunteering, local mediation programs",
+        "online_vs_offline_engagement": "Balanced (digital research but values in-person volunteering)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News scanning (AP/The Guardian), email management",
+        "workday_habits": "Policy research, community coordination meetings",
+        "evening_and_leisure": "Political blogging, movie logging (Letterboxd)",
+        "weekend_activities": "Hiking trips (Maine yurt research), thrift shopping",
+        "sleep_schedule": "Balanced (9pm-6am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular checkups (breast density research), blood pressure monitoring",
+        "mental_health": "Meditation (spa robe searches), work-life boundaries",
+        "work_life_balance": "Consciously maintained",
+        "health_related_digital_behavior": "Medical research (Healthline), OMRON device purchases"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (extensive comparison shopping)",
+        "brand_loyalty": "Values-aligned (eco/social conscious brands)",
+        "influence_factors": "Expert reviews, environmental impact data",
+        "tech_adoption": "Mainstream user (proven tools like Canva)",
+        "privacy_and_security_concerns": "Moderate (multiple account logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Domestic eco-traveler (yurt/Airbnb preferences)",
+        "personal_projects": "Local history preservation (archive.org usage)",
+        "unexpected_behavioral_traits": "Combines political pragmatism with whimsical interests (tchotchke searches)"
+    }
+}

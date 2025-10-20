@@ -1,0 +1,156 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Portland, United States",
+        "education": {
+            "degree": "Bachelor's (in progress)",
+            "major": "Accounting/Sports Business",
+            "institution": "University of Oregon"
+        },
+        "occupation": "Undergraduate Student",
+        "company": "University of Oregon",
+        "physical attributes": {
+            "height": "165cm",
+            "body_shape": "Athletic",
+            "hairstyle": "Long brunette with highlights",
+            "skin_color": "Fair",
+            "facial_features": "Round face with glasses",
+            "dress_style": "Casual trendy (graphic tees/athleisure) mixed with practical outdoor layers"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": [
+            "Gender equality advocacy",
+            "Environmental awareness",
+            "Tech optimism"
+        ],
+        "motivations": [
+            "Academic achievement",
+            "Creative expression through film",
+            "Financial independence"
+        ],
+        "cognitive_style": "Analytical researcher who cross-verifies information (CourseHero/Quizlet/RateMyProfessors usage)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Academic resources",
+            "Fashion trends",
+            "Travel planning",
+            "Health solutions"
+        ],
+        "ad_interactions": {
+            "engagement_level": "High click-through rate",
+            "preferred_categories": [
+                "Tech accessories",
+                "Swimwear",
+                "Budget fashion",
+                "Orthopedic health products"
+            ]
+        },
+        "preferred_content_sources": [
+            "University portals",
+            "MSN News",
+            "Nordstrom/Zara product pages",
+            "Film analysis blogs"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Instagram (frequent)",
+                "LinkedIn (emerging)"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive browsing with occasional clothing brand interactions"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Budget-conscious with seasonal splurges on swimwear/tech",
+            "product_categories": [
+                "Trendy apparel",
+                "Fitness accessories",
+                "Academic tools"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "MacBook + iPhone",
+            "browser": "Edge with Bing integration",
+            "os_preference": "iOS/macOS"
+        },
+        "subscriptions": [
+            "Grammarly Premium",
+            "Disney+",
+            "University e-learning tools"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Non-CPA accounting paths",
+            "Sports marketing trends",
+            "Blockchain applications in finance"
+        ],
+        "hobbies": [
+            "Swimwear fashion curation",
+            "Amateur film analysis",
+            "Hiking in Columbia Gorge"
+        ],
+        "entertainment_preferences": {
+            "music": "Hip-hop/R&B (Kendrick Lamar interest)",
+            "movies": "Social commentary films",
+            "theater": "Biographical musicals (Lempicka interest)"
+        },
+        "content_consumption": "Detailed analysis pieces (gender stereotype studies) + quick fashion lookbooks",
+        "learning_style": "Structured academic courses blended with self-directed YouTube/Google research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Needs-driven with planned treats (custom gummy candy orders)",
+        "income_level": "Student-level ($15k-$25k annually)",
+        "investment_habits": "Emerging interest (U.S. Bank/Crypto site visits)",
+        "financial_tools": [
+            "Student banking apps",
+            "Credit cards with rewards",
+            "Budget tracking spreadsheets"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Study group collaborator (multiple CourseHero/Quizlet logins)",
+        "family_structure": "Likely living with parents (PDX parking research for trips home)",
+        "friendship_circle": "Small close-knit group with shared academic/fashion interests",
+        "community_involvement": "University clubs, plant-based food events (Marigold Collective interest)",
+        "online_vs_offline_engagement": "Balanced - heavy academic online use with IRL social dining/movie outings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check weather alerts + academic portals while eating quick breakfast",
+        "workday_habits": "Back-to-back classes with mobile research during breaks",
+        "evening_and_leisure": "Online shopping sessions + film streaming",
+        "weekend_activities": "Campus events, Portland hiking trips, Disneyland planning",
+        "sleep_schedule": "Moderate night owl (late study sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active (exercise bike ownership) with emerging shoulder issues",
+        "mental_health": "Stress management via creative outlets",
+        "work_life_balance": "Structured study blocks with deliberate relaxation periods",
+        "health_related_digital_behavior": "Mayo Clinic/WebMD verification of medical advice"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares multiple sources before purchases)",
+        "brand_loyalty": "Value-driven (seeks White Fox discounts but checks Nordstrom quality)",
+        "influence_factors": "Peer reviews + academic validation",
+        "tech_adoption": "Early mainstream adopter (Bing AI exploration)",
+        "privacy_and_security_concerns": "Cautious (uses Duo Security for university logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native with Chinese literature interest",
+        "travel_habits": "West Coast explorer (Oregon/Disneyland trips) with emerging international curiosity (Ireland research)",
+        "personal_projects": "Maintaining film analysis blog, custom candy curation hobby",
+        "unexpected_behavioral_traits": "Combines rigorous accounting studies with avant-garde fashion sense"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 41,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Seattle, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "University of Washington"
+        },
+        "occupation": "Software Developer",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, neat",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual with occasional bold patterns (evidenced by hoodie searches and 'bright colors' ad click)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "LGBTQ+ community support, technology adoption",
+        "motivations": "Maintaining work-life balance, exploring cultural trends",
+        "cognitive_style": "Analytical with nostalgic tendencies (evidenced by structured searches and vintage TV show interest)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on LGBTQ+ content, fashion, and meal planning (BingEvents show repeated clothing/food queries)",
+        "ad_interactions": "High engagement with gay travel, fashion, and financial services (AdEvents)",
+        "preferred_content_sources": "YouTube (classic TV/music), MSN (nostalgic articles), Wikipedia",
+        "social_media_usage": "Passive YouTube viewer, minimal mainstream platform engagement",
+        "ecommerce_behavior": "Frequent frozen food purchases, mid-range fashion (H&M, Ralph Lauren)",
+        "device_usage": "Windows/Edge (evidenced by EPEvents/AdEvents), secondary mobile use",
+        "subscriptions": "YouTube Premium, possible food delivery services (Smith Brothers Farms)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tech innovations (3D scanners), freelance workflow tools",
+        "hobbies": "Classic film/TV research, cooking quick meals",
+        "entertainment_preferences": "70s-80s sitcoms, Oscar-nominated films, classic rock (New York Dolls interest)",
+        "content_consumption": "Nostalgic long-form articles (MSN 80s TV features), recipe videos",
+        "learning_style": "Self-learning through documentaries and Wikipedia"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious bulk shopping (Members Mark products), occasional fashion splurges",
+        "income_level": "$75k-$90k/year (tech freelance estimate)",
+        "investment_habits": "Conservative (0% APR credit card research)",
+        "financial_tools": "Bank of America accounts, credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor (freelance), occasional team collaboration",
+        "family_structure": "Lives alone (frequent solo-oriented content consumption)",
+        "friendship_circle": "Small LGBTQ+ community group",
+        "community_involvement": "Online LGBTQ+ forums, occasional local pride events",
+        "online_vs_offline_engagement": "70% online (porn/forum activity), 30% in-person (gay travel interest)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking tech news/emails",
+        "workday_habits": "Flexible coding hours with meal prep breaks",
+        "evening_and_leisure": "Streaming vintage TV/movies, recipe experimentation",
+        "weekend_activities": "Local cultural events, library visits",
+        "sleep_schedule": "Night owl (late-night porn/streaming activity)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (urban walking), convenience-focused diet",
+        "mental_health": "Proactive about accessible resources (mental health ad click)",
+        "work_life_balance": "Structured separation (evidenced by leisure/work domains)",
+        "health_related_digital_behavior": "Occasional health food research, no intensive tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (evidenced by product comparisons)",
+        "brand_loyalty": "Mix of budget and quality focus (H&M to lululemon)",
+        "influence_factors": "User reviews, cultural relevance",
+        "tech_adoption": "Early mainstream adopter (3D scanner interest)",
+        "privacy_and_security_concerns": "Moderate (multiple account logins but explicit content consumption)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Irish culture (recipes/rock history)",
+        "travel_habits": "LGBTQ+-focused destinations (Detours Travel ad click)",
+        "personal_projects": "Archiving vintage TV/movie trivia",
+        "unexpected_behavioral_traits": "Combines analytical tech work with intense interest in performing arts history"
+    }
+}

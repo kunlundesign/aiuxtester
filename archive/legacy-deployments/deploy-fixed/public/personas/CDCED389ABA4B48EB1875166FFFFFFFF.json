@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Miller",
+        "age": 39,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Pike, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Civil Engineering Technology",
+            "institution": "Local community college"
+        },
+        "occupation": "Transportation Operations Manager",
+        "company": "Regional logistics company",
+        "physical attributes": {
+            "height": "5'11\"",
+            "body_shape": "Athletic build",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with faint smile lines",
+            "dress_style": "Casual workwear (carhartt-style jackets, durable jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, appreciation for functional design",
+        "motivations": "Operational efficiency, hands-on problem solving",
+        "cognitive_style": "Structured practical thinking with appreciation for architectural aesthetics"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed product comparisons (gardening equipment/trucks), technical how-tos",
+        "ad_interactions": "High engagement with gardening/DIY ads, moderate with travel",
+        "preferred_content_sources": "Home improvement blogs, manufacturer sites, MSN/Fox News",
+        "social_media_usage": "YouTube (DIY tutorials), limited other platforms",
+        "ecommerce_behavior": "Researches major purchases extensively, prefers bulk home/garden items",
+        "device_usage": "Desktop dominant (construction planning), Edge browser",
+        "subscriptions": "Lowe's MVP rewards, weather alerts, MSN news digest"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Fleet management, pavement maintenance tech",
+        "hobbies": "Raised-bed gardening, classic truck maintenance",
+        "entertainment_preferences": "Space exploration documentaries, country music",
+        "content_consumption": "Mix of technical specs and how-to videos",
+        "learning_style": "Video tutorials combined with hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused bulk purchases for business/yard",
+        "income_level": "$75k-$90k annually",
+        "investment_habits": "Conservative (company-matched retirement plans)",
+        "financial_tools": "Traditional banking, Lowe's Pro credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Process-oriented leadership style",
+        "family_structure": "Married with school-age children",
+        "friendship_circle": "Small group of childhood friends",
+        "community_involvement": "Local high school sports booster",
+        "online_vs_offline_engagement": "Primarily offline socializing"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather alerts, skims urgent emails",
+        "workday_habits": "Site inspections, fleet coordination calls",
+        "evening_and_leisure": "Garden maintenance, YouTube DIY videos",
+        "weekend_activities": "Family outings, home improvement projects",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active job maintains fitness, protein-heavy diet",
+        "mental_health": "Decompresses through hands-on projects",
+        "work_life_balance": "Compartmentalizes work/home responsibilities",
+        "health_related_digital_behavior": "Occasional medical reference searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with cost/durability focus",
+        "brand_loyalty": "Strong for tools (Harbor Freight), vehicles (GM)",
+        "influence_factors": "Professional forums, product longevity reports",
+        "tech_adoption": "Practical early adopter (productivity tools only)",
+        "privacy_and_security_concerns": "Basic precautions, not highly proactive"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American English",
+        "travel_habits": "Regional road trips (Gatlinburg searches)",
+        "personal_projects": "Developing automated garden irrigation system",
+        "unexpected_behavioral_traits": "Combines mechanical pragmatism with architectural appreciation (Fallingwater interest)"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 39,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Seattle, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Mechanical Engineering",
+            "institution": "University of Washington"
+        },
+        "occupation": "Technical Project Manager",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Angular jawline, minimal makeup",
+            "dress_style": "Casual practical (e.g., jeans, utility jackets)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Fiscal conservatism, self-reliance, technology skepticism",
+        "motivations": "Mastery of technical skills, financial stability, home ownership",
+        "cognitive_style": "Detail-oriented analytical thinker with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision tool research (sharpening systems), government documentation verification, political news tracking",
+        "ad_interactions": "High engagement with tool/equipment ads (knife sharpeners 72%), medium home improvement ads (28%)",
+        "preferred_content_sources": "Fox News, government portals (irs.gov), technical forums (bladeforums.com), YouTube tutorials",
+        "social_media_usage": "Reddit (technical subreddits), YouTube (instructional content), minimal mainstream platforms",
+        "ecommerce_behavior": "Targeted purchases of specialized tools, price comparisons for major appliances",
+        "device_usage": "Windows desktop primary, Android mobile secondary, Microsoft Edge browser",
+        "subscriptions": "Fox News alerts, Zillow price alerts, Benchmade knife updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Precision engineering applications, regulatory compliance documentation",
+        "hobbies": "Knife maintenance, clock repair, drone piloting, home improvement projects",
+        "entertainment_preferences": "Political commentary shows, DIY YouTube channels, true crime documentaries",
+        "content_consumption": "Technical manuals (70%), political news (20%), hobbyist forums (10%)",
+        "learning_style": "Self-guided experimentation with structured video tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven quality investments in tools/appliances, cautious discretionary spending",
+        "income_level": "$85,000-$100,000 annually",
+        "investment_habits": "Conservative 401(k) focus with home equity prioritization",
+        "financial_tools": "U.S. Bank accounts, credit monitoring services, property tax tracking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Remote collaboration with clear task delegation",
+        "family_structure": "Homeowner likely living with partner",
+        "friendship_circle": "Small group of technical hobbyists",
+        "community_involvement": "Local zoning board participation, neighborhood watch",
+        "online_vs_offline_engagement": "Primarily online technical communities with selective IRL meetups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with Fox News email digest, project planning",
+        "workday_habits": "Structured task blocks using project management tools",
+        "evening_and_leisure": "Tool maintenance sessions, MSN political deep dives",
+        "weekend_activities": "Home improvement projects, estate sale hunting",
+        "sleep_schedule": "Consistent 11PM-6AM pattern"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active lifestyle through DIY projects, balanced diet tracking via Kaiser portal",
+        "mental_health": "Stress management through hands-on hobbies",
+        "work_life_balance": "Strict separation between contract work and personal projects",
+        "health_related_digital_behavior": "Insurance portal usage, occasional fitness video searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with manufacturer specifications review",
+        "brand_loyalty": "Strong in tools (Benchmade, Work Sharp), flexible elsewhere",
+        "influence_factors": "Technical specifications sheets, expert user forum posts",
+        "tech_adoption": "Mainstream user with selective early adoption in precision tools",
+        "privacy_and_security_concerns": "High awareness of financial data protection"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Northwest American English, basic German clock terminology",
+        "travel_habits": "Regional road trips for estate sales/antique hunting, international research (South Africa tidal pools)",
+        "personal_projects": "Vintage clock restoration, custom knife sharpening service",
+        "unexpected_behavioral_traits": "Combines technical precision with political conspiracy theory interest"
+    }
+}

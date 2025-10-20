@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Haroldson",
+        "age": 69,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Sarasota, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "State College of Florida"
+        },
+        "occupation": "Retired Automotive Technician",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Fair",
+            "facial_features": "Wrinkles around eyes from squinting at engine parts",
+            "dress_style": "Practical workwear (denim shirts, cargo pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, skepticism of government overreach (based on scam toll searches and MSN political article views)",
+        "motivations": "Preservation of automotive history, property ownership, technical mastery",
+        "cognitive_style": "Analytical problem-solver with hands-on implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precise technical specifications (e.g., '1965 Chevelle SS wiring diagrams'), real estate parameters with price ranges",
+        "ad_interactions": "High engagement with automotive parts ads (17/24 ad clicks)",
+        "preferred_content_sources": "Specialist forums (Jalopy Journal), OEM parts sites (National Parts Depot), Zillow",
+        "social_media_usage": "Passive Facebook Marketplace monitoring for car parts",
+        "ecommerce_behavior": "Frequent mid-price purchases ($50-$500 parts via eBay/Amazon)",
+        "device_usage": "Desktop-focused (complex diagrams/forms), Edge browser",
+        "subscriptions": "Amazon Prime, Zillow alerts, Studebaker Drivers Club forum"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vintage automotive restoration techniques, small engine mechanics",
+        "hobbies": "Classic car restoration, property renovation, amateur engineering",
+        "entertainment_preferences": "Car restoration shows, 60s-70s rock music, war documentaries",
+        "content_consumption": "Technical manuals >80%, news/opinion pieces <20%",
+        "learning_style": "Diagram-based self-learning with trial-and-error implementation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious quality (prefers OEM-equivalent parts over cheap alternatives)",
+        "income_level": "Middle-class retiree (supplemented by freelance repairs)",
+        "investment_habits": "Conservative (real estate focus via Zillow searches)",
+        "financial_tools": "Traditional banking, PayPal for parts transactions"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with occasional parts supplier contacts",
+        "family_structure": "Likely lives alone (intensive hobby focus)",
+        "friendship_circle": "Niche automotive enthusiast connections",
+        "community_involvement": "Local car shows, HOA meetings (florida-hoa.com visits)",
+        "online_vs_offline_engagement": "90% online research/forums, 10% in-person meets"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with mechanical trade news (MSN Events car articles)",
+        "workday_habits": "4-6 hours garage time interspersed with parts research",
+        "evening_and_leisure": "Parts catalog review, YouTube restoration tutorials",
+        "weekend_activities": "Junkyard scavenging, property maintenance",
+        "sleep_schedule": "Early riser (5:30 AM) aligning with daylight garage work"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity through mechanical work, potential joint strain",
+        "mental_health": "Stress relief through focused technical work",
+        "work_life_balance": "Hobby-dominated retirement lifestyle",
+        "health_related_digital_behavior": "Occasional symptom checks (healthwebmagazine.com)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Specification-driven (cross-references multiple parts diagrams)",
+        "brand_loyalty": "Strong in automotive (Polaris, GM) but price-aware",
+        "influence_factors": "Forum consensus, OEM specifications",
+        "tech_adoption": "Late majority (adopts only when necessary for hobbies)",
+        "privacy_and_security_concerns": "Basic awareness (recognizes toll scams)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Southern US idioms",
+        "travel_habits": "Regional road trips for car shows/parts",
+        "personal_projects": "1965 Chevelle SS full restoration",
+        "unexpected_behavioral_traits": "Technical pragmatist who enjoys abstract engineering challenges (differential configurations)"
+    }
+}

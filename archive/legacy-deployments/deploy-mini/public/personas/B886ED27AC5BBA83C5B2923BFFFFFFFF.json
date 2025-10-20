@@ -1,0 +1,100 @@
+{
+    "Core Identity": {
+        "full_name": "Joy Savage",
+        "age": 77,
+        "gender": "Female",
+        "nationality": "United States",
+        "current_residence": "Dallas, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Retired Administrative Professional",
+        "company": "Unknown",
+        "physical attributes": {
+            "Height": "5'4\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Warm smile with glasses",
+            "Dress Style": "Casual comfort-focused outfits"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Financial responsibility, health maintenance, loyalty to trusted brands",
+        "motivations": "Maintaining independence, managing chronic pain, staying informed",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Targeted searches for financial management, health solutions, and travel planning",
+        "ad_interactions": "Engages with travel, pain relief, and financial service ads",
+        "preferred_content_sources": "Major airlines, established news outlets, official brand websites",
+        "social_media_usage": "Minimal engagement beyond email communication",
+        "ecommerce_behavior": "Budget-conscious online shopper for health products and travel deals",
+        "device_usage": "Desktop computer using Microsoft Edge",
+        "subscriptions": [
+            "Costco Membership",
+            "Spectrum Internet",
+            "MSN News"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement financial management",
+        "hobbies": "Travel planning, following celebrity news, home cooking",
+        "entertainment_preferences": "Award shows, Netflix movies, sports news",
+        "content_consumption": "Factual news articles and practical guides",
+        "learning_style": "Self-guided online research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with splurges on health and travel",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative financial management",
+        "financial_tools": [
+            "Aviator Mastercard",
+            "Barclaycard",
+            "Online banking"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative team player",
+        "family_structure": "Likely lives independently",
+        "friendship_circle": "Small, close-knit group",
+        "community_involvement": "Minimal organized activities",
+        "online_vs_offline_engagement": "Prefers offline interactions with digital convenience"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks email and news with breakfast",
+        "workday_habits": "Manages finances and medical appointments",
+        "evening_and_leisure": "Watches awards shows and sports events",
+        "weekend_activities": "Family visits and trip planning",
+        "sleep_schedule": "Regular early bedtime"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages sciatica with topical creams and ergonomic furniture",
+        "mental_health": "Stable through routine and information management",
+        "work_life_balance": "Leisurely retirement schedule",
+        "health_related_digital_behavior": "Researches pain management solutions online"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with brand loyalty",
+        "brand_loyalty": "Strong preference for American Airlines and H&R Block",
+        "influence_factors": "Professional reviews and institutional credibility",
+        "tech_adoption": "Mainstream user of essential digital tools",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-speaking Texan",
+        "travel_habits": "Domestic flights with occasional European tour interest",
+        "personal_projects": "Maintaining family recipes and travel scrapbooks",
+        "unexpected_behavioral_traits": "Follows celebrity news despite practical nature"
+    }
+}

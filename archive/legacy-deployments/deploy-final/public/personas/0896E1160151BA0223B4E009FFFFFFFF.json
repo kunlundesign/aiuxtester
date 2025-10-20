@@ -1,0 +1,131 @@
+{
+    "Core Identity": {
+        "full_name": "Chijioke Adebayo",
+        "age": 30,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Owings Mills, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Public Administration or Business Management",
+            "institution": "University of Maryland"
+        },
+        "occupation": "Government Procurement Specialist",
+        "company": "Baltimore City Government",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, trimmed",
+            "skin_color": "Medium brown",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Business casual (collared shirts, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Public service efficiency",
+            "Compliance-driven governance",
+            "Nigerian cultural affinity"
+        ],
+        "motivations": [
+            "Streamlining municipal operations",
+            "Maintaining regulatory compliance",
+            "Professional credibility"
+        ],
+        "cognitive_style": "Detail-oriented systems thinker"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision queries for construction materials (e.g., '0.107' mass loaded vinyl'), government procurement processes",
+        "ad_interactions": "High engagement with acoustic material/construction ads (5/5 clicked ads related to soundproofing)",
+        "preferred_content_sources": [
+            "Government portals (eMMA)",
+            "Banking platforms",
+            "Industry suppliers (Guilford of Maine)"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "LinkedIn",
+                "MSN News"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive news consumption"
+        },
+        "ecommerce_behavior": "B2B purchasing focus through official portals",
+        "device_usage": "Desktop-dominant (93% work-related domains)",
+        "subscriptions": [
+            "Maryland procurement alerts",
+            "Banking updates",
+            "Acoustic industry newsletters"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Municipal infrastructure projects",
+            "Vendor compliance systems",
+            "Public budget allocation"
+        ],
+        "hobbies": [
+            "DIY home improvement",
+            "Following Nigerian politics",
+            "NBA history"
+        ],
+        "entertainment_preferences": [
+            "Political analysis content",
+            "90s hip-hop culture",
+            "Documentary films"
+        ],
+        "content_consumption": "Technical specifications > Opinion pieces",
+        "learning_style": "Regulation manuals + On-the-job training"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-optimized professional purchases",
+        "income_level": "$65,000-$80,000 (government pay scale)",
+        "investment_habits": "Conservative (401k, municipal bonds)",
+        "financial_tools": [
+            "PNC Bank",
+            "Chase credit cards",
+            "Government retirement plans"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Process-oriented collaborator",
+        "family_structure": "Married with children",
+        "friendship_circle": "Small professional network",
+        "community_involvement": "Local government advisory panels",
+        "online_vs_offline_engagement": "70% digital workflow/30% site inspections"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage > Compliance checks > Committee briefings",
+        "workday_habits": "Bid evaluations > Vendor communications > Contract audits",
+        "evening_and_leisure": "Procurement research > Nigerian news > Sports highlights",
+        "weekend_activities": "Home maintenance > Family outings > Community meetings",
+        "sleep_schedule": "11 PM - 6 AM (structured)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (site visits), packed lunches",
+        "mental_health": "Task-completion stress relief",
+        "work_life_balance": "Compartmentalized but work-leaning",
+        "health_related_digital_behavior": "Basic fitness tracking via smartphone"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Regulation-first analysis",
+        "brand_loyalty": "Institutional preferences (Truist/Chase)",
+        "influence_factors": "Compliance requirements > Vendor reputation",
+        "tech_adoption": "Secure enterprise tools only",
+        "privacy_and_security_concerns": "High (government data protocols)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Nigerian-American (Igbo heritage), bilingual English/pidgin",
+        "travel_habits": "Local Mid-Atlantic trips, periodic Nigeria visits",
+        "personal_projects": "Community center renovation advisory",
+        "unexpected_behavioral_traits": "Municipal bureaucrat with encyclopedic NBA history knowledge"
+    }
+}

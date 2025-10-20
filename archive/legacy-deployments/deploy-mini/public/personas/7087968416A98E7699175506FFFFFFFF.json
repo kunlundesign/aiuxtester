@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Mitchell",
+        "age": 40,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Yakima, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Mechanical Engineering Technology",
+            "institution": "Yakima Valley College"
+        },
+        "occupation": "Hearth Products Dealer/Technical Consultant",
+        "company": "Local Washington Hearth Distributor",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length straight brown hair",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, practical appearance",
+            "dress_style": "Casual workwear with branded company apparel"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Quality craftsmanship, reliability in home products",
+        "motivations": "Professional expertise recognition, financial stability",
+        "cognitive_style": "Analytical problem-solver with structured workflow"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical fireplace specifications (e.g., '4021-737 pilot assembly'), NFL draft analytics, real estate market trends",
+        "ad_interactions": "High engagement with hearth product suppliers (Modine heaters) and travel services",
+        "preferred_content_sources": "Manufacturer manuals (Ortal), sports analytics (Bleacher Report), industry expos (HPBExpo)",
+        "social_media_usage": "Limited: Passive MSN news consumption, no visible platform engagement",
+        "ecommerce_behavior": "B2B parts purchasing, occasional personal apparel (Woman Within)",
+        "device_usage": "Desktop-centric workflow (Gensco dealer portals) with mobile news checks",
+        "subscriptions": "NFL updates, hearth industry newsletters, Zillow price alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Fireplace innovation trends, NFL salary cap management",
+        "hobbies": "Casual browser gaming (CrazyGames), home renovation planning",
+        "entertainment_preferences": "NFL analysis shows, reality news (Daily Mail)",
+        "content_consumption": "Technical documentation + sports statistics with quick news scans",
+        "learning_style": "On-the-job training reinforced by manufacturer resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven B2B purchases, conservative personal spending",
+        "income_level": "$65,000-$80,000 (Pacific Northwest technical role average)",
+        "investment_habits": "Practical home equity focus over financial markets",
+        "financial_tools": "Business credit lines, personal Citi credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Dealer network coordination with independent troubleshooting",
+        "family_structure": "Unknown",
+        "friendship_circle": "Small group with shared NFL/handyman interests",
+        "community_involvement": "Local trade associations (hearth installers)",
+        "online_vs_offline_engagement": "Professional online presence, prefers in-person client meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage (Gensco orders), weather/route check (Yakima weather)",
+        "workday_habits": "Parts ordering, client site visits, NFL news during breaks",
+        "evening_and_leisure": "Casual gaming, Zillow browsing, Bears roster analysis",
+        "weekend_activities": "Home improvement projects, NFL game viewing",
+        "sleep_schedule": "Early riser (5:30 AM) with consistent 7-hour sleep"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (installation site visits), convenience food diet",
+        "mental_health": "Stress management through sports engagement",
+        "work_life_balance": "Leans work-centric but enforces weekend downtime",
+        "health_related_digital_behavior": "Minimal except ergonomic product research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Specification-driven (Ortal manuals) with cost-benefit analysis",
+        "brand_loyalty": "Strong in hearth industry (Heat & Glo), flexible elsewhere",
+        "influence_factors": "NFL expert commentary, manufacturer certifications",
+        "tech_adoption": "Mainstream user focused on reliability over novelty",
+        "privacy_and_security_concerns": "Basic precautions (password management)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Northwestern U.S. cultural norms",
+        "travel_habits": "Annual trade show attendance (HPBExpo Vegas 2025), occasional Qatar Airways use",
+        "personal_projects": "Custom outdoor kitchen design (Blaze Grills integration)",
+        "unexpected_behavioral_traits": "Technical professional with passion for casual archery games"
+    }
+}

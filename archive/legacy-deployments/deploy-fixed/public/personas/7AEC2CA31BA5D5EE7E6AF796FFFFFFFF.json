@@ -1,0 +1,168 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Leblanc",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Saint Martinville, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Information Technology",
+            "institution": "Local community college (inferred from technical troubleshooting behavior with 3DS devices)"
+        },
+        "occupation": "IT Support Specialist",
+        "company": "Regional tech services firm",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average build",
+            "Hairstyle": "Short, low-maintenance cut",
+            "Skin_color": "Caucasian",
+            "Facial_features": "Clean-shaven with rectangular glasses",
+            "Dress_Style": "Casual gamer aesthetic: graphic tees + jeans"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (explores niche gaming content and entomology)",
+            "conscientiousness": "Medium (organized game strategies but inconsistent news consumption)",
+            "extraversion": "Medium (active in online communities but limited IRL social signals)",
+            "agreeableness": "Medium (collaborative in gaming groups but shows political content avoidance)",
+            "neuroticism": "Low (stable gaming habits and troubleshooting persistence)"
+        },
+        "mbti": "ISTP (practical problem-solver focused on game mechanics)",
+        "beliefs_and_values": [
+            "Technology as empowerment tool",
+            "Nostalgia for retro gaming culture"
+        ],
+        "motivations": [
+            "Mastery of complex systems (OSRS/Pokémon mechanics)",
+            "Community status in gaming groups"
+        ],
+        "cognitive_style": "Analytical pattern-finder (evident in DPS calculations and bug investigations)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Game-specific deep dives (OSRS boss strategies)",
+            "Practical troubleshooting (3DS repair)"
+        ],
+        "ad_interactions": {
+            "Engagement_level": "Selective (clicks only relevant gaming/tech ads)",
+            "Preferred_ad_categories": [
+                "PC components",
+                "Gaming accessories"
+            ]
+        },
+        "preferred_content_sources": [
+            "OSRS Wiki",
+            "YouTube gaming tutorials",
+            "Reddit communities"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "Discord",
+                "Facebook",
+                "Reddit"
+            ],
+            "Frequency": "Daily",
+            "Engagement_type": "Active in gaming groups, passive elsewhere"
+        },
+        "ecommerce_behavior": {
+            "Spending_habits": "Budget-conscious tech/gaming purchases",
+            "Product_categories": [
+                "PC parts",
+                "Retro gaming merch"
+            ]
+        },
+        "device_usage": {
+            "Primary_device": "Windows PC",
+            "Secondary_device": "Android phone",
+            "Browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "YouTube Premium",
+            "Discord Nitro"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Network security",
+            "Hardware troubleshooting"
+        ],
+        "hobbies": [
+            "Speedrunning retro games",
+            "Bug hunting (literal and digital)"
+        ],
+        "entertainment_preferences": {
+            "Gaming_genres": [
+                "MMORPGs",
+                "Retro platformers"
+            ],
+            "YouTube_channels": [
+                "OSRS strategy guides",
+                "Meme compilations"
+            ]
+        },
+        "content_consumption": "Technical guides + humor content",
+        "learning_style": "Experimental trial-and-error (evident from game bug investigations)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech investments",
+        "income_level": "$35k-$45k/year (regional IT support range)",
+        "investment_habits": "Conservative (no crypto signals)",
+        "financial_tools": [
+            "Local credit union accounts",
+            "Amazon Prime"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Technical collaborator (troubleshooting teams)",
+        "family_structure": "Lives with parents (multiple funeral home visits suggest recent family events)",
+        "friendship_circle": "Online gaming buddies + childhood friends",
+        "community_involvement": "Casual church attendee (Louisiana cultural context)",
+        "online_vs_offline_engagement": "80% digital socialization"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": [
+            "Check OSRS updates",
+            "Quick news scan"
+        ],
+        "workday_habits": "Split between field service calls and helpdesk support",
+        "evening_and_leisure": [
+            "OSRS grinding sessions",
+            "Discord voice chats"
+        ],
+        "weekend_activities": [
+            "LAN parties",
+            "Fishing trips (Louisiana culture)"
+        ],
+        "sleep_schedule": "Night owl (late gaming sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work compensated by occasional hiking",
+        "mental_health": "Stress relief through gaming achievements",
+        "work_life_balance": "Blurred boundaries due to passion projects",
+        "health_related_digital_behavior": "Reactive searches (e.g., dog allergies)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven optimizer (DPS calculations)",
+        "brand_loyalty": "Strong in tech/gaming (Logitech/SteelSeries observed)",
+        "influence_factors": [
+            "Community meta-analyses",
+            "Benchmark tests"
+        ],
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Basic precautions (no advanced measures)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": [
+            "Cajun French heritage",
+            "Limited Spanish proficiency"
+        ],
+        "travel_habits": "Regional road trips for gaming conventions",
+        "personal_projects": [
+            "Retro console modding",
+            "Private OSRS plugin development"
+        ],
+        "unexpected_behavioral_traits": "Combines mechanical engineering interest (3DS repairs) with entomology curiosity"
+    }
+}

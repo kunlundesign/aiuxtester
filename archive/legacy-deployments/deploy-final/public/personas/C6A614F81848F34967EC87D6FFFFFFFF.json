@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Andrew Swinehart",
+        "age": 35,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Sunnyside, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Construction Management",
+            "institution": "Washington State University"
+        },
+        "occupation": "Construction Project Manager",
+        "company": "Magana’s Remodeling LLC",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with defined jawline",
+            "dress_style": "Workwear (Carhartt/utility-focused)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, technological pragmatism, local community support",
+        "motivations": "Professional craftsmanship, financial stability, family security",
+        "cognitive_style": "Systematic problem-solver with technical precision"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical DIY queries (e.g., 'safety glazing requirements'), sports analytics, military hardware specifications",
+        "ad_interactions": "High engagement with power tools, e-bike components, and energy-efficient home systems",
+        "preferred_content_sources": "Home Depot Pro Referral, ESPN Insider, MSN News, Zillow Market Analytics",
+        "social_media_usage": "Facebook (community groups), YouTube (DIY tutorials), limited public engagement",
+        "ecommerce_behavior": "Bulk purchases from construction suppliers, premium tool investments",
+        "device_usage": "Desktop (Chrome) for project research, Mobile (Android) for quick price checks",
+        "subscriptions": "Trade magazine digests, ESPN+, local weather alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Advanced building materials, contractor management software, union labor trends",
+        "hobbies": "Weekend camping at Ohanapecosh, woodworking projects, fantasy football analytics",
+        "entertainment_preferences": "Action documentaries, classic rock playlists, sports talk radio",
+        "content_consumption": "Technical specification sheets, team salary cap analyses, geopolitical briefings",
+        "learning_style": "Video tutorials + manufacturer schematics cross-referencing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven bulk purchases, leases commercial equipment",
+        "income_level": "$75,000-$90,000 annually",
+        "investment_habits": "Conservative 401(k) contributions, home equity focus",
+        "financial_tools": "Business credit card (Chase Ink), PayPal Invoicing"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Foreman-style leadership, mentors apprentices",
+        "family_structure": "Married with two elementary-aged children",
+        "friendship_circle": "Construction industry peers + fantasy football league",
+        "community_involvement": "Little League coach, hardware store workshop instructor",
+        "online_vs_offline_engagement": "Offline community focus with targeted online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "6:00 AM jobsite review emails, local news scan, packed lunch preparation",
+        "workday_habits": "Split between field supervision and project bidding software",
+        "evening_and_leisure": "Mariners game tracking, kids' homework help, woodshop tinkering",
+        "weekend_activities": "Family hikes at Suncadia Resort, DIY home upgrades",
+        "sleep_schedule": "10:30 PM bed time, consistent 7.5 hours"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength from manual labor, protein-focused diet",
+        "mental_health": "Outdoor activity as stress relief, avoids digital overload",
+        "work_life_balance": "Strict jobsite departure times, weekend project embargoes",
+        "health_related_digital_behavior": "First aid certification renewals, ergonomic equipment research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Triangulates manufacturer specs + peer reviews + cost projections",
+        "brand_loyalty": "Milwaukee Tool ecosystem adherent, Toyota truck lineage",
+        "influence_factors": "Trade publication rankings, union safety certifications",
+        "tech_adoption": "Purpose-driven early majority (adopts BIM software when proven)",
+        "privacy_and_security_concerns": "Browser history auto-delete, avoids cloud storage for blueprints"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Third-generation Washington resident, conversational Spanish for jobsites",
+        "travel_habits": "Regional camping trips within 300-mile radius, avoids air travel",
+        "personal_projects": "Custom deck construction with composite materials",
+        "unexpected_behavioral_traits": "Military history buff analyzing geopolitical conflicts through infrastructure vulnerability lens"
+    }
+}

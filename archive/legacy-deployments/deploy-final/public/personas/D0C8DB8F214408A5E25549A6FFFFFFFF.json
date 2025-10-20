@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Lucas Carter",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Manor, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Automotive Technology",
+            "institution": "Local Texas Community College"
+        },
+        "occupation": "Auto Parts Sales Associate",
+        "company": "Local Auto Dealership",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, casual",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual workwear (jeans, graphic tees, mechanic jackets)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Appreciation for mechanical craftsmanship, self-reliance",
+        "motivations": "Ownership of a classic car, automotive expertise",
+        "cognitive_style": "Practical problem-solver with technical focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused automotive research (e.g., 'Chevelle SS for sale', 'blue book values')",
+        "ad_interactions": "High engagement with classic car marketplace/insurance ads",
+        "preferred_content_sources": "Specialist automotive platforms (Hemmings, ClassicCars.com), eBay Motors",
+        "social_media_usage": "YouTube for car builds, limited Facebook use",
+        "ecommerce_behavior": "Budget-conscious parts shopping on eBay/Amazon",
+        "device_usage": "Desktop-dominant (detailed research), Android mobile",
+        "subscriptions": "Car restoration YouTube channels, eBay saved searches"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vintage car market trends, engine restoration techniques",
+        "hobbies": "Car meets, DIY automotive projects",
+        "entertainment_preferences": "Car restoration shows, sports highlights",
+        "content_consumption": "Technical guides, auction listings, spec sheets",
+        "learning_style": "Hands-on experimentation with mentorship"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused (compares prices across platforms)",
+        "income_level": "$25k-$35k (entry-level auto industry)",
+        "investment_habits": "Tangible assets (car projects as investments)",
+        "financial_tools": "Debit card primary, PayPal for online purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Colleague collaboration on technical challenges",
+        "family_structure": "Lives with parents (common regional pattern)",
+        "friendship_circle": "Car enthusiast group interactions",
+        "community_involvement": "Local car meets/shows",
+        "online_vs_offline_engagement": "Balanced (online research, in-person events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks new auction listings with breakfast",
+        "workday_habits": "Parts inventory management, customer service",
+        "evening_and_leisure": "Garage time restoring personal project car",
+        "weekend_activities": "Scrapyard visits, car shows, detail cleaning",
+        "sleep_schedule": "Night owl (post-midnight research sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor (car work)",
+        "mental_health": "Stress relief through mechanical tinkering",
+        "work_life_balance": "Work supports hobby integration",
+        "health_related_digital_behavior": "Occasional symptom checks (Healthline)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Analytical cross-comparisons (e.g., KBB checks)",
+        "brand_loyalty": "Trusts established automotive platforms",
+        "influence_factors": "Mechanical condition reports, provenance docs",
+        "tech_adoption": "Mainstream user (relies on industry-standard tools)",
+        "privacy_and_security_concerns": "Basic precautions (SSA login vigilance)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Texan English, basic Spanish",
+        "travel_habits": "Regional car show attendance",
+        "personal_projects": "1970 Chevelle SS restoration",
+        "unexpected_behavioral_traits": "Political news consumer despite technical focus"
+    }
+}

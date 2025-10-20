@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ava Thompson",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Columbia, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Graphic Design",
+            "institution": "Local community college (self-taught emphasis)"
+        },
+        "occupation": "Freelance Content Creator",
+        "company": "Freelance",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Slim",
+            "hairstyle": "Long brunette with occasional braids",
+            "skin_color": "Light golden hue",
+            "facial_features": "Round face with expressive eyes",
+            "dress_style": "Bohemian-chic mix with modern techwear accents"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": "Technology empowerment, creative expression, cultural exploration",
+        "motivations": "Creative fulfillment, technical mastery, financial independence",
+        "cognitive_style": "Balanced analytical/creative thinking with visual learning preference"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical deep dives (APIs, file formats) + pop culture cross-referencing",
+        "ad_interactions": "High engagement with design tools, fashion, and productivity software",
+        "preferred_content_sources": "IMDb, Reddit, Patreon, specialized modding communities",
+        "social_media_usage": "Active on YouTube/Twitch for tutorials, passive on Instagram/Pinterest",
+        "ecommerce_behavior": "Budget-conscious but invests in creative tools/subscriptions",
+        "device_usage": "Windows desktop primary, Android mobile secondary",
+        "subscriptions": "Suno Pro, Patreon mod creators, Microsoft 365"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "AI-assisted design, music production tech, UI/UX trends",
+        "hobbies": "Modding The Sims 4, experimental cooking, DIY craft projects",
+        "entertainment_preferences": "K-dramas, fantasy films, synthwave music",
+        "content_consumption": "Tutorial videos + long-form tech explainers",
+        "learning_style": "Project-based experimentation with community support"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurges on creative tools, frugal elsewhere",
+        "income_level": "Entry-level freelancer ($25k-$35k)",
+        "investment_habits": "Conservative with physical savings, experimental with digital assets",
+        "financial_tools": "PayPal, Venmo, basic credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative digital nomad style",
+        "family_structure": "Lives with parents while building career",
+        "friendship_circle": "Niche online communities + local creative peers",
+        "community_involvement": "Modding forum contributor, AI art groups",
+        "online_vs_offline_engagement": "70% digital/30% in-person balance"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Suno analytics, scans design inspiration feeds",
+        "workday_habits": "Blocks 3-hour creative sprints between client communications",
+        "evening_and_leisure": "Streams shows while modding games, late-night AI experiments",
+        "weekend_activities": "Family meals, Sims marathons, local thrift shopping",
+        "sleep_schedule": "Flexible (11 PM-8 AM with project-dependent variances)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual walks, ergonomic workspace focus",
+        "mental_health": "Creative output as primary stress relief",
+        "work_life_balance": "Blurred boundaries with deliberate tech detox hours",
+        "health_related_digital_behavior": "Recipe nutrition analysis, posture reminder apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-backed with creative intuition",
+        "brand_loyalty": "Tool-specific rather than company allegiance",
+        "influence_factors": "Creator testimonials, version update features",
+        "tech_adoption": "Early majority with selective bleeding-edge exceptions",
+        "privacy_and_security_concerns": "VPN user, selective data sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, basic Spanish comprehension",
+        "travel_habits": "Virtual exploration via media, occasional convention trips",
+        "personal_projects": "AI-generated music album, Sims 4 mod pack",
+        "unexpected_behavioral_traits": "Technical pragmatist who creates abstract digital art"
+    }
+}

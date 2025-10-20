@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Weber",
+        "age": 63,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Delhi, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "N/A",
+            "institution": "Local Iowa High School"
+        },
+        "occupation": "Farm Owner/Agricultural Worker",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Stocky",
+            "Hairstyle": "Short, gray",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes from outdoor work",
+            "Dress Style": "Practical workwear (denim, boots, flannel shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Traditional agricultural values, skepticism of government overreach",
+        "motivations": "Maintaining farm operations, equipment optimization",
+        "cognitive_style": "Practical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Agricultural equipment specifications, local legal records, woodworking machinery",
+        "ad_interactions": "High engagement with farm equipment and woodworking tool ads",
+        "preferred_content_sources": "Agricultural forums (AgTalk), equipment marketplaces (TractorHouse), local news",
+        "social_media_usage": "Passive Facebook/Instagram use for community updates",
+        "ecommerce_behavior": "Researches before purchasing machinery parts",
+        "device_usage": "Desktop-focused with Windows/Edge browser",
+        "subscriptions": "Red Power Magazine updates, farm equipment newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Livestock handling systems, tractor maintenance",
+        "hobbies": "Vintage truck restoration, woodworking",
+        "entertainment_preferences": "Local news talk radio, classic country music",
+        "content_consumption": "Technical manuals and auction listings",
+        "learning_style": "Hands-on experimentation with equipment"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for major equipment, impulse buys on small tools",
+        "income_level": "Middle-class farm income",
+        "investment_habits": "Reinvests in farm infrastructure",
+        "financial_tools": "Traditional banking, equipment financing"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with occasional equipment sharing",
+        "family_structure": "Likely multigenerational farm household",
+        "friendship_circle": "Small local farming community connections",
+        "community_involvement": "County fair participation",
+        "online_vs_offline_engagement": "Prefers face-to-face interactions for business"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Early riser checking equipment/weather",
+        "workday_habits": "Physical farm maintenance tasks",
+        "evening_and_leisure": "Online equipment research",
+        "weekend_activities": "Equipment auctions, family visits",
+        "sleep_schedule": "Early to bed/early rise"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active farm work as primary exercise",
+        "mental_health": "Stress management through manual labor",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Occasional medical price comparisons"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Experience-driven with community input",
+        "brand_loyalty": "Prefers John Deere/established farm brands",
+        "influence_factors": "Peer recommendations, durability",
+        "tech_adoption": "Mainstream user for essential tools",
+        "privacy_and_security_concerns": "Low digital privacy awareness"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, German ancestry",
+        "travel_habits": "Regional equipment auctions",
+        "personal_projects": "Restoring 1973 Chevy truck",
+        "unexpected_behavioral_traits": "Simultaneously practical and curious about new agricultural tech"
+    }
+}

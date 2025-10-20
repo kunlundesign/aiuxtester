@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Mitchell",
+        "age": 45,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Dallas, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Mathematics Education",
+            "institution": "University of Texas at Austin"
+        },
+        "occupation": "High School Math Teacher",
+        "company": "Dallas Independent School District",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length layered cut",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup with glasses",
+            "Dress Style": "Professional-casual blend with tailored pants and structured tops"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Education empowerment, quality over quantity, work-life integration",
+        "motivations": "Student success, wardrobe efficiency, budget-conscious luxury",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Specific product searches (brand+style+color), comparison shopping for clothing and home goods",
+        "ad_interactions": "High engagement with fashion/beauty ads (80% of clicks)",
+        "preferred_content_sources": "Nordstrom, Revolve, Teachers Pay Teachers, TripAdvisor",
+        "social_media_usage": "Pinterest for outfit ideas, LinkedIn for professional development",
+        "ecommerce_behavior": "Mid-range to premium purchases ($80-$300 items), frequent returns research",
+        "device_usage": "Desktop for lesson planning, mobile for quick shopping",
+        "subscriptions": "Nordstrom Notes, Amazon Prime, Netflix"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Gamified learning strategies, classroom ergonomics",
+        "hobbies": "Weekend road trips, home organization projects",
+        "entertainment_preferences": "True crime documentaries, classic rock playlists",
+        "content_consumption": "Long-form product descriptions, teacher blogs",
+        "learning_style": "Workshop-based professional development"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurges on work wardrobe staples",
+        "income_level": "$65,000-$75,000",
+        "investment_habits": "Conservative 403(b) contributions",
+        "financial_tools": "Nordstrom credit card, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Department team leader, mentoring new teachers",
+        "family_structure": "Married with teenage children",
+        "friendship_circle": "Teacher colleagues and college friends",
+        "community_involvement": "PTA volunteer, math competition coordinator",
+        "online_vs_offline_engagement": "Online research with in-store pickups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Quick outfit coordination, checks educational emails",
+        "workday_habits": "Back-to-back classes with planning periods for online shopping",
+        "evening_and_leisure": "Grades papers while streaming shows, weekend outfit planning",
+        "weekend_activities": "State park visits, mall trips with daughters",
+        "sleep_schedule": "10:30 PM - 6:00 AM regular schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Comfort-focused footwear collection, packed lunches",
+        "mental_health": "Journaling, classroom achievement tracking",
+        "work_life_balance": "Strict schoolwork cutoff at 7 PM",
+        "health_related_digital_behavior": "Ergonomic furniture research, posture-correcting clothing"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison spreadsheet creator",
+        "brand_loyalty": "Staples from Mother Denim/Athleta, experiments with fast fashion",
+        "influence_factors": "Teacher fashion blogs, Nordstrom reviews",
+        "tech_adoption": "Mainstream user with premium app preferences",
+        "privacy_and_security_concerns": "Conscious cookie manager"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Texas native, basic Spanish skills",
+        "travel_habits": "Regional weekend trips, national park-focused vacations",
+        "personal_projects": "Creating math-themed classroom decor",
+        "unexpected_behavioral_traits": "Maintains separate carts for school supplies and personal fashion"
+    }
+}

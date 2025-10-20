@@ -1,77 +1,96 @@
-# 本地部署指南
+# Deployment Guide (Azure App Service - Code Mode)
 
-## 快速开始
+This document explains how to deploy the application to Azure App Service in Code mode (NOT container). The previous failures were caused by running the App Service in a Docker container image setting which bypassed Oryx build and left `node_modules` missing.
 
-### 1. 安装依赖
-```bash
-npm install
+## 1. Prerequisites
+- Azure Subscription
+- Azure CLI >= 2.57
+- Node.js 20.x locally (to build & test)
+- App Service Plan (Linux) + Web App created (runtime can be anything initially)
+
+## 2. Switch Web App to Code Mode (if currently in Container Mode)
+Check current setting:
 ```
-
-### 2. 配置环境变量
-```bash
-cp .env.example .env.local
+az webapp config show -g <RESOURCE_GROUP> -n <APP_NAME> --query linuxFxVersion -o tsv
 ```
-
-然后编辑 `.env.local` 文件，添加您的 API 密钥：
-
-- **OpenAI API Key**: 从 https://platform.openai.com/api-keys 获取
-- **Gemini API Key**: 从 https://makersuite.google.com/app/apikey 获取  
-- **Zhipu API Key**: 从 https://open.bigmodel.cn/ 获取
-
-### 3. 启动开发服务器
-```bash
-npm run dev
+If it starts with `DOCKER|` you are in container mode and must clear it:
 ```
-
-应用将在 http://localhost:3000 (或下一个可用端口) 启动。
-
-## 功能测试
-
-1. **选择 AI 模型**: OpenAI GPT-4V / Google Gemini / Zhipu GLM-4V
-2. **选择 Gen Z 角色**: 5 种不同的用户画像
-3. **上传图片**: 拖拽或点击上传 UI 截图
-4. **运行模拟**: 获得 AI 驱动的 UX 评估
-5. **查看结果**: 分数、分析和具体问题
-6. **导出结果**: Markdown 或 JSON 格式
-
-## 生产部署
-
-### Vercel 部署 (推荐)
-1. 将代码推送到 GitHub
-2. 在 Vercel 中连接仓库
-3. 在 Vercel 控制台添加环境变量
-4. 自动部署
-
-### 其他平台
-```bash
-npm run build
-npm start
+# Remove custom container (switches to code mode)
+az webapp config set -g <RESOURCE_GROUP> -n <APP_NAME> --linux-fx-version ""
+# Set Node runtime (20 LTS)
+az webapp config set -g <RESOURCE_GROUP> -n <APP_NAME> --linux-fx-version "NODE|20-lts"
 ```
+Verify again (should output `NODE|20-lts`). In Portal you will now see the Stack/Runtime dropdown.
 
-## 故障排除
-
-- **端口被占用**: 应用会自动尝试下一个可用端口
-- **API 密钥错误**: 检查 `.env.local` 文件中的密钥格式
-- **图片上传失败**: 确保图片格式为 PNG/JPG/WebP
-- **评估失败**: 检查网络连接和 API 配额
-
-## 项目结构
-
+## 3. Configure App Settings (Environment Variables)
 ```
-src/
-├── app/                 # Next.js App Router
-│   ├── api/evaluate/   # API 路由
-│   ├── globals.css     # 全局样式
-│   ├── layout.tsx      # 根布局
-│   └── page.tsx        # 主页面
-├── components/         # React 组件
-│   ├── ImageUploader.tsx
-│   └── ResultsView.tsx
-├── data/              # 静态数据
-│   ├── personas.ts    # Gen Z 角色数据
-│   └── evaluation-dimensions.ts
-├── lib/               # 工具库
-│   └── ai-adapters.ts # AI 提供商适配器
-└── types/             # TypeScript 类型定义
-    └── index.ts
+az webapp config appsettings set -g <RESOURCE_GROUP> -n <APP_NAME> --settings \
+  AZURE_OPENAI_API_KEY=*** \
+  AZURE_OPENAI_ENDPOINT=https://<your>.openai.azure.com/ \
+  AZURE_OPENAI_DEPLOYMENT=<deployment> \
+  AZURE_OPENAI_API_VERSION=2024-02-15-preview \
+  AZURE_MAX_CONCURRENCY=3 \
+  NODE_ENV=production \
+  SCM_DO_BUILD_DURING_DEPLOYMENT=true
 ```
+Optionally add other providers (OPENAI_API_KEY, GEMINI_API_KEY, ZHIPU_API_KEY).
+
+## 4. Create Deployment Zip
+Inside project root:
+```
+npm run build   # optional if you only want to verify; Oryx will build again
+npm run package:zip
+```
+Result: `dist/deploy-YYYYMMDDHHMM.zip` (source only, no node_modules).
+
+## 5. Deploy via ZipDeploy (Option A: Azure CLI)
+```
+az webapp deploy --resource-group <RESOURCE_GROUP> --name <APP_NAME> \
+  --src-path dist/deploy-YYYYMMDDHHMM.zip --type zip
+```
+(If your CLI version lacks `az webapp deploy`, fallback to `az webapp deployment source config-zip`.)
+
+Option B: Direct HTTP
+```
+curl -X POST \
+  -u $DEPLOY_USER:$DEPLOY_PWD \
+  --data-binary @dist/deploy-YYYYMMDDHHMM.zip \
+  https://<APP_NAME>.scm.azurewebsites.net/api/zipdeploy
+```
+Publish credentials can be downloaded from Portal (Get publish profile) — extract userName / userPWD.
+
+## 6. Monitor Deployment
+```
+# Streaming logs
+az webapp log tail -g <RESOURCE_GROUP> -n <APP_NAME>
+# Or check deployment log
+curl -u $DEPLOY_USER:$DEPLOY_PWD https://<APP_NAME>.scm.azurewebsites.net/api/deployments
+```
+You should see Oryx steps: Detecting Node, Running npm install, Running npm build.
+
+## 7. Validate After Deployment
+Visit:
+- https://<APP_NAME>.azurewebsites.net/
+- https://<APP_NAME>.azurewebsites.net/api/health
+
+Expected health JSON: `services.azureOpenAI.configured: true` if keys set. Status code 200.
+
+## 8. Common Issues
+| Symptom | Cause | Fix |
+|---------|-------|-----|
+| 404 on root | Build failed or wrong folder structure | Ensure `app/` at root, re-deploy |
+| 500 Missing module next | Container mode with no build | Ensure linuxFxVersion is NODE|20-lts |
+| Deployment succeeds but blank page | JS build error | Check Log Stream + `/.next` artifacts presence |
+| Oryx build not triggered | `SCM_DO_BUILD_DURING_DEPLOYMENT` missing or container mode | Add setting / switch mode |
+| 401 calling model | Wrong key or endpoint | Re-copy key, ensure endpoint ends with `.azure.com/` |
+
+## 9. Rollback Strategy
+Keep previous working zip in `dist/`. To rollback, redeploy an older zip via the same command.
+
+## 10. Next Steps
+- Add CI (GitHub Actions) once manual deploy is stable
+- Enable Application Insights for better telemetry
+- Consider removing `output: 'standalone'` if not using Docker (optional)
+
+---
+Generated on: 2025-10-13

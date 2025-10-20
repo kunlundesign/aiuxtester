@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Robyn Thorpe",
+        "age": 49,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Washington, USA",
+        "education": {
+            "degree": "Juris Doctor",
+            "major": "Law",
+            "institution": "Georgetown University Law Center"
+        },
+        "occupation": "Legal Counsel",
+        "company": "District of Columbia Superior Court",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, rectangular glasses",
+            "Dress Style": "Business professional (blazers, tailored dresses)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTJ",
+        "beliefs_and_values": "Rule of law, civil rights advocacy, government accountability",
+        "motivations": "Professional excellence, maintaining institutional knowledge, work-life balance",
+        "cognitive_style": "Analytical with systematic problem-solving (evidenced by legal research patterns)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision-focused legal queries (82% of searches) with occasional lifestyle/travel exploration",
+        "ad_interactions": "Engages with legal tech (Clio), automotive (Mazda CX-5), and professional development ads",
+        "preferred_content_sources": "Government portals, legal databases (Clio), MSN News, recipe blogs",
+        "social_media_usage": "Limited to LinkedIn (weekly) and passive news consumption via MSN",
+        "ecommerce_behavior": "Researches major purchases (vehicles) extensively before buying",
+        "device_usage": "Windows 11 desktop (Edge browser) for work, Android smartphone for personal use",
+        "subscriptions": "Microsoft 365, Ancestry.com Premium, Costco Travel alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Judicial process optimization, pro bono case management",
+        "hobbies": "Genealogy research, experimental cooking, historical architecture tours",
+        "entertainment_preferences": "Political documentaries, legal dramas, classic rock",
+        "content_consumption": "Long-form legal documents (75% of screen time) + quick recipe videos",
+        "learning_style": "On-demand webinars combined with peer knowledge sharing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious major purchases (4 car research domains), splurges on heritage travel",
+        "income_level": "$95,000-$110,000 (DC government pay scale for senior legal roles)",
+        "investment_habits": "Moderate-risk through USAA (military-affiliated financial services)",
+        "financial_tools": "USAA banking products, Costco credit card, Microsoft Wallet integration"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Mentorship-focused leadership style (evidenced by recommendation letter searches)",
+        "family_structure": "Single professional living alone (frequent self-storage queries)",
+        "friendship_circle": "Small network of legal colleagues and college alumni",
+        "community_involvement": "Pro bono civil rights work through Washington Lawyers' Committee",
+        "online_vs_offline_engagement": "Hybrid - virtual court appearances balanced with in-person client meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Outlook calendar review → MSN news scan → protein-focused breakfast",
+        "workday_habits": "Block scheduling (2hr deep work sessions between Zoom hearings)",
+        "evening_and_leisure": "Meal prep while watching political commentary, ancestry research",
+        "weekend_activities": "Test driving vehicles, visiting historical sites, batch cooking",
+        "sleep_schedule": "Consistent 11PM-6AM (85% sleep regularity per wearable data)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Yoga 3x/week, Mediterranean diet (recipe searches), annual biometric screenings",
+        "mental_health": "Journaling for stress management, no recorded therapy history",
+        "work_life_balance": "Strict 7PM email cutoff except emergency filings",
+        "health_related_digital_behavior": "Nava Health portal usage, Designs for Health supplements research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with contingency planning (legal document templates usage)",
+        "brand_loyalty": "Stick to known institutions (10+ years using same legal software)",
+        "influence_factors": "Peer recommendations in legal tech, JD Power ratings for vehicles",
+        "tech_adoption": "Mainstream adopter (waits for v2.0 releases)",
+        "privacy_and_security_concerns": "High (two-factor authentication on all work accounts)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English (native), basic Spanish for client interactions",
+        "travel_habits": "Biannual UK heritage trips (Dunnottar Castle research), domestic legal conferences",
+        "personal_projects": "Digitizing family archives through Ancestry.com",
+        "unexpected_behavioral_traits": "Despite high-stress career, maintains 97% inbox zero compliance"
+    }
+}

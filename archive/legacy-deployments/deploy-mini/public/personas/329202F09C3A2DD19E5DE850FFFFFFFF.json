@@ -1,0 +1,159 @@
+{
+    "Core Identity": {
+        "full_name": "James Theodore",
+        "age": 50,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Satellite Beach, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Criminal Justice",
+            "institution": "Eastern Florida State College"
+        },
+        "occupation": "Freelance Social Media Manager",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short military cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven with crow's feet",
+            "Dress Style": "Casual tacticalwear mixed with beach attire"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Low",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": [
+            "Second Amendment advocacy",
+            "Veterans' rights",
+            "Entrepreneurial freedom"
+        ],
+        "motivations": [
+            "Financial independence",
+            "Physical security",
+            "Digital entrepreneurship"
+        ],
+        "cognitive_style": "Practical problem-solver with technical orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Firearms technical specifications",
+            "VA benefits",
+            "Real estate investments",
+            "Social media growth tactics"
+        ],
+        "ad_interactions": {
+            "engagement_level": "High for tactical gear/CCW permits",
+            "preferred_categories": [
+                "Firearms accessories",
+                "CCW certification",
+                "Tactical apparel"
+            ]
+        },
+        "preferred_content_sources": [
+            "Official government sites",
+            "Financial portals",
+            "Adult content platforms",
+            "Tactical blogs"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Instagram",
+                "OnlyFans",
+                "Seeking.com"
+            ],
+            "frequency": "Daily active user",
+            "engagement": "Content creator on adult platforms"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Strategic mid-range purchases",
+            "product_categories": [
+                "Tactical gear",
+                "Subscription services",
+                "Fitness products"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop",
+            "os": "Windows 11",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "OnlyFans Pro",
+            "Seeking.com Premium",
+            "Amazon Prime"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Social media monetization",
+            "Firearms training",
+            "Veteran advocacy"
+        ],
+        "hobbies": [
+            "Competitive shooting",
+            "Skiing",
+            "Chess"
+        ],
+        "entertainment_preferences": {
+            "music": "Classic rock",
+            "movies": "Military documentaries",
+            "reading": "Tactical manuals"
+        },
+        "content_consumption": "Technical guides mixed with conspiracy-adjacent historical content",
+        "learning_style": "Self-taught through YouTube tutorials and forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven with splurges on tactical gear",
+        "income_level": "$75k-$100k annually",
+        "investment_habits": "Moderate risk real estate investor",
+        "financial_tools": [
+            "Navy Federal Credit Union",
+            "Charles Schwab",
+            "Cryptocurrency wallets"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor preferring solo projects",
+        "family_structure": "Single without dependents",
+        "friendship_circle": "Small group of veteran contacts",
+        "community_involvement": "VA clinic user, no formal groups",
+        "online_vs_offline_engagement": "Primarily digital interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks VA portal and financial accounts",
+        "workday_habits": "Manages social media accounts midday",
+        "evening_and_leisure": "Firearms training and content creation",
+        "weekend_activities": "Beach shooting range visits",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Maintains shooting fitness regimen",
+        "mental_health": "Uses tactical hobbies for stress relief",
+        "work_life_balance": "Blurred lines due to content creation",
+        "health_related_digital_behavior": "Monitors VA medical portal regularly"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-calculating pragmatist",
+        "brand_loyalty": "Prefers proven firearm brands",
+        "influence_factors": [
+            "User reviews",
+            "Veteran forums"
+        ],
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Basic precautions but trades privacy for platform functionality"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with military culture influence",
+        "travel_habits": "Ski trips to Colorado combined with tactical gear shopping",
+        "personal_projects": "Developing concealed carry clothing line",
+        "unexpected_behavioral_traits": "Combines tactical pragmatism with speculative archaeology interest"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Martinez",
+        "age": 27,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Albuquerque, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Automotive Technology (partial)",
+            "institution": "Local Community College"
+        },
+        "occupation": "Automotive Technician",
+        "company": "AutoZone",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, casual cut",
+            "Skin color": "Olive complexion",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual workwear (graphic tees, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology optimism, community support (lost dog searches), pragmatic problem-solving",
+        "motivations": "Automotive career advancement, side income through stock trading, creative expression via music production",
+        "cognitive_style": "Analytical problem-solver with hands-on practicality"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Automotive repair queries (radiator unclogging), job opportunities, gaming strategies",
+        "ad_interactions": "High engagement with automotive parts/repair ads, moderate interest in vocational training",
+        "preferred_content_sources": "YouTube tutorials, MSN news, Twitch streams, automotive forums",
+        "social_media_usage": "Passive YouTube/Twitch viewer, active Discord participant",
+        "ecommerce_behavior": "Budget-conscious parts purchases, occasional novelty items (vintage rings)",
+        "device_usage": "Desktop for job searches/streaming, mobile for social media",
+        "subscriptions": "Xbox Game Pass, Netflix, free Udemy courses"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vehicle customization techniques, emerging automotive tools",
+        "hobbies": "First-person shooter gaming (Call of Duty), car meetups, beat production",
+        "entertainment_preferences": "Action/drama series (Breaking Bad), WWE events, hip-hop instrumentals",
+        "content_consumption": "Short-form gaming tutorials, long-form repair guides",
+        "learning_style": "Video tutorials paired with hands-on practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused essentials with occasional gaming splurges",
+        "income_level": "$35k-$45k annually",
+        "investment_habits": "Experimental stock market dabbling",
+        "financial_tools": "Debit card primary, PayPal for online purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player in garage environments",
+        "family_structure": "Lives with roommate(s)",
+        "friendship_circle": "Close-knit online gaming group",
+        "community_involvement": "Local lost pet networks",
+        "online_vs_offline_engagement": "70% digital interaction (gaming/Discord)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN sports/news while eating breakfast",
+        "workday_habits": "Physical repair work with phone breaks for gaming news",
+        "evening_and_leisure": "Twitch streams and car forum browsing",
+        "weekend_activities": "DIY car projects, multiplayer gaming sessions",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Intermittent gym visits, fast food convenience meals",
+        "mental_health": "Stress relief through gaming immersion",
+        "work_life_balance": "Work-focused weekdays, leisure weekends",
+        "health_related_digital_behavior": "Occasional medical symptom searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-backed practicality",
+        "brand_loyalty": "AutoZone preference",
+        "influence_factors": "Peer recommendations in gaming/car communities",
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Low priority for convenience"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with New Mexican cultural influences",
+        "travel_habits": "Regional road trips for car events",
+        "personal_projects": "Custom PC build for gaming",
+        "unexpected_behavioral_traits": "Mechanical precision paired with abstract music production interest"
+    }
+}

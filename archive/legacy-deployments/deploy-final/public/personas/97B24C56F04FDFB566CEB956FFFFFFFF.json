@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "David Okafor",
+        "age": 43,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Katy, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Theology or Religious Studies",
+            "institution": "Unknown"
+        },
+        "occupation": "Pastor/Church Leader",
+        "company": "Local Church/Ministry",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short, trimmed",
+            "Skin_color": "Medium brown",
+            "Facial_features": "Clean-shaven",
+            "Dress_style": "Traditional formal attire (e.g., thobe sets for church), semi-casual otherwise"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Strong Christian faith, community service, family-oriented values",
+        "motivations": "Spiritual leadership, family stability, cultural preservation through faith",
+        "cognitive_style": "Balanced analytical and empathetic thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on religious studies, football/sports news, and practical travel planning",
+        "ad_interactions": "Engages with family-oriented products and travel deals",
+        "preferred_content_sources": "YouTube (religious content), MSN Sports, Chase banking portals",
+        "social_media_usage": "Minimal; WhatsApp for communication, YouTube for content consumption",
+        "ecommerce_behavior": "Budget-conscious for flights, invests in quality family/religious attire",
+        "device_usage": "Desktop for financial management, mobile for messaging",
+        "subscriptions": "Religious YouTube channels, banking alerts, flight deal newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Ministry leadership, community outreach programs",
+        "hobbies": "Following Premier League football (Arsenal FC), gospel music curation",
+        "entertainment_preferences": "Worship music, Christian sermons, sports analysis",
+        "content_consumption": "Long-form sermons, concise sports news articles",
+        "learning_style": "Self-learning through religious texts and video sermons"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with strategic splurges on family needs",
+        "income_level": "Middle-class (estimated $60k-$80k/year)",
+        "investment_habits": "Conservative (prioritizes savings accounts via Chase)",
+        "financial_tools": "Chase credit cards, PayPal, traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leadership style in ministry",
+        "family_structure": "Married with school-age children",
+        "friendship_circle": "Close-knit church community connections",
+        "community_involvement": "Active in church operations and youth programs",
+        "online_vs_offline_engagement": "Balances digital ministry work with in-person services"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Prayer/scripture study, email triage, family breakfast",
+        "workday_habits": "Sermon preparation, Zoom meetings, financial management",
+        "evening_and_leisure": "Family time, Arsenal match replays, worship music",
+        "weekend_activities": "Church services, youth sports, travel planning",
+        "sleep_schedule": "Early riser (5:30-6:00 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light exercise through community activities",
+        "mental_health": "Faith-based coping strategies",
+        "work_life_balance": "Leans toward workaholic tendencies in ministry",
+        "health_related_digital_behavior": "Limited engagement beyond general wellness content"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Values-driven with practical cost analysis",
+        "brand_loyalty": "Prefers established brands (Chase, Priceline)",
+        "influence_factors": "Scriptural alignment, family needs, expert reviews",
+        "tech_adoption": "Mainstream user (adopts essential tools)",
+        "privacy_and_security_concerns": "Moderate (protects financial data)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Nigerian-American heritage (evident in name assumptions and cultural attire interest)",
+        "travel_habits": "Plans family trips (Sydney interest) and potential ministry-related travel",
+        "personal_projects": "Curating worship music playlists, youth mentorship programs",
+        "unexpected_behavioral_traits": "Combines analytical financial management with spontaneous worship music engagement"
+    }
+}

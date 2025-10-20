@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "John Carter",
+        "age": 57,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Bedford, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Mechanical Engineering",
+            "institution": "Massachusetts Bay Community College"
+        },
+        "occupation": "Hobby Shop Manager",
+        "company": "Retro Rewind Collectibles",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Fair",
+            "facial_features": "Beard, rectangular glasses",
+            "dress_style": "Casual (graphic tees, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Nostalgia preservation, military technology appreciation",
+        "motivations": "Collection curation, staying informed on global conflicts",
+        "cognitive_style": "Detail-oriented problem solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Specific model numbers, military terminology, explicit adult phrases",
+        "ad_interactions": "Strong engagement with diecast collectible ads, moderate cruise/travel interest",
+        "preferred_content_sources": "eBay, MSN News, Wikipedia, specialized collector forums",
+        "social_media_usage": "Limited (Facebook for marketplace, Instagram for model showcases)",
+        "ecommerce_behavior": "Frequent small purchases (diecast parts), occasional big-ticket collectibles",
+        "device_usage": "Desktop (Windows/Edge dominant), secondary mobile for casual browsing",
+        "subscriptions": "eBay seller alerts, MSN News digest, adult content platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vintage toy market trends, 1:64 scale customization techniques",
+        "hobbies": "Diecast restoration, military history research, sniper simulation games",
+        "entertainment_preferences": "Action documentaries, 70s rock music, amateur adult content",
+        "content_consumption": "Detailed collector guides, geopolitical analysis, DIY tutorials",
+        "learning_style": "Experimental tinkering supplemented by niche YouTube tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurging on rare collectibles, budget-conscious daily spending",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative (TD Bank usage, Credit Karma monitoring)",
+        "financial_tools": "Traditional banking apps, eBay seller account, credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Knowledge authority in niche collectibles market",
+        "family_structure": "Divorced, lives alone",
+        "friendship_circle": "Small network of collector enthusiasts",
+        "community_involvement": "Local diecast swap meets organizer",
+        "online_vs_offline_engagement": "Primarily online collector communities, occasional in-person events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN military news with coffee, reviews eBay listings",
+        "workday_habits": "Balances shop management with personal collection research",
+        "evening_and_leisure": "Adult content browsing, sniper game sessions, model customization",
+        "weekend_activities": "Store inventory updates, online auctions, singles event research",
+        "sleep_schedule": "Night owl (late-night gaming/adult content sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary lifestyle offset by occasional store labor",
+        "mental_health": "Stress relief through detailed hobby work",
+        "work_life_balance": "Hobby-dominated leisure time",
+        "health_related_digital_behavior": "Anxiety medication research (Hydroxyzine queries)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive for collectibles, impulsive in adult content consumption",
+        "brand_loyalty": "Strong to Matchbox/Hot Wheels, indifferent in other categories",
+        "influence_factors": "Collector community consensus, historical value assessments",
+        "tech_adoption": "Mainstream user with focus on ecommerce tools",
+        "privacy_and_security_concerns": "Low (frequent adult site usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Cold War history",
+        "travel_habits": "Potential cruise interest (ad interactions), no active plans",
+        "personal_projects": "Custom diecast military vehicle series creation",
+        "unexpected_behavioral_traits": "Combines meticulous collectible research with explicit adult content consumption"
+    }
+}

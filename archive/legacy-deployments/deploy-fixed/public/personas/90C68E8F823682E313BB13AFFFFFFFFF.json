@@ -1,0 +1,120 @@
+{
+    "Core Identity": {
+        "full_name": "Aarav Sharma",
+        "age": 29,
+        "gender": "Male",
+        "nationality": "Indian (inferred from Hindi query 'ताज़ा खबर' and common surname)",
+        "current_residence": "Unknown City, India",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "Unknown technical university (inferred from advanced system administration queries)"
+        },
+        "occupation": "IT Support Specialist/Systems Administrator",
+        "company": "Microsoft-related organization (inferred from frequent Microsoft domain usage)",
+        "physical attributes": {
+            "height": "175cm",
+            "body_shape": "Average",
+            "hairstyle": "Short professional cut",
+            "skin_color": "Medium brown",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Business casual (collared shirts + jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (explores language tools, technical troubleshooting, and diverse news)",
+            "conscientiousness": "High (methodical system optimization queries)",
+            "extraversion": "Low (technical solitary work patterns)",
+            "agreeableness": "Medium",
+            "neuroticism": "Low (persistent troubleshooting behavior)"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology empowerment, privacy awareness (multiple privacy settings queries)",
+        "motivations": "Systems optimization mastery, career progression in IT",
+        "cognitive_style": "Structured problem-solving with technical documentation reliance"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (e.g., 'low disk space error due to full temp folder windows 11')",
+        "ad_interactions": "Medium engagement (clicked Microsoft/tech ads)",
+        "preferred_content_sources": "Microsoft documentation, Reuters, CNN, GitHub",
+        "social_media_usage": {
+            "platforms": [
+                "YouTube",
+                "Facebook"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumer"
+        },
+        "ecommerce_behavior": {
+            "spending": "Budget-conscious tech tools",
+            "categories": "Software, electronics accessories"
+        },
+        "device_usage": "Windows 11 desktop primary (based on troubleshooting focus)",
+        "subscriptions": [
+            "Microsoft 365",
+            "Bing Wallpaper",
+            "MSN News"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Windows system architecture",
+            "Enterprise security configurations"
+        ],
+        "hobbies": [
+            "Tech troubleshooting",
+            "Casual gaming",
+            "News analysis"
+        ],
+        "entertainment_preferences": {
+            "music": "Unknown",
+            "movies": "Tech documentaries",
+            "authors": "Technical manual writers"
+        },
+        "content_consumption": "Technical documentation (83% of domains) over news (17%)",
+        "learning_style": "Self-guided via official documentation and forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Practical tech investments",
+        "income_level": "Middle-class (IT support role range)",
+        "investment_habits": "Conservative (no observed trading activity)",
+        "financial_tools": [
+            "Credit cards",
+            "Microsoft Store payments"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Remote collaboration (VPN/Remote Desktop queries)",
+        "family_structure": "Likely single (no family-related content)",
+        "friendship_circle": "Small tech-oriented group",
+        "community_involvement": "Online tech forums",
+        "online_vs_offline_engagement": "70% online (technical activities)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check system updates/news",
+        "workday_habits": "Structured troubleshooting sessions",
+        "evening_and_leisure": "Gaming with performance monitoring",
+        "weekend_activities": "System maintenance, tech blog reading",
+        "sleep_schedule": "Night owl (late-night technical queries)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary tech work posture",
+        "mental_health": "Stress managed through system optimization",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Occasional fitness app usage (indirect via device settings)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based (technical documentation reliance)",
+        "brand_loyalty": "Microsoft ecosystem adherent",
+        "influence_factors": "Official technical specifications",
+        "tech_adoption": "Mainstream user (waits for stable releases)",
+        "privacy_and_security_concerns": "High (multiple privacy settings adjustments)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Hindi/English bilingual",
+        "travel_habits": "Virtual exploration via Bing Wallpaper",
+        "personal_projects": "Local network optimization experiments",
+        "unexpected_behavioral_traits": "Technical pragmatist who enjoys gaming UI customization"
+    }
+}

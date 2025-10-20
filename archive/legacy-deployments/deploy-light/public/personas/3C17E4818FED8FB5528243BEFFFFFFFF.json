@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jordan Mitchell",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Palm Bay, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "N/A",
+            "institution": "Local Florida High School"
+        },
+        "occupation": "Freelance Real Estate Investor",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short fade with textured top",
+            "skin_color": "Medium",
+            "facial_features": "Clean-shaven with angular jawline",
+            "dress_style": "Casual streetwear mixed with business-casual elements"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ENTP",
+        "beliefs_and_values": "Entrepreneurial mindset, technology optimism, self-reliance",
+        "motivations": "Financial independence, creative expression through music, real estate success",
+        "cognitive_style": "Analytical with creative problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep real estate research (land valuation, commercial properties), technical queries (quantum trading, legal documents)",
+        "ad_interactions": "High engagement with real estate/builders ads, moderate tech/product ads",
+        "preferred_content_sources": "Zillow, BandLab, SoundCloud, YouTube, MSN Sports",
+        "social_media_usage": "Active on Facebook Marketplace, Instagram Stories, passive on X/Twitter",
+        "ecommerce_behavior": "Researches luxury items (Gucci slides) but purchases budget-conscious tech",
+        "device_usage": "Mobile-first with desktop for real estate analysis, Chrome/Edge browsers",
+        "subscriptions": "Apple Music, SoundCloud Pro, Zillow Premier Agent"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Commercial real estate trends, lead generation tools (smartercontact.com), property auctions",
+        "hobbies": "Music production (hip-hop beats), sports analytics, casual gaming",
+        "entertainment_preferences": "Hip-hop (Kodak Black, J. Cole), MMA content, sports documentaries",
+        "content_consumption": "Short-form YouTube tutorials mixed with detailed Zillow listings",
+        "learning_style": "YouTube tutorials + hands-on real estate deal analysis"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious investor with occasional tech splurges",
+        "income_level": "$25k-$40k (freelance/early-stage investments)",
+        "investment_habits": "High-risk experimental (quantum trading concepts), balanced with physical assets",
+        "financial_tools": "Cash App, Google Voice for business, basic credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator collaborating through Discord investment groups",
+        "family_structure": "Lives with family while building business",
+        "friendship_circle": "Small group of entrepreneur-minded peers",
+        "community_involvement": "Online real estate communities (BiggerPockets), local sports forums",
+        "online_vs_offline_engagement": "80% digital communication, 20% in-person property inspections"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Zillow alerts, scans real estate newsletters with breakfast",
+        "workday_habits": "Property research mornings, music production evenings",
+        "evening_and_leisure": "YouTube sports analysis videos, BandLab beat-making sessions",
+        "weekend_activities": "Virtual property tours, local car meets, basketball games",
+        "sleep_schedule": "Night owl (1am-9am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual basketball for exercise, fast food diet with health curiosity (epipen research)",
+        "mental_health": "Music as stress relief, occasional anxiety about business risks",
+        "work_life_balance": "Work-leisure blending through music hobbies",
+        "health_related_digital_behavior": "Occasional medical price checks, no consistent tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with impulsive creative jumps",
+        "brand_loyalty": "Experiments with new tools but sticks to Zillow/Google ecosystem",
+        "influence_factors": "Entrepreneur role models (Elon Musk), hip-hop culture, sports analytics",
+        "tech_adoption": "Early majority adopter (new iPhones, not quantum computing yet)",
+        "privacy_and_security_concerns": "Basic precautions but prioritizes convenience"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English with hip-hop vernacular",
+        "travel_habits": "Local Florida exploration, rare long-distance trips for property deals",
+        "personal_projects": "Building real estate lead database, SoundCloud rap collaborations",
+        "unexpected_behavioral_traits": "Simultaneously analyzes population statistics and writes emotional rap lyrics"
+    }
+}

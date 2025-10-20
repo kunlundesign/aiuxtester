@@ -1,0 +1,132 @@
+{
+    "Core Identity": {
+        "full_name": "Derek Etherington",
+        "age": 35,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Indianapolis, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Biology/Chemistry",
+            "institution": "Indiana University"
+        },
+        "occupation": "Laboratory Technician",
+        "company": "MG Scientific",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual outdoor-ready attire"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": [
+            "Environmental conservation",
+            "Scientific literacy",
+            "Work-life balance"
+        ],
+        "motivations": [
+            "Intellectual curiosity",
+            "Outdoor exploration",
+            "Professional development"
+        ],
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep-dive technical queries (camping gear comparisons, Pokémon mechanics) with strategic planning focus",
+        "ad_interactions": "High engagement with outdoor equipment ads (clicked 6/6 camping gear ads)",
+        "preferred_content_sources": [
+            "Wikipedia",
+            "MSN News",
+            "NPS.gov",
+            "Reddit gaming communities"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "Reddit",
+                "YouTube",
+                "LinkedIn"
+            ],
+            "frequency": "Daily",
+            "active_vs_passive": "Lurker in forums, active in gaming communities"
+        },
+        "ecommerce_behavior": "Researches extensively before purchasing outdoor gear and tech accessories",
+        "device_usage": "Windows PC primary, Android mobile secondary",
+        "subscriptions": [
+            "Microsoft Rewards",
+            "National Geographic",
+            "Arbitersports alerts"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Lab equipment innovations",
+            "STEM education initiatives",
+            "Scientific procurement processes"
+        ],
+        "hobbies": [
+            "Retro Pokémon gaming",
+            "Weekend hiking",
+            "Cultural cooking experiments"
+        ],
+        "entertainment_preferences": {
+            "Music": "Classic rock",
+            "Movies": "Sci-fi (Nolan films)",
+            "Authors": "Bill Bryson-style travel writers"
+        },
+        "content_consumption": "Long-form technical guides mixed with travel photography",
+        "learning_style": "Self-directed research with hands-on application"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for daily expenses, invests in quality outdoor gear",
+        "income_level": "$50,000-$65,000 annually",
+        "investment_habits": "Conservative 401(k) contributor with emergency fund focus",
+        "financial_tools": [
+            "PNC Bank mobile app",
+            "Credit cards with travel rewards"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Reliable team player with unofficial tech support role",
+        "family_structure": "Single, lives alone in apartment",
+        "friendship_circle": "Close-knit group of outdoor/hiking enthusiasts",
+        "community_involvement": "Volunteers at youth STEM programs",
+        "online_vs_offline_engagement": "Balanced mix (online research, in-person hiking groups)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news check while breakfasting",
+        "workday_habits": "Structured lab schedule with mobile gaming breaks",
+        "evening_and_leisure": "Pokémon gaming sessions, outdoor gear research",
+        "weekend_activities": "State park hikes, basketball games officiating",
+        "sleep_schedule": "10:30 PM - 6:30 AM (early riser)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active hiker, meal preps healthy lunches",
+        "mental_health": "Nature therapy through hiking",
+        "work_life_balance": "Strict boundary between lab work and personal time",
+        "health_related_digital_behavior": "Fitness trackers, first aid certification renewals"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with backup plans",
+        "brand_loyalty": "Sticks with proven outdoor brands (Teton Sports)",
+        "influence_factors": "Expert reviews > social media trends",
+        "tech_adoption": "Mainstream adopter after verification",
+        "privacy_and_security_concerns": "Moderate (uses 2FA per Arlo device management)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with basic Spanish comprehension",
+        "travel_habits": "Domestic nature destinations (3-4 national parks/year)",
+        "personal_projects": "Building vintage Pokémon game collection",
+        "unexpected_behavioral_traits": "Analytical scientist who enjoys abstract strategy in retro gaming"
+    }
+}

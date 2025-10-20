@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Kastan",
+        "age": 59,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Stafford, United States",
+        "education": {
+            "degree": "Master's",
+            "major": "Clinical Psychology",
+            "institution": "West Virginia University"
+        },
+        "occupation": "Licensed Clinical Therapist",
+        "company": "Private Practice",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short professional cut",
+            "Skin_color": "Fair",
+            "Facial_features": "Glasses, minimal makeup",
+            "Dress_style": "Business casual with cardigans"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Mental health advocacy, trauma-informed care, financial responsibility",
+        "motivations": "Professional development, client empowerment, stable retirement planning",
+        "cognitive_style": "Analytical with strong empathy integration"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Depth-first searches on clinical protocols (EMDR/PTSD), housing options, financial services",
+        "ad_interactions": "High engagement with professional development courses and financial services",
+        "preferred_content_sources": "EMDRIA, Therapist Aid, Zillow, Navy Federal portals",
+        "social_media_usage": "Limited to professional forums (0 active platforms)",
+        "ecommerce_behavior": "Budget-conscious for home purchases, invests in professional tools",
+        "device_usage": "Desktop (Edge browser), iPhone for mobile banking",
+        "subscriptions": "EMDRIA membership, Cleveland Clinic newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Trauma therapy modalities, intergenerational family dynamics",
+        "hobbies": "Real estate research, spiritual reflection (Serenity Prayer searches)",
+        "entertainment_preferences": "Biographical films (Adrien Brody searches), political news analysis",
+        "content_consumption": "Long-form clinical research papers and structured worksheets",
+        "learning_style": "Accredited certification courses blended with peer consultation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned investments in professional development and housing",
+        "income_level": "$75,000-$90,000",
+        "investment_habits": "Conservative (credit union usage, modular home research)",
+        "financial_tools": "Navy Federal accounts, mortgage calculators"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-centered collaborative approach",
+        "family_structure": "Empty nester possibly supporting grandchildren (caregiver searches)",
+        "friendship_circle": "Professional colleagues and military community connections",
+        "community_involvement": "Mental health workshops, veteran support groups",
+        "online_vs_offline_engagement": "Hybrid practice with teletherapy capabilities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Clinical literature review, Navy Federal account check",
+        "workday_habits": "Structured client sessions with documentation time blocks",
+        "evening_and_leisure": "MSN political news monitoring, cruise vacation research",
+        "weekend_activities": "Open house visits, continuing education webinars",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work balanced with weekend walks",
+        "mental_health": "Mindfulness through spiritual practices (Bible verse searches)",
+        "work_life_balance": "Strong boundaries with scheduled self-care time",
+        "health_related_digital_behavior": "WebMD symptom checks, therapy supervision resources"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with client input prioritization",
+        "brand_loyalty": "Sticks with Navy Federal, EMDRIA-approved vendors",
+        "influence_factors": "Peer-reviewed research, client outcomes data",
+        "tech_adoption": "Mainstream user of teletherapy platforms",
+        "privacy_and_security_concerns": "High (military-grade financial tools usage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Appalachian cultural roots",
+        "travel_habits": "Domestic cruise enthusiast (Carnival searches), conference attendee",
+        "personal_projects": "Developing custom clinical intake forms (Etsy template purchases)",
+        "unexpected_behavioral_traits": "Combines structured clinical practice with interest in abstract psychological concepts like transference dynamics"
+    }
+}

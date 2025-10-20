@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Anna Kowalski",
+        "age": 48,
+        "gender": "Female",
+        "nationality": "Polish-American",
+        "current_residence": "Chicago, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Early Childhood Education",
+            "institution": "University of Illinois at Chicago"
+        },
+        "occupation": "Educational Administrator",
+        "company": "American Montessori Academy",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length blonde",
+            "Skin color": "Fair",
+            "Facial features": "Round face with glasses",
+            "Dress Style": "Casual chic with occasional bold patterns"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESFJ",
+        "beliefs_and_values": "Supports educational equity, values multiculturalism",
+        "motivations": "Family well-being, professional development in education",
+        "cognitive_style": "Structured planner with appreciation for creative solutions"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Education resources, fashion trends, pet care, Polish services",
+        "ad_interactions": "High engagement with footwear, swimwear, and art ads",
+        "preferred_content_sources": "Yahoo Mail, MSN News, Amazon, educational platforms",
+        "social_media_usage": "Passive engagement on YouTube, limited other platforms",
+        "ecommerce_behavior": "Frequent mid-range purchases (clothing, household items)",
+        "device_usage": "Desktop for work (Edge), mobile for shopping",
+        "subscriptions": "Netflix, Mathletics, Seesaw, Polish news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Montessori pedagogy, educational technology",
+        "hobbies": "Travel planning, dog care, abstract art appreciation",
+        "entertainment_preferences": "Political dramas, 90s country music",
+        "content_consumption": "News articles + long-form educational resources",
+        "learning_style": "Structured courses with practical applications"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on footwear",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Conservative (retirement accounts)",
+        "financial_tools": "Bank of America, mBank (Polish account)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader",
+        "family_structure": "Married with school-aged children",
+        "friendship_circle": "Close-knit group of parent colleagues",
+        "community_involvement": "Polish cultural organizations",
+        "online_vs_offline_engagement": "Balanced mix with preference for in-person school events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Yahoo Mail, prepares school lunches",
+        "workday_habits": "Coordinates school activities, manages parent communications",
+        "evening_and_leisure": "Online shopping, Netflix, dog care",
+        "weekend_activities": "Family outings, Polish community events",
+        "sleep_schedule": "Early riser (6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional walks, focuses on family nutrition",
+        "mental_health": "Uses organizational tools for stress management",
+        "work_life_balance": "Strict separation of work/home life",
+        "health_related_digital_behavior": "Researches pet health solutions"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Prefers established education brands, experiments with fashion",
+        "influence_factors": "Professional reviews, cultural relevance",
+        "tech_adoption": "Mainstream user (adopts proven edtech)",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Polish)",
+        "travel_habits": "Biannual visits to Poland, domestic family trips",
+        "personal_projects": "Maintaining Polish language skills in children",
+        "unexpected_behavioral_traits": "Enjoys bold fashion choices despite conservative profession"
+    }
+}

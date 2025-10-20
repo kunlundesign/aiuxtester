@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Rose Kemp",
+        "age": 31,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Round Rock, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "History/Social Sciences",
+            "institution": "University of Texas at Austin"
+        },
+        "occupation": "Federal Government Employee",
+        "company": "U.S. Postal Service",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin_color": "Fair",
+            "Facial_features": "Round face with rectangular glasses",
+            "Dress_Style": "Casual athleisure with occasional quirky graphic tees"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Family preservation, civic responsibility, animal welfare",
+        "motivations": "Financial security, preserving family history, work-life balance",
+        "cognitive_style": "Detail-oriented researcher with emotional intelligence"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-session investigative searches (genealogy + retirement planning) with basic technical troubleshooting queries",
+        "ad_interactions": "Medium engagement with home decor, quirky apparel, and financial services ads",
+        "preferred_content_sources": "Government portals (SSA, TSP), genealogy databases, local news sites",
+        "social_media_usage": "Passive Facebook/Instagram browsing, active MyLife/Niche profiling",
+        "ecommerce_behavior": "Budget-conscious apparel (Old Navy) and home goods purchases",
+        "device_usage": "Windows PC with Edge browser, occasional mobile use",
+        "subscriptions": "iHeart Radio, Microsoft Rewards, genealogy platform memberships"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Government benefits administration, retirement systems",
+        "hobbies": "Genealogy research, kayaking, baking traditionals (king cakes)",
+        "entertainment_preferences": "True crime podcasts, classic country music (Dolly Parton)",
+        "content_consumption": "Long-form obituaries/archival records, snackable local news",
+        "learning_style": "Self-guided research through official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with occasional nostalgic splurges (vintage tees)",
+        "income_level": "$55,000-$65,000",
+        "investment_habits": "Conservative TSP contributor with fixed allocations",
+        "financial_tools": "Government retirement accounts, standard banking products"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player in structured bureaucracy",
+        "family_structure": "Married homeowner with indoor pets",
+        "friendship_circle": "Small close-knit group with shared genealogy interests",
+        "community_involvement": "Animal shelter volunteering, church activities",
+        "online_vs_offline_engagement": "Offline family focus with supplemental online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with local news/weather check, pet care",
+        "workday_habits": "Structured government office hours with defined breaks",
+        "evening_and_leisure": "Genealogy research, streaming true crime shows",
+        "weekend_activities": "Family outings, cemetery documentation projects",
+        "sleep_schedule": "Night owl with occasional insomnia"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light outdoor activities, treats minor ailments OTC",
+        "mental_health": "Uses genealogy as mindfulness practice",
+        "work_life_balance": "Strict separation between office hours and personal time",
+        "health_related_digital_behavior": "Occasional sleep aid research, no fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with government-employee caution",
+        "brand_loyalty": "Sticks to known entities (Walmart, Old Navy)",
+        "influence_factors": "Official documentation, family traditions",
+        "tech_adoption": "Mainstream user with security awareness (Avast antivirus)",
+        "privacy_and_security_concerns": "Cautious with personal data sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Texan with Mexican heritage exploration",
+        "travel_habits": "Regional family history trips, avoids international travel",
+        "personal_projects": "Digitizing family photo archives, memorial quilt creation",
+        "unexpected_behavioral_traits": "Government bureaucrat with collection of irreverent pop culture t-shirts"
+    }
+}

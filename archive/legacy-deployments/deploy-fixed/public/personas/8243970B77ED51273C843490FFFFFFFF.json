@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Eli Rivera",
+        "age": 54,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Springfield, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Automotive Technology",
+            "institution": "Springfield Technical Community College"
+        },
+        "occupation": "Automotive Technician",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Stocky",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Olive",
+            "Facial features": "Square jaw, salt-and-pepper stubble",
+            "Dress Style": "Casual workwear (denim shirts, utility pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Self-reliance, mechanical craftsmanship, fiscal responsibility",
+        "motivations": "Mastering automotive repair techniques, maintaining financial stability",
+        "cognitive_style": "Structured problem-solving with hands-on experimentation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical automotive queries, real estate research, DIY solutions",
+        "ad_interactions": "High engagement with auto parts ads, responds to discounts on tools",
+        "preferred_content_sources": "Specialist forums (Z4-forum), manufacturer websites, YouTube tutorials",
+        "social_media_usage": "Facebook (Marketplace transactions, DIY groups), passive YouTube consumption",
+        "ecommerce_behavior": "Moderate spending on quality auto parts, compares prices across platforms",
+        "device_usage": "Windows desktop with Chrome browser, secondary Android mobile",
+        "subscriptions": "FCP Euro newsletter, BMW enthusiast YouTube channels"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "European car engineering, hybrid vehicle technology",
+        "hobbies": "Classic car restoration, home improvement projects, target shooting",
+        "entertainment_preferences": "Classic rock music, automotive documentaries, action films",
+        "content_consumption": "Technical manuals first, then video demonstrations",
+        "learning_style": "Experimental tinkering supplemented by forum knowledge-sharing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused on tools/parts, splurges on OEM components",
+        "income_level": "Middle-class ($55k-$70k/year)",
+        "investment_habits": "Conservative with index funds, interested in tech stocks",
+        "financial_tools": "Credit cards with rewards, PayPal for online purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with reliable client network",
+        "family_structure": "Married with adult children",
+        "friendship_circle": "Small group of automotive enthusiasts",
+        "community_involvement": "Local trade skill-sharing groups",
+        "online_vs_offline_engagement": "Prefers in-person collaboration but values online troubleshooting communities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather and automotive news with coffee",
+        "workday_habits": "Schedules repair jobs, sources rare parts between appointments",
+        "evening_and_leisure": "Garage workshop projects, Facebook Marketplace browsing",
+        "weekend_activities": "Car shows, home maintenance, family barbecues",
+        "sleep_schedule": "Early riser (5:30 AM) with consistent 7-hour sleep"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength from manual labor, monitors cholesterol",
+        "mental_health": "Stress relief through hands-on projects, avoids formal therapy",
+        "work_life_balance": "Blurs lines through passion projects",
+        "health_related_digital_behavior": "Occasional medical fact-checking, no wearable tech"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with backup plans",
+        "brand_loyalty": "Prefers OEM parts but considers quality alternatives",
+        "influence_factors": "Mechanical forums consensus, verified product reviews",
+        "tech_adoption": "Mainstream adopter for essential tools",
+        "privacy_and_security_concerns": "Basic precautions without obsession"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with basic Spanish repair terms",
+        "travel_habits": "Regional road trips for car events, avoids air travel",
+        "personal_projects": "1980s BMW Z4 restoration with engine modification",
+        "unexpected_behavioral_traits": "Combines mechanical precision with appreciation for abstract classic rock lyrics"
+    }
+}

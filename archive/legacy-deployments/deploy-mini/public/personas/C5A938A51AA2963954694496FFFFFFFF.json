@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Thompson",
+        "age": 47,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Los Angeles, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Criminal Justice",
+            "institution": "Community College of Los Angeles"
+        },
+        "occupation": "Firearms Sales Representative",
+        "company": "Turner's Outdoorsman",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Caucasian",
+            "Facial features": "Sharp jawline, minimal makeup",
+            "Dress Style": "Practical casual (cargo pants, tactical boots)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Second Amendment advocacy, self-reliance, technical mastery",
+        "motivations": "Firearms expertise development, professional credibility in tactical equipment sales",
+        "cognitive_style": "Technical problem-solving with hands-on experimentation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical firearm maintenance queries (AR-15 lowers, bolt mechanisms), local gun store research",
+        "ad_interactions": "High engagement with tactical gear/outdoor retailers",
+        "preferred_content_sources": "Firearm blogs (The Firearm Blog, PewPewTactical), manufacturer sites, GunBroker",
+        "social_media_usage": "Limited to Facebook (dating via POF.com) and firearm forums",
+        "ecommerce_behavior": "Frequent mid-range purchases of firearm components/accessories",
+        "device_usage": "Desktop-focused research with mobile for quick checks",
+        "subscriptions": "PSA Daily Deals, GunBroker alerts, Nutshell CRM"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "AR-15 customization, California-compliant firearms, ballistic mechanics",
+        "hobbies": "Target shooting, firearm maintenance, outdoor survival training",
+        "entertainment_preferences": "Firearm YouTube tutorials, true crime documentaries",
+        "content_consumption": "Technical guides > opinion pieces, video tutorials > text",
+        "learning_style": "Experiential learning through firearm assembly/disassembly"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven quality purchases in tactical gear",
+        "income_level": "$55,000-$65,000",
+        "investment_habits": "Conservative with 401(k) through John Hancock",
+        "financial_tools": "Credit cards, PayPal for firearm purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Knowledge-sharing leader in sales team",
+        "family_structure": "Single without dependents",
+        "friendship_circle": "Range buddies and industry contacts",
+        "community_involvement": "NRA member, local shooting range volunteer",
+        "online_vs_offline_engagement": "Balanced (technical forums online, in-person range days)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "CRM check, industry news scan, protein breakfast",
+        "workday_habits": "Client consultations, inventory management, technical research",
+        "evening_and_leisure": "Firearm maintenance, dating site activity, MSN news",
+        "weekend_activities": "Range practice, gun show attendance, hiking",
+        "sleep_schedule": "Night owl (11pm-6am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength training, high-protein diet",
+        "mental_health": "Stress relief through target practice",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Casual health article browsing without dedicated tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with peer validation",
+        "brand_loyalty": "Sticks with proven firearm brands (Ruger, Aero Precision)",
+        "influence_factors": "Technical specifications, expert reviews",
+        "tech_adoption": "Mainstream user with specialized tool proficiency",
+        "privacy_and_security_concerns": "Basic precautions without encryption focus"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with tactical subculture immersion",
+        "travel_habits": "Regional for gun shows/conventions",
+        "personal_projects": "Building California-compliant AR-15 variants",
+        "unexpected_behavioral_traits": "Technical firearms expert maintaining active dating profile"
+    }
+}

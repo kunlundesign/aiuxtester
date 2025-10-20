@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 65,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Grand Forks, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "North Dakota State College of Science"
+        },
+        "occupation": "Retired Administrative Assistant",
+        "company": "N/A",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray waves",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile, rectangular glasses",
+            "Dress Style": "Casual practical (jeans, sneakers, fleece jackets)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Fiscal conservatism, government accountability, product durability",
+        "motivations": "Maintaining independence, staying informed, practical home/vehicle maintenance",
+        "cognitive_style": "Structured research with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed product research (air filters/shoes), local service providers, political news",
+        "ad_interactions": "High engagement with footwear/auto ads (7/9 AdEvents)",
+        "preferred_content_sources": "Manufacturer sites (Under Armour), Amazon, local news (Grand Forks Herald)",
+        "social_media_usage": "Minimal (MSN/News engagement only)",
+        "ecommerce_behavior": "Budget-conscious durability (24k-mile air filters), multiple shoe comparisons",
+        "device_usage": "Desktop (95% Edge/Bing usage per domains)",
+        "subscriptions": "Amazon Prime, MSN News alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement planning (ssa.gov), local real estate trends",
+        "hobbies": "Vehicle maintenance, political news analysis, home improvement projects",
+        "entertainment_preferences": "True crime documentaries, classic rock radio stations",
+        "content_consumption": "Political deep-dives (Epstein/Trump/Zelensky), technical product specs",
+        "learning_style": "Self-guided research with manufacturer documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused durability (K&N 24k filters), occasional mid-range splurges (Under Armour $80-$120 shoes)",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (local bank usage, no crypto activity)",
+        "financial_tools": "Traditional checking (Bremer Bank), Amazon credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator (retired admin background)",
+        "family_structure": "Empty nester (funeral home research suggests surviving spouse)",
+        "friendship_circle": "Small local network (realty/car dealer interactions)",
+        "community_involvement": "Local politics (ICE arrest monitoring), radio listener",
+        "online_vs_offline_engagement": "Online research complemented by in-store purchases (Rydell Chevrolet visits)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN political news, check vehicle maintenance needs",
+        "workday_habits": "Online shopping/research, local errands (post office, hardware store)",
+        "evening_and_leisure": "Radio listening, Amazon orders, home improvement planning",
+        "weekend_activities": "Car maintenance, political discussion groups, church attendance",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through home projects, walking shoes research indicates mobility focus",
+        "mental_health": "News engagement as cognitive exercise, radio for relaxation",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Footwear ergonomics research, no medical site visits"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison-driven (multiple shoe/air filter evaluations)",
+        "brand_loyalty": "Strong in automotive (K&N/GMC), exploratory in apparel",
+        "influence_factors": "Product specs, local business reputations",
+        "tech_adoption": "Mainstream late adopter (Edge/Bing defaults)",
+        "privacy_and_security_concerns": "Low (extensive political/news engagement)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, Norwegian heritage (ND demographics)",
+        "travel_habits": "Regional trips (Fargo Harley dealership interest)",
+        "personal_projects": "Vintage GMC truck maintenance (2019-2022 Sierra parts focus)",
+        "unexpected_behavioral_traits": "Politically engaged senior with technical automotive knowledge"
+    }
+}

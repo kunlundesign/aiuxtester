@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Winnsboro, United States",
+        "education": {
+            "degree": "Associate Degree (in progress)",
+            "major": "Computer Science",
+            "institution": "Local Community College"
+        },
+        "occupation": "Part-Time Retail Associate",
+        "company": "Unknown",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Slim",
+            "hairstyle": "Short, casual",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual (graphic tees, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, competitive spirit in gaming/sports",
+        "motivations": "Skill development in gaming/modding, staying updated on sports analytics",
+        "cognitive_style": "Analytical problem-solving with creative customization"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical queries (game mods, car specs), sports analytics, multi-platform shopping",
+        "ad_interactions": "High engagement with automotive parts, fragrance products, gaming gear",
+        "preferred_content_sources": "YouTube, ESPN, eBay, gaming forums",
+        "social_media_usage": "Active on Discord/Snapchat for gaming communities, passive on MSN news",
+        "ecommerce_behavior": "Budget-focused purchases (games, car accessories), uses eBay/Walmart",
+        "device_usage": "Windows PC for modding/gaming, Android mobile for YouTube Shorts",
+        "subscriptions": "Xbox Game Pass, ESPN+"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Game development tools, remote access software",
+        "hobbies": "Retro game emulation, basketball analytics, car customization",
+        "entertainment_preferences": "Battle royale games, sports documentaries, synthwave music",
+        "content_consumption": "Technical tutorials (modding), sports highlight reels",
+        "learning_style": "Hands-on experimentation with mod clients/Scratch projects"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic purchases (waits for game sales), invests in PC upgrades",
+        "income_level": "$15k-$20k (part-time)",
+        "investment_habits": "Conservative (saves for tech upgrades)",
+        "financial_tools": "Debit card, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused collaboration",
+        "family_structure": "Lives with parents",
+        "friendship_circle": "Online gaming communities",
+        "community_involvement": "Modding forum contributor",
+        "online_vs_offline_engagement": "90% digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks sports news/ESPN updates",
+        "workday_habits": "Balances shifts with gaming sessions",
+        "evening_and_leisure": "Mod testing, YouTube content creation",
+        "weekend_activities": "Local car meets, tournament streaming",
+        "sleep_schedule": "Night owl (1-2am bedtimes)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual exercise (walking), snacks during gaming",
+        "mental_health": "Stress relief through gaming achievements",
+        "work_life_balance": "Leisure-focused outside work hours",
+        "health_related_digital_behavior": "Occasional fitness app usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares mod tutorials/player stats)",
+        "brand_loyalty": "Tech brand loyalist (Epic Games/Xbox)",
+        "influence_factors": "Gaming community trends, performance specs",
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Basic precautions (anti-virus software)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English",
+        "travel_habits": "Regional sports events, gaming conventions",
+        "personal_projects": "Scratch programming tutorials, car mod blog",
+        "unexpected_behavioral_traits": "Combines mechanical aptitude (car maintenance) with digital artistry (game mods)"
+    }
+}

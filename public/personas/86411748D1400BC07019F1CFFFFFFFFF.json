@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Thompson",
+        "age": 51,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Birmingham, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Finance",
+            "institution": "University of Alabama at Birmingham"
+        },
+        "occupation": "Financial Advisor",
+        "company": "Local Financial Services Firm",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Glasses wearer",
+            "Dress Style": "Business casual with New Balance sneakers"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, practical consumerism",
+        "motivations": "Wealth preservation, family security",
+        "cognitive_style": "Analytical with structured decision-making"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Financial services, retail deals, home goods (80+ math solver uses show technical proficiency)",
+        "ad_interactions": "High engagement with finance/retail ads (Clicked 6/6 mattress/finance ads)",
+        "preferred_content_sources": "MSN News, financial portals, retail sites",
+        "social_media_usage": "Limited (YouTube only in domains)",
+        "ecommerce_behavior": "Budget-conscious bulk buyer (Publix/Winn-Dixie weekly ad searches)",
+        "device_usage": "Desktop primary (Financial site usage patterns)",
+        "subscriptions": "MSN Premium, Fidelity Pro Services"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Stock markets (Nucor searches), retirement planning",
+        "hobbies": "Reading fan fiction (AO3 activity), bargain hunting",
+        "entertainment_preferences": "NASCAR news, human interest stories",
+        "content_consumption": "Factual news (86% MSN views) with fiction escapes",
+        "learning_style": "Self-directed research (Math solver dominance)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (9x weekly ad checks)",
+        "income_level": "$75k-$95k (Financial career mid-level)",
+        "investment_habits": "Moderate-risk (Stock research activity)",
+        "financial_tools": "Fidelity accounts, credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator (Low collaboration signals)",
+        "family_structure": "Likely heads household (Grocery bulk purchasing)",
+        "friendship_circle": "Small trusted group (Limited social signals)",
+        "community_involvement": "Local consumer groups (AlabamaOne credit union usage)",
+        "online_vs_offline_engagement": "Balanced (Digital finance/offline shopping)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check financial markets, review deals",
+        "workday_habits": "Scheduled client meetings, portfolio reviews",
+        "evening_and_leisure": "Read fan fiction, watch sports news",
+        "weekend_activities": "Grocery shopping, home maintenance",
+        "sleep_schedule": "Regular (10pm-6am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light exercise (Sports gear purchases)",
+        "mental_health": "Stable (Routine-driven behavior)",
+        "work_life_balance": "Compartmentalized (Clear work/leisure separation)",
+        "health_related_digital_behavior": "Minimal (No tracked health apps)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (Multiple mattress comparisons)",
+        "brand_loyalty": "Trusts established brands (Fidelity/New Balance preferences)",
+        "influence_factors": "Expert reviews (Financial advisor reliance)",
+        "tech_adoption": "Mainstream user (Math solver but no cutting-edge tools)",
+        "privacy_and_security_concerns": "Moderate (Financial site logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English",
+        "travel_habits": "Domestic trips (Auto Trader activity)",
+        "personal_projects": "Home improvement (Tractor Supply/Lowes visits)",
+        "unexpected_behavioral_traits": "Secret fan fiction enthusiast despite financial analytics focus"
+    }
+}

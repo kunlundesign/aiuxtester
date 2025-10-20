@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Wellington",
+        "age": 76,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Nantucket, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Education",
+            "institution": "University of Massachusetts"
+        },
+        "occupation": "Retired School Administrator",
+        "company": "Nantucket Public Schools",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short silver-gray",
+            "skin_color": "Fair",
+            "facial_features": "Warm smile, glasses",
+            "dress_style": "Boho-chic with floral patterns and comfortable fabrics"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Community involvement, education accessibility, sustainable living",
+        "motivations": "Maintaining social connections, lifelong learning, cultural exploration",
+        "cognitive_style": "Practical planner with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Travel logistics, fashion trends, local news, health information",
+        "ad_interactions": "High engagement with fashion and travel ads",
+        "preferred_content_sources": "Local news sites (ack.net), MSN, Amazon, travel blogs",
+        "social_media_usage": "Passive YouTube viewer, occasional Facebook use",
+        "ecommerce_behavior": "Budget-conscious fashion purchases, travel bookings",
+        "device_usage": "Desktop primary, Windows OS, Microsoft Edge",
+        "subscriptions": "Amazon Prime, local news newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Education scholarships, community development",
+        "hobbies": "Thrift shopping, cruise travel, fashion styling",
+        "entertainment_preferences": "Oscars fashion coverage, celebrity news documentaries",
+        "content_consumption": "Detailed travel guides, long-form lifestyle articles",
+        "learning_style": "Self-guided research through trusted websites"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on travel",
+        "income_level": "Middle-class retirement income",
+        "investment_habits": "Conservative with FDIC-insured accounts",
+        "financial_tools": "Bank of America online banking, credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative mentor style",
+        "family_structure": "Widowed with adult children/grandchildren",
+        "friendship_circle": "Close-knit local community group",
+        "community_involvement": "School scholarship committees",
+        "online_vs_offline_engagement": "Balanced mix with local focus"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Local news review with coffee, weather checks",
+        "workday_habits": "Volunteer scheduling, family communication",
+        "evening_and_leisure": "Online shopping, MSN entertainment news",
+        "weekend_activities": "Ferry trips, thrift store visits",
+        "sleep_schedule": "Early riser (6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking, balanced diet, regular checkups",
+        "mental_health": "Social engagement as primary support",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Healthline.com research, patient portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Moderate (prefers known retailers like Amazon)",
+        "influence_factors": "User reviews, local recommendations",
+        "tech_adoption": "Comfortable mainstream user",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "New England heritage, English only",
+        "travel_habits": "Seasonal cruiser (Caribbean/Europe), regional weekend trips",
+        "personal_projects": "Curating vintage clothing collection",
+        "unexpected_behavioral_traits": "Tech-savvy senior who coordinates family travel logistics online"
+    }
+}

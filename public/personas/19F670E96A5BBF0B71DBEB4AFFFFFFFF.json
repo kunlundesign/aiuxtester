@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jennifer Martinez",
+        "age": 53,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "South Pasadena, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "California State University"
+        },
+        "occupation": "Benefits Administrator",
+        "company": "Mid-Sized Corporate Firm",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Olive",
+            "Facial features": "Glasses, minimal makeup",
+            "Dress Style": "Casual-professional blend (yoga pants with cardigans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Community responsibility, health consciousness, financial literacy",
+        "motivations": "Family security, professional competence, maintaining active lifestyle",
+        "cognitive_style": "Structured problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical information retrieval (benefits management, real estate, college prep)",
+        "ad_interactions": "High engagement with travel deals, tax software, and local services",
+        "preferred_content_sources": "Government portals (IRS.gov), organizational websites (YMCA), sports platforms (D3baseball)",
+        "social_media_usage": "Passive consumption on Nextdoor/Pinterest, no public posting",
+        "ecommerce_behavior": "Budget-conscious (Costco, ThredUp), health supplements",
+        "device_usage": "Desktop for financial tasks, mobile for quick searches",
+        "subscriptions": "Netflix, The Yoga Collective, local Little League updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Employee benefits systems, healthcare policy updates",
+        "hobbies": "Home gardening (nasturtiums), youth sports coordination, meal prepping",
+        "entertainment_preferences": "Political documentaries, baseball games, Netflix lifestyle shows",
+        "content_consumption": "Factual articles with practical applications",
+        "learning_style": "Self-guided research through official portals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused (bulk purchases at Costco), planned expenses",
+        "income_level": "$75,000-$90,000 annually",
+        "investment_habits": "Conservative (401k focus, no cryptocurrency)",
+        "financial_tools": "Credit cards, online banking, TurboTax"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player with process-oriented leadership",
+        "family_structure": "Married with teenage children",
+        "friendship_circle": "Close-knit parent networks through sports leagues",
+        "community_involvement": "Little League fundraising, YMCA volunteer",
+        "online_vs_offline_engagement": "Balanced (online research, in-person community events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Barre3 workout, checking benefits portal emails",
+        "workday_habits": "Scheduled benefits consultations, document processing",
+        "evening_and_leisure": "Meal prep using Food52 recipes, college application research",
+        "weekend_activities": "Youth baseball games, farmers market visits",
+        "sleep_schedule": "Early riser (6:00 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular barre3 workouts, probiotic supplementation",
+        "mental_health": "TherapyPortal usage, mindfulness through gardening",
+        "work_life_balance": "Structured separation (no work emails after 7 PM)",
+        "health_related_digital_behavior": "Walgreens auto-refills, Verywell Fit nutrition research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with multiple source verification",
+        "brand_loyalty": "Sticks with verified providers (TurboTax, Southwest)",
+        "influence_factors": "Official guidelines, peer recommendations",
+        "tech_adoption": "Mainstream user (adopts proven platforms)",
+        "privacy_and_security_concerns": "Data-conscious (avoids unnecessary sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English/Spanish bilingual, California lifestyle influence",
+        "travel_habits": "Domestic flights for family visits/sports tournaments",
+        "personal_projects": "Community cookbook compilation, backyard edible landscaping",
+        "unexpected_behavioral_traits": "Despite fiscal conservatism, regularly contributes to youth sports GoFundMes"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Terry Hatfield",
+        "age": 64,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "New Haven, United States",
+        "education": {
+            "degree": "unknown",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Retired/Part-Time Administrative Role",
+        "company": "unknown",
+        "physical_attributes": {
+            "height": "unknown",
+            "body_shape": "unknown",
+            "hairstyle": "unknown",
+            "skin_color": "unknown",
+            "facial_features": "unknown",
+            "dress_style": "Casual and practical"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial security, family responsibility, pragmatic problem-solving",
+        "motivations": "Budget management, family support, staying informed on financial/political matters",
+        "cognitive_style": "Structured and detail-oriented"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent financial/banking queries, sports gear searches (specific sizes), recurring login assistance needs",
+        "ad_interactions": "High engagement with discount platforms (Rakuten), athletic footwear ads, household products",
+        "preferred_content_sources": "MSN News, banking portals, lottery/gaming sites, retail platforms",
+        "social_media_usage": "Passive Facebook engagement for communication",
+        "ecommerce_behavior": "Budget-conscious with focus on pet supplies, footwear, and groceries",
+        "device_usage": "Desktop preferred (extensive webmail/Outlook use)",
+        "subscriptions": "Email newsletters, lottery alerts, retail deal notifications"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Financial management, administrative workflows",
+        "hobbies": "Genealogy research, lottery participation, pet care",
+        "entertainment_preferences": "Wheel of Fortune, local sports events, light news commentary",
+        "content_consumption": "Factual news articles, step-by-step guides, deal alerts",
+        "learning_style": "Practical application via online tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with strategic use of coupons/cashback",
+        "income_level": "Fixed income (retirement/pension)",
+        "investment_habits": "Conservative (lottery participation as speculative outlet)",
+        "financial_tools": "Traditional banking apps, cashback platforms"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with legacy institutional knowledge",
+        "family_structure": "Likely multigenerational household (sports gear purchases for younger male)",
+        "friendship_circle": "Small close-knit group maintained digitally",
+        "community_involvement": "Local church activities (Bible reading records)",
+        "online_vs_offline_engagement": "Balanced with preference for practical in-person interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/account checks, news review",
+        "workday_habits": "Financial management, family errands, deal hunting",
+        "evening_and_leisure": "TV gameshows, pet care, online shopping",
+        "weekend_activities": "Family events, grocery deals, lottery participation",
+        "sleep_schedule": "Early riser"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity through pet care/household management",
+        "mental_health": "Stable through routine maintenance",
+        "work_life_balance": "Leisure-focused post-retirement",
+        "health_related_digital_behavior": "Pet health research (Chewy purchases)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with verification steps (multiple login attempts)",
+        "brand_loyalty": "Selective (repeated WesBanco/Nike use)",
+        "influence_factors": "Price comparisons, institutional trust",
+        "tech_adoption": "Mainstream user of essential services",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English",
+        "travel_habits": "Minimal (local focus)",
+        "personal_projects": "Family history documentation (Ancestry.com activity)",
+        "unexpected_behavioral_traits": "Tech-savvy enough for genealogy research despite age-related login challenges"
+    }
+}

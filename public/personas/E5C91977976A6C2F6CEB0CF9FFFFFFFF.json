@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Maria Gonzalez",
+        "age": 60,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Los Angeles, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Healthcare Administration",
+            "institution": "Long Beach City College"
+        },
+        "occupation": "Healthcare Administrative Assistant",
+        "company": "Preferred IPA Provider Network",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, gray-streaked",
+            "skin_color": "Medium",
+            "facial_features": "Warm smile, glasses",
+            "dress_style": "Casual professional with floral accents"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Healthcare accessibility, family-oriented values",
+        "motivations": "Maintaining health, supporting family, professional reliability",
+        "cognitive_style": "Structured problem-solver with practical orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Medical conditions (seborrheic dermatitis), healthcare portals, beauty deals",
+        "ad_interactions": "High engagement with skincare/beauty ads (Ulta, Sephora)",
+        "preferred_content_sources": "WebMD, Mayo Clinic, KTLA News, Yelp",
+        "social_media_usage": "Limited (Yahoo Mail for communication)",
+        "ecommerce_behavior": "Budget-conscious beauty/fashion shopper (RoseWe, Bath & Body Works)",
+        "device_usage": "Desktop for work (Edge browser), mobile for quick searches",
+        "subscriptions": "Yahoo Mail Plus, Costco membership alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare policy, medical billing systems",
+        "hobbies": "Trying new recipes, bargain hunting at Costco",
+        "entertainment_preferences": "Local news, cooking shows",
+        "content_consumption": "Practical how-to articles (skin care, chicken recipes)",
+        "learning_style": "On-the-job training with EHR systems"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (shops sales at Ulta/Costco)",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (property ownership in LA County)",
+        "financial_tools": "Credit cards with rewards programs"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Supportive team player in healthcare admin",
+        "family_structure": "Likely empty nester with adult children",
+        "friendship_circle": "Close-knit group from work/church",
+        "community_involvement": "Healthcare outreach programs",
+        "online_vs_offline_engagement": "Prefers in-person interactions but comfortable with telehealth systems"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Yahoo Mail, reviews patient schedules",
+        "workday_habits": "Manages patient records, coordinates provider communications",
+        "evening_and_leisure": "Prepares family recipes, browses beauty deals",
+        "weekend_activities": "Grocery shopping at Costco, church activities",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages chronic skin condition (seborrheic dermatitis)",
+        "mental_health": "Stress management through cooking and family time",
+        "work_life_balance": "Structured separation between clinic and home life",
+        "health_related_digital_behavior": "Frequent WebMD/Mayo Clinic research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (compares multiple medical sources)",
+        "brand_loyalty": "Prefers established brands with proven results",
+        "influence_factors": "Professional recommendations, user reviews",
+        "tech_adoption": "Mainstream user (comfortable with EHR systems but prefers established platforms)",
+        "privacy_and_security_concerns": "Cautious with patient data per HIPAA requirements"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual English/Spanish (Spanish government domain visits)",
+        "travel_habits": "Domestic family visits (Houston Methodist portal usage)",
+        "personal_projects": "Maintaining family recipe collection",
+        "unexpected_behavioral_traits": "Despite medical pragmatism, enjoys experimenting with bold floral fashion choices"
+    }
+}

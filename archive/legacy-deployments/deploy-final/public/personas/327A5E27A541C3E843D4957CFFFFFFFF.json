@@ -1,0 +1,100 @@
+{
+    "Core Identity": {
+        "full_name": "Aaron Smith",
+        "age": 37,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Richmond, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Plumbing Technology",
+            "institution": "Community College of Virginia"
+        },
+        "occupation": "Operations Manager",
+        "company": "Smith Co Plumbing LLC",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic build",
+            "Hairstyle": "Short professional cut",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Polo shirts with company logo and utility pants"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical innovation, infrastructure reliability, workplace safety",
+        "motivations": "Business efficiency, technical mastery, family stability",
+        "cognitive_style": "Systematic problem-solver with preference for proven solutions"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical specifications (65%), local regulations (20%), automotive news (15%)",
+        "ad_interactions": "High engagement with plumbing equipment (80%), moderate with business software (15%)",
+        "preferred_content_sources": "Ferguson.com, ServiceTitan, MSN Weather, YouTube tutorials",
+        "social_media_usage": "LinkedIn (daily), YouTube (weekly), passive engagement",
+        "ecommerce_behavior": "B2B purchases (plumbing parts), occasional power tools",
+        "device_usage": "Desktop (70%), Windows OS, Edge browser",
+        "subscriptions": [
+            "ServiceTitan Pro",
+            "Microsoft 365",
+            "Ferguson Pro+"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Backflow prevention systems, workforce management software, municipal codes",
+        "hobbies": "Motorcycle maintenance, DIY home projects, NASCAR events",
+        "entertainment_preferences": "Engineering documentaries, classic rock, action movies",
+        "content_consumption": "Technical manuals (70%), industry webinars (20%), news briefs (10%)",
+        "learning_style": "On-the-job training with vendor certification programs"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented business purchases, occasional premium tools",
+        "income_level": "$85,000-$95,000",
+        "investment_habits": "Conservative (401k, business equipment)",
+        "financial_tools": [
+            "Business credit line",
+            "QuickBooks",
+            "US Bank online portal"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Hands-on leadership style, daily crew coordination",
+        "family_structure": "Married with two school-age children",
+        "friendship_circle": "Industry colleagues and motorcycle enthusiasts",
+        "community_involvement": "Local business association member",
+        "online_vs_offline_engagement": "Hybrid (virtual project management, in-person site visits)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Service dispatch review with black coffee",
+        "workday_habits": "Split between field inspections and office management",
+        "evening_and_leisure": "Motorcycle maintenance, industry forums",
+        "weekend_activities": "Family outings, Richmond Raceway events",
+        "sleep_schedule": "Regular 11 PM - 6 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness through work activities",
+        "mental_health": "Stress management via hands-on projects",
+        "work_life_balance": "Compartmentalized work/personal time",
+        "health_related_digital_behavior": "Occasional OSHA safety research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with vendor partnerships",
+        "brand_loyalty": "Strong preference for Ferguson and Milwaukee Tool",
+        "influence_factors": "Trade certifications, peer recommendations",
+        "tech_adoption": "Early adopter in plumbing tech, laggard in consumer gadgets",
+        "privacy_and_security_concerns": "High for business data, moderate personal"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Southern inflection",
+        "travel_habits": "Regional business travel, family beach vacations",
+        "personal_projects": "Garage workshop renovations",
+        "unexpected_behavioral_traits": "Enjoys tactical shooter video games despite practical demeanor"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Wilson",
+        "age": 52,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "West Carrollton City, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Unknown"
+        },
+        "occupation": "Financial Services Associate",
+        "company": "Unknown",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, graying",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual (polo shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, free-market principles",
+        "motivations": "Debt management, maintaining credit score, cost-effective leisure",
+        "cognitive_style": "Practical decision-maker with attention to transactional details"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent financial/travel queries (4 credit management searches), specific commercial intent",
+        "ad_interactions": "High engagement with credit/finance (75% of ad clicks), travel deals",
+        "preferred_content_sources": "Fox Sports, MSN News, financial service portals",
+        "social_media_usage": "Minimal (Facebook visits but no visible engagement)",
+        "ecommerce_behavior": "Budget-focused (Walmart/ALDI searches), occasional luxury (Airbnb)",
+        "device_usage": "Desktop (Edge browser dominance)",
+        "subscriptions": "Amazon Prime, Spectrum internet"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Credit management systems, debt recovery processes",
+        "hobbies": "Sports event tracking, domestic travel planning",
+        "entertainment_preferences": "NFL/MLB news, political commentary, aviation history",
+        "content_consumption": "Factual news snippets (83% MSN views were event/sports updates)",
+        "learning_style": "Transactional research (immediate problem-solving queries)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused (5 ALDI/Walmart visits), selective splurges (Freedom Fest tickets)",
+        "income_level": "$55k-$70k/year",
+        "investment_habits": "Risk-averse (multiple credit monitoring services)",
+        "financial_tools": "Capital One/Credit Sesame, American Express"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent (no collaboration tools in browsing history)",
+        "family_structure": "Likely married (family-sized Costco/Walmart visits)",
+        "friendship_circle": "Small group (limited social media use)",
+        "community_involvement": "Local event attendance (Freedom Fest/Heritage Bank Center)",
+        "online_vs_offline_engagement": "Balanced (online finance management, offline event participation)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/credit score checks (20 Gmail logins)",
+        "workday_habits": "Financial service tasks with sports news breaks",
+        "evening_and_leisure": "Sports event streaming, debt management research",
+        "weekend_activities": "Grocery shopping, local sports events",
+        "sleep_schedule": "Early riser (financial site logins at standard business hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active (sports interest but no fitness app usage)",
+        "mental_health": "Stress management through financial control",
+        "work_life_balance": "Leisure integrated with practical tasks (travel planning)",
+        "health_related_digital_behavior": "Dental insurance focus (Delta Dental logins)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative (multiple credit service evaluations)",
+        "brand_loyalty": "Sticky financial brands (Capital One/Amex), flexible elsewhere",
+        "influence_factors": "Cost-benefit analysis, limited-time offers",
+        "tech_adoption": "Mainstream (adopts essential financial tech only)",
+        "privacy_and_security_concerns": "Moderate (financial logins but uses Saved70.com deals)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only (no multilingual signals)",
+        "travel_habits": "Domestic focus (5/7 travel queries were U.S. airlines)",
+        "personal_projects": "Credit score improvement tracking",
+        "unexpected_behavioral_traits": "Combines fiscal conservatism with impulse event spending (Freedom Fest ticket purchase)"
+    }
+}

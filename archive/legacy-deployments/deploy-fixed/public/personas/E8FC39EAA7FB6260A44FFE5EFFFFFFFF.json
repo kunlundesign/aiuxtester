@@ -1,0 +1,148 @@
+{
+    "Core Identity": {
+        "full_name": "Melissa Jones",
+        "age": 40,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Stafford, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "History or Engineering",
+            "institution": "Unknown"
+        },
+        "occupation": "Technical Writer/Home Improvement Consultant",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length, practical",
+            "Skin color": "Fair",
+            "Facial features": "Sharp, glasses",
+            "Dress Style": "Casual-functional (yoga pants, tech-friendly fabrics)"
+        },
+        "explanations": {
+            "full_name": "Inferred from EPEvents email address 'Jones, Melissa - Outlook'.",
+            "occupation": "Combines technical searches (audio systems, wiring) with home improvement focus.",
+            "physical_attributes": "Athletic build inferred from Peloton/BOSU engagement; practical style aligns with DIY behavior."
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Practical sustainability",
+            "Technological empowerment",
+            "Historical preservation"
+        ],
+        "motivations": [
+            "Home optimization",
+            "Skill mastery",
+            "Political awareness"
+        ],
+        "cognitive_style": "Systematic analyzer",
+        "explanations": {
+            "openness": "Diverse interests from boxing history to audio engineering.",
+            "conscientiousness": "Detailed home improvement planning via multiple repair queries.",
+            "mbti": "Structured research patterns with practical application focus."
+        }
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (Leviton Hi-Fi manuals) + geopolitical analysis",
+        "ad_interactions": "High engagement with home improvement/DIY ads",
+        "preferred_content_sources": [
+            "Wikipedia",
+            "manufacturer manuals",
+            "The Times of Israel"
+        ],
+        "social_media_usage": "Reddit (home improvement forums), minimal mainstream platforms",
+        "ecommerce_behavior": "Tools/electronics (Amazon, Home Depot)",
+        "device_usage": "Desktop (Edge browser), Android secondary",
+        "subscriptions": [
+            "SiriusXM",
+            "Peloton Digital",
+            "NCBI updates"
+        ],
+        "explanations": {
+            "search_patterns": "Combines 'nih biosketch' academic rigor with 'storm drain repair' practicality.",
+            "ad_interactions": "7 clicked ads all relate to home improvement projects."
+        }
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Audio system design",
+            "Water infrastructure",
+            "Political biography"
+        ],
+        "hobbies": [
+            "Vintage film analysis",
+            "Cold-hardy gardening",
+            "Boxing history research"
+        ],
+        "entertainment_preferences": [
+            "1970s arthouse films",
+            "True crime podcasts",
+            "Skyrim modding"
+        ],
+        "content_consumption": "Long-form technical manuals + geopolitical news",
+        "learning_style": "Project-based experimentation",
+        "explanations": {
+            "professional_interests": "Juke Audio/Leviton searches + Houston public works domains.",
+            "vintage_films": "Multiple searches for 1971-1982 films."
+        }
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven quality (invests in Berkefeld filters, BOSU equipment)",
+        "income_level": "$75k-$90k/year",
+        "investment_habits": "Conservative (home equity focus)",
+        "financial_tools": [
+            "Amazon Prime Card",
+            "PayPal",
+            "Local credit union"
+        ],
+        "explanations": {
+            "income_level": "Based on TX freelance technical writing rates + home improvement budget."
+        }
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Remote collaborator",
+        "family_structure": "Likely married with children (child-safe home upgrades observed)",
+        "friendship_circle": "Niche hobby groups (audiophiles, historical researchers)",
+        "community_involvement": "Neighborhood infrastructure committees",
+        "online_vs_offline_engagement": "70% online research, 30% local DIY meetups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Peloton session → geopolitical news scan",
+        "workday_habits": "AM technical writing → PM home projects",
+        "evening_and_leisure": "Skyrim mod testing + film analysis",
+        "weekend_activities": "Hardware store runs → garden maintenance",
+        "sleep_schedule": "10:30 PM - 6:00 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "High-intensity interval training 5x/week",
+        "mental_health": "Stress relief via boxing history research",
+        "work_life_balance": "Structured separation (Outlook sign-in patterns)",
+        "health_related_digital_behavior": "NCBI medical research + BOSU form tutorials"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analyzer (70% specs, 30% reviews)",
+        "brand_loyalty": "Leviton/Juke Audio repeat use",
+        "influence_factors": [
+            "Engineering specs",
+            "Historical precedents"
+        ],
+        "tech_adoption": "Early mainstream (ChatGPT use but not bleeding-edge)",
+        "privacy_and_security_concerns": "High (multiple secure sign-in patterns)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Texan English → basic Spanish (Houston context)",
+        "travel_habits": "Domestic conference attendance (audio tech/history)",
+        "personal_projects": "Home audio system retrofit",
+        "unexpected_behavioral_traits": "Combines military aircraft research with succulent cultivation"
+    }
+}

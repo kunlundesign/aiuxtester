@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Thompson",
+        "age": 45,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Virginia Beach, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Public Administration",
+            "institution": "Unknown"
+        },
+        "occupation": "Government Employee",
+        "company": "Federal Government",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual (sweatshirts, branded hats, athletic wear)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practicality, civic responsibility, appreciation for structured systems",
+        "motivations": "Job stability, family support, creative expression through side projects",
+        "cognitive_style": "Structured problem-solving with interest in hands-on technical tasks"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Government jobs (82 usajobs.gov visits), sports equipment, music distribution platforms",
+        "ad_interactions": "High engagement with tool/equipment ads (STIHL blowers), job postings, and retail",
+        "preferred_content_sources": "YouTube tutorials, official brand sites (Hat Club), MSN sports news",
+        "social_media_usage": "YouTube (sports analysis/podcasts), limited Twitter/X engagement via news comments",
+        "ecommerce_behavior": "Frequent Amazon purchases (clothing/shoes), mid-range spending on branded apparel",
+        "device_usage": "Desktop (government site compatibility), Edge browser",
+        "subscriptions": "YouTube Premium (ad-free viewing), DistroKid music distribution"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Federal employment policies, public sector career advancement",
+        "hobbies": "Sports fandom (NASCAR/local teams), DIY music production, collecting branded hats",
+        "entertainment_preferences": "Sports commentary podcasts, hip-hop culture content, political debates",
+        "content_consumption": "Sports statistics (NFL combine metrics), practical tutorials (videography)",
+        "learning_style": "Video tutorials + hands-on experimentation (music production gear searches)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious (Walmart/Amazon preferences) but invests in hobby gear",
+        "income_level": "$65k-$85k (mid-level government position)",
+        "investment_habits": "Conservative (no crypto signals), focused on retirement accounts",
+        "financial_tools": "Credit cards (Amazon purchases), direct deposit"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative within hierarchical structures (frequent government portal use)",
+        "family_structure": "Married with school-age children (MaxPreps high school sports engagement)",
+        "friendship_circle": "Sports-focused social group (hat collection suggests team loyalty)",
+        "community_involvement": "Local sports booster (gofan.co ticket purchases)",
+        "online_vs_offline_engagement": "Balanced (attends live events but consumes digital sports analysis)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks job boards + sports news (MSNEvents), prepares kids for school",
+        "workday_habits": "Desktop-centric workflow (285 Bing.com sessions), scheduled breaks for sports updates",
+        "evening_and_leisure": "YouTube/podcast consumption, manages music distribution projects",
+        "weekend_activities": "Attends local sports events, household maintenance (bulk pickup scheduling)",
+        "sleep_schedule": "Early riser (aligned with government job hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active (sports event attendance), practical diet (no specific health app use)",
+        "mental_health": "Stress management through hobby engagement (music/hat collecting)",
+        "work_life_balance": "Structured separation (no off-hours work signals beyond job searching)",
+        "health_related_digital_behavior": "Reactive searches only (e.g., ryobi blowers for yard work)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (multiple job portal comparisons), brand-trusting for tools",
+        "brand_loyalty": "Strong in tools (STIHL), mixed in retail (Amazon/Walmart price comparison)",
+        "influence_factors": "Expert reviews (sports equipment), peer recommendations (hat styles)",
+        "tech_adoption": "Mainstream user (adopts established platforms like DistroKid/Splice)",
+        "privacy_and_security_concerns": "Moderate (avoids niche platforms, sticks to major retailers)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southern East Coast cultural influences",
+        "travel_habits": "Regional travel for sports events (Hokiesports references), no international signals",
+        "personal_projects": "Music distribution via DistroKid, custom apparel design (Etsy patch searches)",
+        "unexpected_behavioral_traits": "Government employee with active interest in hip-hop culture podcasts"
+    }
+}

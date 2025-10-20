@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 54,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Grand Rapids, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Education or Social Sciences",
+            "institution": "Grand Rapids Community College"
+        },
+        "occupation": "Academic Administrator/Educator",
+        "company": "Grand Rapids Community College",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, graying",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Business casual (collared shirts, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Educational accessibility, fiscal responsibility, local community preservation",
+        "motivations": "Professional development, financial stability, knowledge sharing",
+        "cognitive_style": "Structured analytical thinker with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Education-related technical queries (GRCC catalog), financial services (tax filing, retirement), local community resources",
+        "ad_interactions": "High engagement with financial services (tax software, loans), educational tools",
+        "preferred_content_sources": "Academic portals (GRCC), government sites (SSA), fact-checking platforms",
+        "social_media_usage": "Limited (Facebook for community updates)",
+        "ecommerce_behavior": "Budget-conscious (Amazon/eBay for specific needs), crafts materials purchasing",
+        "device_usage": "Desktop primary (academic/work tasks), Edge browser",
+        "subscriptions": "Tax software services, educational platforms (EasyBib)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Academic administration, early childhood development research",
+        "hobbies": "Cricut crafting, local history preservation, souvenir collecting",
+        "entertainment_preferences": "Local news, political commentary, documentary content",
+        "content_consumption": "Long-form academic papers, government documentation",
+        "learning_style": "Structured courses with practical applications"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned purchases",
+        "income_level": "$55,000-$65,000 (education sector)",
+        "investment_habits": "Conservative (Penserv retirement plan focus)",
+        "financial_tools": "Traditional banking, tax software (TurboTax/TaxAct)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leadership style (Zoom meetings, academic coordination)",
+        "family_structure": "Likely lives with family (home foreclosure search)",
+        "friendship_circle": "Small group of close associates",
+        "community_involvement": "Local education initiatives, zoo volunteering",
+        "online_vs_offline_engagement": "Balanced (professional online presence, local offline activities)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email management (Gmail/GRCC mail), news review",
+        "workday_habits": "Academic system management, student coordination, documentation work",
+        "evening_and_leisure": "Craft projects, local news watching",
+        "weekend_activities": "Zoo volunteering, souvenir hunting, family time",
+        "sleep_schedule": "Early riser (aligned with academic schedule)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work habits, occasional walks (zoo volunteering)",
+        "mental_health": "Stress management through crafting, structured routines",
+        "work_life_balance": "Work-leaning balance with scheduled leisure",
+        "health_related_digital_behavior": "Medical portal usage (MyChart), child development research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with thorough documentation review",
+        "brand_loyalty": "Established institution preference (GRCC, TurboTax)",
+        "influence_factors": "Official guidelines, historical precedents",
+        "tech_adoption": "Mainstream user (adopts institution-approved tools)",
+        "privacy_and_security_concerns": "Data-conscious (frequent secure logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Great Lakes regional identity",
+        "travel_habits": "Local tourism (Soo Locks), rare long-distance travel",
+        "personal_projects": "Cricut craft business, local history documentation",
+        "unexpected_behavioral_traits": "Despite fiscal conservatism, engages with high-risk loan advertisements"
+    }
+}

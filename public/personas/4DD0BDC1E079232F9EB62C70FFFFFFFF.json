@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Carter",
+        "age": 49,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Seattle, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Environmental Science",
+            "institution": "Oregon State University"
+        },
+        "occupation": "Conservation Specialist",
+        "company": "Tualatin Soil and Water Conservation District",
+        "physical_attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length straight hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, practical glasses",
+            "Dress Style": "Casual outdoor-ready attire"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Environmental conservation, sustainable agriculture, geopolitical awareness",
+        "motivations": "Ecological preservation, professional development in fire management, lifelong learning",
+        "cognitive_style": "Analytical problem-solver with structured approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Academic research, fire ecology, agricultural tools, travel planning",
+        "ad_interactions": "Workwear (Blundstone boots), outdoor equipment (safety helmets)",
+        "preferred_content_sources": "Academic journals (.edu domains), government resources, MSN news",
+        "social_media_usage": "YouTube (educational content), limited Facebook use",
+        "ecommerce_behavior": "Budget-conscious for tools/books, occasional quality workwear",
+        "device_usage": "Desktop primary (OSU Ecampus access), Microsoft Edge browser",
+        "subscriptions": "Oregon State Ecampus, Amazon Prime, Grammarly"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Wildfire management, conservation grazing, habitat restoration",
+        "hobbies": "Hiking, historical fire research, experimental pizza-making",
+        "entertainment_preferences": "Documentaries, adventure novels (e.g., Young Men and Fire)",
+        "content_consumption": "Long-form academic papers with supplemental YouTube tutorials",
+        "learning_style": "Structured online courses with field application"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Practical investments in tools/education, avoids luxury items",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Conservative (Vanguard mutual funds, credit union membership)",
+        "financial_tools": "OnPoint Community Credit Union, TurboTax"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player in conservation projects",
+        "family_structure": "Likely lives with partner/children (multiple family-oriented searches)",
+        "friendship_circle": "Professional networks in agriculture/conservation",
+        "community_involvement": "Local conservation groups, food pantry volunteering",
+        "online_vs_offline_engagement": "Prefers in-person fieldwork with supplemental online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks wildfire updates and academic emails",
+        "workday_habits": "Fieldwork mornings, afternoon data analysis/classes",
+        "evening_and_leisure": "Coursework, recipe experimentation, news analysis",
+        "weekend_activities": "Farmers markets, hiking in Pacific Northwest",
+        "sleep_schedule": "Consistent 10PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active outdoor lifestyle, whole foods focus",
+        "mental_health": "Stress management through nature immersion",
+        "work_life_balance": "Disciplined separation of field work and study time",
+        "health_related_digital_behavior": "Research on moxibustion/traditional therapies"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with historical context consideration",
+        "brand_loyalty": "Prefers trusted outdoor brands (Blundstone)",
+        "influence_factors": "Academic research, USDA guidelines",
+        "tech_adoption": "Mainstream user with focused tool utilization",
+        "privacy_and_security_concerns": "Moderate (uses institutional logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in indigenous practices",
+        "travel_habits": "Educational trips (Namib Desert research interest), Pacific NW exploration",
+        "personal_projects": "Native habitat restoration on private land",
+        "unexpected_behavioral_traits": "Technical fire researcher who creates elaborate pizza dough art"
+    }
+}

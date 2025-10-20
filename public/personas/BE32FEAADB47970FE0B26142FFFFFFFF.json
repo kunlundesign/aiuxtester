@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sydney Barrett",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Fort Myers, United States",
+        "education": {
+            "degree": "Bachelor's (in progress)",
+            "major": "Biology",
+            "institution": "University of Dayton"
+        },
+        "occupation": "College Student",
+        "company": "University of Dayton",
+        "physical_attributes": {
+            "height": "unknown",
+            "body_shape": "unknown",
+            "hairstyle": "unknown",
+            "skin_color": "unknown",
+            "facial_features": "unknown",
+            "dress_style": "Casual/athletic (inferred from sports team involvement)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (explores diverse topics: finance, skincare, tech)",
+            "conscientiousness": "High (manages coursework, financial research)",
+            "extraversion": "Medium (social media use but no clear dominance)",
+            "agreeableness": "Medium",
+            "neuroticism": "Low (methodical financial planning)"
+        },
+        "mbti": "ISTJ (detail-oriented, structured learning patterns)",
+        "beliefs_and_values": "Financial responsibility, health consciousness",
+        "motivations": "Academic success, financial independence",
+        "cognitive_style": "Analytical (compares CD rates, researches car maintenance)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-depth research (compares banking products, skincare routines)",
+        "ad_interactions": "High engagement with financial/beauty ads",
+        "preferred_content_sources": "Educational platforms (McGraw Hill Connect), MSN news",
+        "social_media_usage": "Facebook/YouTube (adding Reels links observed)",
+        "ecommerce_behavior": "Budget-conscious (compares car prices, seeks Vitamix sales)",
+        "device_usage": "Desktop (frequent use of academic portals)",
+        "subscriptions": "NoRedInk, University email services"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Biology (lab coursework), financial literacy",
+        "hobbies": "Skincare routines, cooking (instant pot recipes)",
+        "entertainment_preferences": "Educational YouTube content",
+        "content_consumption": "Factual/long-form (research-heavy queries)",
+        "learning_style": "Structured courses (biology lab work)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious (compares CD rates, car valuations)",
+        "income_level": "Student-level (part-time job assumed)",
+        "investment_habits": "Conservative (avoids annuities, seeks FDIC-insured accounts)",
+        "financial_tools": "Online banking (Marcus, Santander), credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative (sports team involvement via Hudl)",
+        "family_structure": "Likely independent student housing",
+        "friendship_circle": "Academic/sports peers",
+        "community_involvement": "University groups",
+        "online_vs_offline_engagement": "Balanced (academic online, sports offline)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Academic portal checks",
+        "workday_habits": "Coursework, financial research",
+        "evening_and_leisure": "Skincare routines, meal prep",
+        "weekend_activities": "Sports practice, housing research",
+        "sleep_schedule": "Regular (aligned with academic schedule)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active (sports involvement), anti-inflammatory diet interest",
+        "mental_health": "Structured (academic focus)",
+        "work_life_balance": "Disciplined (manages studies/research)",
+        "health_related_digital_behavior": "Skincare research, cryotherapy interest"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (compares financial products)",
+        "brand_loyalty": "Value-driven (shops sales, compares brands)",
+        "influence_factors": "Expert reviews (bank ratings), personal research",
+        "tech_adoption": "Mainstream user (standard academic tools)",
+        "privacy_and_security_concerns": "Cautious (checks bank security)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English (US academic context)",
+        "travel_habits": "Local (housing searches in FL/OH)",
+        "personal_projects": "Financial literacy development",
+        "unexpected_behavioral_traits": "Combines mechanical knowledge (car maintenance) with skincare expertise"
+    }
+}

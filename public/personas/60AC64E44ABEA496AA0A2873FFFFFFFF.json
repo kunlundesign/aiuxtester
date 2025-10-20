@@ -1,0 +1,98 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Mitchell",
+        "age": 37,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Philadelphia, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Community College of Philadelphia"
+        },
+        "occupation": "Automotive Technician",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, trimmed",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual (t-shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Fiscal conservatism, technology skepticism",
+        "motivations": "Financial security, mechanical craftsmanship",
+        "cognitive_style": "Practical problem-solving with hands-on orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches on automotive history/politics/adult content",
+        "ad_interactions": "High engagement with vintage automotive/model train ads",
+        "preferred_content_sources": "Wikipedia, YouTube, MSN News, IMDB",
+        "social_media_usage": "Limited (LinkedIn for professional use, Facebook for family)",
+        "ecommerce_behavior": "Budget-conscious purchases of car parts/collectibles",
+        "device_usage": "Desktop primary (Edge browser), iOS mobile secondary",
+        "subscriptions": [
+            "YouTube Premium",
+            "MSN News alerts"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vintage automotive restoration techniques",
+        "hobbies": "Model train collecting, classic car maintenance",
+        "entertainment_preferences": "70s-80s rock music, action films, political documentaries",
+        "content_consumption": "Long-form technical guides and political analysis",
+        "learning_style": "Experimental trial-and-error with physical objects"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven for daily needs, splurges on hobby items",
+        "income_level": "$52,000 annually",
+        "investment_habits": "Conservative (TSP focus with moderate risk tolerance)",
+        "financial_tools": [
+            "Wells Fargo checking",
+            "TSP retirement account"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with transactional collaborations",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small group of hobbyist acquaintances",
+        "community_involvement": "Local classic car meetups (occasional)",
+        "online_vs_offline_engagement": "Primarily digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking MSN News/weather",
+        "workday_habits": "Irregular hours troubleshooting automotive systems",
+        "evening_and_leisure": "YouTube mechanical tutorials/adult content",
+        "weekend_activities": "Junkyard parts hunting/model train maintenance",
+        "sleep_schedule": "11 PM - 6:30 AM (consistent)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light cardio through work activities, standard American diet",
+        "mental_health": "Stress relief through mechanical tinkering",
+        "work_life_balance": "Blurred boundaries due to freelance work",
+        "health_related_digital_behavior": "Occasional WebMD searches for minor ailments"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis with historical precedent",
+        "brand_loyalty": "Strong in tools (Snap-On), flexible elsewhere",
+        "influence_factors": "User reviews, historical reliability data",
+        "tech_adoption": "Mainstream adopter after proven reliability",
+        "privacy_and_security_concerns": "Basic precautions without advanced measures"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Italian-American heritage",
+        "travel_habits": "Regional road trips to automotive events",
+        "personal_projects": "1968 Mercury Comet restoration",
+        "unexpected_behavioral_traits": "Combines mechanical precision with appreciation for abstract political rhetoric"
+    }
+}

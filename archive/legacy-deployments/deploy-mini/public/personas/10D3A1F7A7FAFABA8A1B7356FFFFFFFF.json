@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 36,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Jacksonville, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Education or Mathematics",
+            "institution": "University of North Florida"
+        },
+        "occupation": "Middle School Teacher",
+        "company": "Duval County Public Schools",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length blonde waves",
+            "skin_color": "Fair",
+            "facial_features": "Round face with glasses",
+            "dress_style": "Casual-professional blend (polo shirts + jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Education accessibility, technology as empowerment tool",
+        "motivations": "Family stability, intellectual growth, maintaining work-life balance",
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Vehicle specifications research, local real estate trends, gaming tech requirements",
+        "ad_interactions": "High engagement with luxury vehicles/motorcycles ads",
+        "preferred_content_sources": "Autotrader, educational portals (IXL), automotive blogs",
+        "social_media_usage": "Facebook Marketplace (active), Nextdoor (passive)",
+        "ecommerce_behavior": "Value-focused luxury purchases (certified pre-owned vehicles)",
+        "device_usage": "Windows PC + Android mobile, Edge browser",
+        "subscriptions": "Microsoft 365 (Math Solver), IXL Learning, Pluto TV"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "STEM education methods, classroom technology integration",
+        "hobbies": "Car customization simulations, motorcycle history research, PC gaming",
+        "entertainment_preferences": "Automotive documentaries, strategy games, 2000s rock music",
+        "content_consumption": "Technical specifications sheets + video game walkthroughs",
+        "learning_style": "Self-directed research with occasional structured courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurges on vehicles/tech, budget-conscious daily spending",
+        "income_level": "$55k-$65k annually",
+        "investment_habits": "Conservative (real estate interest via Zillow browsing)",
+        "financial_tools": "Credit cards with rewards, AutoPay systems"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player with structured lesson planning",
+        "family_structure": "Married with middle-school aged children",
+        "friendship_circle": "Small group of educator colleagues + automotive enthusiasts",
+        "community_involvement": "School parent committees, local car meetups",
+        "online_vs_offline_engagement": "Hybrid (online research, offline test drives)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather radar, school portal updates, quick news scan",
+        "workday_habits": "Structured classroom hours with afternoon grading/planning",
+        "evening_and_leisure": "Gaming sessions, vehicle market research, family homework help",
+        "weekend_activities": "Car shows, beach trips, home improvement projects",
+        "sleep_schedule": "Early riser (6 AM) with consistent bedtime"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active lifestyle (beach walks), balanced diet",
+        "mental_health": "Stress management through gaming, avoids overcommitment",
+        "work_life_balance": "Strict division between school hours/family time",
+        "health_related_digital_behavior": "Basic fitness tracking, occasional medical research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with comparison shopping",
+        "brand_loyalty": "Strong for educational tools (Microsoft), flexible in automotive",
+        "influence_factors": "Consumer reports, expert reviews, peer recommendations",
+        "tech_adoption": "Mainstream adopter favoring proven solutions",
+        "privacy_and_security_concerns": "Moderate (avoids suspicious links, uses trusted sites)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English, basic Spanish comprehension",
+        "travel_habits": "Regional Florida trips (Daytona Beach), annual family vacations",
+        "personal_projects": "Restoring older vehicle models in simulation games",
+        "unexpected_behavioral_traits": "Combines mathematical precision with automotive passion"
+    }
+}

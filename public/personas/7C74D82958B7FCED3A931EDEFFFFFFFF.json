@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Erick Taylor",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Queens, USA",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Automotive Technician Trainee",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short fade",
+            "skin_color": "Medium",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual (jeans, graphic tees, work boots)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology optimism, self-reliance",
+        "motivations": "Skill development, financial independence",
+        "cognitive_style": "Analytical problem-solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical queries (auto parts specifications, solar camera specs), government services (VA, DMV), financial portals",
+        "ad_interactions": "High engagement with solar security cameras (12+ clicks) and auto parts ads",
+        "preferred_content_sources": "Manufacturer websites (Crutchfield, Reolink), e-commerce platforms (Amazon, eBay), government portals (va.gov)",
+        "social_media_usage": "Limited: TikTok (passive scrolling), no observed Facebook/Instagram activity",
+        "ecommerce_behavior": "Frequent comparison shopping for automotive parts (20+ auto part domain visits), budget-conscious purchases",
+        "device_usage": "Desktop-primary (extended research sessions), Windows/Edge (native event tracking)",
+        "subscriptions": "Amazon Prime, NY Lottery alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Automotive repair techniques, solar-powered security systems",
+        "hobbies": "Car maintenance/restoration, DIY home security setups",
+        "entertainment_preferences": "Tech review videos, true crime documentaries",
+        "content_consumption": "Detailed product specifications (63% of searches), instructional guides",
+        "learning_style": "Hands-on experimentation (evidenced by crawl space DIY queries)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (compares dumpster rental prices, seeks auto part discounts)",
+        "income_level": "$25k-$35k/year (entry-level technician estimates)",
+        "investment_habits": "Conservative (lottery participation suggests risk-taking potential)",
+        "financial_tools": "Citi credit card (online.citi.com logins), Amazon Store Card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent worker (frequent solo project research), collaborates when required",
+        "family_structure": "Likely lives with parents (multiple VA.gov/dmv.gov interactions suggest shared household)",
+        "friendship_circle": "Small group with shared mechanical interests",
+        "community_involvement": "Limited (no observed volunteer/group memberships)",
+        "online_vs_offline_engagement": "Prefers online research but maintains offline hobby communities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks email/Gmail (50+ visits), scans MSN political headlines",
+        "workday_habits": "Balances vocational training with freelance auto repair jobs",
+        "evening_and_leisure": "Online parts shopping, security system research",
+        "weekend_activities": "Car restoration projects, home improvement tasks",
+        "sleep_schedule": "Night owl (late-night shopping cart activity)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active (manual labor from automotive work), no observed fitness tracking",
+        "mental_health": "Stress management through hands-on projects",
+        "work_life_balance": "Work-focused (70% of domains relate to professional interests)",
+        "health_related_digital_behavior": "Occasional supplement research (turmeric/kidney query)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares 5+ solar camera models)",
+        "brand_loyalty": "Situation-dependent (switches between Advance Auto/1A Auto)",
+        "influence_factors": "Technical specifications over brand names",
+        "tech_adoption": "Early majority (adopts proven tech like solar cameras)",
+        "privacy_and_security_concerns": "Moderate (multiple security system implementations)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Local (multiple DMV queries, no hotel/travel bookings)",
+        "personal_projects": "2008 Chevy Impala restoration, home surveillance system setup",
+        "unexpected_behavioral_traits": "Combines mechanical pragmatism with political news consumption (15+ MSN political articles)"
+    }
+}

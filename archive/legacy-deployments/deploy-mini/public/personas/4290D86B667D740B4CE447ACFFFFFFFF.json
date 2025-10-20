@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Johnson",
+        "age": 35,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Elgin, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "Northern Illinois University"
+        },
+        "occupation": "Property Manager",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short fade",
+            "Skin color": "Medium",
+            "Facial features": "Clean-shaven with square jawline",
+            "Dress Style": "Casual (graphic tees, jeans) for leisure; polo shirts for professional settings"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial independence, home ownership as status symbol, skepticism of institutional systems",
+        "motivations": "Property value optimization, stable retirement planning, maintaining physical fitness",
+        "cognitive_style": "Structured thinking with preference for practical solutions over abstract concepts"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep local service research (tax payments, alarm registration), comparative financial product analysis",
+        "ad_interactions": "High engagement with home equity/mortgage ads, responsive to 'limited-time offer' triggers",
+        "preferred_content_sources": "Government portals (kanecountyil.gov), financial institutions (navyfederal.org), retail giants (Walmart)",
+        "social_media_usage": "Limited to passive news consumption via MSN/Yahoo",
+        "ecommerce_behavior": "Budget-conscious bulk purchases (Walmart protein drinks), occasional lottery splurges",
+        "device_usage": "Desktop-centric with Edge browser for financial transactions",
+        "subscriptions": "Hulu (casual viewing), Illinois Lottery alerts, Zillow price alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate market analytics, property tax laws, home renovation ROI strategies",
+        "hobbies": "MMA following, DIY home projects, lottery strategy analysis",
+        "entertainment_preferences": "Hip-hop culture documentaries, combat sports events, 2000s sitcom reruns",
+        "content_consumption": "Factual local news articles + sensational political headlines mix",
+        "learning_style": "Self-guided research through government resources and comparison sites"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with calculated risks (lottery/home equity investments)",
+        "income_level": "$65k-$80k annually (based on freelance property management work)",
+        "investment_habits": "Conservative real estate focus with high liquidity needs",
+        "financial_tools": "Navy Federal Credit Union products, H&R Block tax services"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor preferring clear deliverables over team collaboration",
+        "family_structure": "Single homeowner potentially caring for aging parents (medical insurance research)",
+        "friendship_circle": "Small group of local contacts bonded through MMA/sports interests",
+        "community_involvement": "Compliance-focused civic participation (alarm registration, tax payments)",
+        "online_vs_offline_engagement": "Prefers transactional online interactions but attends live combat sports events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks lottery results/Yahoo emails while having takeout breakfast",
+        "workday_habits": "Property inspections intermixed with financial admin tasks",
+        "evening_and_leisure": "Streams combat sports/hip-hop documentaries while meal prepping",
+        "weekend_activities": "Home Depot runs, watching pay-per-view fights, analyzing Zillow trends",
+        "sleep_schedule": "Night owl (evident from late MSN/Yahoo mail checks)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness via DIY projects, protein-supplemented diet",
+        "mental_health": "Stress relief through combat sports viewing, avoids overt emotional expression",
+        "work_life_balance": "Blurred boundaries due to freelance nature, measures success through property equity",
+        "health_related_digital_behavior": "Research on injury lawsuits (Soulja Boy case), Walmart vitamin purchases"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparisons (mortgage rates) balanced with gut-feeling risks (lottery)",
+        "brand_loyalty": "Trusts established institutions (Navy Federal, Walmart) but shops rates for financial products",
+        "influence_factors": "Government documentation, celebrity endorsements in hip-hop culture",
+        "tech_adoption": "Mainstream user favoring tried-and-tested platforms over emerging tech",
+        "privacy_and_security_concerns": "Cautious with financial data but shares minimal personal info online"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with interest in urban hip-hop culture",
+        "travel_habits": "Regional traveler (Chicago suburbs) for property deals/sports events",
+        "personal_projects": "Renovation flip planning, combat sports betting analytics",
+        "unexpected_behavioral_traits": "Meticulous financial planner who regularly plays lottery"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Carter",
+        "age": 45,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Griffith, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Mechanical Engineering",
+            "institution": "Purdue University Northwest"
+        },
+        "occupation": "Production Manager",
+        "company": "Huhtamaki North America",
+        "physical_attributes": {
+            "Height": "5'11\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short crop with gray streaks",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual polo shirts and khakis for work, athletic wear weekends"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, work ethic, technological progress",
+        "motivations": "Career stability, family security, personal fitness maintenance",
+        "cognitive_style": "Data-driven decision maker with systematic approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Industry-specific technical searches (packaging mergers), financial management queries, structured comparison shopping",
+        "ad_interactions": "High engagement with fitness equipment (Titan), financial services (Fidelity), and travel-related ads",
+        "preferred_content_sources": "Industry publications (Plastics News), financial portals (Yahoo Finance), manufacturer websites",
+        "social_media_usage": "Limited professional use (LinkedIn), occasional Reddit browsing",
+        "ecommerce_behavior": "Researches major purchases extensively, prefers established brands",
+        "device_usage": "Windows desktop for work, Android phone for mobile",
+        "subscriptions": "MAX (formerly HBO Max), Discovery Plus, Yahoo Finance newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Packaging industry consolidation, manufacturing automation trends",
+        "hobbies": "Home gym training, tech gadget customization, family road trips",
+        "entertainment_preferences": "Action movies, true crime documentaries, classic rock",
+        "content_consumption": "Detailed industry reports and financial analyses",
+        "learning_style": "Self-directed research through technical manuals and webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused for daily expenses, invests in quality durable goods",
+        "income_level": "$85,000-$95,000 annual",
+        "investment_habits": "401(k) maximizer, conservative stock portfolio",
+        "financial_tools": "Fidelity NetBenefits, PayPal, Chase banking products"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-oriented leadership style, values team reliability",
+        "family_structure": "Married with 2 teenage children",
+        "friendship_circle": "Small group of college friends and work colleagues",
+        "community_involvement": "Local youth sports coach, church volunteer",
+        "online_vs_offline_engagement": "Prefers face-to-face work meetings, uses digital tools for logistics"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks industry news and financial markets over coffee",
+        "workday_habits": "Schedules production reviews, analyzes operational reports",
+        "evening_and_leisure": "45-minute home gym session, family dinner, streaming shows",
+        "weekend_activities": "Car maintenance, kids' soccer games, meal prep for week",
+        "sleep_schedule": "11 PM - 6 AM regular schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Strict 4x/week strength training, monitors cholesterol",
+        "mental_health": "Decompresses through physical activity, avoids work email after hours",
+        "work_life_balance": "Compartmentalizes work/personal time effectively",
+        "health_related_digital_behavior": "Research fitness equipment specs, tracks workouts manually"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis of specs/features before major purchases",
+        "brand_loyalty": "Prefers established brands with proven reliability (Honda, Nike)",
+        "influence_factors": "Professional peer recommendations, JD Power ratings",
+        "tech_adoption": "Early majority adopter for work tools, conservative on consumer tech",
+        "privacy_and_security_concerns": "Uses two-factor authentication for financial accounts"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern values, basic Spanish comprehension",
+        "travel_habits": "Annual family vacations to national parks, weekend Chicago trips",
+        "personal_projects": "Restoring vintage Honda motorcycle, smart home automation setup",
+        "unexpected_behavioral_traits": "Maintains Pokemon Infinite Fusion gaming account with children"
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 26,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Pleasant Valley, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Chemistry/Business Administration",
+            "institution": "State University of New York"
+        },
+        "occupation": "Skincare/Candle Business Owner",
+        "company": "Hudson Valley Skin Care (Shopify store)",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length brown hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, practical appearance",
+            "Dress Style": "Casual-professional blend (e.g., jeans with business-casual tops)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Entrepreneurial independence",
+            "Quality craftsmanship",
+            "Financial self-reliance"
+        ],
+        "motivations": [
+            "Business growth",
+            "Product innovation",
+            "Supply chain optimization"
+        ],
+        "cognitive_style": "Detail-oriented problem solver with systematic approach to tasks"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "SKU specifications (e.g., '89mm delta caps')",
+            "Supply chain solutions",
+            "Political tariffs impact"
+        ],
+        "ad_interactions": {
+            "Engagement level": "High for packaging/supply ads",
+            "preferred_ad_categories": [
+                "Bulk materials",
+                "Commercial equipment",
+                "Shipping solutions"
+            ]
+        },
+        "preferred_content_sources": [
+            "Shopify forums",
+            "MSNBC/CNN for market news",
+            "Supplier blogs"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "Instagram (business account)",
+                "Facebook (limited)"
+            ],
+            "frequency": "Daily business management",
+            "engagement": "Passive content sharing"
+        },
+        "ecommerce_behavior": {
+            "Spending habits": "Bulk purchases with price comparisons",
+            "product_categories": [
+                "Packaging materials",
+                "Fragrance oils",
+                "Manufacturing equipment"
+            ]
+        },
+        "device_usage": {
+            "Mobile_vs_desktop": "Desktop-dominated workflow",
+            "preferred_OS_and_browser": "Windows/Edge"
+        },
+        "subscriptions": [
+            "Shopify Premium",
+            "Faire wholesale platform",
+            "Bulk Apothecary newsletter"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Supply chain management",
+            "Cosmetic chemistry",
+            "E-commerce optimization"
+        ],
+        "hobbies": [
+            "DIY product formulation",
+            "Market trend analysis",
+            "Local craft fairs"
+        ],
+        "entertainment_preferences": [
+            "Business podcasts",
+            "Documentaries about entrepreneurship"
+        ],
+        "content_consumption": "Technical specifications sheets + market analysis reports",
+        "learning_style": "Self-learning through supplier tutorials and industry forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious bulk buyer with strategic capital investments",
+        "income_level": "$55k-$70k (small business owner range)",
+        "investment_habits": "Reinvests profits into business expansion",
+        "financial_tools": [
+            "Shopify Balance",
+            "Business credit card",
+            "QuickBooks"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with supplier/vendor collaborations",
+        "family_structure": "Lives alone (frequent shipping label creation suggests sole business management)",
+        "friendship_circle": "Small network of fellow entrepreneurs",
+        "community_involvement": "Local business associations",
+        "online_vs_offline_engagement": "Hybrid model favoring digital transactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks order fulfillment status, reviews shipping labels",
+        "workday_habits": "Batch processes orders, researches suppliers, manages inventory",
+        "evening_and_leisure": "Product R&D testing, analyzes sales data",
+        "weekend_activities": "Supplies restocking, business strategy planning",
+        "sleep_schedule": "Regular hours (10 PM - 6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light exercise (shipping package handling), balanced diet",
+        "mental_health": "Stress management through workflow optimization",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Non-observable in dataset"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparisons (evident in repeated spec checks)",
+        "brand_loyalty": "Switches suppliers based on price/quality ratio",
+        "influence_factors": "Peer reviews in vendor communities",
+        "tech_adoption": "Early adopter of e-commerce tools",
+        "privacy_and_security_concerns": "Medium (uses mainstream platforms)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Local business-related travel only",
+        "personal_projects": "Developing private-label skincare line",
+        "unexpected_behavioral_traits": "Simultaneously technical (material specs) and creative (product formulation)"
+    }
+}

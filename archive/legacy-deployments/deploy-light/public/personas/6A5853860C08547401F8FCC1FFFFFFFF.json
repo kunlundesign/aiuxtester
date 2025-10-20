@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Anthony Carter",
+        "age": 41,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Moline, United States",
+        "education": {
+            "degree": "MFA",
+            "major": "Creative Writing",
+            "institution": "Hamline University"
+        },
+        "occupation": "College Instructor",
+        "company": "Scott Community College",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short, neat",
+            "Skin_color": "Fair",
+            "Facial_features": "Clean-shaven",
+            "Dress_Style": "Casual (band T-shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Skepticism of political extremes, appreciation for free speech",
+        "motivations": "Intellectual curiosity, preservation of niche cultural interests",
+        "cognitive_style": "Analytical with creative tendencies"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches on kaiju lore, political analysis, and collectibles",
+        "ad_interactions": "High engagement with Ultraman/kaiju merchandise ads",
+        "preferred_content_sources": "Wikipedia, fandom wikis, FiveThirtyEight, NYTimes",
+        "social_media_usage": "Passive engagement (Reddit, Facebook, Instagram)",
+        "ecommerce_behavior": "Frequent collector purchases (eBay, Amazon)",
+        "device_usage": "Desktop (Edge browser), occasional mobile",
+        "subscriptions": "NYTimes, Prime Video, Steam"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Literature analysis, composition pedagogy",
+        "hobbies": "Kaiju figure collecting, tabletop RPGs, experimental cooking",
+        "entertainment_preferences": "Tokusatsu films, progressive metal, political satire",
+        "content_consumption": "Long-form articles, fandom wikis, recipe blogs",
+        "learning_style": "Self-guided research + structured academic frameworks"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for essentials, premium spending on collectibles",
+        "income_level": "$55,000-$65,000",
+        "investment_habits": "Conservative (high-yield savings via Citizens Access)",
+        "financial_tools": "Credit cards, e-wallets (Amazon Pay)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative mentor",
+        "family_structure": "Lives alone",
+        "friendship_circle": "Small group of gaming/RPG enthusiasts",
+        "community_involvement": "Local music scene (hardcore/screamo)",
+        "online_vs_offline_engagement": "Primarily online communities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking FiveThirtyEight/NYTimes",
+        "workday_habits": "Grading papers, Canvas platform management",
+        "evening_and_leisure": "Figure customization, RPG forums",
+        "weekend_activities": "Local record stores, indie cinema (Last Picture House)",
+        "sleep_schedule": "Night owl (1-2 AM bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional hiking, beer enthusiast",
+        "mental_health": "Music as coping mechanism",
+        "work_life_balance": "Compartmentalized (strict work hours)",
+        "health_related_digital_behavior": "Occasional Healthline searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with occasional nostalgic impulses",
+        "brand_loyalty": "Strong to Bandai/S.H.MonsterArts",
+        "influence_factors": "Fandom community consensus, reviewer scores",
+        "tech_adoption": "Mainstream user with niche early adoption (RPG tech)",
+        "privacy_and_security_concerns": "Basic precautions (secure login habits)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, basic Japanese media terms",
+        "travel_habits": "Regional Midwest exploration (Iowa/Illinois)",
+        "personal_projects": "Kaiju taxonomy database, experimental short fiction",
+        "unexpected_behavioral_traits": "Metal music fan who analyzes political polling data"
+    }
+}

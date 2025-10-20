@@ -1,0 +1,153 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 34,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Milledgeville, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Georgia College & State University"
+        },
+        "occupation": "Small Business Owner/Accountant",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length blonde waves",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, wears glasses for screen work",
+            "dress_style": "Casual-chic (yoga pants paired with structured blazers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENFJ",
+        "beliefs_and_values": [
+            "Environmental sustainability",
+            "Animal welfare",
+            "Work-life integration"
+        ],
+        "motivations": [
+            "Creating comfortable living spaces",
+            "Continuous learning",
+            "Experiential travel"
+        ],
+        "cognitive_style": "Balanced analytical/creative (merges financial management with DIY projects)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Travel planning",
+            "Home improvement solutions",
+            "Small business software"
+        ],
+        "ad_interactions": {
+            "engagement_level": "High for travel/tech",
+            "preferred_ad_categories": [
+                "Vacation rentals",
+                "Beauty products",
+                "Business software"
+            ]
+        },
+        "preferred_content_sources": [
+            "VRBO",
+            "Home improvement blogs",
+            "Tech review sites"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Pinterest (DIY ideas)",
+                "Instagram (vegan recipes)",
+                "Twitter (news updates)"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumer, occasional shares"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Mid-range budget with occasional splurges",
+            "product_categories": [
+                "Home goods",
+                "Tech accessories",
+                "Beauty products"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop (Edge browser)",
+            "secondary_device": "iPhone (iOS)",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "Hulu",
+            "Discovery+",
+            "QuickBooks Desktop"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Financial management",
+            "Sustainable business practices"
+        ],
+        "hobbies": [
+            "Coastal hiking",
+            "Vegan baking",
+            "Harry Potter memorabilia collecting"
+        ],
+        "entertainment_preferences": {
+            "music": "Pop/Country (Taylor Swift-centric)",
+            "movies": "Fantasy franchises",
+            "streaming": "Netflix dramas"
+        },
+        "content_consumption": "Detailed travel guides + quick tech tutorials",
+        "learning_style": "Video tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven with strategic splurges",
+        "income_level": "$55k-$70k annually",
+        "investment_habits": "Conservative (focuses on home equity)",
+        "financial_tools": [
+            "QuickBooks",
+            "Credit cards",
+            "Mobile banking apps"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with client-focused approach",
+        "family_structure": "Lives with partner and dog (Aussiedoodle)",
+        "friendship_circle": "Small group of close friends",
+        "community_involvement": "Local vegan community meetups",
+        "online_vs_offline_engagement": "Balanced (plans trips online, enjoys outdoor activities)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Yoga + vegan breakfast while checking financial accounts",
+        "workday_habits": "Blocks 2-hour focus sessions for client work",
+        "evening_and_leisure": "Tests new vegan recipes + binge-watches fantasy shows",
+        "weekend_activities": "Day trips to hiking spots + home improvement projects",
+        "sleep_schedule": "11 PM - 7 AM (consistent)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Vegan diet + weekly beach yoga",
+        "mental_health": "Nature therapy through hiking",
+        "work_life_balance": "Strict separation of work/personal time",
+        "health_related_digital_behavior": "Tracks fitness via Apple Watch"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares multiple travel listings)",
+        "brand_loyalty": "Prefers established brands for tech/home goods",
+        "influence_factors": "User reviews + environmental impact",
+        "tech_adoption": "Early majority (adopts proven useful tech)",
+        "privacy_and_security_concerns": "Uses LifeLock for identity protection"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English",
+        "travel_habits": "Coastal destinations with dog-friendly accommodations",
+        "personal_projects": "Renovating 1920s cottage using sustainable materials",
+        "unexpected_behavioral_traits": "Combines analytical accounting skills with whimsical Harry Potter fandom"
+    }
+}

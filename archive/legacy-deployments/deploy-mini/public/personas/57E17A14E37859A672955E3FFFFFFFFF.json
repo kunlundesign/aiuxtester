@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Robert Thompson",
+        "age": 70,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Flagstaff, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Education",
+            "institution": "Northern Arizona University"
+        },
+        "occupation": "Retired Educator",
+        "company": "Northern Arizona University",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short grey hair",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes, clean-shaven",
+            "Dress Style": "Casual (button-up shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Patriotism, community service, fiscal responsibility",
+        "motivations": "Maintaining independence, preserving family legacy, staying informed",
+        "cognitive_style": "Practical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local news verification (30+ azdailysun.com visits), detailed service research (Schwan's delivery)",
+        "ad_interactions": "High engagement with practical solutions (meal delivery, pest control)",
+        "preferred_content_sources": "Fox News, Arizona Daily Sun, MSN, Legacy.com",
+        "social_media_usage": "Passive Facebook engagement (Flagstaff community groups)",
+        "ecommerce_behavior": "Budget-conscious (searched 'how much does endurance cost')",
+        "device_usage": "Desktop (92 Bing visits), Windows/Edge",
+        "subscriptions": "MSN Premium, Fox News alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Education policy (FAAR faculty portal visits)",
+        "hobbies": "Gardening (Breck's catalog requests), Sudoku (websudoku.com), military history",
+        "entertainment_preferences": "Classic country (Vince Gill searches), 1970s nostalgia content",
+        "content_consumption": "Long-form news articles (Fox News deep dives)",
+        "learning_style": "Self-guided research (Wikipedia cross-verification)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases (comparative meal delivery research)",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (IRA rollover research)",
+        "financial_tools": "Traditional banking, Zillow home value tracking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Respected mentor (FAAR faculty portal access)",
+        "family_structure": "Married (searched women's hair loss solutions)",
+        "friendship_circle": "Small community group (Facebook Barter group participation)",
+        "community_involvement": "Food bank volunteer (multiple related searches)",
+        "online_vs_offline_engagement": "Balanced (digital news + in-person volunteering)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with local news (azdailysun.com)",
+        "workday_habits": "Household management (pest control research), Sudoku",
+        "evening_and_leisure": "MSNBC/FOX prime time viewing",
+        "weekend_activities": "Gardening, veteran meetups",
+        "sleep_schedule": "Early riser (5:30 AM weather checks)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active (volunteering), home-cooked meals",
+        "mental_health": "Stable (no observed anxiety-related searches)",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Pet health focus (dog arthritis solutions)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (comparative service evaluations)",
+        "brand_loyalty": "High (repeated Schwan's/Fox News engagement)",
+        "influence_factors": "Local community validation, historical precedents",
+        "tech_adoption": "Mainstream user (Zoom for connections)",
+        "privacy_and_security_concerns": "Medium (uses ad-blockers but engages tracked sites)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southwestern US culture",
+        "travel_habits": "Occasional domestic trips (Showtime channel research for RV)",
+        "personal_projects": "Family genealogy (Legacy.com funeral searches)",
+        "unexpected_behavioral_traits": "Conservative news consumer who researches liberal policies (IRS tax changes)"
+    }
+}

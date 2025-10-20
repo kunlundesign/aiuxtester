@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Dorothy Mitchell",
+        "age": 74,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Watford City, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Education",
+            "institution": "University of North Dakota"
+        },
+        "occupation": "Retired School Teacher",
+        "company": "unknown",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short grey perm",
+            "skin_color": "Fair",
+            "facial_features": "Warm smile with glasses",
+            "dress_style": "Casual sweaters and slacks with floral patterns"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Community support, family traditions, practical education",
+        "motivations": "Maintaining family connections, preserving local history, staying mentally active",
+        "cognitive_style": "Structured thinker with strong organizational skills"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services search dominance (83% Bing usage), multi-session research on practical matters",
+        "ad_interactions": "High engagement with personalized gifts (67% of ad clicks), moderate health product interest",
+        "preferred_content_sources": "MSN news, Wikipedia, NYTimes, local sports portals",
+        "social_media_usage": "Daily Facebook user (179 sessions/90 days), passive engagement",
+        "ecommerce_behavior": "Frequent small purchases on Etsy/QVC (44+ transactions), budget-conscious home goods buyer",
+        "device_usage": "Windows desktop user with Edge browser",
+        "subscriptions": "Hallmark Channel, QVC Insider Specials, NDHSAA sports updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Local education initiatives, veteran support programs",
+        "hobbies": "Genealogy research, baking, watching Hallmark dramas",
+        "entertainment_preferences": "Family-oriented TV series, classic rock music, feel-good movies",
+        "content_consumption": "60% text-based news articles, 40% practical how-to videos",
+        "learning_style": "Visual learner preferring step-by-step guides"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented shopper with planned holiday/birthday purchases",
+        "income_level": "Fixed middle-class retirement income",
+        "investment_habits": "Conservative savings focus",
+        "financial_tools": "Traditional banking with basic online bill pay"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Former collaborative educator maintaining alumni connections",
+        "family_structure": "Widowed with adult children/grandchildren",
+        "friendship_circle": "Close-knit community group through church/local organizations",
+        "community_involvement": "Veteran support volunteer, school board alumni association",
+        "online_vs_offline_engagement": "Balanced digital/physical community participation"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while reading MSN headlines, checks Facebook notifications",
+        "workday_habits": "Manages household tasks between online research sessions",
+        "evening_and_leisure": "Watches Hallmark series, video calls grandchildren",
+        "weekend_activities": "Attends local sports events, visits community center",
+        "sleep_schedule": "Regular 10PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking routine, manages dental health proactively",
+        "mental_health": "Uses puzzle games and family interaction for cognitive maintenance",
+        "work_life_balance": "Structured retirement routine with purposeful activities",
+        "health_related_digital_behavior": "Researches medical facilities, reads preventive care articles"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Strong to QVC/Tupperware but explores Etsy alternatives",
+        "influence_factors": "Family recommendations, online reviews",
+        "tech_adoption": "Competent mainstream user for essential tasks",
+        "privacy_and_security_concerns": "Cautious about financial data but shares family news openly"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Norwegian-American Midwest heritage",
+        "travel_habits": "Occasional national park trips (Yellowstone interest)",
+        "personal_projects": "Archiving local veterans' histories, family recipe compilation",
+        "unexpected_behavioral_traits": "Tech-savvy senior who streams sports but forgets browser tabs open"
+    }
+}

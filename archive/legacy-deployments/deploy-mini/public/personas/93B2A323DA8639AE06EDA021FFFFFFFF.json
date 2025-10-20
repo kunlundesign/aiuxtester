@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Shalonis",
+        "age": 70,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Enola, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Mortuary Science",
+            "institution": "Pittsburgh Institute of Mortuary Science"
+        },
+        "occupation": "Retired Funeral Director",
+        "company": "Shalonis Funeral Home & Cremation Services",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average build",
+            "Hairstyle": "Short gray hair",
+            "Skin_color": "Fair",
+            "Facial_features": "Wrinkles around eyes, clean-shaven",
+            "Dress_Style": "Casual button-down shirts with slacks"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Community service, traditional family values, financial prudence",
+        "motivations": "Maintaining social connections, preserving local history, financial security",
+        "cognitive_style": "Practical decision-maker with strong attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services (funeral homes/churches), financial tracking, seasonal travel planning",
+        "ad_interactions": "High engagement with travel/ hospitality ads, home maintenance products",
+        "preferred_content_sources": "PennLive, MSNBC, Facebook groups, AOL Mail newsletters",
+        "social_media_usage": "Facebook (daily active user), Nextdoor (weekly check-ins)",
+        "ecommerce_behavior": "Occasional online purchases (home/tech accessories), price comparison",
+        "device_usage": "Desktop computer (Windows 10), Edge browser",
+        "subscriptions": "AOL Mail Premium, Hallmark Movies Now, PennLive alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Funeral industry regulations, community obituary tracking",
+        "hobbies": "Irish folk music appreciation, local history research, furniture restoration",
+        "entertainment_preferences": "Hallmark Christmas movies, classic rock music, PBS documentaries",
+        "content_consumption": "Local news articles, long-form obituaries, practical how-to guides",
+        "learning_style": "Community workshop attendance, instructional YouTube videos"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional quality splurges (home furnishings)",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (local bank stocks, CDs)",
+        "financial_tools": "M&T Bank accounts, Santander credit card, paper check usage"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Community-focused collaborator",
+        "family_structure": "Widower living independently",
+        "friendship_circle": "Church group members, funeral industry colleagues",
+        "community_involvement": "Parish council member, historical society volunteer",
+        "online_vs_offline_engagement": "Balanced mix with preference for face-to-face interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with local news (PennLive/ABC27), email triage",
+        "workday_habits": "Stock market tracking, property maintenance tasks",
+        "evening_and_leisure": "Hallmark movie watching, Facebook group moderation",
+        "weekend_activities": "Church services, antique market visits, family genealogy research",
+        "sleep_schedule": "Early riser (5:30 AM bedtime by 10 PM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily neighborhood walks, CPAP machine user",
+        "mental_health": "Grief counseling advocacy, journaling",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Medication reminder apps, senior fitness YouTube channels"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with community validation",
+        "brand_loyalty": "High (M&T Bank, Hallmark, Dyson)",
+        "influence_factors": "Local testimonials, long-term vendor relationships",
+        "tech_adoption": "Mainstream adopter (proven technologies only)",
+        "privacy_and_security_concerns": "Cautious about financial data sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Irish-American heritage, basic Gaelic understanding",
+        "travel_habits": "Annual Maine coastal trips, regional historical site visits",
+        "personal_projects": "Family memoir compilation, vintage furniture restoration",
+        "unexpected_behavioral_traits": "Technology-savvy septuagenarian maintaining 8+ online banking accounts"
+    }
+}

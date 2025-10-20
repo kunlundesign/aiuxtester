@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 23,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Peoria, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Creative Arts or Communications",
+            "institution": "Local Michigan University"
+        },
+        "occupation": "Creative Freelancer/Part-Time Retail",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "Unknown",
+            "Body shape": "Unknown",
+            "Hairstyle": "Casual, possibly dyed (reflecting Melanie Martinez fandom)",
+            "Skin color": "Unknown",
+            "Facial features": "Unknown",
+            "Dress Style": "Casual with alt-fashion influences (evident from Melanie Martinez anime art interest)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": "Supports social causes (LLS.org engagement), values creative expression",
+        "motivations": "Creative fulfillment, financial stability, emotional well-being",
+        "cognitive_style": "Creative problem-solver with structured execution (modded games, recipe following)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic explorer: cooking (18% of MSN views), gaming mods (Stardew Valley/Minecraft), financial management (Fidelity logins), emotional self-care",
+        "ad_interactions": "High engagement with practical tech (clock radios), health products (Benefiber), veteran-related offers (DAV.org visits)",
+        "preferred_content_sources": "YouTube tutorials, MSN news, Nexus Mods, Genius lyrics",
+        "social_media_usage": "YouTube (active creator/viewer), Reddit/Twitch (gaming communities), passive Twitter scrolling",
+        "ecommerce_behavior": "Budget-conscious (estate sale searches), frequent grocery purchases (Meijer ads), occasional tech splurges (VR modding tools)",
+        "device_usage": "Mobile-primary (OmeTV usage), Windows/Android, Edge/Chrome",
+        "subscriptions": "Disney+, Amazon Prime, possible Patreon (modding communities)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Music production (songwriting templates), VR development trends",
+        "hobbies": "Gaming (Stardew Valley/Minecraft modding), experimental cooking, amateur theater (Dracula play searches)",
+        "entertainment_preferences": "Indie pop (Melanie Martinez), superhero films (Black Panther), documentary storytelling (Possum Trot)",
+        "content_consumption": "Video tutorials (75% YouTube EP events), long-form game guides, quick recipe articles",
+        "learning_style": "Experimental (VR mod attempts), community-driven (Nexus Mods engagement)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (estate sale browsing), planned tech investments (clock radio research)",
+        "income_level": "$25k-$35k (entry-level/freelance)",
+        "investment_habits": "Conservative (Fidelity logins suggest retirement planning)",
+        "financial_tools": "Fidelity investments, credit cards, mobile banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor (freelance basis), collaborative in creative projects",
+        "family_structure": "Likely lives with family (Peoria residence, veteran org engagement)",
+        "friendship_circle": "Online-heavy (OmeTV usage), small IRL group (local restaurant searches)",
+        "community_involvement": "Veteran support (DAV.org), cancer research donations (LLS.org)",
+        "online_vs_offline_engagement": "70% digital (modding/gaming), 30% local community"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee (Lifeboost searches), news scan (MSN political articles)",
+        "workday_habits": "Flexible schedule with gaming breaks, recipe testing during downtime",
+        "evening_and_leisure": "Minecraft/Stardew Valley modding, Melanie Martinez music sessions",
+        "weekend_activities": "Estate sale hunting, family meals (Leo's Coney Island visits)",
+        "sleep_schedule": "Night owl (late gaming/YouTube sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Home workouts (fitness content interest), balanced diet (recipe experiments)",
+        "mental_health": "Emotional regulation through music/art, possible therapy exploration ('how to cry' searches)",
+        "work_life_balance": "Struggling (self-improvement searches), uses gaming for stress relief",
+        "health_related_digital_behavior": "Recipe nutrition analysis, cancer research engagement"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (clock radio comparisons), emotionally influenced (charity donations)",
+        "brand_loyalty": "Hybrid - Disney+ subscriber but estate sale bargain hunter",
+        "influence_factors": "Community recommendations (modding forums), product reviews",
+        "tech_adoption": "Early mainstream (VR modding but uses established platforms)",
+        "privacy_and_security_concerns": "Moderate (financial logins but uses OmeTV)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwest American, alt-pop culture affinity",
+        "travel_habits": "Local explorer (Brighton restaurant visits), no international trips",
+        "personal_projects": "Songwriting portfolio, custom game mod repository",
+        "unexpected_behavioral_traits": "Fiscal conservatism (Fidelity use) coexists with artistic rebellion (Melanie Martinez fandom)"
+    }
+}

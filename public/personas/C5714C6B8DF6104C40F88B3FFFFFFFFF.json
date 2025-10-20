@@ -1,0 +1,121 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Thede",
+        "age": 51,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Shelby, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Agricultural Business",
+            "institution": "Nebraska College of Technical Agriculture"
+        },
+        "occupation": "Farm Owner/Operator",
+        "company": "Family-owned Agricultural Enterprise",
+        "physical_attributes": {
+            "Height": "5'7\"",
+            "Body_shape": "Stocky/athletic",
+            "Hairstyle": "Practical short-cut",
+            "Skin_color": "Fair/weather-tanned",
+            "Facial_features": "Strong jawline, sun squint lines",
+            "Dress_Style": "Workwear (carhartt jackets, boots)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Agricultural sustainability",
+            "Financial independence",
+            "Community stewardship"
+        ],
+        "motivations": [
+            "Farm operational efficiency",
+            "Livestock quality standards",
+            "Legacy preservation"
+        ],
+        "cognitive_style": "Practical problem-solver with technical precision"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision technical queries (bolt specifications, equipment manuals) + market research (land prices, truck specs)",
+        "ad_interactions": "High engagement with agricultural equipment financing, livestock care products",
+        "preferred_content_sources": [
+            "TractorHouse.com",
+            "BigIron Auctions",
+            "Servi-Tech Labs",
+            "USDA portals"
+        ],
+        "social_media_usage": "Passive Facebook use for local community updates",
+        "ecommerce_behavior": "Bulk purchases of agricultural supplies, occasional luxury investments (vehicles)",
+        "device_usage": "Desktop-first workflow (Edge browser), secondary mobile use",
+        "subscriptions": [
+            "DTN weather service",
+            "QuickBooks Online",
+            "Microsoft 365 Basic"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Precision agriculture tech",
+            "Livestock genetics",
+            "Farm equipment auctions"
+        ],
+        "hobbies": [
+            "Livestock showing (pigs)",
+            "Local wrestling events",
+            "Recreational fishing"
+        ],
+        "entertainment_preferences": "Classic rock, agricultural podcasts, procedural crime dramas",
+        "content_consumption": "Technical manuals > opinion pieces, auction catalogs > general news",
+        "learning_style": "Hands-on experimentation with vendor support"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious capital investments with occasional luxury splurges",
+        "income_level": "$150k-$200k/year (farm operations)",
+        "investment_habits": "Conservative with land/assets, experimental with agricultural tech",
+        "financial_tools": [
+            "QuickBooks Online",
+            "John Deere Financial",
+            "Cornerstone Bank services"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Decisive leadership style, expects hands-on participation",
+        "family_structure": "Multi-generational farm household",
+        "friendship_circle": "Close-knit agricultural community ties",
+        "community_involvement": "4-H sponsor, local auction participant",
+        "online_vs_offline_engagement": "Essential online tools, prefers in-person deal-making"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Weather check > equipment inspection > crew briefing",
+        "workday_habits": "Field mornings, administrative afternoons, evening livestock checks",
+        "evening_and_leisure": "Auction site browsing, sports event tracking",
+        "weekend_activities": "Livestock shows, equipment maintenance, family meals",
+        "sleep_schedule": "Early riser (5:30 AM), 6-7 hours nightly"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active farm labor replaces formal exercise, high-protein diet",
+        "mental_health": "Stress management through manual tasks, resistant to formal therapy",
+        "work_life_balance": "Farm-integrated lifestyle",
+        "health_related_digital_behavior": "Occasional symptom research, no fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis with vendor reputation weighting",
+        "brand_loyalty": "Strong in machinery (John Deere), flexible in consumables",
+        "influence_factors": "Peer recommendations, dealer relationships",
+        "tech_adoption": "Late majority for non-essential tech, early adopter for agricultural innovations",
+        "privacy_and_security_concerns": "Basic precautions, prioritizes convenience over security"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, basic operational Spanish",
+        "travel_habits": "Regional for auctions/shows, rare recreational trips (Rome interest noted)",
+        "personal_projects": "Show pig breeding program, pasture improvement initiatives",
+        "unexpected_behavioral_traits": "Maintains detailed Excel spreadsheets for livestock pedigrees alongside paper auction catalogs"
+    }
+}

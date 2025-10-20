@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Aarav Patel",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American (South Asian heritage)",
+        "current_residence": "Wichita, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "Wichita State University"
+        },
+        "occupation": "Small Business Owner/Jewelry Entrepreneur",
+        "company": "Patel Fine Jewelry & Pizza Haven",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, styled hair",
+            "Skin color": "Medium complexion",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Business-casual (collared shirts, smartwatches)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Entrepreneurial drive, technology adoption in traditional businesses, multicultural awareness",
+        "motivations": "Business expansion, luxury goods market penetration, operational efficiency",
+        "cognitive_style": "Analytical problem-solving with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision searches (model numbers, certification checks), cross-references luxury item specs",
+        "ad_interactions": "High engagement with jewelry supplies/equipment ads (CTR 83% on tungsten ring queries)",
+        "preferred_content_sources": "Industry portals (GIA, Blue Nile), YouTube tutorials, eBay/Amazon seller dashboards",
+        "social_media_usage": "Active on WhatsApp Business (17 sessions), Facebook Business Suite, passive YouTube consumption",
+        "ecommerce_behavior": "B2B purchasing (jewelry tools), occasional luxury splurges (watches)",
+        "device_usage": "Desktop-focused (83% sessions) via Edge browser, secondary mobile use for messaging",
+        "subscriptions": "Shopify Basic, Canva Pro, UPS My Choice"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Luxury goods markets, restaurant POS systems, import/export regulations",
+        "hobbies": "Watch collecting, cricket analysis, karaoke-style music sessions",
+        "entertainment_preferences": "2010s pop/EDM (P!nk, Bruno Mars), sports documentaries, Bollywood dance mixes",
+        "content_consumption": "Tutorial videos (65%), industry reports (25%), news briefs (10%)",
+        "learning_style": "Just-in-time learning via vendor documentation and YouTube demonstrations"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven B2B purchases, occasional luxury splurges (avg. $1,200/watch)",
+        "income_level": "$68,000-$82,000 annually",
+        "investment_habits": "Reinvests 60% profits into inventory, conservative retirement portfolio",
+        "financial_tools": "QuickBooks Online, PayPal Business, American Express Business Gold"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Delegates operational tasks but controls quality assurance directly",
+        "family_structure": "Lives with parents and younger sibling in multi-generational home",
+        "friendship_circle": "12-15 close associates from temple community and business networks",
+        "community_involvement": "Local Chamber of Commerce, Gujarati Cultural Association",
+        "online_vs_offline_engagement": "70% business interactions digital, personal relationships in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks eBay listings/GIA updates over chai, reviews restaurant supply orders",
+        "workday_habits": "9AM-12PM jewelry workshop, 2PM-5PM pizza shop management, evening digital marketing",
+        "evening_and_leisure": "YouTube music streams while inventory management, weekly cricket matches",
+        "weekend_activities": "Family dinners, jewelry trade webinars, sports bar outings",
+        "sleep_schedule": "Night owl (1AM-8AM) due to dual business management"
+    },
+    "Health & Well-being": {
+        "physical_health": "Intermittent fasting (observes religious practices), basic cardio 3x/week",
+        "mental_health": "Uses business planning as stress relief, limited digital detox",
+        "work_life_balance": "Work-integrated lifestyle (72% screen time business-related)",
+        "health_related_digital_behavior": "MyFitnessPal for diet tracking, WebMD symptom checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparisons (spends 38min avg. on major purchases)",
+        "brand_loyalty": "Hybrid - loyal to tools (Bulova), flexible on consumables",
+        "influence_factors": "Jeweler forums (67%), certification marks (GIA), bulk purchase discounts",
+        "tech_adoption": "Early majority adopter (implements proven business tech)",
+        "privacy_and_security_concerns": "Basic precautions (antivirus), trusts platform security"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Gujarati), observes Hindu/Muslim syncretic traditions",
+        "travel_habits": "Annual jewelry trade show visits (Tucson, Las Vegas)",
+        "personal_projects": "Developing merengue jewelry display concepts, cricket analytics spreadsheet",
+        "unexpected_behavioral_traits": "Combines mechanical watch repair skills with EDM playlist curation"
+    }
+}

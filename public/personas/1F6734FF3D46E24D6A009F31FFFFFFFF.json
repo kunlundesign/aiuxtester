@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Daniel Martinez",
+        "age": 37,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Escondido, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "California State University San Marcos"
+        },
+        "occupation": "IT Support Specialist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, casual cut",
+            "Skin color": "Light olive",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual (gaming/tech T-shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology optimism, practical self-reliance",
+        "motivations": "Maintaining system efficiency, mastering game mechanics",
+        "cognitive_style": "Analytical problem-solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical gaming guides (PoE builds, Elden Ring classes), PC optimization (antivirus comparisons), health device research",
+        "ad_interactions": "High engagement with security software (Nord VPN) and medical tech (Oxiline glucose meters)",
+        "preferred_content_sources": "YouTube tutorials, gaming forums (Mobalytics, Maxroll), streaming platforms (Pluto TV, Tubi)",
+        "social_media_usage": "YouTube (daily passive consumption), Reddit (occasional forum participation)",
+        "ecommerce_behavior": "Mid-range tech accessories, gaming peripherals, occasional food delivery",
+        "device_usage": "Windows PC primary (Edge browser), Android mobile secondary",
+        "subscriptions": "YouTube Premium, Shudder, Netflix, Xbox Game Pass"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "PC hardware optimization, cybersecurity trends",
+        "hobbies": "ARPG gaming (Path of Exile), modding games (NexusMods), food experimentation",
+        "entertainment_preferences": "Action RPGs, horror films (Shudder), tech documentaries",
+        "content_consumption": "Mix of short gaming tutorials and long-form tech reviews",
+        "learning_style": "Self-guided through wikis and community guides"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented tech purchases, impulse gaming content buys",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative (index funds through employer plan)",
+        "financial_tools": "Credit cards, PayPal, DoorDash credits"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with structured client communication",
+        "family_structure": "Lives alone with cat(s)",
+        "friendship_circle": "Small group of gaming buddies",
+        "community_involvement": "Online game communities (Path of Exile forums)",
+        "online_vs_offline_engagement": "95% digital interaction, 5% local tech meetups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking gaming patch notes",
+        "workday_habits": "Scheduled remote support sessions with gaming breaks",
+        "evening_and_leisure": "Streaming horror content, testing game mods",
+        "weekend_activities": "Multi-hour gaming sessions, DIY PC upgrades",
+        "sleep_schedule": "Night owl (1am-9am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work offset by standing desk use",
+        "mental_health": "Decompresses through gaming achievements",
+        "work_life_balance": "Blurred boundaries with tech hobbies",
+        "health_related_digital_behavior": "Monitors glucose levels (Oxiline research), watches cooking ASMR"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (compares multiple tech reviews)",
+        "brand_loyalty": "Prefers established gaming brands but shops antivirus deals",
+        "influence_factors": "Expert YouTube reviews, community consensus",
+        "tech_adoption": "Early mainstream adopter (adopted Xbox app updates)",
+        "privacy_and_security_concerns": "High (multiple antivirus comparisons)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish technical terms)",
+        "travel_habits": "Virtual tourism through open-world games",
+        "personal_projects": "Maintaining private game mod repository on Archive.org",
+        "unexpected_behavioral_traits": "Hardcore ganger who watches DIY home improvement shows on Pluto TV"
+    }
+}

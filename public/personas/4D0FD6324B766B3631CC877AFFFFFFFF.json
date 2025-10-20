@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Brian Atwood",
+        "age": 23,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Olney, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Automotive Technology",
+            "institution": "Local vocational school"
+        },
+        "occupation": "Automotive Technician / Small Business Operator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'11\"",
+            "Body_shape": "Athletic",
+            "Hairstyle": "Short, practical cut",
+            "Skin_color": "Caucasian",
+            "Facial_features": "Clean-shaven with calloused hands",
+            "Dress_Style": "Work boots, denim jeans, and mechanic shirts"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, appreciation for mechanical craftsmanship",
+        "motivations": "Mastering technical skills, financial independence through hands-on work",
+        "cognitive_style": "Problem-solving through tactile experimentation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical automotive queries, boating specs, remote work tools",
+        "ad_interactions": "High engagement with motorsports equipment and tools",
+        "preferred_content_sources": "Specialty retailers (Summit Racing, Rally.build), manufacturer technical docs",
+        "social_media_usage": "Facebook for local connections, YouTube tutorials",
+        "ecommerce_behavior": "Frequent purchases of automotive parts and workwear",
+        "device_usage": "Windows PC with Chrome for research, Android mobile for quick checks",
+        "subscriptions": "Microsoft Rewards, Adventure Rider forums"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Engine performance optimization, rally car modifications",
+        "hobbies": "Motorcycle maintenance, boating research, amateur racing",
+        "entertainment_preferences": "Car restoration shows, 90s sitcom reruns",
+        "content_consumption": "Technical diagrams and spec sheets over video content",
+        "learning_style": "Hands-on experimentation with tools"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic investments in quality tools over aesthetics",
+        "income_level": "$35,000-$45,000 annually",
+        "investment_habits": "Conservative (equipment-as-investment mentality)",
+        "financial_tools": "QuickBooks for business, debit card primary"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with niche client base",
+        "family_structure": "Likely lives with family (multiple funeral home searches)",
+        "friendship_circle": "Local motorsport enthusiasts group",
+        "community_involvement": "Unknown",
+        "online_vs_offline_engagement": "Primarily offline work relationships"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks parts orders/racing forums with coffee",
+        "workday_habits": "Split between physical repair work and parts research",
+        "evening_and_leisure": "Vehicle maintenance projects, MSN car articles",
+        "weekend_activities": "Possible amateur racing events or equipment testing",
+        "sleep_schedule": "Night owl (late-night parts research sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor, no indicated diet restrictions",
+        "mental_health": "Stress relief through hands-on projects",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Searched hip pain solutions related to physical work"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Specification-driven comparisons",
+        "brand_loyalty": "Strong preference for VP Racing, Harbor Freight tools",
+        "influence_factors": "Professional forums, manufacturer specs",
+        "tech_adoption": "Mainstream user with specialty exceptions (RemotePC)",
+        "privacy_and_security_concerns": "Low (frequent use of third-party remote tools)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American English",
+        "travel_habits": "Regional trips for parts/equipment vs. aspirational Rwanda/Yosemite searches",
+        "personal_projects": "Custom vehicle builds, potential small fabrication business",
+        "unexpected_behavioral_traits": "Combines blue-collar work with technical remote PC management"
+    }
+}

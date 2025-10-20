@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 27,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Memphis, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Memphis"
+        },
+        "occupation": "Freelance Travel Consultant",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Medium-length straight hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, oval face",
+            "Dress Style": "Casual-comfortable (jeans, blouses)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial pragmatism, interest in political accountability",
+        "motivations": "Balancing independence with financial security",
+        "cognitive_style": "Research-driven with practical application focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Travel logistics, consumer product research, celebrity/political news",
+        "ad_interactions": "High engagement with travel/hotel ads, moderate with retail",
+        "preferred_content_sources": "MSN News, airline/travel sites, Amazon, Consumer Reports",
+        "social_media_usage": "Limited (passive news consumption via MSN/Yahoo Mail)",
+        "ecommerce_behavior": "Budget-conscious comparison shopping (travel, household items)",
+        "device_usage": "Desktop (Edge browser with multiple tabs)",
+        "subscriptions": "Costco Travel, Amazon Prime, MSNBC updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Travel industry trends, corporate mergers (via Chegg query)",
+        "hobbies": "NBA fandom (Grizzlies), cooking preserves, home maintenance",
+        "entertainment_preferences": "Political news analysis, NBA games, biographical content",
+        "content_consumption": "Fact-based news articles with occasional long-form analysis",
+        "learning_style": "Self-directed research (product reviews, financial planning)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (Costco, flight deals) with occasional luxury splurges",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative (focuses on practical purchases over financial markets)",
+        "financial_tools": "Credit cards (travel rewards), traditional banking (BankTennessee)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with periodic client coordination",
+        "family_structure": "Lives alone",
+        "friendship_circle": "Small group of close friends",
+        "community_involvement": "Non-active beyond local NBA fandom",
+        "online_vs_offline_engagement": "Primarily online interaction with selective in-person activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks flight deals/email, reads MSN headlines with coffee",
+        "workday_habits": "Coordinates travel plans, compares hotel rates, monitors NBA news",
+        "evening_and_leisure": "Streams NBA games, browses Amazon, adult content consumption",
+        "weekend_activities": "Home projects (via Lowe's/Searspartsdirect visits), cooking experiments",
+        "sleep_schedule": "Night owl (late-night browsing sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work habits offset by occasional home maintenance activity",
+        "mental_health": "Private coping through entertainment consumption",
+        "work_life_balance": "Blurred boundaries due to freelance nature",
+        "health_related_digital_behavior": "Reactive research (medical via Consumer Reports)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Methodical comparer (multiple flight/hotel options)",
+        "brand_loyalty": "Conditional (airlines/hotels with proven reliability)",
+        "influence_factors": "Price comparisons, verified reviews, limited social proof",
+        "tech_adoption": "Mainstream user (adopts proven tools like Copilot)",
+        "privacy_and_security_concerns": "Medium (uses mainstream platforms without extra precautions)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English speaker",
+        "travel_habits": "Domestic US focus with emerging interest in Caribbean destinations",
+        "personal_projects": "Recipe development (preserves), home improvement tracking",
+        "unexpected_behavioral_traits": "Combines analytical travel planning with intense NBA fandom"
+    }
+}

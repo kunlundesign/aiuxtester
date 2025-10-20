@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "LaTanya Mitchell",
+        "age": 46,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Chicago, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Social Work",
+            "institution": "University of Illinois at Chicago"
+        },
+        "occupation": "Community Outreach Coordinator",
+        "company": "Bright Star Community Outreach",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Average",
+            "hairstyle": "Short natural curls",
+            "skin_color": "Medium-brown",
+            "facial_features": "Round glasses, warm smile",
+            "dress_style": "Business casual with community organization branding"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENFJ",
+        "beliefs_and_values": "Social justice, community empowerment, educational equity",
+        "motivations": "Community transformation, bridging resource gaps, mentoring youth",
+        "cognitive_style": "Structured problem-solving with empathy-driven approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex housing policy queries, multi-session research on social programs",
+        "ad_interactions": "High engagement with non-profit and community service ads",
+        "preferred_content_sources": "Government portals (.gov), local news sites, nonprofit resources",
+        "social_media_usage": "LinkedIn for professional networking, limited personal use",
+        "ecommerce_behavior": "Occasional household essentials on Amazon",
+        "device_usage": "Windows desktop for work, Android mobile for coordination",
+        "subscriptions": "Zoom Pro, Otter.ai, Google Workspace"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "HUD policies, workforce development frameworks, grant writing",
+        "hobbies": "Community gardening, documentary watching, local history research",
+        "entertainment_preferences": "True crime documentaries, jazz music, historical novels",
+        "content_consumption": "Policy PDFs and webinars with supplemental video summaries",
+        "learning_style": "Workshop-based skill development with peer collaboration"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with strategic nonprofit investments",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative - focuses on retirement accounts",
+        "financial_tools": "Direct deposit, online bill pay, nonprofit credit union"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader with cross-agency partnerships",
+        "family_structure": "Single parent with two school-age children",
+        "friendship_circle": "Professional network dominates personal connections",
+        "community_involvement": "Bronzeville Neighborhood Association board member",
+        "online_vs_offline_engagement": "Hybrid - virtual coordination with on-site program execution"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Reviewing community event calendars while commuting",
+        "workday_habits": "Back-to-back Zoom meetings with housing partners",
+        "evening_and_leisure": "Grant writing after children's bedtime",
+        "weekend_activities": "Farmers market volunteering, youth program supervision",
+        "sleep_schedule": "Late night worker (12am-6am sleep)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Walking meetings, chronic stress management",
+        "mental_health": "Peer support groups, mindfulness apps",
+        "work_life_balance": "Blurred boundaries due to community needs",
+        "health_related_digital_behavior": "Researching trauma-informed care practices"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Consensus-driven with HUD compliance checks",
+        "brand_loyalty": "Prefers mission-aligned vendors",
+        "influence_factors": "Impact metrics, constituent testimonials",
+        "tech_adoption": "Strategic adopter after vendor vetting",
+        "privacy_and_security_concerns": "HIPAA-compliant tools required"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "African-American, basic Spanish for community outreach",
+        "travel_habits": "Conference attendance (2-3/year), local transit reliance",
+        "personal_projects": "Oral history archive of Bronzeville elders",
+        "unexpected_behavioral_traits": "Secret passion for 90s R&B celebrity news"
+    }
+}

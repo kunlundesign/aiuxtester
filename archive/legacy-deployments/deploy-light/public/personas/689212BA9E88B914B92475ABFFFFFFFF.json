@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Amanda Carter",
+        "age": 40,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Siloam Springs, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Local Community College"
+        },
+        "occupation": "Automotive Technician",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length straight hair",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, practical appearance",
+            "dress_style": "Casual workwear (FR clothing, jeans, boots)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Self-reliance, craftsmanship, financial independence",
+        "motivations": "Technical mastery, vehicle restoration projects, early retirement planning",
+        "cognitive_style": "Analytical problem-solver with methodical approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical automotive queries (heater cores, blower resistors), FR workwear, retirement planning",
+        "ad_interactions": "High engagement with automotive parts/FR clothing ads",
+        "preferred_content_sources": "Auto parts retailers (Summit Racing, O'Reilly), technical forums (Speed-Talk)",
+        "social_media_usage": "Passive Facebook use (Marketplace/news), YouTube tutorials",
+        "ecommerce_behavior": "Frequent auto parts purchases, budget-conscious apparel shopping",
+        "device_usage": "Desktop for technical research, mobile for quick checks",
+        "subscriptions": "Auto parts newsletters, YouTube automotive channels"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vintage truck restoration, engine mechanics",
+        "hobbies": "Classic car maintenance, DIY projects, country music festivals",
+        "entertainment_preferences": "Car restoration shows, true crime documentaries",
+        "content_consumption": "Technical guides > video tutorials > news articles",
+        "learning_style": "Hands-on experimentation with supplemental forum research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (quality parts at competitive prices)",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (401k-focused with early retirement goals)",
+        "financial_tools": "Credit cards with rewards, bank mobile app"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with trusted vendor network",
+        "family_structure": "Likely married (menswear purchases suggest shared household)",
+        "friendship_circle": "Small group of automotive enthusiasts",
+        "community_involvement": "Local car shows/meetups",
+        "online_vs_offline_engagement": "Prefers in-person for hobbies, online for shopping/research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking parts orders/forum updates",
+        "workday_habits": "Garage work interspersed with parts research",
+        "evening_and_leisure": "Vehicle maintenance, MSN news browsing",
+        "weekend_activities": "Auto salvage yard visits, family outings",
+        "sleep_schedule": "Early riser (aligns with mechanical work hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor, no indicated diet restrictions",
+        "mental_health": "Stress management through hands-on projects",
+        "work_life_balance": "Integrated (hobbies align with profession)",
+        "health_related_digital_behavior": "Minimal except work-required FR safety research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with OEM part preference",
+        "brand_loyalty": "Strong in automotive (ACDelco, Four Seasons)",
+        "influence_factors": "Technical specifications, veteran user forum reviews",
+        "tech_adoption": "Mainstream user (adopts proven tools)",
+        "privacy_and_security_concerns": "Basic precautions (no high-risk behavior observed)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English",
+        "travel_habits": "Regional road trips for car events",
+        "personal_projects": "1962 Chevy C10 restoration",
+        "unexpected_behavioral_traits": "Technical expert who enjoys abstract problem-solving in classic car restoration"
+    }
+}

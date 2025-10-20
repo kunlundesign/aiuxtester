@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Alexandria, United States",
+        "education": {
+            "degree": "Bachelor's (in progress)",
+            "major": "Astronomy",
+            "institution": "George Mason University"
+        },
+        "occupation": "Undergraduate Student",
+        "company": "George Mason University",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Slim",
+            "Hairstyle": "Medium-length straight hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, glasses",
+            "Dress Style": "Casual trendy (ruffle skirts, cargo pants, SHEIN fast fashion)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Academic curiosity, sustainability (plant-based diet interest), political awareness",
+        "motivations": "Academic achievement, financial independence, staying informed",
+        "cognitive_style": "Analytical (astronomy queries) with creative outlets (ASL/fashion)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Academic research (astronomy), meal planning, local services, political news",
+        "ad_interactions": "Medium engagement (clicked meal delivery, mattress, and finance ads)",
+        "preferred_content_sources": "BBC, NYTimes, Washington Post, academic portals",
+        "social_media_usage": "Limited (Facebook/X for news, passive engagement)",
+        "ecommerce_behavior": "Frequent budget purchases (SHEIN, Instacart), grocery delivery",
+        "device_usage": "Desktop dominant (academic work), Edge browser",
+        "subscriptions": "Washington Post, BritBox (inferred from UETEvents)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Planetary science (protostars/comets queries), academic research",
+        "hobbies": "Horse racing research, ASL learning, budget cooking",
+        "entertainment_preferences": "True crime news, celebrity culture, British TV (BritBox)",
+        "content_consumption": "Long-form articles (academic papers) + quick recipe videos",
+        "learning_style": "Self-directed research (Google Scholar/Drive usage)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious (Aldi/Wegmans searches), strategic splurges (SHEIN)",
+        "income_level": "Student-level (part-time work assumed)",
+        "investment_habits": "Conservative (clicked savings account ad)",
+        "financial_tools": "Credit cards (Citi/Amex activity), e-wallets (Instacart)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative learner (Google Docs/Poll Everywhere usage)",
+        "family_structure": "Likely lives with family (local grocery/restaurant searches)",
+        "friendship_circle": "Small group (limited social media presence)",
+        "community_involvement": "Academic communities (GMU portals), deaf culture interest",
+        "online_vs_offline_engagement": "Balanced (online research, in-person classes)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather (weather.com), academic emails",
+        "workday_habits": "Coursework (Blackboard/GMU portals), meal planning",
+        "evening_and_leisure": "Streaming news/BritBox, outfit browsing (SHEIN)",
+        "weekend_activities": "Grocery shopping (Instacart), horse racing updates",
+        "sleep_schedule": "Variable (night owl tendencies from late searches)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Plant-based diet interest, casual walks (no intense fitness signals)",
+        "mental_health": "Structured academic focus, news consumption as stressor",
+        "work_life_balance": "Moderate (academic focus with retail therapy)",
+        "health_related_digital_behavior": "Recipe blogs (balanced eating), no tracked medical research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (comparison shopping, academic approach)",
+        "brand_loyalty": "Value-focused (switches between Aldi/Wegmans/Giant)",
+        "influence_factors": "Expert reviews (scientific sources), price comparisons",
+        "tech_adoption": "Mainstream user (standard academic/browsing tools)",
+        "privacy_and_security_concerns": "Moderate (multiple account logins, no VPN signals)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, Italian language curiosity ('lei' translation)",
+        "travel_habits": "Occasional (AA.com searches), no frequent patterns",
+        "personal_projects": "ASL learning, astronomy note-taking (Google Docs)",
+        "unexpected_behavioral_traits": "Combines scientific rigor with interest in political drama"
+    }
+}

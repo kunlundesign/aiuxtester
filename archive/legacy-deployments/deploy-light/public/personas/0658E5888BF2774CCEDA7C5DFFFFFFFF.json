@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 28,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Sandy Springs, United States",
+        "education": {
+            "degree": "Master's Degree",
+            "major": "Public Health",
+            "institution": "Georgia State University"
+        },
+        "occupation": "Graduate Research Assistant",
+        "company": "Georgia State University",
+        "physical_attributes": {
+            "height": "unknown",
+            "body_shape": "unknown",
+            "hairstyle": "unknown",
+            "skin_color": "unknown",
+            "facial_features": "unknown",
+            "dress_style": "Casual professional"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Healthcare accessibility, data-driven policy-making, environmental health awareness",
+        "motivations": "Career advancement in public health, financial stability, academic achievement",
+        "cognitive_style": "Analytical with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Healthcare research, job searches, budget car purchases, EMF protection products",
+        "ad_interactions": "High engagement with automotive and EMF protection ads",
+        "preferred_content_sources": "Academic portals (iCollege), news sites (MSN), government health resources",
+        "social_media_usage": "Passive MSN news consumption, minimal active social engagement",
+        "ecommerce_behavior": "Budget-conscious purchases (cars under $10k), bulk shopping at Sam's Club",
+        "device_usage": "Desktop for academic work, mobile for quick searches",
+        "subscriptions": "Georgia State University portals, healthcare provider portals"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare policy, aging populations, research methodology",
+        "hobbies": "Academic research, health technology exploration, budget car shopping",
+        "entertainment_preferences": "News analysis, educational content",
+        "content_consumption": "Long-form academic papers, news articles",
+        "learning_style": "Structured courses with applied research components"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned purchases",
+        "income_level": "$35,000-$45,000",
+        "investment_habits": "Conservative",
+        "financial_tools": "Credit cards, student loan management"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative academic research",
+        "family_structure": "Unknown",
+        "friendship_circle": "Academic peers and healthcare professionals",
+        "community_involvement": "University research groups",
+        "online_vs_offline_engagement": "Balanced academic and digital engagement"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks academic portals and email",
+        "workday_habits": "Coursework, research, job applications",
+        "evening_and_leisure": "Healthcare research, budget planning",
+        "weekend_activities": "Car shopping, academic catch-up",
+        "sleep_schedule": "Regular schedule with late-night study sessions"
+    },
+    "Health & Well-being": {
+        "physical_health": "Health-conscious with interest in preventive care",
+        "mental_health": "Stress management through academic achievement",
+        "work_life_balance": "Work-focused with scheduled downtime",
+        "health_related_digital_behavior": "Medical research portals, health insurance management"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with risk assessment",
+        "brand_loyalty": "Value-oriented switching",
+        "influence_factors": "Academic research, consumer reviews",
+        "tech_adoption": "Mainstream user with niche interests",
+        "privacy_and_security_concerns": "Moderate data consciousness"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southern US cultural influences",
+        "travel_habits": "Local commuter, occasional regional trips",
+        "personal_projects": "Healthcare access research, EMF radiation side studies",
+        "unexpected_behavioral_traits": "Combines academic rigor with alternative health product exploration"
+    }
+}

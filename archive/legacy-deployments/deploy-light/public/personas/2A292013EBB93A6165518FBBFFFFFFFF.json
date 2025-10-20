@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 37,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Grants Pass, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Health Sciences",
+            "institution": "University of New Mexico"
+        },
+        "occupation": "Healthcare Administrator",
+        "company": "Asante Health System",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length wavy brown hair",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, glasses",
+            "dress_style": "Casual professional (blouses, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Health advocacy, civic responsibility, environmental sustainability",
+        "motivations": "Maintaining physical/mental wellness, staying informed on current events, balancing practicality with curiosity",
+        "cognitive_style": "Detail-oriented researcher who cross-references sources"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep-dive searches on skincare ingredients, sports schedules, and political news",
+        "ad_interactions": "High engagement with skincare/hydration products (4/6 ads clicked)",
+        "preferred_content_sources": "CBS News, Wikipedia, WebMD, MSN political analysis",
+        "social_media_usage": "Limited (Facebook/Linkedin for connections, passive YouTube usage)",
+        "ecommerce_behavior": "Budget-conscious (Trader Joe's products), selective splurges on quality skincare",
+        "device_usage": "Desktop-focused (Edge browser), mobile for quick news checks",
+        "subscriptions": "MSN Premium, WebMD newsletter, CBS News alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare policy, patient education materials",
+        "hobbies": "College basketball fandom (UNM Lobos), experimental cooking with Trader Joe's ingredients",
+        "entertainment_preferences": "Classic sitcoms (Two and a Half Men), investigative journalism podcasts",
+        "content_consumption": "Long-form political analysis, list-based lifestyle articles",
+        "learning_style": "Self-guided research via medical journals and verified news sources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (shops sales, compares insurance quotes)",
+        "income_level": "$65k-$80k/year",
+        "investment_habits": "Conservative (401k focus, no cryptocurrency)",
+        "financial_tools": "Credit cards with rewards, Capital One Shopping for deals"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader in healthcare administration",
+        "family_structure": "Married with two school-aged children",
+        "friendship_circle": "Small group of close friends from college/work",
+        "community_involvement": "YMCA volunteer, local food bank donor",
+        "online_vs_offline_engagement": "Prefers in-person interactions but stays politically active online"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Skincare regimen, coffee while checking MSN headlines",
+        "workday_habits": "Scheduled breaks for UNM basketball score checks",
+        "evening_and_leisure": "Cooks Trader Joe's recipes, watches sitcom reruns",
+        "weekend_activities": "Family hikes, grocery shopping with coupon apps",
+        "sleep_schedule": "Early riser (6 AM bedtime routine articles viewed)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light cardio 3x/week, Mediterranean diet adherence",
+        "mental_health": "Journaling, pet interaction (dog care articles viewed)",
+        "work_life_balance": "Strict 8 PM digital detox",
+        "health_related_digital_behavior": "WebMD symptom checker, prescription refill apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (compares multiple sources)",
+        "brand_loyalty": "Sticks with proven skincare brands (Aveeno, Biore)",
+        "influence_factors": "Medical studies for health products, user reviews for household items",
+        "tech_adoption": "Mainstream user (adopts after seeing benefits)",
+        "privacy_and_security_concerns": "Moderate (uses ad blockers but shares loyalty card data)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, Pacific Northwest cultural influences",
+        "travel_habits": "Aspiring European traveler (searched Scotland/Castles)",
+        "personal_projects": "Curating family recipe book with Trader Joe's ingredients",
+        "unexpected_behavioral_traits": "Combines analytical medical research with belief in pet psychics (dog communication articles)"
+    }
+}

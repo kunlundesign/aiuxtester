@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Blackwell",
+        "age": 59,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "New Miami, Ohio, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Local community college (inferred)"
+        },
+        "occupation": "Equipment Repair Shop Owner/Operator",
+        "company": "Liberty Auto & Truck Service (inferred from EPEvents)",
+        "physical_attributes": {
+            "height": "5'11\"",
+            "body_shape": "Stocky",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Caucasian",
+            "facial_features": "Square jaw, weathered skin",
+            "dress_style": "Work boots, cargo pants, branded polo shirts"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, importance of quality craftsmanship",
+        "motivations": "Maintaining business reputation, financial stability through equipment investments",
+        "cognitive_style": "Structured problem-solving with hands-on experimentation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Equipment specs, auction logistics, electrical/mechanical troubleshooting",
+        "ad_interactions": "High engagement with industrial equipment/tool ads",
+        "preferred_content_sources": "Manufacturer technical portals (Motorcraft), auction platforms (IronPlanet), financial sites (E*Trade)",
+        "social_media_usage": "Limited to news consumption (MSN/CNN/Fox News)",
+        "ecommerce_behavior": "Business purchases (tools/parts) via Grainger/Northern Tool",
+        "device_usage": "Desktop PC with Edge browser (inferred from AdEvents/EPEvents)",
+        "subscriptions": "QuickBooks Online, ALLDATA Repair, Motorcraft service manuals"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Heavy equipment maintenance, auction market trends",
+        "hobbies": "Local sports (Bengals/Bills football), equipment restoration projects",
+        "entertainment_preferences": "Sports news, financial commentary podcasts",
+        "content_consumption": "Technical manuals, auction listings, short news updates",
+        "learning_style": "Hands-on experimentation with reference to technical documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented business investments, occasional premium tools",
+        "income_level": "$75k-$100k annually (small business owner estimate)",
+        "investment_habits": "Moderate-risk (gold price tracking, E*Trade activity)",
+        "financial_tools": "QuickBooks accounting, business credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Direct communication style, leads small team",
+        "family_structure": "Likely married with adult children (generational naming patterns in EPEvents)",
+        "friendship_circle": "Local business network through equipment auctions",
+        "community_involvement": "FFA Alumni Auction participation (EPEvents Record 7)",
+        "online_vs_offline_engagement": "Prefers in-person equipment inspections with online coordination"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/auction updates, reviews shop schedule",
+        "workday_habits": "Split between hands-on repairs and business management tasks",
+        "evening_and_leisure": "Sports news viewing, equipment research",
+        "weekend_activities": "Auction attendance, equipment maintenance",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active through work, potential joint strain",
+        "mental_health": "Stress management through practical problem-solving",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Occasional medical reference searches (e.g., 'sludged' oil queries)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Experience-driven with cost-benefit analysis",
+        "brand_loyalty": "Prefers proven industrial brands (Snap-On, Ford)",
+        "influence_factors": "Peer recommendations in trade networks",
+        "tech_adoption": "Late mainstream adopter (adopts proven solutions)",
+        "privacy_and_security_concerns": "Basic precautions but prioritizes convenience"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American English",
+        "travel_habits": "Regional travel for auctions/equipment purchases",
+        "personal_projects": "VIN restoration projects (BingEvents Record 36)",
+        "unexpected_behavioral_traits": "Technical specialist who follows celebrity financial news (Cam Newton articles)"
+    }
+}

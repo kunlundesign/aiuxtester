@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Marek Kowalski",
+        "age": 28,
+        "gender": "Male",
+        "nationality": "Polish-American",
+        "current_residence": "Bensenville, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Mechanical Engineering",
+            "institution": "Unknown"
+        },
+        "occupation": "Packaging Engineer/Procurement Specialist",
+        "company": "Pregis LLC",
+        "physical attributes": {
+            "Height": "175-180cm",
+            "Body shape": "Average",
+            "Hairstyle": "Short",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual workwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, Polish cultural preservation",
+        "motivations": "Career advancement, technical mastery, financial independence",
+        "cognitive_style": "Analytical problem-solver"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical specifications, real estate metrics, crypto prices",
+        "ad_interactions": "High engagement with industrial equipment ads",
+        "preferred_content_sources": "Manufacturer websites (McMaster, Mazak), financial portals (CoinMarketCap), Polish news (WP.pl)",
+        "social_media_usage": "YouTube for technical tutorials, LinkedIn for professional networking",
+        "ecommerce_behavior": "B2B purchasing patterns, industrial components",
+        "device_usage": "Desktop for work (Edge browser), mobile for quick checks",
+        "subscriptions": "Manufacturing newsletters, cryptocurrency alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Packaging automation, CNC machining, supply chain management",
+        "hobbies": "Car modification, cryptocurrency trading, Polish cinema",
+        "entertainment_preferences": "Action movies (Bruce Willis filmography), automotive YouTube content",
+        "content_consumption": "Technical documentation + brief market updates",
+        "learning_style": "Hands-on experimentation with machinery"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious for personal items, invests in tools/equipment",
+        "income_level": "$65,000-$85,000",
+        "investment_habits": "Speculative crypto positions (Dogecoin)",
+        "financial_tools": "Traditional banking (Huntington), cryptocurrency wallets"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Detail-oriented collaborator",
+        "family_structure": "Likely single, Polish immigrant family ties",
+        "friendship_circle": "Niche automotive/drifting enthusiasts",
+        "community_involvement": "Polish-American cultural organizations",
+        "online_vs_offline_engagement": "Professional online presence, offline hobby groups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks work emails, crypto markets",
+        "workday_habits": "RFQ management, supplier negotiations",
+        "evening_and_leisure": "Car maintenance, Polish news consumption",
+        "weekend_activities": "Auto workshops, family meals at Mama Marias",
+        "sleep_schedule": "Night owl (late technical research)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (hands-on work)",
+        "mental_health": "Stress management through mechanical projects",
+        "work_life_balance": "Work-integrated hobbies",
+        "health_related_digital_behavior": "Occasional medical facility searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven technical comparisons",
+        "brand_loyalty": "Industrial brand loyalty (Martin Sprocket)",
+        "influence_factors": "Technical specifications, supplier reputation",
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Basic precautions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (Polish/English)",
+        "travel_habits": "Domestic Midwest travel for work",
+        "personal_projects": "Drift car modifications, CNC hobby projects",
+        "unexpected_behavioral_traits": "Combines precision engineering with speculative crypto investments"
+    }
+}

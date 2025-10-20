@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 58,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Charlotte, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Computer Science",
+            "institution": "University of California, San Diego"
+        },
+        "occupation": "IT Lecturer/Freelance Developer",
+        "company": "UC San Diego Extended Studies",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Fair",
+            "facial_features": "Rectangular glasses, trimmed beard",
+            "dress_style": "Casual (band t-shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, lifelong learning, environmental awareness",
+        "motivations": "Intellectual curiosity, skill development, maintaining tech relevance",
+        "cognitive_style": "Analytical problem-solver with structured learning approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep tech research (PC hardware, programming), exploratory travel planning, music history deep dives",
+        "ad_interactions": "High EV interest, educational tech tools, budget-conscious shopping",
+        "preferred_content_sources": "MSN News, academic portals (UC San Diego), Stack Overflow, GitHub",
+        "social_media_usage": "Limited (LinkedIn for professional networking, passive news consumption)",
+        "ecommerce_behavior": "Research-intensive purchases (tech gear, travel packages)",
+        "device_usage": "Windows 11 PC primary, Chrome browser, secondary iOS devices",
+        "subscriptions": "UC San Diego courses, Microsoft 365, GitHub Pro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "C++ programming, AI fundamentals, cloud infrastructure",
+        "hobbies": "Guitar playing (Gypsy jazz/rock), astronomy, soccer fandom",
+        "entertainment_preferences": "Classic rock documentaries, political satire (SNL), tech podcasts",
+        "content_consumption": "Long-form technical articles blended with news analysis",
+        "learning_style": "Project-based learning with hands-on coding practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused tech investments, planned major purchases (EVs)",
+        "income_level": "$85,000-$100,000",
+        "investment_habits": "Conservative with tech sector interest",
+        "financial_tools": "Credit cards, digital wallets, retirement accounts"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Mentorship-focused, independent contributor",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Small group of musician/tech peers",
+        "community_involvement": "Local music workshops, adult education programs",
+        "online_vs_offline_engagement": "Hybrid (virtual learning, in-person music meetups)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with tech news review, course preparation",
+        "workday_habits": "Structured coding sessions, student consultations",
+        "evening_and_leisure": "Guitar practice, EV research, MSN political coverage",
+        "weekend_activities": "Local soccer matches, astronomy observations, course development",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (walking, recreational sports), omnivorous diet",
+        "mental_health": "Music/theater as stress relief, no indicated conditions",
+        "work_life_balance": "Blended lifestyle with teaching/personal projects",
+        "health_related_digital_behavior": "Occasional wellness portal visits (Duke MyChart)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with technical benchmarks",
+        "brand_loyalty": "Tech brand loyalist (Microsoft, Tesla), open to value alternatives",
+        "influence_factors": "Expert reviews, technical specifications",
+        "tech_adoption": "Early majority adopter (waits for proven stability)",
+        "privacy_and_security_concerns": "Moderate (uses standard protections)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in European travel",
+        "travel_habits": "Cultural explorer (Norway/Thailand interest), budget-conscious stays",
+        "personal_projects": "Music transcription software development, EV comparison blog",
+        "unexpected_behavioral_traits": "Technical pragmatist with passion for abstract jazz improvisation"
+    }
+}

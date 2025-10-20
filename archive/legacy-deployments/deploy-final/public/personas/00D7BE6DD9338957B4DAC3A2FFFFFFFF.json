@@ -1,0 +1,118 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 35,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Lakewood, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Education Technology or Graphic Design",
+            "institution": "Orange Coast College (inferred from orangecoastcollege.edu domain visits)"
+        },
+        "occupation": "Instructional Designer/Content Creator",
+        "company": "Freelance or Startup",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic (yoga interest)",
+            "hairstyle": "Short professional cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Business casual with tech accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (explores new software/tools)",
+            "conscientiousness": "High (systematic workflow queries)",
+            "extraversion": "Medium (professional networking via LinkedIn)",
+            "agreeableness": "High (volunteering focus)",
+            "neuroticism": "Low (career-focused planning)"
+        },
+        "mbti": "INTJ (analytical, self-improvement focus)",
+        "beliefs_and_values": "Technology empowerment, lifelong learning",
+        "motivations": "Career development, creative mastery",
+        "cognitive_style": "Structured problem-solving with creative execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex queries about design software features",
+        "ad_interactions": "High engagement with creative tool ads",
+        "preferred_content_sources": "YouTube tutorials, LinkedIn Learning, eLearningIndustry",
+        "social_media_usage": {
+            "platforms": [
+                "YouTube",
+                "LinkedIn"
+            ],
+            "frequency": "Daily",
+            "engagement": "Active learner, passive socializer"
+        },
+        "ecommerce_behavior": "Software subscriptions, digital assets",
+        "device_usage": "Desktop (creative work), Windows/Edge (MzEventType data)",
+        "subscriptions": [
+            "Adobe Creative Cloud",
+            "Canva Pro",
+            "LinkedIn Premium"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Instructional design trends",
+            "SME collaboration"
+        ],
+        "hobbies": [
+            "Yoga",
+            "Video editing",
+            "Graphic design"
+        ],
+        "entertainment_preferences": {
+            "music": "Background electronic (video editing tracks)",
+            "movies": "Documentaries (inferred from educational focus)",
+            "authors": "Professional development writers"
+        },
+        "content_consumption": "Tutorial videos > long articles",
+        "learning_style": "Self-directed through software experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic investments in professional tools",
+        "income_level": "Mid-level ($60k-$80k based on CA freelance rates)",
+        "investment_habits": "Conservative (no signals of stock trading)",
+        "financial_tools": [
+            "PayPal",
+            "Credit cards",
+            "Subscription management"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Remote collaboration (Freelance/startup focus)",
+        "family_structure": "Unknown",
+        "friendship_circle": "Professional network > large social groups",
+        "community_involvement": "Skills-based volunteering (Designers for Learning)",
+        "online_vs_offline_engagement": "70% digital collaboration"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Yoga session, career news scan",
+        "workday_habits": "Block scheduling for design projects",
+        "evening_and_leisure": "Software tutorials, portfolio updates",
+        "weekend_activities": "Advanced yoga practice, local startup events",
+        "sleep_schedule": "Early riser (aligned with productivity content)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular yoga, ergonomic workspace",
+        "mental_health": "Project-based stress management",
+        "work_life_balance": "Blended (work as self-expression)",
+        "health_related_digital_behavior": "Youtube fitness channels, ergonomic research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (software comparisons)",
+        "brand_loyalty": "Adobe ecosystem user",
+        "influence_factors": "Expert reviews, feature comparisons",
+        "tech_adoption": "Early mainstream (waits for proven updates)",
+        "privacy_and_security_concerns": "Medium (uses mainstream platforms)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Potential relocation research (FL real estate queries)",
+        "personal_projects": "Instructional video portfolio development",
+        "unexpected_behavioral_traits": "Technical designer who practices mindfulness through yoga"
+    }
+}

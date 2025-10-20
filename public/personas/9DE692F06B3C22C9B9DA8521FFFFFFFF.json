@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 44,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Milan, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Healthcare Administration",
+            "institution": "Tennessee College of Applied Technology"
+        },
+        "occupation": "Care Coordinator",
+        "company": "Touching Hearts at Home",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Round face with minimal makeup",
+            "Dress Style": "Business casual with occasional sports team apparel"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Community responsibility, family-first mentality",
+        "motivations": "Maintaining community safety, work-life fulfillment",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local government services (90+ tn.gov visits), event tickets, music lyrics",
+        "ad_interactions": "High engagement with ticket sales/event ads (Notre Dame/T-Mobile clicks)",
+        "preferred_content_sources": "Government portals, Fox News, sports/news sites",
+        "social_media_usage": "Limited (1 Facebook visit in 90 days)",
+        "ecommerce_behavior": "Event ticket purchases, occasional retail (Walmart/eBay)",
+        "device_usage": "Desktop (Edge browser with MSN/Bing integration)",
+        "subscriptions": "WellSky Personal Care, Chamber newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare compliance, staff scheduling",
+        "hobbies": "College football fandom, lyric analysis, local trivia",
+        "entertainment_preferences": "Country music (Post Malone), sports events",
+        "content_consumption": "Factual reporting with conservative leanings",
+        "learning_style": "On-the-job training with digital tools"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned splurges on entertainment",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative (state retirement plans)",
+        "financial_tools": "Capital One credit card, Consumer Cellular"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader (WellSky scheduling patterns)",
+        "family_structure": "Likely single parent (date-related searches)",
+        "friendship_circle": "Work colleagues and local community members",
+        "community_involvement": "Chamber events participant",
+        "online_vs_offline_engagement": "Balanced (digital work tools + in-person events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check work schedules via WellSky",
+        "workday_habits": "Client care coordination with multiple email checks",
+        "evening_and_leisure": "Music streaming, sports news browsing",
+        "weekend_activities": "Local football games, family meals",
+        "sleep_schedule": "Night owl (late MSN browsing)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work routine with occasional BBQ outings",
+        "mental_health": "Stable (no concerning digital signals)",
+        "work_life_balance": "Moderate (frequent after-hours email checks)",
+        "health_related_digital_behavior": "Reactive searches (peanut butter recalls)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (extensive public records searches)",
+        "brand_loyalty": "Mixed (switches telecoms but loyal to Fox News)",
+        "influence_factors": "Local community recommendations",
+        "tech_adoption": "Mainstream user (Bing/Edge ecosystem)",
+        "privacy_and_security_concerns": "Medium (government portal usage indicates trust)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English speaker",
+        "travel_habits": "Regional trips for sports events",
+        "personal_projects": "Maintaining local community safety awareness",
+        "unexpected_behavioral_traits": "Conservative news consumer who enjoys avant-garde music lyrics"
+    }
+}

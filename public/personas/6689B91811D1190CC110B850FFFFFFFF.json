@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Rodriguez",
+        "age": 31,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Albuquerque, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of New Mexico"
+        },
+        "occupation": "Real Estate Agent",
+        "company": "Frederkind Construction LLC",
+        "physical attributes": {
+            "height": "5'7\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Olive",
+            "facial_features": "Warm smile with expressive brown eyes",
+            "dress_style": "Casual-professional blend (polos, golf shorts, practical footwear)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Work ethic, family-first mentality, skepticism toward political extremes",
+        "motivations": "Career advancement, family security, creative self-expression through DIY",
+        "cognitive_style": "Practical problem-solver with strong organizational skills"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Real estate education (GAAR Member Portal), local Albuquerque news (KOB), email management (Gmail)",
+        "ad_interactions": "High engagement with Rottweiler products, real estate services, golf apparel",
+        "preferred_content_sources": "MSN News, KOB local news, PGA TOUR Superstore, Amazon product pages",
+        "social_media_usage": "Passive news consumption via Facebook/Instagram, no visible public posting",
+        "ecommerce_behavior": "Mid-range spending (Rainbow Sandals, CRZ YOGA), repeat Amazon purchases",
+        "device_usage": "Desktop-dominant (real estate portals), Edge browser with MSN integration",
+        "subscriptions": "PGA TOUR Superstore emails, Colorescience newsletter, KOB news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate certification programs, Albuquerque housing market trends",
+        "hobbies": "Cooking complex recipes, Cricut crafting projects, weekend gardening",
+        "entertainment_preferences": "Oscars coverage, celebrity culture documentaries, political commentary podcasts",
+        "content_consumption": "Local news briefings + long-form political analysis articles",
+        "learning_style": "Structured online courses (Real Estate CE) supplemented by YouTube tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious splurger (invests in Rottweiler memorabilia but shops clearance golf wear)",
+        "income_level": "$65,000-$80,000 annually",
+        "investment_habits": "Conservative (prioritizes home equity over stocks)",
+        "financial_tools": "Amazon Prime Rewards Visa, PayPal, Venmo"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-focused collaborator with broker team",
+        "family_structure": "Married with school-age children (FACTS Family Portal usage)",
+        "friendship_circle": "Small group of real estate colleagues + childhood friends",
+        "community_involvement": "Albuquerque business networking groups, dog park regular",
+        "online_vs_offline_engagement": "Prefers in-person client meetings but uses digital tools for scheduling"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Gmail over coffee, reviews MLS listings, packs kids' lunches",
+        "workday_habits": "Property showings midday, paperwork during school pickup hours",
+        "evening_and_leisure": "Meal prep using Splendid Table recipes, Cricut crafting sessions",
+        "weekend_activities": "Family hikes in Sandia Mountains, local farmer's market visits",
+        "sleep_schedule": "10:30 PM - 6:30 AM (early riser)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active lifestyle (golf apparel purchases), mineral sunscreen user",
+        "mental_health": "De-stresses through cooking/blog-reading, no visible therapy engagement",
+        "work_life_balance": "Structured separation (email checks stop at 8 PM)",
+        "health_related_digital_behavior": "Researches sunscreen ingredients, follows fitness apparel trends"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with impulse exceptions (dog-themed decor)",
+        "brand_loyalty": "Staples (Amazon Prime, Colorescience) but compares prices",
+        "influence_factors": "Peer recommendations in real estate, online reviews for big purchases",
+        "tech_adoption": "Mainstream adopter (Canva for marketing, TimeTap scheduling)",
+        "privacy_and_security_concerns": "Basic precautions (email recovery setup)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Hispanic New Mexican heritage, English primary",
+        "travel_habits": "Regional trips (Denver botanic gardens), rare hotel stays (Sheraton click)",
+        "personal_projects": "Home renovation blog draft, custom dog accessory Etsy shop concept",
+        "unexpected_behavioral_traits": "Political news junkie who avoids public political discussions"
+    }
+}

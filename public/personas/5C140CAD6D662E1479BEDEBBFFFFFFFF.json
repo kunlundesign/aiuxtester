@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 24,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Goodyear, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Mechanical Engineering",
+            "institution": "University of Phoenix (inferred from Arizona residence and STEM interests)"
+        },
+        "occupation": "Sustainability Analyst",
+        "company": "Unknown",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length wavy brown hair",
+            "Skin color": "Fair",
+            "Facial features": "Round glasses, minimal makeup",
+            "Dress Style": "Casual professional (blouses with jeans) for work, beachwear during travel planning"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Environmental sustainability, technological progress, financial responsibility",
+        "motivations": "Career advancement in renewable energy, personal security, intellectual growth",
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on technical topics (thermodynamics conversions), comparison shopping, travel planning",
+        "ad_interactions": "High engagement with travel/hotel ads, medium with home goods/books",
+        "preferred_content_sources": "MSN News, Los Angeles Times, academic/library portals, booking.com",
+        "social_media_usage": "Facebook/Nextdoor for local connections, Instagram for passive browsing",
+        "ecommerce_behavior": "Budget-conscious with periodic splurges on travel/home improvement",
+        "device_usage": "Windows/Edge desktop for research, mobile for social media",
+        "subscriptions": "Libby Awards-tracked books, LA Times crosswords, Amy Myers MD newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Renewable energy policy, EV infrastructure, automotive material science",
+        "hobbies": "Beach vacations, mystery novels, home DIY projects",
+        "entertainment_preferences": "Political documentaries, Oscar-nominated films, Elizabeth Berg novels",
+        "content_consumption": "Long-form technical articles + bite-sized news updates",
+        "learning_style": "Self-directed research combined with structured online courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with planned major purchases (travel)",
+        "income_level": "$55,000-$65,000 (estimated AZ analyst salary)",
+        "investment_habits": "Conservative (evidenced by credit freeze actions)",
+        "financial_tools": "Chase credit cards, PayPal, TransUnion alerts"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative but prefers data-driven decisions",
+        "family_structure": "Lives alone (frequent solo travel planning)",
+        "friendship_circle": "Small close-knit group + neighborhood connections via Nextdoor",
+        "community_involvement": "Local library events participant, climate change awareness",
+        "online_vs_offline_engagement": "Balanced - uses digital tools to enable in-person experiences"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN News/email, solves LA Times crossword",
+        "workday_habits": "Block scheduling for deep analysis work, afternoon industry news review",
+        "evening_and_leisure": "Online shopping research, fiction reading, neighborhood walks",
+        "weekend_activities": "Day trips, home improvement projects, library visits",
+        "sleep_schedule": "Regular 11PM-7AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active walker, pescatarian diet, annual physicals",
+        "mental_health": "Journaling, puzzle-solving for stress relief",
+        "work_life_balance": "Structured separation via time blocking",
+        "health_related_digital_behavior": "Researches medical codes (ICD-10 M25.511), uses Amy Myers MD supplements"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with thorough cost-benefit analysis",
+        "brand_loyalty": "Prefers established brands for financial/security services",
+        "influence_factors": "Expert reviews, government data (CFPB), peer recommendations",
+        "tech_adoption": "Mainstream user with selective early adoption (EV interest)",
+        "privacy_and_security_concerns": "Highly cautious (credit freezes, limited social sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with basic Spanish comprehension",
+        "travel_habits": "West Coast beach destinations (Oceanside CA research), domestic focus",
+        "personal_projects": "Home energy efficiency optimization, novel writing attempts",
+        "unexpected_behavioral_traits": "Analytical engineer who obsessively follows celebrity Oscar fashion"
+    }
+}

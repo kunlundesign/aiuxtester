@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 38,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Staunton, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "HVAC Technology or Plumbing",
+            "institution": "Unknown"
+        },
+        "occupation": "HVAC Technician / Plumbing Contractor",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Workwear (utility pants, branded shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, skepticism of political extremes",
+        "motivations": "Professional competence, financial stability",
+        "cognitive_style": "Structured problem-solving with technical focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical product searches (HVAC/plumbing parts), local service verification",
+        "ad_interactions": "High engagement with industrial suppliers (SupplyHouse.com), appliance parts",
+        "preferred_content_sources": "MSN News, YouTube tutorials, manufacturer websites",
+        "social_media_usage": "YouTube (passive viewing), no visible mainstream platform activity",
+        "ecommerce_behavior": "Business-related purchases (parts/tools), budget-conscious",
+        "device_usage": "Desktop for work research, mobile for quick checks",
+        "subscriptions": "Netflix, contractor software (Joist)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "HVAC innovations, plumbing techniques, contractor management tools",
+        "hobbies": "DIY home projects, analyzing political news",
+        "entertainment_preferences": "YouTube shorts (home hacks/relationship drama), cable news commentary",
+        "content_consumption": "Short technical guides, political/news analysis videos",
+        "learning_style": "Hands-on experimentation with supplemental video tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented business expenses, occasional impulse on tools",
+        "income_level": "$45,000-$60,000 annually",
+        "investment_habits": "Conservative (focuses on emergency savings)",
+        "financial_tools": "Local bank accounts (F&M Bank), basic accounting software"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with occasional team coordination",
+        "family_structure": "Likely lives with partner/children (multiple family-focused YouTube views)",
+        "friendship_circle": "Small group of tradespeople",
+        "community_involvement": "Local business networks, no visible activism",
+        "online_vs_offline_engagement": "Prefers in-person work interactions, passive online consumption"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/MSN headlines, plans workday",
+        "workday_habits": "On-site repairs, parts sourcing between jobs",
+        "evening_and_leisure": "YouTube videos, Netflix casual viewing",
+        "weekend_activities": "Home maintenance, family time, supplier research",
+        "sleep_schedule": "Early riser (aligns with contractor hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active job maintains fitness, no gym indication",
+        "mental_health": "Stress management through work completion",
+        "work_life_balance": "Blurred lines (work research during leisure)",
+        "health_related_digital_behavior": "Occasional medical incident videos (lice/ER content)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with supplier comparisons",
+        "brand_loyalty": "Strong preference for proven industrial brands (Honeywell, Lennox)",
+        "influence_factors": "Technical specifications, contractor forums",
+        "tech_adoption": "Mainstream user (adopts when proven in trade)",
+        "privacy_and_security_concerns": "Low awareness beyond basic financial security"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southern US cultural influences",
+        "travel_habits": "Local service area focus, no leisure travel indication",
+        "personal_projects": "Home renovation initiatives, political commentary analysis",
+        "unexpected_behavioral_traits": "Technical professional engaged with relationship drama content"
+    }
+}

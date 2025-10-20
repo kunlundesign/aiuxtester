@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Carlos Martinez",
+        "age": 41,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "San Diego, United States",
+        "education": {
+            "degree": "PharmD",
+            "major": "Pharmacy",
+            "institution": "University of California, San Diego"
+        },
+        "occupation": "Pharmacy Manager",
+        "company": "McKesson",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short, professional cut",
+            "Skin color": "Olive",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Business casual during workdays, casual on weekends"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Efficiency in healthcare systems, work ethic, family-oriented values",
+        "motivations": "Professional reliability, maintaining work-life balance through structured leisure",
+        "cognitive_style": "Analytical with strong attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Pharmacy systems (NPI searches), travel logistics, event tickets, alcohol retailers",
+        "ad_interactions": "High engagement with travel, entertainment, and luxury retail ads",
+        "preferred_content_sources": "MSN News, sports websites, pharmaceutical portals (CoverMyMeds)",
+        "social_media_usage": "Limited professional use (LinkedIn), passive news consumption via MSN",
+        "ecommerce_behavior": "Mid-to-high spending on travel, luxury goods, and electronics",
+        "device_usage": "Desktop for work (Edge browser), mobile for quick searches",
+        "subscriptions": "Xbox Game Pass, Marriott Bonvoy, Ticketmaster alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Pharmacy management systems, healthcare compliance",
+        "hobbies": "NBA/NFL sports analysis, Call of Duty gaming, wine collecting",
+        "entertainment_preferences": "Sports highlights, action movies, Latin music events",
+        "content_consumption": "Concise news articles with factual reporting, sports analytics",
+        "learning_style": "On-the-job training, industry webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Quality-focused with occasional luxury splurges (Saks Fifth Avenue)",
+        "income_level": "$120,000-$140,000 annually",
+        "investment_habits": "Moderate-risk retirement accounts, real estate",
+        "financial_tools": "Bank of America credit cards, Citi online banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader in pharmacy operations",
+        "family_structure": "Married with children",
+        "friendship_circle": "Small group of longtime friends",
+        "community_involvement": "Limited due to work demands",
+        "online_vs_offline_engagement": "Prefers in-person interactions for leisure"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks work emails (131 Gmail logins) and pharmaceutical systems",
+        "workday_habits": "Manages prescription authorizations via CoverMyMeds",
+        "evening_and_leisure": "Gaming sessions, sports news monitoring",
+        "weekend_activities": "Cross-border trips to Mexico via CrossBorderXpress, family outings",
+        "sleep_schedule": "Early riser (5:30 AM) for work preparation"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate exercise through weekend activities",
+        "mental_health": "Stress management via structured gaming sessions",
+        "work_life_balance": "Compartmentalizes work and personal time",
+        "health_related_digital_behavior": "Uses Medi-Cal portal, researches prescription labels"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Methodical planner (evident in travel bookings and prescription management)",
+        "brand_loyalty": "Prefers established brands (Amtrak, Marriott)",
+        "influence_factors": "Professional requirements, user reviews",
+        "tech_adoption": "Mainstream adopter of work-related tools",
+        "privacy_and_security_concerns": "Cautious with patient data, less concerned in personal browsing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Mexican-American cultural ties",
+        "travel_habits": "Frequent short trips to Mexico, domestic business travel",
+        "personal_projects": "Optimizing pharmacy workflows via McKesson Connect",
+        "unexpected_behavioral_traits": "High-stakes professional responsibility balanced with tactical shooter gaming"
+    }
+}

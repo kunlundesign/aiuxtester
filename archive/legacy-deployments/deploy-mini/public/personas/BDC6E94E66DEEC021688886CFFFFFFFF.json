@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Amanda Carter",
+        "age": 37,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Brooklyn, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "CUNY Brooklyn College"
+        },
+        "occupation": "Office Administrator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length waves",
+            "skin_color": "Medium",
+            "facial_features": "Rectangular glasses, defined brows",
+            "dress_style": "Casual-chic (mix of SHEIN pants and branded eyewear)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Health consciousness, financial pragmatism",
+        "motivations": "Maintaining independence, managing chronic health needs",
+        "cognitive_style": "Detail-oriented with practical problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Medical aftercare (68% dental queries), postal services, budget fashion",
+        "ad_interactions": "High engagement with eyewear/beauty ads (Designer Frames Outlet x4 clicks)",
+        "preferred_content_sources": "Medical portals (MSK MyChart), Wikipedia, deal sites (HSN/SHEIN)",
+        "social_media_usage": "Passive YouTube consumption, occasional Facebook",
+        "ecommerce_behavior": "Frequent small purchases (SHEIN/Target), uses coupons (BJ's Wholesale)",
+        "device_usage": "Desktop for research (MSKCC films), mobile for shopping",
+        "subscriptions": "AOL Mail, YouTube channels (dental care tutorials)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare administration trends",
+        "hobbies": "Budget fashion curation, movie trivia (1976 Oscars search)",
+        "entertainment_preferences": "Biographical documentaries (Rossellini/Ingrid Bergman)",
+        "content_consumption": "Medical FAQs > entertainment news",
+        "learning_style": "Self-learning via video tutorials (YouTube dental guides)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused (flash sales x7), bulk purchases (BJ's Wholesale)",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative (exploring LendingClub loans)",
+        "financial_tools": "Credit Karma, Amex (online.americanexpress.com visits)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator (freelance status)",
+        "family_structure": "Single, possible elder care (incontinence product research)",
+        "friendship_circle": "Small group (limited social media activity)",
+        "community_involvement": "Local healthcare access (MyConnectNYC.org visits)",
+        "online_vs_offline_engagement": "70% digital (mail.aol.com x8)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check AOL mail (372k+ unread emails), medical portal updates",
+        "workday_habits": "Batch processes shipping tasks (USPS x8), price comparisons",
+        "evening_and_leisure": "Online shopping, beauty research (lip plumper studies)",
+        "weekend_activities": "Local errands (Brooklyn Dental Center visits), deal hunting",
+        "sleep_schedule": "Late night (YouTube viewing records)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Dental implant recovery, manages chronic conditions",
+        "mental_health": "Self-educated via medical portals",
+        "work_life_balance": "Health priorities override work flexibility",
+        "health_related_digital_behavior": "Frequent MSKCC portal logins, prescription research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse (multiple dental consult queries)",
+        "brand_loyalty": "Switcher (SHEIN vs Target vs HSN comparisons)",
+        "influence_factors": "Medical authority sites, user reviews (Amazon ratings)",
+        "tech_adoption": "Mainstream (Edge browser, Microsoft Copilot trial)",
+        "privacy_and_security_concerns": "Medium (reuses AOL account)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, NYC urban culture",
+        "travel_habits": "Domestic (Utah monument research), London aspiration",
+        "personal_projects": "Chronicling dental recovery journey",
+        "unexpected_behavioral_traits": "Combines medical pragmatism with bold fashion choices (SHEIN 'Backless Tie-Up Dress' saved)"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Patterson",
+        "age": 57,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Phoenixville, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Carpentry/Business Management",
+            "institution": "Pennsylvania College of Technology"
+        },
+        "occupation": "Woodworking Contractor/Small Business Owner",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Short practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Glasses, minimal makeup",
+            "dress_style": "Casual workwear with tool apron"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical craftsmanship, financial independence",
+        "motivations": "Business sustainability, precision craftsmanship",
+        "cognitive_style": "Analytical problem-solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Woodworking techniques, financial management tools, local contractors",
+        "ad_interactions": "High engagement with woodworking tools/software ads",
+        "preferred_content_sources": "Specialized woodworking sites, financial portals, YouTube tutorials",
+        "social_media_usage": "Limited to Facebook/YouTube for professional networking",
+        "ecommerce_behavior": "Tools/equipment purchases via Amazon/Woodcraft",
+        "device_usage": "Desktop preference for complex tasks",
+        "subscriptions": "QuickBooks Online, Woodpeckers Guild"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Precision woodworking, contractor management software",
+        "hobbies": "Home improvement projects, golf, sports fandom",
+        "entertainment_preferences": "DIY YouTube content, adult entertainment",
+        "content_consumption": "Technical tutorials and financial analysis",
+        "learning_style": "Video demonstrations and hands-on practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented quality investments in tools",
+        "income_level": "$65,000-$85,000 annually",
+        "investment_habits": "Moderate-risk tech stock interest",
+        "financial_tools": "Fidelity Investments, QuickBooks, Affirm"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with client-focused approach",
+        "family_structure": "Likely single/empty nester",
+        "friendship_circle": "Small professional network",
+        "community_involvement": "Local trade associations",
+        "online_vs_offline_engagement": "Prefers in-person client meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check business emails/QuickBooks",
+        "workday_habits": "Workshop projects interspersed with client meetings",
+        "evening_and_leisure": "Sports news/woodworking videos",
+        "weekend_activities": "Golfing, home improvement projects",
+        "sleep_schedule": "Regular 11PM-6AM pattern"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor",
+        "mental_health": "Stress management through craftsmanship",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Occasional YouTube fitness content"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven practical choices",
+        "brand_loyalty": "Strong preference for proven tool brands",
+        "influence_factors": "Professional reviews and peer recommendations",
+        "tech_adoption": "Selective adopter of productivity tools",
+        "privacy_and_security_concerns": "Basic precautions for financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Regional trips for materials/sporting events",
+        "personal_projects": "Custom furniture design",
+        "unexpected_behavioral_traits": "Combines technical precision with interest in speculative tech stocks"
+    }
+}

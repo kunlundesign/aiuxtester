@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Roslyn Daniels",
+        "age": 66,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Haledon, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "Rutgers University"
+        },
+        "occupation": "Small Business Owner / Event Consultant",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short, curly gray hair",
+            "Skin_color": "Dark brown",
+            "Facial_features": "Warm smile, glasses",
+            "Dress_Style": "Polished business-casual with bold accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Health equity advocacy, Black community empowerment, supporting Black-owned businesses",
+        "motivations": "Community impact, maintaining active lifestyle, curating beautiful living spaces",
+        "cognitive_style": "Structured planner with creative execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed home decor queries (wallpaper/furniture brands), health summit info, luxury brand research",
+        "ad_interactions": "High engagement with premium furniture/fashion ads (Wayfair, Louboutin)",
+        "preferred_content_sources": "Black Health Matters, NY Times, luxury brand sites, Salesforce",
+        "social_media_usage": "Passive LinkedIn/Instagram use for professional networking",
+        "ecommerce_behavior": "Quality-focused purchases (Neiman Marcus, Alexis Bittar)",
+        "device_usage": "Desktop-centric (Outlook/Salesforce workflows), secondary mobile use",
+        "subscriptions": "MasterClass, NYTimes, SiriusXM, Marriott Bonvoy"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Health summit organization, interior design trends, Black business leadership",
+        "hobbies": "Home renovation projects, recipe curation, luxury fashion",
+        "entertainment_preferences": "Biographical films, soul music, empowerment-focused media",
+        "content_consumption": "Long-form health articles + visual design inspiration",
+        "learning_style": "Workshops + self-directed research (summit PDFs/design specs)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurges on timeless pieces (furniture/fashion)",
+        "income_level": "Upper-middle class",
+        "investment_habits": "Conservative with real estate focus",
+        "financial_tools": "Credit cards (travel rewards), online banking (Bank of America)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Mentorship-focused leadership style",
+        "family_structure": "Empty nester (adult children)",
+        "friendship_circle": "Professional network + community groups",
+        "community_involvement": "Omega Psi Phi events, health summits organizer",
+        "online_vs_offline_engagement": "Balanced (virtual research + in-person events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/calendar review, health news reading",
+        "workday_habits": "Client calls, design research, summit planning",
+        "evening_and_leisure": "Recipe testing, furniture catalog browsing",
+        "weekend_activities": "Antique shopping, community meetings, museum visits",
+        "sleep_schedule": "Consistent 11PM-7AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Kidney-conscious diet, regular check-ups (BlueCross NJ)",
+        "mental_health": "Mindfulness practices, community support",
+        "work_life_balance": "Structured separation (Outlook calendar management)",
+        "health_related_digital_behavior": "Black Health Matters engagement, medical portal use"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with expert consultation",
+        "brand_loyalty": "Strong (Mitchell Gold, RH, Louboutin)",
+        "influence_factors": "Community credibility, design authority reviews",
+        "tech_adoption": "Mainstream business tools (Salesforce/Outlook)",
+        "privacy_and_security_concerns": "Cautious (limited social media sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "African American, English monolingual",
+        "travel_habits": "Regional conference travel (Marriott loyalty)",
+        "personal_projects": "Historic home restoration, health advocacy documentation",
+        "unexpected_behavioral_traits": "Tech-savvy senior using Salesforce/CRM tools for community organizing"
+    }
+}

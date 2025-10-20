@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Rajesh Kumar",
+        "age": 29,
+        "gender": "Male",
+        "nationality": "Indian",
+        "current_residence": "Unknown City, India",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "Indian Institute of Technology"
+        },
+        "occupation": "IT Support Specialist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "175 cm",
+            "Body_shape": "Slim",
+            "Hairstyle": "Short, neat",
+            "Skin_color": "Medium",
+            "Facial_features": "Clean-shaven",
+            "Dress_Style": "Casual (t-shirts, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, privacy awareness",
+        "motivations": "Technical mastery, problem-solving efficiency",
+        "cognitive_style": "Analytical/systematic thinker"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting (Windows 11), math solutions, multilingual news monitoring",
+        "ad_interactions": "Moderate engagement with tech/learning ads",
+        "preferred_content_sources": "Microsoft documentation, Wikipedia, GitHub, international news portals",
+        "social_media_usage": "Limited (YouTube for tutorials, GitHub for collaboration)",
+        "ecommerce_behavior": "Tech accessories, occasional travel bookings",
+        "device_usage": "Windows OS, Edge browser (Canary build user)",
+        "subscriptions": "Microsoft 365, GitHub Pro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "OS customization, cybersecurity, automation tools",
+        "hobbies": "Language learning (Japanese/Arabic basics), puzzle games",
+        "entertainment_preferences": "Tech documentaries, indie games",
+        "content_consumption": "Technical documentation > video tutorials",
+        "learning_style": "Self-directed experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious tech investments",
+        "income_level": "Middle-class (freelance tech services)",
+        "investment_habits": "Conservative (fixed deposits)",
+        "financial_tools": "Paytm, Amazon Pay, traditional banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Remote collaboration via tickets",
+        "family_structure": "Nuclear family (parents/siblings)",
+        "friendship_circle": "Tech-focused online communities",
+        "community_involvement": "Open-source contributions",
+        "online_vs_offline_engagement": "90% digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check system updates/news alerts",
+        "workday_habits": "Batch-processing support tickets",
+        "evening_and_leisure": "Beta-testing software, language apps",
+        "weekend_activities": "Tech meetups, hardware tinkering",
+        "sleep_schedule": "Night owl (1-2 AM bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work mitigated by ergonomic setup",
+        "mental_health": "Tech-mediated stress relief (gaming)",
+        "work_life_balance": "Blurred boundaries (passion-driven work)",
+        "health_related_digital_behavior": "Ergonomics research, blue light filters"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis of technical specs",
+        "brand_loyalty": "Microsoft ecosystem adherent",
+        "influence_factors": "Benchmark tests, tech forums",
+        "tech_adoption": "Early majority (after stability testing)",
+        "privacy_and_security_concerns": "VPN user, selective data sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Hindi/English bilingual, learning Japanese/Arabic",
+        "travel_habits": "Urban tech conference attendance",
+        "personal_projects": "Custom Windows optimization scripts",
+        "unexpected_behavioral_traits": "Enjoys classical art reproductions despite technical focus"
+    }
+}

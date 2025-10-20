@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 27,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Las Vegas, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Graphic Design",
+            "institution": "University of Nevada, Las Vegas"
+        },
+        "occupation": "Freelance Game Mod Designer",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length wavy brown hair",
+            "Skin color": "Fair",
+            "Facial features": "Round face with glasses",
+            "Dress Style": "Casual (hoodies, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical problem-solving, technology integration in daily life",
+        "motivations": "Creative expression through game modding, financial independence",
+        "cognitive_style": "Analytical with hands-on learning preference"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical queries (car mods, appliance parts), script searches for Roblox",
+        "ad_interactions": "High engagement with appliance/electronics ads (Wayfair, Best Buy)",
+        "preferred_content_sources": "Pastebin (scripts), ModsHost (game mods), Amazon product pages",
+        "social_media_usage": "Passive TikTok consumption, Roblox community interaction",
+        "ecommerce_behavior": "Budget-conscious (Sam's Club ads), home appliance focus",
+        "device_usage": "Desktop for modding/gaming (Windows/Edge)",
+        "subscriptions": "Amazon Prime, Roblox Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vehicle simulation mechanics, 3D modeling",
+        "hobbies": "Gaming (BeamNG.drive, Roblox), car mod customization",
+        "entertainment_preferences": "Action/simulation games, TikTok creators",
+        "content_consumption": "Technical guides, gaming tutorials",
+        "learning_style": "Self-learning via modding communities"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (discount stores, sales tracking)",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (no crypto/stock signals)",
+        "financial_tools": "Amazon Pay, debit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor (Discord collaboration)",
+        "family_structure": "Lives alone (frequent home appliance searches)",
+        "friendship_circle": "Online gaming communities",
+        "community_involvement": "Roblox modding forums",
+        "online_vs_offline_engagement": "90% digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Gmail/Amazon orders",
+        "workday_habits": "Mod development sessions",
+        "evening_and_leisure": "Roblox gaming, script testing",
+        "weekend_activities": "Home improvement projects",
+        "sleep_schedule": "Night owl (gaming sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work, occasional walks",
+        "mental_health": "Stress relief through gaming",
+        "work_life_balance": "Blurred boundaries (freelance work)",
+        "health_related_digital_behavior": "Minimal engagement"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (technical specs comparison)",
+        "brand_loyalty": "Functional over brand (appliance parts focus)",
+        "influence_factors": "User reviews, technical specifications",
+        "tech_adoption": "Early adopter for gaming tech",
+        "privacy_and_security_concerns": "Low (frequent script downloads)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Rare leisure travel",
+        "personal_projects": "BeamNG.drive mod repository",
+        "unexpected_behavioral_traits": "Combines technical modding skills with aesthetic Roblox username curation"
+    }
+}

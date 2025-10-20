@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Angela Mitchell",
+        "age": 56,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Greenbelt, United States",
+        "education": {
+            "degree": "Master's Degree",
+            "major": "Administrative Management",
+            "institution": "University of Maryland"
+        },
+        "occupation": "University Administrative Coordinator",
+        "company": "University of Maryland, College Park",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Curvy",
+            "hairstyle": "Short natural curls",
+            "skin_color": "Medium brown",
+            "facial_features": "Round face with glasses",
+            "dress_style": "Business casual with tailored pants"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESFJ",
+        "beliefs_and_values": "Education accessibility, family-first philosophy",
+        "motivations": "Maintaining family well-being, professional reliability",
+        "cognitive_style": "Practical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Medical information, clothing solutions, university resources",
+        "ad_interactions": "High engagement with apparel/real estate ads",
+        "preferred_content_sources": "University portals, HSN, MSNBC, medical sites",
+        "social_media_usage": "YouTube (family vlogs), limited Facebook",
+        "ecommerce_behavior": "Frequent Instacart/HSN purchases, budget-conscious",
+        "device_usage": "Desktop (Edge) for work, mobile for shopping",
+        "subscriptions": "Hulu, HSN alerts, university newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Higher education administration, workflow optimization",
+        "hobbies": "DIY sewing projects, family genealogy research",
+        "entertainment_preferences": "Family vlogs, 90s R&B, political dramas",
+        "content_consumption": "Email newsletters, long-form news articles",
+        "learning_style": "Workshop-based skill development"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional quality investments",
+        "income_level": "$65,000-$75,000",
+        "investment_habits": "Conservative (credit union focus)",
+        "financial_tools": "NASA FCU, Bank of America, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player",
+        "family_structure": "Multigenerational household",
+        "friendship_circle": "Church community colleagues",
+        "community_involvement": "University staff events, City of Praise Church",
+        "online_vs_offline_engagement": "Balanced digital/IRL interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Medication management, email triage",
+        "workday_habits": "Zoom meetings, expense report processing",
+        "evening_and_leisure": "Meal prep via Instacart, family YouTube viewing",
+        "weekend_activities": "Church services, granddaughter care",
+        "sleep_schedule": "11 PM - 6 AM regular schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Hypertension management, walking regimen",
+        "mental_health": "Family support system, religious coping",
+        "work_life_balance": "Strict boundary enforcement",
+        "health_related_digital_behavior": "Kaiser Permanente portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with expert consultation",
+        "brand_loyalty": "Strong (Kaiser Permanente, UMD systems)",
+        "influence_factors": "Medical professionals, church leadership",
+        "tech_adoption": "Mainstream user (proficient but cautious)",
+        "privacy_and_security_concerns": "Bank-level security awareness"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "African American, Southern roots",
+        "travel_habits": "Regional family visits, rare leisure travel",
+        "personal_projects": "Family recipe digitization project",
+        "unexpected_behavioral_traits": "Medical researcher who enjoys reality TV drama"
+    }
+}

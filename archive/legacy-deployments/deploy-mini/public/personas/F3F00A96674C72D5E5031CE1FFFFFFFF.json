@@ -1,0 +1,165 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 39,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Eureka Springs, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Unknown vocational school"
+        },
+        "occupation": "Automotive Technician/Mechanic",
+        "company": "Freelance/Independent Workshop",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with faint smile lines",
+            "dress_style": "Practical workwear (mechanic overalls or jeans with utility pockets)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Self-reliance through technical competence",
+            "Traditional values (evidenced by Proverbs 31 search)",
+            "Practical environmentalism through vehicle maintenance"
+        ],
+        "motivations": [
+            "Mastery of automotive systems",
+            "Financial independence through side projects",
+            "Vehicle customization/optimization"
+        ],
+        "cognitive_style": "Systematic problem-solver combining technical manuals with hands-on experimentation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Technical vehicle part numbers",
+            "Recall information",
+            "Electrical system troubleshooting"
+        ],
+        "ad_interactions": {
+            "engagement_level": "Targeted clicks on specific automotive components",
+            "preferred_ad_categories": [
+                "OEM replacement parts",
+                "Heavy-duty construction materials",
+                "Professional tools"
+            ]
+        },
+        "preferred_content_sources": [
+            "Manufacturer technical databases (ALLDATA)",
+            "Auto enthusiast forums (Pirate4x4, Corral.net)",
+            "EBay Motors listings"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "YouTube (for repair tutorials)",
+                "Specialized forums"
+            ],
+            "frequency": "Daily for technical research",
+            "engagement": "Passive consumption with rare technical contributions"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Value-focused bulk purchases",
+            "product_categories": [
+                "Vehicle components",
+                "Workshop equipment",
+                "RV accessories"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop (for parts diagrams)",
+            "secondary_device": "Mobile (field reference)",
+            "os": "Windows 10 Pro",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "I-CAR professional training",
+            "Web-Est estimating software",
+            "RockAuto parts notifications"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Electric vehicle retrofitting",
+            "Advanced driver-assistance systems",
+            "Vintage vehicle restoration"
+        ],
+        "hobbies": [
+            "Off-road vehicle customization",
+            "Firearm maintenance (based on palmetostatearmory.com visits)",
+            "RV camping"
+        ],
+        "entertainment_preferences": {
+            "music": "Classic rock",
+            "movies": "Documentaries about engineering/innovation",
+            "reading": "Technical manuals over fiction"
+        },
+        "content_consumption": [
+            "Detailed repair guides",
+            "Manufacturer service bulletins",
+            "Military/automotive industry news"
+        ],
+        "learning_style": "Kinesthetic learning through disassembly/reassembly processes"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for daily needs but invests in premium tools",
+        "income_level": "$55,000-$70,000 annually",
+        "investment_habits": "Conservative (focuses on tangible assets like tools/vehicles)",
+        "financial_tools": [
+            "Business checking account",
+            "PayPal for parts transactions",
+            "Store-specific credit cards"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor preferring clear project parameters",
+        "family_structure": "Likely lives with partner (multiple home improvement projects)",
+        "friendship_circle": "Small group of fellow mechanics/enthusiasts",
+        "community_involvement": "Local automotive swap meets",
+        "online_vs_offline_engagement": "Prefers in-person collaboration on complex projects"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks technical bulletins with coffee",
+        "workday_habits": "Blocks time for diagnostic work vs. part installations",
+        "evening_and_leisure": "Forum browsing while watching automotive shows",
+        "weekend_activities": "Vehicle maintenance projects, occasional RV trips",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength from manual labor",
+        "mental_health": "Stress relief through hands-on projects",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Researches ergonomic workshop setups"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparisons of part specifications",
+        "brand_loyalty": "Prefers OEM specifications but shops for best price",
+        "influence_factors": [
+            "Technical specifications sheets",
+            "Mechanic forum consensus",
+            "Warranty terms"
+        ],
+        "tech_adoption": "Early adopter for diagnostic tools, mainstream user otherwise",
+        "privacy_and_security_concerns": "Minimal (prioritizes functionality over data tracking)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with technical jargon proficiency",
+        "travel_habits": "Regional RV trips to national parks",
+        "personal_projects": [
+            "Vintage truck restoration",
+            "Workshop organization system development"
+        ],
+        "unexpected_behavioral_traits": "Combines mechanical precision with appreciation for automotive design aesthetics"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Thompson",
+        "age": 45,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Memphis, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Management",
+            "institution": "Southwest Tennessee Community College"
+        },
+        "occupation": "Maintenance Supervisor",
+        "company": "Local municipal services",
+        "physical_attributes": {
+            "Height": "5'11\"",
+            "Body shape": "Stocky",
+            "Hairstyle": "Short crew cut",
+            "Skin color": "Fair",
+            "Facial features": "Square jaw, light stubble",
+            "Dress Style": "Casual workwear (polo shirts, cargo pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, family-first mentality",
+        "motivations": "Providing stable home environment, practical problem-solving",
+        "cognitive_style": "Structured thinking with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical local services (equipment sales), family activity planning, financial management",
+        "ad_interactions": "High engagement with home maintenance tools, family entertainment deals",
+        "preferred_content_sources": "MSN News, Walmart.com, banking portals, government sites (IRS)",
+        "social_media_usage": "Limited to Facebook Marketplace transactions",
+        "ecommerce_behavior": "Budget-conscious home goods purchases",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": "MSN News alerts, Walmart+ membership"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Equipment maintenance, municipal services trends",
+        "hobbies": "Home improvement projects, family outings",
+        "entertainment_preferences": "Action movies, classic rock",
+        "content_consumption": "Practical how-to guides, local news",
+        "learning_style": "Hands-on troubleshooting via YouTube tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with occasional big-ticket purchases (lawn equipment)",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (401k contributions)",
+        "financial_tools": "First Community Bank accounts, Walmart credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented leadership style",
+        "family_structure": "Married with 2 school-age children",
+        "friendship_circle": "Close-knit local community ties",
+        "community_involvement": "Youth sports coaching",
+        "online_vs_offline_engagement": "Prefers in-person interactions with digital coordination"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/work emails with coffee",
+        "workday_habits": "Field supervision with mobile coordination",
+        "evening_and_leisure": "Family dinners, home maintenance projects",
+        "weekend_activities": "Youth sports events, DIY projects",
+        "sleep_schedule": "Early riser (5:30 AM weekdays)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional weekend hiking, monitors child's health concerns",
+        "mental_health": "Stress management through physical activity",
+        "work_life_balance": "Structured separation of work/family time",
+        "health_related_digital_behavior": "Symptom research for family health issues"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Practical cost-benefit analysis",
+        "brand_loyalty": "Prefers established brands (Bissell, Walmart)",
+        "influence_factors": "User reviews, local recommendations",
+        "tech_adoption": "Mainstream user with security awareness",
+        "privacy_and_security_concerns": "Cautious about financial data protection"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. English speaker",
+        "travel_habits": "Regional family trips (St. Louis attractions)",
+        "personal_projects": "Home renovation, youth sports organization",
+        "unexpected_behavioral_traits": "Combines mechanical aptitude with event planning skills for children's parties"
+    }
+}

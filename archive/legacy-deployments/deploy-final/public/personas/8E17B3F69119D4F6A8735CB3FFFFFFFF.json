@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ravi Patel",
+        "age": 48,
+        "gender": "Male",
+        "nationality": "Indian-American",
+        "current_residence": "Buford, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Finance",
+            "institution": "Georgia State University"
+        },
+        "occupation": "Financial Analyst",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, black with gray streaks",
+            "skin_color": "Medium brown",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Business casual (collared shirts, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial independence, cultural preservation",
+        "motivations": "Wealth preservation, family security",
+        "cognitive_style": "Analytical/structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep financial research (dividend stocks, REITs), real estate comparisons",
+        "ad_interactions": "High engagement with bullion/financial ads",
+        "preferred_content_sources": "Yahoo Finance, Zillow, Reddit (WallStreetSilver)",
+        "social_media_usage": "Reddit (passive), YouTube (financial content)",
+        "ecommerce_behavior": "High-value purchases (bullion, jewelry)",
+        "device_usage": "Desktop (Windows/Edge) for financial management",
+        "subscriptions": "Yahoo Finance Premium, MSN News"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Dividend stock analysis, real estate investment",
+        "hobbies": "Cricket following, Vedic astrology studies",
+        "entertainment_preferences": "Financial news podcasts, Indian classical music",
+        "content_consumption": "Long-form financial analysis, real estate listings",
+        "learning_style": "Self-directed research through market data"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious luxury (bullion, quality jewelry)",
+        "income_level": "$120,000-$150,000/year",
+        "investment_habits": "Conservative dividend-focused portfolio",
+        "financial_tools": "Fidelity/Vanguard for retirement, PayPal/Citi cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with select clients",
+        "family_structure": "Nuclear family with extended family in India",
+        "friendship_circle": "Small group of investment-focused peers",
+        "community_involvement": "Local Indian cultural association",
+        "online_vs_offline_engagement": "70% digital/30% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Market news review with coffee",
+        "workday_habits": "Portfolio analysis, client consultations",
+        "evening_and_leisure": "Property listing reviews, cricket highlights",
+        "weekend_activities": "Open houses, family video calls",
+        "sleep_schedule": "Night owl (12am-7am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work balanced with weekend walks",
+        "mental_health": "Market-driven stress management",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Basic fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with historical analysis",
+        "brand_loyalty": "Sticks to proven financial institutions",
+        "influence_factors": "Dividend history charts, PE ratios",
+        "tech_adoption": "Mainstream financial tech user",
+        "privacy_and_security_concerns": "High (Two-factor authentication)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Telugu)",
+        "travel_habits": "Biannual India visits, domestic property tours",
+        "personal_projects": "Building rental property portfolio",
+        "unexpected_behavioral_traits": "Combines Vedic astrology with technical stock analysis"
+    }
+}

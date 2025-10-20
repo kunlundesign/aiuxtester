@@ -1,0 +1,109 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Hamilton, USA",
+        "education": {
+            "degree": "Bachelor's (In Progress)",
+            "major": "Textile Design/Chemistry",
+            "institution": "University of Wisconsin-Platteville"
+        },
+        "occupation": "Part-time Retail Associate",
+        "company": "Under Armour Store",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short crop with fade",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual sportswear mix"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFP",
+        "beliefs_and_values": "Work ethic through craftsmanship, Environmental conservation through national park interest",
+        "motivations": "Master quilting techniques, Balance academic/career goals with creative expression",
+        "cognitive_style": "Hands-on learner with methodical planning"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-session automotive research, Detailed craft tutorials",
+        "ad_interactions": "High automotive configurator engagement, Moderate sportswear CTR",
+        "preferred_content_sources": "MSN News, YouTube tutorials, Etsy crafting communities",
+        "social_media_usage": "Facebook daily (2hrs), Passive YouTube consumption",
+        "ecommerce_behavior": "$50-$200 transactions, 3:1 browsing:purchase ratio",
+        "device_usage": "Windows 11 desktop (70%), iOS mobile (30%), Edge browser",
+        "subscriptions": [
+            "Frndly TV Basic",
+            "Amazon Prime Student"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Sustainable textiles",
+            "Polymer chemistry applications"
+        ],
+        "hobbies": [
+            "Modern quilting",
+            "College football analytics",
+            "Day hiking"
+        ],
+        "entertainment_preferences": [
+            "1980s action films",
+            "True crime documentaries",
+            "Pop-country crossover"
+        ],
+        "content_consumption": "Tutorial videos > written guides, Fact-based news with occasional tabloid browsing",
+        "learning_style": "Project-based mastery (quilting), Supplemental academic research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused apparel shopper, Planned vehicle savings",
+        "income_level": "$12,000-$15,000 annually",
+        "investment_habits": "Conservative (CDs/Savings bonds)",
+        "financial_tools": [
+            "Discover Student Cashback",
+            "PayPal Balance"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Reliable team player, Prefers task ownership",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "5-7 close friends, Quilting Discord group",
+        "community_involvement": "Local 4H Club, Online quilting challenges",
+        "online_vs_offline_engagement": "60% offline craft focus, 40% digital socialization"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Facebook check + MSN headlines during breakfast",
+        "workday_habits": "Class/work shifts interleaved with mobile browsing",
+        "evening_and_leisure": "2-3hr quilting sessions, Frndly TV background noise",
+        "weekend_activities": "Fabric store trips, Badger game watch parties",
+        "sleep_schedule": "12am-7am (varies weekends)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Weekend hiker (5-8mi trails), Semi-vegetarian diet",
+        "mental_health": "Crafting as stress relief, Limited digital detox",
+        "work_life_balance": "Structured hobby time buffers academic stress",
+        "health_related_digital_behavior": "First aid YouTube tutorials, No trackers"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analyzer (3+ sources)",
+        "brand_loyalty": "Strong in apparel (Under Armour), Flexible elsewhere",
+        "influence_factors": "Crafting community endorsements, JD Power ratings",
+        "tech_adoption": "Mainstream pragmatist",
+        "privacy_and_security_concerns": "Basic precautions (no advanced measures)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern values with online global crafting contacts",
+        "travel_habits": "Regional park visits, Campus-to-home trips",
+        "personal_projects": "Temperature-controlled quilting material experiments",
+        "unexpected_behavioral_traits": "Simultaneously analyzes sports statistics and fabric drape properties"
+    }
+}

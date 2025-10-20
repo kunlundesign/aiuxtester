@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Osceola Adams",
+        "age": 24,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Surprise, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Horticulture/Botany",
+            "institution": "Utah Valley University"
+        },
+        "occupation": "Gardening Supply Retail Associate",
+        "company": "Local Garden Center",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Round face with minimal makeup",
+            "Dress Style": "Casual/practical outdoor wear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, appreciation for natural systems",
+        "motivations": "Mastery of gardening skills, financial independence",
+        "cognitive_style": "Hands-on problem solver with technical precision"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on specific plants/coins, repetitive value checks",
+        "ad_interactions": "High engagement with gardening/plant ads (78% of clicks)",
+        "preferred_content_sources": "Etsy, specialized gardening blogs, MSN News",
+        "social_media_usage": "Minimal (Instagram for plant inspiration)",
+        "ecommerce_behavior": "Frequent small purchases of seeds/plants, budget-conscious",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": "Park Seed catalog, MSN News alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Plant propagation techniques, rare species cultivation",
+        "hobbies": "Coin collecting (focus on modern US currency), container gardening",
+        "entertainment_preferences": "Military history documentaries, comedy movies",
+        "content_consumption": "How-to gardening videos, numismatic databases",
+        "learning_style": "Experimental trial-and-error with plants"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with splurges on rare plants/seeds",
+        "income_level": "$28,000-$35,000 annually",
+        "investment_habits": "Collects coins as alternative assets",
+        "financial_tools": "Credit union member, basic checking account"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent worker with plant care responsibilities",
+        "family_structure": "Lives with parents",
+        "friendship_circle": "Small group of gardening enthusiasts",
+        "community_involvement": "Local gardening club member",
+        "online_vs_offline_engagement": "Prefers in-person plant swaps"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks plant growth progress, waters container garden",
+        "workday_habits": "Physical plant care tasks, customer consultations",
+        "evening_and_leisure": "Coin cataloging, MSN news browsing",
+        "weekend_activities": "Nursery visits, coin shows",
+        "sleep_schedule": "Night owl (until 1AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through gardening, no intense workouts",
+        "mental_health": "Gardening as primary stress relief",
+        "work_life_balance": "Blends personal/professional plant interests",
+        "health_related_digital_behavior": "Researches medicinal plants occasionally"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative researcher across multiple sources",
+        "brand_loyalty": "Prefers Stark Bro's nursery for fruit trees",
+        "influence_factors": "User reviews, USDA hardiness zone data",
+        "tech_adoption": "Mainstream user focused on practical tools",
+        "privacy_and_security_concerns": "Uses basic antivirus but reuses passwords"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, rural Western upbringing",
+        "travel_habits": "Day trips to regional gardens/nurseries",
+        "personal_projects": "Developing dwarf fruit tree cultivars",
+        "unexpected_behavioral_traits": "Combines military tech interest with delicate plant care"
+    }
+}

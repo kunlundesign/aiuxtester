@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Mitchell",
+        "age": 42,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Taylor, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Michigan"
+        },
+        "occupation": "Property Manager",
+        "company": "Taylor Property Services",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, rectangular glasses",
+            "Dress Style": "Business casual with practical footwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical problem-solving, civic responsibility, skepticism toward political rhetoric",
+        "motivations": "Maintaining property value, staying informed on local regulations, balancing work efficiency with personal interests",
+        "cognitive_style": "Detail-oriented with strong organizational focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services, property management tools, political energy policies, horror memorabilia",
+        "ad_interactions": "High engagement with real estate/horror collectible ads, moderate responsiveness to tech deals",
+        "preferred_content_sources": "Government portals (Michigan.gov), TMZ, Zillow, home improvement retailers",
+        "social_media_usage": "Facebook (Marketplace focus), passive MSN/TMZ news consumption",
+        "ecommerce_behavior": "Research-heavy purchases in tech/real estate sectors, occasional fast-food ordering",
+        "device_usage": "Desktop-focused (property management tools), Edge browser with Bing search",
+        "subscriptions": "Buildium, Yahoo Mail Plus, TMZ alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tenant law updates, property maintenance solutions, local zoning regulations",
+        "hobbies": "Horror movie collectibles, car part restoration, political news analysis",
+        "entertainment_preferences": "True crime documentaries, 1980s horror films, classic rock",
+        "content_consumption": "Mix of long-form policy articles and celebrity news briefs",
+        "learning_style": "On-demand tutorials for property management software"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious for daily expenses, strategic splurges on tech/professional tools",
+        "income_level": "$65,000-$85,000 annually",
+        "investment_habits": "Conservative (real estate-focused), minimal stock market exposure",
+        "financial_tools": "PNC Bank services, Zillow Rent Manager"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Structured collaboration with maintenance teams, direct communication style",
+        "family_structure": "Single, lives alone with pet cat",
+        "friendship_circle": "Small group of local property owners/college friends",
+        "community_involvement": "Taylor city council meetings, KOA campground volunteering",
+        "online_vs_offline_engagement": "70% digital (property management), 30% in-person tenant interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking court dockets/tenant emails, MSN news scan",
+        "workday_habits": "Property inspections, vendor coordination, lease documentation",
+        "evening_and_leisure": "TMZ browsing, fast-food dinners, horror film streaming",
+        "weekend_activities": "Junkyard parts hunting, apartment showings, meal prepping",
+        "sleep_schedule": "11 PM - 6 AM (7 hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work lifestyle compensated by property walkthroughs",
+        "mental_health": "Stress management through horror film collecting, low medical engagement",
+        "work_life_balance": "Leans toward workaholic tendencies with defined evening cutoff",
+        "health_related_digital_behavior": "Occasional symptom searches (yellow eye), no sustained health tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Fact-based with contingency planning",
+        "brand_loyalty": "Strong for property tools (Zillow/Buildium), flexible elsewhere",
+        "influence_factors": "Tenant feedback, local regulations, hardware store recommendations",
+        "tech_adoption": "Mainstream user with selective high-end exceptions (LED walls)",
+        "privacy_and_security_concerns": "Moderate (avoids social media oversharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, basic Spanish for tenant communications",
+        "travel_habits": "Regional camping trips (KOA), rare international travel",
+        "personal_projects": "Converting garage into horror memorabilia display room",
+        "unexpected_behavioral_traits": "Combines practical property management with niche horror fandom"
+    }
+}

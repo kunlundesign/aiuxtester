@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 67,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Paintsville, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Vocational Training",
+            "institution": "Local Community College"
+        },
+        "occupation": "Retired Automotive Technician",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Stocky",
+            "Hairstyle": "Short grey hair",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes, clean-shaven",
+            "Dress Style": "Practical outdoor wear (e.g., Carhartt jackets, camouflage hats)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Self-reliance, appreciation for outdoor traditions",
+        "motivations": "Maintaining independence, mastering practical skills",
+        "cognitive_style": "Hands-on problem solver with technical orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical searches (auto parts specifications, hunting gear comparisons)",
+        "ad_interactions": "High engagement with automotive/hunting ads (Clicked 15/33 ads)",
+        "preferred_content_sources": "Product forums (Basspro, Cabelas), eBay/Amazon listings, YouTube tutorials",
+        "social_media_usage": "Passive Facebook Marketplace browsing (6 EPEvents)",
+        "ecommerce_behavior": "Budget-conscious bulk purchases (30 eBay visits)",
+        "device_usage": "Windows desktop with Edge (290 Bing visits)",
+        "subscriptions": "Powerball alerts, fishing/hunting newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Small engine repair, automotive customization",
+        "hobbies": "Upland bird hunting, freshwater fishing, DIY auto maintenance",
+        "entertainment_preferences": "War comedies (Clint Eastwood), outdoor reality TV",
+        "content_consumption": "Video tutorials (YouTube), product spec sheets",
+        "learning_style": "Experimental trial-and-error with peer advice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented durable goods purchases",
+        "income_level": "Fixed retirement income",
+        "investment_habits": "Conservative (Powerball participation shows occasional risk-taking)",
+        "financial_tools": "PayPal, Amazon Pay, debit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent problem-solver, mentors younger hunters",
+        "family_structure": "Likely lives with spouse",
+        "friendship_circle": "Small group of hunting/fishing companions",
+        "community_involvement": "Fishing tournament organizer (Casting for Kids click)",
+        "online_vs_offline_engagement": "Prefers face-to-face interactions but uses online marketplaces"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/fishing reports, maintains equipment",
+        "workday_habits": "Scheduled vehicle maintenance tasks",
+        "evening_and_leisure": "TV sports (UK basketball clicks), gear maintenance",
+        "weekend_activities": "Lake fishing trips (Conley Bottom Marina searches)",
+        "sleep_schedule": "Early riser (5-6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active outdoorsman, manages joint pain",
+        "mental_health": "Stress relief through fishing/hunting",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Researches medication interactions (rosuvastatin search)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compared 3 dash covers)",
+        "brand_loyalty": "Prefers proven brands (Garmin, Tenzing)",
+        "influence_factors": "Peer recommendations, product longevity",
+        "tech_adoption": "Mainstream user (adopts established marine tech)",
+        "privacy_and_security_concerns": "Low (frequent third-party site logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Appalachian English dialect",
+        "travel_habits": "Regional lake destinations (Lake Cumberland)",
+        "personal_projects": "2007 Tahoe restoration project",
+        "unexpected_behavioral_traits": "Enjoys sci-fi comedies despite practical nature"
+    }
+}

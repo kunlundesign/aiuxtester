@@ -1,0 +1,135 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Selzer",
+        "age": 66,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Cleveland, Ohio, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Stark State College"
+        },
+        "occupation": "Retired Automotive Technician",
+        "company": "Freelance Classic Car Restorer",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short gray bob",
+            "Skin_color": "Fair",
+            "Facial_features": "Wrinkles around eyes from frequent smiling",
+            "Dress_style": "Practical workwear (denim jackets, mechanic-style shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": [
+            "Preservation of automotive history",
+            "Self-reliance",
+            "Midwestern practicality"
+        ],
+        "motivations": [
+            "Maintaining vintage vehicles",
+            "Continuous learning about automotive tech",
+            "Community recognition in restoration circles"
+        ],
+        "cognitive_style": "Analytical problem-solver with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed technical queries (e.g., '2011 Honda CR-V power lock alarm reset') combined with aesthetic automotive searches",
+        "ad_interactions": "High engagement with Ford/Mustang parts ads (7/13 clicked ads automotive-related)",
+        "preferred_content_sources": [
+            "Automotive forums",
+            "Manufacturer technical specs",
+            "MSN news alerts"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "Facebook Marketplace",
+                "Pinterest"
+            ],
+            "Frequency": "Daily",
+            "Engagement": "Passive browsing with occasional Marketplace transactions"
+        },
+        "ecommerce_behavior": "Frequent mid-price purchases ($50-$300 range) for car parts and gardening supplies",
+        "device_usage": "Desktop-first user (evidenced by detailed part number searches)",
+        "subscriptions": [
+            "Fitment Industries newsletters",
+            "Burpee gardening catalog",
+            "Shelby Store updates"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Vintage Ford restoration",
+            "Aftermarket suspension systems",
+            "Ohio automotive history"
+        ],
+        "hobbies": [
+            "Classic car restoration",
+            "Container gardening",
+            "Baking classic American desserts"
+        ],
+        "entertainment_preferences": {
+            "Music": "Classic rock",
+            "Movies": "Action films with car chases",
+            "TV": "Tim Allen sitcoms"
+        },
+        "content_consumption": "Technical diagrams > video tutorials (3x more parts site visits than video views)",
+        "learning_style": "Experimental tinkering with supplemental forum research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for household items, premium spending on certified car parts",
+        "income_level": "Middle-class retirement ($45k-$60k/year)",
+        "investment_habits": "Conservative (Fidelity Investments site visits)",
+        "financial_tools": [
+            "Chase credit cards",
+            "BMV online payments",
+            "Etsy for custom plates"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Solo project focus with occasional parts trading",
+        "family_structure": "Empty nester (adult children live independently)",
+        "friendship_circle": "Small group of car club acquaintances",
+        "community_involvement": "Local historical vehicle preservation society",
+        "online_vs_offline_engagement": "70% online research / 30% in-person swap meets"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN news + automotive alerts check",
+        "workday_habits": "3-4 hours garage time maintaining vehicles",
+        "evening_and_leisure": "Facebook Marketplace browsing + parts ordering",
+        "weekend_activities": "Farmers markets, estate sales for vintage finds",
+        "sleep_schedule": "10 PM - 6 AM (consistent early riser)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderately active (garage work counts as functional fitness)",
+        "mental_health": "Stress management through hands-on projects",
+        "work_life_balance": "Retirement-focused on passion projects",
+        "health_related_digital_behavior": "Occasional medical research (bodybuilder health article views)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares 3+ sources before purchases)",
+        "brand_loyalty": "Strong Ford allegiance (14 BC Forged site visits)",
+        "influence_factors": [
+            "Technical specifications",
+            "Vintage authenticity",
+            "Local availability"
+        ],
+        "tech_adoption": "Competent with essential tools (BMV online services, parts configurators)",
+        "privacy_and_security_concerns": "Cautious (avoids unnecessary app downloads)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Third-generation Ohioan with German ancestry",
+        "travel_habits": "Regional road trips for car shows",
+        "personal_projects": "1967 Shelby GT500 barn find restoration",
+        "unexpected_behavioral_traits": "Combines mechanical precision with appreciation for automotive fine art (Michael Irvine site visits)"
+    }
+}

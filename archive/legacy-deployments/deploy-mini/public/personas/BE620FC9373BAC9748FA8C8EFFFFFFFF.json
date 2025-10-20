@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Luis Flores",
+        "age": 54,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Las Vegas, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Marketing/Biblical Literature",
+            "institution": "New Mexico Highlands University"
+        },
+        "occupation": "Freelance Content Writer/Part-Time Student",
+        "company": "Fiverr",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, salt-and-pepper",
+            "skin_color": "Olive",
+            "facial_features": "Rectangular glasses, trimmed beard",
+            "dress_style": "Casual (jeans + graphic tecs) with occasional business-casual (button-downs)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical problem-solving, education accessibility, technological empowerment",
+        "motivations": "Skill development, maintaining relevance in digital economy, health management",
+        "cognitive_style": "Structured research with practical application focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-session research (travel/hotel comparisons, health symptoms), quick fact verification (TSA rules)",
+        "ad_interactions": "High engagement with local services (dentists), travel deals, and apparel discounts",
+        "preferred_content_sources": "Educational portals (NMHU), gaming forums, deal aggregators (RetailMeNot), MSN news",
+        "social_media_usage": "YouTube/TikTok for tutorials/entertainment, Reddit/Discord for gaming communities",
+        "ecommerce_behavior": "Coupon-driven purchases (DSW, Kohl's), mid-range apparel/beauty products",
+        "device_usage": "Windows desktop (Edge browser) for academic work, Android mobile for casual browsing",
+        "subscriptions": "YouTube Premium, Netflix, gaming platforms (Steam/Ubisoft)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Marketing trends, AI writing tools, religious literature analysis",
+        "hobbies": "Tactical gaming (Rainbow Six Siege), local history exploration, bargain hunting",
+        "entertainment_preferences": "Political thrillers (Ted Levine films), ESPN sports coverage, 90s rock music",
+        "content_consumption": "Hybrid (academic papers for courses + snackable MSN listicles)",
+        "learning_style": "Self-directed research supplemented by structured university courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (uses RetailMeNot coupons), planned purchases with occasional impulse buys on gaming gear",
+        "income_level": "$35k-$50k annually",
+        "investment_habits": "Conservative (focuses on essential purchases over investments)",
+        "financial_tools": "Credit cards with reward points, PayPal for freelance payments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor (Fiverr gigs), collaborates on academic projects",
+        "family_structure": "Likely single/divorced (no family-related searches)",
+        "friendship_circle": "Online gaming communities + local Vegas acquaintances",
+        "community_involvement": "Engages with Las Vegas history groups, university events",
+        "online_vs_offline_engagement": "70% digital (gaming/content creation), 30% local exploration"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks email/calendar, reviews academic deadlines",
+        "workday_habits": "Balances course work with freelance writing gigs",
+        "evening_and_leisure": "Gaming sessions, MSN news browsing, outfit research",
+        "weekend_activities": "Hotel/casino visits, bargain shopping, gaming tournaments",
+        "sleep_schedule": "Night owl (gaming/study sessions until 1AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Monitors vitamin levels (B12 research), light walking through Vegas attractions",
+        "mental_health": "Uses gaming for stress relief, shows interest in autism spectrum awareness",
+        "work_life_balance": "Compartmentalizes academic/freelance work with leisure",
+        "health_related_digital_behavior": "Researches symptoms online but follows up with providers (Medicaid dental search)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison-driven (extensive hotel/travel research)",
+        "brand_loyalty": "Mid-tier trusted brands (Judy Blue, NVIDIA, Southwest Airlines)",
+        "influence_factors": "Price comparisons, user reviews, academic sources",
+        "tech_adoption": "Early mainstream adopter (uses ChatGPT/AI tools but not cutting-edge crypto)",
+        "privacy_and_security_concerns": "Basic precautions (avoids suspicious links) but shares data for convenience"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish), Southwestern US cultural influences",
+        "travel_habits": "Local explorer (Vegas attractions), occasional flights (Southwest Airlines searches)",
+        "personal_projects": "Freelance copywriting, biblical literature analysis, gaming strategy guides",
+        "unexpected_behavioral_traits": "Combines academic rigor (ENGL course quizzes) with tactical gaming obsession"
+    }
+}

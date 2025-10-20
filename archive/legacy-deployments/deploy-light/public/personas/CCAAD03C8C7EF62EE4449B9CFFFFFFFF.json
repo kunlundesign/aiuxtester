@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 18,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Dayton, USA",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Retail Associate (Job Seeker)",
+        "company": "Seeking employment at Walmart/Lowe's",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length straight hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup",
+            "Dress Style": "Casual (jeans, boots, practical clothing)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial independence, practicality over luxury",
+        "motivations": "Securing stable housing, achieving employment stability",
+        "cognitive_style": "Detail-oriented problem solver"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on housing/job searches (3+ keywords per query), cross-references multiple rental platforms",
+        "ad_interactions": "High engagement with rental/job ads, moderate with coffee appliances",
+        "preferred_content_sources": "Zillow, Realtor.com, Walmart Careers, YouTube Music",
+        "social_media_usage": "Passive Facebook/Instagram use (login patterns), no visible public engagement",
+        "ecommerce_behavior": "Budget-focused (UGG boots searches at Macy's/Walmart sales)",
+        "device_usage": "Mobile-first (evident from frequent Google/YT Music mobile site access)",
+        "subscriptions": "Tubi (free streaming), Walmart+ (implied by career portal usage)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retail employment, housing market navigation",
+        "hobbies": "Music streaming (90s R&B), budget fashion shopping",
+        "entertainment_preferences": "Free streaming services (Tubi), light news consumption",
+        "content_consumption": "Practical how-to guides (rental applications), price comparison content",
+        "learning_style": "Self-learning via job application tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Extreme budget-consciousness ($550 apartment searches)",
+        "income_level": "Low income (entry-level job seeker)",
+        "investment_habits": "No visible investments",
+        "financial_tools": "Prepaid cards (Stand Up Wireless searches), basic banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused (evident from job application persistence)",
+        "family_structure": "Likely independent living (intense housing search patterns)",
+        "friendship_circle": "Small group (limited social media activity)",
+        "community_involvement": "Church involvement (christchurchusa.org visits)",
+        "online_vs_offline_engagement": "Preference for online transactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks rental listings, coffee preparation",
+        "workday_habits": "Job application submissions, transportation planning (Uber searches)",
+        "evening_and_leisure": "Music streaming, budget shopping research",
+        "weekend_activities": "Apartment tours, Walmart shifts (application patterns)",
+        "sleep_schedule": "Night owl (late-night housing searches)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Basic maintenance (no fitness app usage noted)",
+        "mental_health": "Stress management through music",
+        "work_life_balance": "High work focus due to financial pressures",
+        "health_related_digital_behavior": "No significant health-related searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse (multiple price comparisons)",
+        "brand_loyalty": "Budget-driven (switches based on price)",
+        "influence_factors": "Price comparisons, rental listing details",
+        "tech_adoption": "Mainstream user (basic tool usage)",
+        "privacy_and_security_concerns": "Low (frequent third-party site logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Local focus (Dayton area housing searches)",
+        "personal_projects": "Apartment hunting as primary focus",
+        "unexpected_behavioral_traits": "Combines practical housing searches with interest in luxury coffee makers"
+    }
+}

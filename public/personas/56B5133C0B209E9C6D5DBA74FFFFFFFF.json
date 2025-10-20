@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Tiffany Shank",
+        "age": 44,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Glendale, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Criminal Justice",
+            "institution": "Catholic International University"
+        },
+        "occupation": "Legal Assistant/Paralegal",
+        "company": "Probate CT Organization",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length brunette with highlights",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup with French tip manicure",
+            "Dress Style": "Business casual with occasional WWE-themed accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Strong Catholic faith, appreciation for structured education, belief in financial responsibility",
+        "motivations": "Professional certification completion, maintaining WWE fandom community connections, financial security",
+        "cognitive_style": "Analytical with structured learning preferences"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches (WWE events, medical symptoms, Catholic scripture), repeated merchandise queries",
+        "ad_interactions": "High engagement with WWE/beauty ads, medium financial service interest",
+        "preferred_content_sources": "Coursera, Reddit beauty communities, WWE Shop, Catholic educational resources",
+        "social_media_usage": "Reddit (active in makeup/WWE communities), Instagram (passive browsing), Facebook (minimal)",
+        "ecommerce_behavior": "Budget-conscious collector (WWE memorabilia, limited edition makeup)",
+        "device_usage": "Desktop for coursework, mobile for social media, Edge browser",
+        "subscriptions": "Sling TV Blue package, Coursera Plus, Amazon Prime"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Forensic science coursework, estate law procedures, online education platforms",
+        "hobbies": "WWE event tracking, horror movie analysis, DIY nail art",
+        "entertainment_preferences": "Broadway musical soundtracks (Wicked), true crime documentaries, 80s nostalgia content",
+        "content_consumption": "Long-form educational videos, Reddit user reviews, detailed product descriptions",
+        "learning_style": "Structured online courses with practicum elements"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases for collectibles, price comparisons for services",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative (money market accounts research)",
+        "financial_tools": "PayPal, Affirm installment plans, Rise Credit"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Detail-oriented collaborator in legal team settings",
+        "family_structure": "Single with aging parent care responsibilities",
+        "friendship_circle": "Small group of WWE fan community members",
+        "community_involvement": "Catholic church volunteer, online fan fiction beta reader",
+        "online_vs_offline_engagement": "80% digital communication preference"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check work emails/Sling TV schedule, allergy medication",
+        "workday_habits": "Document preparation with scheduled Coursera study breaks",
+        "evening_and_leisure": "WWE event viewing, AO3 fan fiction writing",
+        "weekend_activities": "Thrift store shopping for collectibles, library visits",
+        "sleep_schedule": "Night owl (midnight-7am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Seasonal allergy management, light cardio routine",
+        "mental_health": "Stress relief through creative writing, prayer journaling",
+        "work_life_balance": "Strict division between work hours and fandom activities",
+        "health_related_digital_behavior": "Healthline symptom checking, Reddit skincare advice"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with multiple source verification",
+        "brand_loyalty": "Strong to WWE/Official Catholic suppliers",
+        "influence_factors": "User reviews, product return policies",
+        "tech_adoption": "Mainstream user with specific platform mastery",
+        "privacy_and_security_concerns": "Selective data sharing for loyalty programs"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English (native), basic liturgical Latin",
+        "travel_habits": "Occasional convention travel (Mad Monster Party), local historical sites",
+        "personal_projects": "Archiving WWE event statistics, Catholic scripture analysis",
+        "unexpected_behavioral_traits": "Combines forensic science interest with horror fandom analysis"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Rodriguez",
+        "age": 38,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Cibolo, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Texas State University"
+        },
+        "occupation": "Sales Development Manager",
+        "company": "Infrrd Inc",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brown hair",
+            "skin_color": "Olive",
+            "facial_features": "Round face with glasses",
+            "dress_style": "Business casual with occasional casual wear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Environmental sustainability, technological progressivism",
+        "motivations": "Career advancement, financial independence, knowledge acquisition",
+        "cognitive_style": "Analytical problem-solver with structured execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Real estate analytics, productivity tools, financial services",
+        "ad_interactions": "High engagement with fintech, SaaS platforms, and retail",
+        "preferred_content_sources": "LinkedIn, MSN News, industry-specific blogs",
+        "social_media_usage": "Professional networking (LinkedIn), limited personal use",
+        "ecommerce_behavior": "Frequent food delivery orders, budget-conscious retail",
+        "device_usage": "Windows OS, Edge browser, Android mobile",
+        "subscriptions": "Microsoft 365 Basic, DoorDash DashPass, BET+"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "CRM optimization, mortgage industry trends",
+        "hobbies": "Cooking fusion cuisine, dog training, astronomy observation",
+        "entertainment_preferences": "Sci-fi documentaries, pop culture podcasts",
+        "content_consumption": "Industry reports with visual data summaries",
+        "learning_style": "Microlearning through curated professional resources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurging on productivity tools",
+        "income_level": "$75,000-$90,000 annually",
+        "investment_habits": "Conservative with 401(k), exploring real estate",
+        "financial_tools": "Chime, Cash App, TurboTax"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Cross-functional collaborator",
+        "family_structure": "Single with two dogs",
+        "friendship_circle": "Professional network-focused",
+        "community_involvement": "Local environmental advocacy group",
+        "online_vs_offline_engagement": "Hybrid communication preference"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather forecasts and market updates",
+        "workday_habits": "Back-to-back Zoom meetings with CRM optimization",
+        "evening_and_leisure": "Meal prepping while streaming industry webinars",
+        "weekend_activities": "Property tours, dog park visits",
+        "sleep_schedule": "12 AM - 7 AM with occasional late-night research"
+    },
+    "Health & Well-being": {
+        "physical_health": "Intermittent yoga practice, anti-inflammatory diet",
+        "mental_health": "Journaling for stress management",
+        "work_life_balance": "Guarded personal time boundaries",
+        "health_related_digital_behavior": "Telehealth consultations, fitness trackers"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with contingency planning",
+        "brand_loyalty": "Sticks to proven tech stacks",
+        "influence_factors": "Peer recommendations in professional forums",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Selective data sharing awareness"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish)",
+        "travel_habits": "Domestic exploration with luxury splurges",
+        "personal_projects": "Curating sustainable living blog",
+        "unexpected_behavioral_traits": "Analytical professional who collects vintage sci-fi memorabilia"
+    }
+}

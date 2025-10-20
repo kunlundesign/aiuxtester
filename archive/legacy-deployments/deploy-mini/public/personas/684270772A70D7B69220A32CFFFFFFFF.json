@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Columbia, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Horticulture or Environmental Studies",
+            "institution": "Local community college (unknown)"
+        },
+        "occupation": "Part-time Gardener/Student",
+        "company": "Freelance",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length, practical",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, focused expression",
+            "dress_style": "Casual/functional (e.g., gardening boots, layered clothing)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Environmental sustainability, self-reliance, political awareness",
+        "motivations": "Mastering gardening skills, home independence, staying informed",
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-layered queries (e.g., technical specs for plants/cameras)",
+        "ad_interactions": "High engagement with gardening tools/plants (Etsy), security tech",
+        "preferred_content_sources": "Etsy, Amazon, MSN, YouTube tutorials, niche gardening blogs",
+        "social_media_usage": "Passive YouTube/MSN consumption, rare posting",
+        "ecommerce_behavior": "Frequent Etsy plant purchases, mid-range security tech ($100-$300)",
+        "device_usage": "Windows PC (Edge browser), secondary mobile use",
+        "subscriptions": "MSN News, Amazon Prime, gardening newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Organic farming techniques, renewable energy integration",
+        "hobbies": "Winter vegetable gardening, DIY home projects, French film analysis",
+        "entertainment_preferences": "Political documentaries, classic cinema, instrumental folk",
+        "content_consumption": "Technical guides + news deep dives (e.g., Trump legal coverage)",
+        "learning_style": "Experimental (soil pH tests) paired with academic research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused for essentials, splurges on quality tools/seeds",
+        "income_level": "$20k-$30k/year (student/part-time)",
+        "investment_habits": "Conservative (high-yield savings, no stock market activity)",
+        "financial_tools": "Wells Fargo checking, Bread Cashback credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent but collaborates on community gardens",
+        "family_structure": "Lives with parents (home renovation projects suggest shared housing)",
+        "friendship_circle": "Small group of gardening/DIY enthusiasts",
+        "community_involvement": "Local gardening clubs, online sustainability forums",
+        "online_vs_offline_engagement": "70% online research, 30% hands-on community work"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/plant growth apps, vitamin C supplement",
+        "workday_habits": "Balances college courses with afternoon gardening/renovation",
+        "evening_and_leisure": "MSN news review, French film streaming",
+        "weekend_activities": "Garden maintenance, Etsy seed shopping, hardware store trips",
+        "sleep_schedule": "10 PM - 6 AM (aligned with natural light for plants)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active (gardening as exercise), pescatarian diet trends",
+        "mental_health": "Gardening as stress relief, no indicated therapy use",
+        "work_life_balance": "Highly structured (time-blocked gardening/study sessions)",
+        "health_related_digital_behavior": "Supplements research, natural remedy exploration"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares 10+ Etsy sellers before purchase)",
+        "brand_loyalty": "Strong for gardening (Eden Brothers) and tech (ANNKE cameras)",
+        "influence_factors": "User reviews, technical specifications, sustainability claims",
+        "tech_adoption": "Early mainstream (adopts proven smart home tech like Kasa plugs)",
+        "privacy_and_security_concerns": "High (surveillance gear research)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English primary, Vietnamese medicinal plant interest",
+        "travel_habits": "Armchair traveler (searches global gardens, no recent trips)",
+        "personal_projects": "Year-round vegetable cultivation system, home security setup",
+        "unexpected_behavioral_traits": "Tech-savvy gardener blending analog/digital tools"
+    }
+}

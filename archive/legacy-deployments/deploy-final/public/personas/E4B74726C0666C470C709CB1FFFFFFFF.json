@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Robert Turner",
+        "age": 67,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Missoula, USA",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Mechanical Engineering",
+            "institution": "Montana State University College of Technology"
+        },
+        "occupation": "Retired Forestry Equipment Mechanic",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Fair",
+            "facial_features": "Wrinkles around eyes, square jawline",
+            "dress_style": "Utility workwear (flannel shirts, cargo pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, preservation of mechanical history",
+        "motivations": "Maintaining functional skills, nostalgia for industrial craftsmanship",
+        "cognitive_style": "Technical problem-solving with hands-on verification"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical specifications (suppressor alignment, engine parts), local services, nostalgic media",
+        "ad_interactions": "High engagement with industrial tools/parts ads",
+        "preferred_content_sources": "Technical forums (Shooters' Forum), eBay, Amazon, Reddit",
+        "social_media_usage": "Passive Facebook/Yahoo Mail use, no visible posting activity",
+        "ecommerce_behavior": "Budget-conscious parts purchasing (1711-1021 battery box searches)",
+        "device_usage": "Desktop (Edge browser), Windows OS",
+        "subscriptions": "Amazon Prime, NippyFile cloud storage"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Antique engine restoration, forestry equipment history",
+        "hobbies": "Vintage machinery repair, WWII history research",
+        "entertainment_preferences": "Action movies (Braveheart, Sicario), classic westerns (3:10 to Yuma)",
+        "content_consumption": "Technical manuals, military history documentaries",
+        "learning_style": "Self-taught through forums and repair manuals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (eBay/Amazon warehouse use), planned purchases",
+        "income_level": "Middle-class retirement",
+        "investment_habits": "Conservative (no observable financial instrument searches)",
+        "financial_tools": "Traditional credit cards, Amazon Pay"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor style",
+        "family_structure": "Likely lives alone (frequent solo activity patterns)",
+        "friendship_circle": "Small group of fellow mechanics/collectors",
+        "community_involvement": "Local forestry events (MSU mini-college interest)",
+        "online_vs_offline_engagement": "Preference for online research but in-person mechanical work"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/Yahoo Mail, plans parts orders",
+        "workday_habits": "Garage workshop time, online parts sourcing",
+        "evening_and_leisure": "WWII documentaries, MSN news browsing",
+        "weekend_activities": "Flea market visits, equipment restoration projects",
+        "sleep_schedule": "Early riser (5-6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (equipment handling), potential joint strain",
+        "mental_health": "Stress management through hands-on projects",
+        "work_life_balance": "Leisure integrated with technical hobbies",
+        "health_related_digital_behavior": "No observed medical searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Technical analysis (alignment rod searches show precision focus)",
+        "brand_loyalty": "Tool-specific (Silencerco, DB Electrical)",
+        "influence_factors": "Peer forums over marketing",
+        "tech_adoption": "Mainstream user (adopts proven tools)",
+        "privacy_and_security_concerns": "Low (frequent non-secure site use)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with basic Russian tech term recognition",
+        "travel_habits": "Regional historical site visits (Back to the Future locations interest)",
+        "personal_projects": "Restoring 1950 Marmon Herrington MH440 truck (Hercules WXLC3 engine)",
+        "unexpected_behavioral_traits": "Combines mechanical precision with interest in abstract military history"
+    }
+}

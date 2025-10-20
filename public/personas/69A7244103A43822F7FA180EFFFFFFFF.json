@@ -1,0 +1,137 @@
+{
+    "Core Identity": {
+        "full_name": "Valerie Garner",
+        "age": 51,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Apex, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "English/Communications",
+            "institution": "University of North Carolina"
+        },
+        "occupation": "Freelance Technical Publications Specialist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "165 cm",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brown hair",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, rectangular glasses",
+            "dress_style": "Business casual (blouses, cardigans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Financial security",
+            "Healthcare accessibility",
+            "Workplace equity"
+        ],
+        "motivations": [
+            "Career stability",
+            "Skill development",
+            "Family well-being"
+        ],
+        "cognitive_style": "Analytical with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Financial services",
+            "Government programs",
+            "Remote job listings",
+            "Document design"
+        ],
+        "ad_interactions": [
+            "Remote work platforms",
+            "Financial tools",
+            "Office software"
+        ],
+        "preferred_content_sources": [
+            "CNN",
+            "MSNBC",
+            "WRAL",
+            "Government portals"
+        ],
+        "social_media_usage": [
+            "LinkedIn (professional networking)",
+            "Limited personal platform use"
+        ],
+        "ecommerce_behavior": "Budget-conscious (Amazon purchases, price comparisons)",
+        "device_usage": "Desktop (Windows/Edge dominance in activity patterns)",
+        "subscriptions": [
+            "MSN Premium News",
+            "Wealthfront Pro",
+            "FlexJobs Premium"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Document design trends",
+            "Freelance marketplace dynamics",
+            "Retirement planning"
+        ],
+        "hobbies": [
+            "Travel planning",
+            "Home organization",
+            "Political news analysis"
+        ],
+        "entertainment_preferences": [
+            "Documentaries",
+            "Procedural dramas",
+            "Financial podcasts"
+        ],
+        "content_consumption": "Long-form articles with factual focus",
+        "learning_style": "Self-guided tutorials (Adobe/CANVA usage patterns)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with strategic splurges (Quality office equipment)",
+        "income_level": "$60,000-$75,000 annually",
+        "investment_habits": "Conservative (Credit union/Wealthfront engagement)",
+        "financial_tools": [
+            "Online banking apps",
+            "Investment platforms",
+            "Credit monitoring (Aura)"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor (Upwork/FlexJobs patterns)",
+        "family_structure": "Likely single/empty nester (Health insurance research frequency)",
+        "friendship_circle": "Small close-knit group (Limited social media footprint)",
+        "community_involvement": "Local government participation (Apex.org visits)",
+        "online_vs_offline_engagement": "Balanced hybrid (Remote work but local civic interest)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/news review with coffee",
+        "workday_habits": "Structured writing blocks with financial check-ins",
+        "evening_and_leisure": "News analysis/documentary viewing",
+        "weekend_activities": "Local errands, family visits, content creation",
+        "sleep_schedule": "Consistent 11 PM - 7 AM pattern"
+    },
+    "Health & Well-being": {
+        "physical_health": "Preventative care focus (Mayo Clinic research)",
+        "mental_health": "Stress management through organization",
+        "work_life_balance": "Compartmentalized but work-engaged",
+        "health_related_digital_behavior": "Insurance portal usage, medical research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (Multiple financial service comparisons)",
+        "brand_loyalty": "High for financial institutions (Credit union activity)",
+        "influence_factors": "Expert analysis, historical performance data",
+        "tech_adoption": "Mainstream user (Proven tools only)",
+        "privacy_and_security_concerns": "High (Aura usage, secure login patterns)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English speaker",
+        "travel_habits": "Domestic focus (USDA rural interest)",
+        "personal_projects": "Local history documentation",
+        "unexpected_behavioral_traits": "Technical writer interested in geopolitical news analysis"
+    }
+}

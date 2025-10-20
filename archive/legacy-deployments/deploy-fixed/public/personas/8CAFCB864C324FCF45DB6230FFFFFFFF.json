@@ -1,0 +1,119 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Grand Rapids, United States",
+        "education": {
+            "degree": "Associate Degree (in progress)",
+            "major": "Culinary Arts/Nursing (dual interests)",
+            "institution": "Grand Rapids Community College"
+        },
+        "occupation": "Part-time Food Service Worker",
+        "company": "Local restaurant (unconfirmed)",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short fade with textured top",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Casual streetwear with gaming/anime graphic tees"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, culinary craftsmanship, gaming community culture",
+        "motivations": "Mastering cooking techniques, competitive gaming improvement, balancing education with hobbies",
+        "cognitive_style": "Analytical problem-solving with hands-on experimentation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed technical queries (baking chemistry, gaming optimization), local service searches, career development",
+        "ad_interactions": "High engagement with cooking tools/ingredients, mid-range tech products",
+        "preferred_content_sources": "YouTube tutorials, Twitch streams, MSN news aggregation, Quizlet resources",
+        "social_media_usage": {
+            "platforms": [
+                "YouTube",
+                "Twitch",
+                "Omegle"
+            ],
+            "frequency": "Daily (4+ hours)",
+            "engagement": "Passive consumption with occasional chat participation"
+        },
+        "ecommerce_behavior": {
+            "spending": "Budget-conscious for essentials, occasional splurges on gaming gear",
+            "categories": "Kitchen tools, PC components, anime merchandise"
+        },
+        "device_usage": {
+            "primary": "Mobile (Android) for social/media, Desktop (Windows 11) for gaming/studies",
+            "browser": "Edge/Opera dual usage",
+            "os": "Windows 11 (customized taskbar)"
+        },
+        "subscriptions": [
+            "Twitch Turbo",
+            "YouTube Premium",
+            "DoorDash Pass"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Commercial kitchen equipment, nursing assessment techniques",
+        "hobbies": "Anime marathons, Warzone/Fortnite competitions, experimental baking",
+        "entertainment_preferences": {
+            "music": "Lo-fi hip-hop gaming mixes",
+            "movies": "Anime films, cooking competition shows",
+            "authors": "Joshua Weissman (culinary)"
+        },
+        "content_consumption": "Video tutorials (15-30 min), gaming meta-analysis",
+        "learning_style": "Self-directed practice with digital flashcards"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases (Costco), selective tech upgrades",
+        "income_level": "$18k-$22k (student part-time)",
+        "investment_habits": "No visible investments",
+        "financial_tools": [
+            "Debit card",
+            "Venmo",
+            "Student discounts"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused collaboration",
+        "family_structure": "Unknown",
+        "friendship_circle": "Online gaming squad + small IRL group",
+        "community_involvement": "Local gaming tournaments",
+        "online_vs_offline_engagement": "80% digital socialization"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check email/GRCC portal while breakfasting",
+        "workday_habits": "Afternoon classes, evening shift work",
+        "evening_and_leisure": "Gaming sessions with cooking experiments",
+        "weekend_activities": "Anime binge-watching, recipe testing",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Irregular exercise, high-calorie gaming snacks",
+        "mental_health": "ASMR relaxation via ear cleaning videos",
+        "work_life_balance": "Leisure-prioritized schedule",
+        "health_related_digital_behavior": "Medical terminology research for studies"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven for cooking, impulsive for gaming purchases",
+        "brand_loyalty": "Tech brand loyalist (HP, Craftsman), foodservice switcher",
+        "influence_factors": "Streamer endorsements, recipe ratings",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Low awareness (frequent Omegle use)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwest American English, anime subculture literacy",
+        "travel_habits": "Local metro area focus",
+        "personal_projects": "Developing perfect cookie recipe, creating Warzone meta guides",
+        "unexpected_behavioral_traits": "Simultaneously meticulous about baking chemistry and chaotic in gaming strategy"
+    }
+}

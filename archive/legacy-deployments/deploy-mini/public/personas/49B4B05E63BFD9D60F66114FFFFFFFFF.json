@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Reetz",
+        "age": 47,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Wautoma, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Textile Arts/Crafts",
+            "institution": "Madison Area Technical College"
+        },
+        "occupation": "Freelance Knitting Pattern Designer",
+        "company": "Unknown",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length straight",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup",
+            "dress_style": "Casual layered knits with classic accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Traditional values, self-reliance, practical sustainability through crafting",
+        "motivations": "Maintaining craftsmanship skills, staying informed politically, balancing practicality with style",
+        "cognitive_style": "Structured problem-solving with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical queries (weather, tech troubleshooting), fashion coordination, knitting patterns",
+        "ad_interactions": "High engagement with mature women's fashion and home decor ads",
+        "preferred_content_sources": "Fox News, Ravelry, Amazon blogs, knitting forums",
+        "social_media_usage": "Passive engagement on Facebook/Pinterest for crafting ideas",
+        "ecommerce_behavior": "Budget-conscious with frequent mid-price purchases on Amazon/Etsy",
+        "device_usage": "Desktop-focused with mobile for quick checks (Motorola Moto G 5G 2024)",
+        "subscriptions": "Ravelry Pro, Fox News alerts, Amazon Prime"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Textile arts market trends, indie craft communities",
+        "hobbies": "Knitting seasonal decor, recipe testing, home organization",
+        "entertainment_preferences": "True crime documentaries, 90s TV movies, country music",
+        "content_consumption": "Detailed knitting tutorials, political news analysis, seasonal fashion guides",
+        "learning_style": "Visual tutorials with hands-on practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional splurges on quality yarns",
+        "income_level": "$45k-$55k annually",
+        "investment_habits": "Conservative (CDs/mutual funds)",
+        "financial_tools": "Amazon Credit Card, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent creator with occasional craft fair collaborations",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Small close-knit crafting group",
+        "community_involvement": "Local church craft circle",
+        "online_vs_offline_engagement": "70% online communities / 30% local interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Fox News briefing with coffee, check weather/traffic",
+        "workday_habits": "Morning pattern design, afternoon customer inquiries",
+        "evening_and_leisure": "Knitting while streaming news/true crime",
+        "weekend_activities": "Farmers market visits, home projects",
+        "sleep_schedule": "10pm-6am regular schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily walks, moderate home cooking",
+        "mental_health": "Crafting as stress relief",
+        "work_life_balance": "Structured separation of craft space/time",
+        "health_related_digital_behavior": "Occasional recipe nutrition research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Practical comparison shopper",
+        "brand_loyalty": "Strong (Fox News, Amazon, Lands' End)",
+        "influence_factors": "User reviews, political alignment",
+        "tech_adoption": "Mainstream user with selective upgrades",
+        "privacy_and_security_concerns": "Basic precautions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American",
+        "travel_habits": "Regional road trips, avoids air travel",
+        "personal_projects": "Annual charity knitting drives",
+        "unexpected_behavioral_traits": "Technologically persistent despite self-identification as 'non-techy'"
+    }
+}

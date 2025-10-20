@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 31,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Brookings, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "South Dakota State University"
+        },
+        "occupation": "HR Manager",
+        "company": "Local Business Services Provider",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Round face with glasses",
+            "dress_style": "Casual practical (jeans, work boots)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, family legacy preservation",
+        "motivations": "Financial security, maintaining family connections",
+        "cognitive_style": "Structured problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Financial planning, home maintenance, genealogy research",
+        "ad_interactions": "High engagement with work footwear, PEO services",
+        "preferred_content_sources": "MSN, Yahoo Mail, financial blogs, retailer websites",
+        "social_media_usage": "Facebook (daily passive engagement, Marketplace usage)",
+        "ecommerce_behavior": "Frequent online shopping (Amazon, eBay, CAT Footwear)",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": "Hulu, Microsoft 365, financial newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "HR management, employee benefits optimization",
+        "hobbies": "Genealogy research, home improvement projects",
+        "entertainment_preferences": "Classic rock (Bob Dylan), true crime documentaries",
+        "content_consumption": "Long-form financial articles, how-to guides",
+        "learning_style": "Self-learning through authoritative sources"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with occasional quality investments",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Conservative (annuities, retirement accounts)",
+        "financial_tools": "BankStar checking, Amazon credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Organized team leader",
+        "family_structure": "Married with children",
+        "friendship_circle": "Small close-knit group",
+        "community_involvement": "Local church activities",
+        "online_vs_offline_engagement": "Balanced (online research, in-person family focus)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks financial accounts, plans household tasks",
+        "workday_habits": "Structured schedule with HR management focus",
+        "evening_and_leisure": "Online shopping, family time, genealogy research",
+        "weekend_activities": "Home maintenance, camping trips",
+        "sleep_schedule": "Regular 11 PM - 6 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional hiking, cautious about chemical exposure",
+        "mental_health": "Practical problem-solving approach",
+        "work_life_balance": "Consciously maintained separation",
+        "health_related_digital_behavior": "Researching natural cleaning solutions"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with cost-benefit analysis",
+        "brand_loyalty": "Prefers established brands (CAT, Amazon)",
+        "influence_factors": "Expert reviews, financial advisors",
+        "tech_adoption": "Mainstream user",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English",
+        "travel_habits": "Regional camping trips, family visits",
+        "personal_projects": "Family tree documentation",
+        "unexpected_behavioral_traits": "Practical HR manager with deep interest in biblical prophecy analysis"
+    }
+}

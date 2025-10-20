@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Rose Parsons Diaz",
+        "age": 63,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Salisbury, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Healthcare Administration",
+            "institution": "Local Community College"
+        },
+        "occupation": "Medical Coder",
+        "company": "Regional Healthcare Provider",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, gray curls",
+            "skin_color": "Fair",
+            "facial_features": "Warm smile, glasses",
+            "dress_style": "Practical with classic jewelry accents"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Family-first mentality, trust in established institutions",
+        "motivations": "Maintaining financial stability, supporting family milestones",
+        "cognitive_style": "Detail-oriented with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Medical coding queries (ICD-10 codes), jewelry research, family-focused travel planning",
+        "ad_interactions": "High engagement with jewelry ads and financial services",
+        "preferred_content_sources": "MSN News, Facebook, healthcare portals",
+        "social_media_usage": "Facebook for family connections and Marketplace (passive engagement)",
+        "ecommerce_behavior": "Budget-conscious jewelry purchases, insurance management",
+        "device_usage": "Desktop PC with Microsoft Edge",
+        "subscriptions": "Microsoft 365, CareCredit alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare compliance updates, EHR systems",
+        "hobbies": "Gardening (orchid care), family history research",
+        "entertainment_preferences": "Local news, MLB updates, baking shows",
+        "content_consumption": "Factual health articles and political commentary",
+        "learning_style": "On-the-job training and professional webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with planned jewelry purchases",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (insurance products, retirement accounts)",
+        "financial_tools": "CareCredit, traditional credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor with collaborative EHR use",
+        "family_structure": "Empty nester with extended family nearby",
+        "friendship_circle": "Small close-knit group with digital check-ins",
+        "community_involvement": "Church community activities",
+        "online_vs_offline_engagement": "Hybrid (digital communications with in-person family time)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email check (AOL), MSN news review",
+        "workday_habits": "Medical coding sessions with EHR system access",
+        "evening_and_leisure": "Facebook browsing, jewelry research",
+        "weekend_activities": "Family visits, gardening, online obituary searches",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking routine, home-cooked meals",
+        "mental_health": "Family support system, mindfulness through gardening",
+        "work_life_balance": "Structured separation via set work hours",
+        "health_related_digital_behavior": "Medical code research, CareCredit management"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Prefers established brands (Progressive, CareCredit)",
+        "influence_factors": "Family recommendations, professional requirements",
+        "tech_adoption": "Mainstream user (Microsoft Edge, basic EHR systems)",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Mid-Atlantic cultural influences",
+        "travel_habits": "Family-oriented domestic trips (Mexico research for potential vacation)",
+        "personal_projects": "Family genealogy research via obituary tracking",
+        "unexpected_behavioral_traits": "Medical coding specialist with interest in Mesoamerican archaeology (Yaxchilan research)"
+    }
+}

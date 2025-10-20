@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 25,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "West Palm Beach, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "Florida State University"
+        },
+        "occupation": "Corporate Trainer (Microsoft Office Specialist)",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length blonde waves",
+            "skin_color": "Fair",
+            "facial_features": "Round face with freckles",
+            "dress_style": "Business casual mixed with surf-inspired accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESFJ",
+        "beliefs_and_values": "Technology optimism, work-life balance, local community engagement",
+        "motivations": "Professional development, travel experiences, maintaining active lifestyle",
+        "cognitive_style": "Structured problem-solving with creative leisure pursuits"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex technical queries (SharePoint permissions), event planning, surf equipment research",
+        "ad_interactions": "High engagement with surf gear/tech ads (6 clicked ads)",
+        "preferred_content_sources": "NYTimes, Microsoft Support, Yelp, ESPN, Zillow",
+        "social_media_usage": "Facebook community groups, YouTube tutorials, passive MSNBC consumption",
+        "ecommerce_behavior": "Mid-range purchases (surfboards, baking supplies, tech gear)",
+        "device_usage": "Windows 11 PC primary, iOS mobile secondary",
+        "subscriptions": "Netflix, Hulu, Peacock, NYTimes digital, Microsoft 365"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Office software training, remote work solutions, AI applications",
+        "hobbies": "Surfing, baking specialty desserts, tennis, movie trivia",
+        "entertainment_preferences": "Comedy specials (Leanne Morgan), Oscar-nominated films, Benson Boone music",
+        "content_consumption": "Mix of long-form tech articles and celebrity/news updates",
+        "learning_style": "Structured virtual training with hands-on application"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with occasional splurges on experiences",
+        "income_level": "$55,000-$65,000",
+        "investment_habits": "Conservative (401k contributions, high-yield savings)",
+        "financial_tools": "Bank of America checking, Credit Karma, Zelle"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative trainer style with emphasis on digital literacy",
+        "family_structure": "Single, lives alone with regular family visits",
+        "friendship_circle": "Active in local surf community and professional networks",
+        "community_involvement": "Nocatee community events, Microsoft user groups",
+        "online_vs_offline_engagement": "Balanced mix with preference for local in-person activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/Wordle, Starbucks mobile order, Orange Theory class",
+        "workday_habits": "Virtual training sessions, Sharepoint troubleshooting, client follow-ups",
+        "evening_and_leisure": "Beach walks, baking experiments, streaming comedy specials",
+        "weekend_activities": "Surfing at Fort George, Disney trips, Jacksonville bakery tours",
+        "sleep_schedule": "Consistent 11PM-7AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Orange Theory regular, pescatarian diet, NAD+ supplementation",
+        "mental_health": "Beach meditation, comedy podcast listener",
+        "work_life_balance": "Strict boundaries between training hours and personal time",
+        "health_related_digital_behavior": "Fitness app tracking, Healthline research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with vendor comparison charts",
+        "brand_loyalty": "Microsoft ecosystem adherent, occasional Disney splurges",
+        "influence_factors": "Expert reviews, local community recommendations",
+        "tech_adoption": "Early mainstream adopter (Windows 11 features)",
+        "privacy_and_security_concerns": "Moderate (uses MFA but shares some location data)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English with basic Spanish",
+        "travel_habits": "Frequent Florida coastal trips, planning Hawaii/Boston vacations",
+        "personal_projects": "Developing Microsoft Teams training modules",
+        "unexpected_behavioral_traits": "Tech professional who hand-writes recipe cards"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Mitchell",
+        "age": 52,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "San Diego, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "San Diego Mesa College"
+        },
+        "occupation": "Off-Road Vehicle Customization Specialist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'11\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, graying",
+            "skin_color": "Fair",
+            "facial_features": "Square jaw, weathered skin",
+            "dress_style": "Casual workwear (carhartt jackets, boots)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology optimism, DIY ethos, environmental pragmatism",
+        "motivations": "Technical mastery, outdoor adventure, mechanical innovation",
+        "cognitive_style": "Analytical problem-solver with hands-on implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical specifications (bolt patterns, suspension kits), product comparisons, racing events",
+        "ad_interactions": "High engagement with off-road parts/accessories ads",
+        "preferred_content_sources": "Specialty automotive sites (Race-Dezert), manufacturer catalogs, MSN tech news",
+        "social_media_usage": "Passive Instagram use (fitness influencers), no visible posting activity",
+        "ecommerce_behavior": "Frequent mid-high value purchases ($500-$2k) in automotive category",
+        "device_usage": "Desktop-focused (75%), Windows/Edge user",
+        "subscriptions": "Manufacturer newsletters (KMC Wheels, Bilstein), UTV Driver magazine"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Suspension engineering, electric vehicle conversions, desert racing trends",
+        "hobbies": "Off-road trail building, drone photography, MMA spectating",
+        "entertainment_preferences": "Technical YouTube channels, action documentaries, classic rock",
+        "content_consumption": "Detailed product specs > video reviews > news articles",
+        "learning_style": "Self-learning via manufacturer technical docs/forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious premium buyer (prioritizes durability over brand)",
+        "income_level": "$75k-$90k annually",
+        "investment_habits": "Conservative (401k focused), some discretionary spending on tools/equipment",
+        "financial_tools": "American Express credit card, PayPal, AutoPay subscriptions"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with strong vendor network",
+        "family_structure": "Married without children",
+        "friendship_circle": "Small group of off-road enthusiasts",
+        "community_involvement": "Local Baja racing pit crews",
+        "online_vs_offline_engagement": "70% offline (workshops/events), 30% forum participation"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking racing forums/weather radar",
+        "workday_habits": "3-4 client projects daily, vendor calls, parts research",
+        "evening_and_leisure": "Garage tinkering, MMA event streaming",
+        "weekend_activities": "Anza-Borrego desert testing, Lakeside restaurant visits",
+        "sleep_schedule": "11 PM - 6 AM (7hrs)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active outdoor lifestyle, protein-focused diet",
+        "mental_health": "Stress relief through mechanical projects",
+        "work_life_balance": "Blended (work as passion)",
+        "health_related_digital_behavior": "Occasional fitness influencer browsing"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares 5+ options)",
+        "brand_loyalty": "Performance-based switching (Carli > Teraflex > Bilstein)",
+        "influence_factors": "User forums, product longevity data",
+        "tech_adoption": "Mainstream adopter (waits for v2 products)",
+        "privacy_and_security_concerns": "Low (prioritizes convenience)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern California native, basic Spanish",
+        "travel_habits": "Regional desert expeditions, annual Baja trips",
+        "personal_projects": "Prius off-road conversion, home drone workshop",
+        "unexpected_behavioral_traits": "Environmentalist who modifies hybrid vehicles for extreme sports"
+    }
+}

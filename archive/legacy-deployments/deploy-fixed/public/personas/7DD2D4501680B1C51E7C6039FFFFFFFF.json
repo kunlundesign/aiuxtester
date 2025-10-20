@@ -1,0 +1,132 @@
+{
+    "Core Identity": {
+        "full_name": "Carlos Mendez",
+        "age": 40,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "New York, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "City University of New York"
+        },
+        "occupation": "E-commerce Entrepreneur",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Stocky",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Olive",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual (polo shirts/jeans for work, athleisure off-duty)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Practical innovation",
+            "Consumer protection",
+            "Work ethic"
+        ],
+        "motivations": [
+            "Business scalability",
+            "Technological efficiency",
+            "Family security"
+        ],
+        "cognitive_style": "Systematic problem-solver with attention to logistical details"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision queries (GTIN codes, platform-specific workflows)",
+        "ad_interactions": "Targeted clicks on business supplies/tech (UPS/FedEx printing solutions)",
+        "preferred_content_sources": [
+            "Platform seller hubs",
+            "Shipping logistics blogs",
+            "Tech specs databases"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "YouTube (tutorials)",
+                "WhatsApp Web (business comms)"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumption, transactional messaging"
+        },
+        "ecommerce_behavior": {
+            "Spending": "Bulk purchases (packaging supplies)",
+            "Categories": [
+                "Mobile accessories",
+                "Shipping materials"
+            ]
+        },
+        "device_usage": "Desktop-driven workflow (Edge browser for seller platform management)",
+        "subscriptions": [
+            "Pirate Ship Premium",
+            "Seller Central analytics tools"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Cross-platform inventory sync",
+            "Mobile device authentication protocols"
+        ],
+        "hobbies": [
+            "Retro roller skating",
+            "Tactical shooter games"
+        ],
+        "entertainment_preferences": {
+            "Movies": "Action thrillers",
+            "TV": "Tech review channels"
+        },
+        "content_consumption": "Platform-specific documentation > industry webinars",
+        "learning_style": "Just-in-time learning via vendor knowledge bases"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Bulk business purchases with coupon stacking",
+        "income_level": "Mid-tier ($75k-$100k gross sales)",
+        "investment_habits": "Reinvests 60% profits into inventory expansion",
+        "financial_tools": [
+            "Santander Business Checking",
+            "PayPal Working Capital"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Transactional (supplier networks > corporate partnerships)",
+        "family_structure": "Married with school-age children",
+        "friendship_circle": "Niche (local seller meetups)",
+        "community_involvement": "Chamber of Commerce e-commerce committee",
+        "online_vs_offline_engagement": "Hybrid (virtual supplier negotiations, in-person shipping depot visits)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Order fulfillment checks > shipment label batch printing",
+        "workday_habits": "Platform alerts dictate task prioritization",
+        "evening_and_leisure": "Inventory audits > gaming sessions (Call of Duty)",
+        "weekend_activities": "Wholesale market scouting > family skating outings",
+        "sleep_schedule": "12am-6am (6hrs, interrupted by West Coast supplier calls)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Ergonomic workspace setup > occasional skating cardio",
+        "mental_health": "Compartmentalizes stress via task completion metrics",
+        "work_life_balance": "Blurred boundaries (75% work-integrated lifestyle)",
+        "health_related_digital_behavior": "Ergonomics tutorials > fitness trackers"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "ROI calculator-dependent",
+        "brand_loyalty": "Stick with proven logistics partners",
+        "influence_factors": "Platform seller forums > B2B review sites",
+        "tech_adoption": "Early majority (waits for platform-native integrations)",
+        "privacy_and_security_concerns": "High (IMEI checks, 2FA enforcement)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (Spanish-English), Latin American heritage",
+        "travel_habits": "Regional trade shows (CES, mobile tech expos)",
+        "personal_projects": "Niche product line development (unlocked devices)",
+        "unexpected_behavioral_traits": "Analytical seller who enjoys abstract geopolitical commentary"
+    }
+}

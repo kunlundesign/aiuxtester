@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jessica Thompson",
+        "age": 33,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Valdosta, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of Georgia"
+        },
+        "occupation": "Pawn Shop Owner/Manager",
+        "company": "PawnMate",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length straight brown hair",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, practical appearance",
+            "Dress Style": "Casual (jeans and polo shirts) for work; outdoor gear for hobbies"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Safety preparedness, financial independence, technological pragmatism",
+        "motivations": "Business sustainability, disaster preparedness, musical self-expression",
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Firearms specifications, musical instrument pricing, disaster preparedness strategies",
+        "ad_interactions": "High engagement with outdoor gear and compact living solutions",
+        "preferred_content_sources": "MSN News, YouTube tutorials, firearm enthusiast forums",
+        "social_media_usage": "Facebook (casual), Reddit (firearms communities), limited Instagram",
+        "ecommerce_behavior": "Frequent mid-range purchases ($100-$500) on outdoor equipment",
+        "device_usage": "Windows desktop for business management, iOS mobile for casual browsing",
+        "subscriptions": "MSN Premium, YouTube Premium, eBay seller account"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Firearms regulations, inventory management systems, retail trends",
+        "hobbies": "Acoustic guitar, target shooting, DIY home projects",
+        "entertainment_preferences": "Classic rock, true crime documentaries, cooking shows",
+        "content_consumption": "Technical specifications sheets, video tutorials, price comparison blogs",
+        "learning_style": "Hands-on experimentation supplemented by YouTube tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with strategic investments in business equipment",
+        "income_level": "$65,000-$80,000 annually",
+        "investment_habits": "Conservative (business reinvestment over stocks)",
+        "financial_tools": "Business credit card, PayPal, Venmo"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Authoritative yet collaborative management style",
+        "family_structure": "Single, lives with two dogs",
+        "friendship_circle": "Small group of outdoor enthusiasts and local business owners",
+        "community_involvement": "Chamber of Commerce member, disaster preparedness volunteer",
+        "online_vs_offline_engagement": "Prefers in-person business interactions but shops online"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather and inventory alerts while drinking black coffee",
+        "workday_habits": "Balances customer service with online inventory management",
+        "evening_and_leisure": "Guitar practice, firearm maintenance, meal prepping",
+        "weekend_activities": "Target shooting, camping trips, local music venues",
+        "sleep_schedule": "Early riser (5:30 AM) with consistent 7-hour sleep"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular hiking, high-protein/low-carb diet",
+        "mental_health": "Stress management through target shooting and music",
+        "work_life_balance": "Strict business hours with dedicated personal time",
+        "health_related_digital_behavior": "Fitness trackers, nutrition tracking apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with price comparison across multiple platforms",
+        "brand_loyalty": "Strong preference for established outdoor brands (Fender, Glock)",
+        "influence_factors": "Professional reviews, user testimonials, durability testing",
+        "tech_adoption": "Mainstream adopter favoring proven business solutions",
+        "privacy_and_security_concerns": "High awareness with VPN usage for financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English with basic Spanish comprehension",
+        "travel_habits": "Regional camping trips, annual Caribbean scouting expeditions",
+        "personal_projects": "Building custom guitar pedalboard, developing emergency preparedness guide",
+        "unexpected_behavioral_traits": "Combines tactical preparedness with artistic musical expression"
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "Core Identity": {
+        "full_name": "Aidin Brown",
+        "age": 42,
+        "gender": "Male",
+        "nationality": "American (Jamaican cultural ties)",
+        "current_residence": "Apopka, Florida, United States",
+        "education": {
+            "degree": "Doctor of Strategic Leadership",
+            "major": "Leadership Development",
+            "institution": "Regent University"
+        },
+        "occupation": "Life Management Consultant & Entrepreneur",
+        "company": "SahFyer Life Management Inc./Monhars Consulting",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short professional cut",
+            "skin_color": "Medium-brown",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Business casual (collared shirts, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENTJ",
+        "beliefs_and_values": "Ethical leadership, cultural preservation, financial independence",
+        "motivations": "Professional recognition, real estate portfolio growth, knowledge sharing",
+        "cognitive_style": "Analytical strategist with systems-thinking approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex queries combining professional development + practical implementation (e.g., 'transformational leadership property investment')",
+        "ad_interactions": "High engagement with office equipment (label printers/stamps) and metal building suppliers",
+        "preferred_content_sources": "LinkedIn, Harvard Business Review, Zillow, industry-specific blogs",
+        "social_media_usage": {
+            "platforms": [
+                "LinkedIn (daily)",
+                "YouTube (weekly)",
+                "MSN News (daily)"
+            ],
+            "frequency": "4+ hours/day",
+            "engagement": "Active professional networking, passive news consumption"
+        },
+        "ecommerce_behavior": {
+            "spending": "Strategic bulk purchases (office supplies), value-driven luxury (tech tools)",
+            "categories": [
+                "Business equipment",
+                "Property investment",
+                "International food products"
+            ]
+        },
+        "device_usage": "Desktop (80%) for complex tasks, mobile (20%) for quick checks",
+        "subscriptions": [
+            "Microsoft 365",
+            "Adobe Express",
+            "Calendly Premium"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Ethical leadership frameworks",
+            "Coaching methodologies",
+            "Commercial property development"
+        ],
+        "hobbies": [
+            "Jamaican cooking",
+            "Architectural design analysis",
+            "Maritime history research"
+        ],
+        "entertainment_preferences": {
+            "music": "Reggae",
+            "movies": "Documentaries (historical/business)",
+            "authors": "John C. Maxwell, Simon Sinek"
+        },
+        "content_consumption": "60% long-form articles, 30% webinars, 10% instructional videos",
+        "learning_style": "Blended (self-directed research + structured certification programs)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented investor (balances quality with ROI calculations)",
+        "income_level": "$85,000-$110,000 annually",
+        "investment_habits": "Moderate risk (real estate > stocks)",
+        "financial_tools": [
+            "Afterpay",
+            "MoneyGram",
+            "AmONE personal loans"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Mentorship-focused collaboration",
+        "family_structure": "Married with children (implied by family-sized home research)",
+        "friendship_circle": "Professional peers + Jamaican community ties",
+        "community_involvement": "Local business networks, church leadership",
+        "online_vs_offline_engagement": "70% professional digital engagement, 30% in-person community"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "LinkedIn/news review → Microsoft 365 email triage → Calendly scheduling",
+        "workday_habits": "Block scheduling (client calls 10am-12pm, research 1-3pm, admin 3-5pm)",
+        "evening_and_leisure": "Property listing analysis → family time → leadership literature",
+        "weekend_activities": "Home improvement projects, Jamaican food prep, webinar attendance",
+        "sleep_schedule": "Structured (11pm-6am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (property maintenance as exercise), pescatarian diet",
+        "mental_health": "Journaling, religious practices, professional coaching",
+        "work_life_balance": "Guarded separation (strict office hours)",
+        "health_related_digital_behavior": "Preventive care research, ergonomic workspace optimization"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-validated intuition",
+        "brand_loyalty": "Sticky with proven productivity tools (Microsoft), flexible elsewhere",
+        "influence_factors": "Industry benchmarks, peer recommendations, cost-benefit analysis",
+        "tech_adoption": "Early mainstream adopter (waits for v2 products)",
+        "privacy_and_security_concerns": "Cautious (multi-factor authentication, limited social sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Jamaican Patois), maintains Caribbean ties",
+        "travel_habits": "Annual family visits to Jamaica, domestic conferences",
+        "personal_projects": [
+            "Authoring leadership guidebook",
+            "Tiny home prototype development",
+            "Jamaican spice blend e-commerce"
+        ],
+        "unexpected_behavioral_traits": "Combines corporate professionalism with Caribbean aesthetic (office decor)"
+    }
+}

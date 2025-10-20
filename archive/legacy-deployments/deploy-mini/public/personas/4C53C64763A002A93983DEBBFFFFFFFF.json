@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Alexandra Carter",
+        "age": 29,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "New York, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Graphic Design",
+            "institution": "unknown"
+        },
+        "occupation": "Freelance Creative Designer",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "unknown",
+            "Body shape": "unknown",
+            "Hairstyle": "unknown",
+            "Skin color": "unknown",
+            "Facial features": "unknown",
+            "Dress Style": "Casual with tech/outdoor influences (evidenced by searches for fleece jackets and wearable hoodies)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, interest in cultural narratives (evidenced by comic art and immigration policy news engagement)",
+        "motivations": "Intellectual curiosity (comic art research), financial security (coupon searches)",
+        "cognitive_style": "Analytical with creative tendencies (balances collectible research with abstract art interests)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep niche research (comic variant covers, knife specs), repeated coupon code optimization",
+        "ad_interactions": "High engagement with collectibles/outdoor gear ads (6/18 ads clicked)",
+        "preferred_content_sources": "YouTube (139 visits), eBay, specialty forums (Bladeforums, ComicArtFans)",
+        "social_media_usage": "Passive consumption (Facebook Marketplace, YouTube subscriptions)",
+        "ecommerce_behavior": "Mid-range spending on collectibles/outdoor gear, uses coupon codes strategically",
+        "device_usage": "Desktop dominant (detailed collectible research), Windows/Edge (MSN/Bing integration)",
+        "subscriptions": "YouTube Premium (music.youtube.com), eBay alerts, Comic-Con updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Collectibles market trends, design tools (Adobe/CAD references in UETEvents)",
+        "hobbies": "Comic art collecting, outdoor gear curation, basketball culture research",
+        "entertainment_preferences": "Documentaries (Hoop Dreams), 90s franchises, tech review content",
+        "content_consumption": "Long-form auction listings + short YouTube tech demos",
+        "learning_style": "Self-learning through specialized forums/auction archives"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused luxury (waits for coupons on premium items)",
+        "income_level": "$55k-$70k (freelance creative role)",
+        "investment_habits": "Conservative (Santander banking use, no crypto activity)",
+        "financial_tools": "Credit cards, PayPal, mobile banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor (freelance pattern)",
+        "family_structure": "Lives alone (multiple unread emails, late-night pornhub use)",
+        "friendship_circle": "Niche online communities (Mego collectors, knife forums)",
+        "community_involvement": "Limited (no volunteering signals)",
+        "online_vs_offline_engagement": "90% online (heavy eBay/forum activity)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks auction alerts/Yahoo News with coffee",
+        "workday_habits": "Client projects + personal research (comic valuation tools)",
+        "evening_and_leisure": "YouTube deep dives, coupon hunting, adult content",
+        "weekend_activities": "Convention planning, gear maintenance, basketball games",
+        "sleep_schedule": "Night owl (multiple late-night PornHub sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual fitness (outdoor gear purchases, no gym signals)",
+        "mental_health": "Self-regulated (no therapy apps, uses shopping as coping mechanism)",
+        "work_life_balance": "Blurred boundaries (freelance work/personal interests overlap)",
+        "health_related_digital_behavior": "Reactive searches only (myths debunked article)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with impulse exceptions (limited edition buys)",
+        "brand_loyalty": "Hybrid (sticks with eBay/YouTube, shops multiple outdoor brands)",
+        "influence_factors": "Niche community validation, historical sales data",
+        "tech_adoption": "Early mainstream (adopts proven gadgets like Fenix flashlights)",
+        "privacy_and_security_concerns": "Medium (uses multiple accounts but no VPN signals)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual (no non-English content except K-pop video anomaly)",
+        "travel_habits": "Local explorer (NYC gov site usage), conventions as primary trips",
+        "personal_projects": "Curating vintage collection portfolio for resale",
+        "unexpected_behavioral_traits": "Combines analytical collectible valuation with abstract comic art appreciation"
+    }
+}

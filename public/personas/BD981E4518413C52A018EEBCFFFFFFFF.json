@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Montgomery",
+        "age": 34,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Cleveland, Ohio, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Aeronautical Engineering",
+            "institution": "Embry-Riddle Aeronautical University"
+        },
+        "occupation": "Private Jet Owner/Operator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "6'1\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, styled",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven, angular jawline",
+            "dress_style": "Business casual with luxury accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Low",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENTJ",
+        "beliefs_and_values": "Technology optimism, individualism, fiscal conservatism",
+        "motivations": "Financial independence, status signaling, technical mastery",
+        "cognitive_style": "Analytical with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex technical queries (avionics upgrades), luxury real estate, high-end vehicles",
+        "ad_interactions": "High engagement with luxury vehicles, aircraft sales, premium real estate",
+        "preferred_content_sources": "Zillow, Controller.com, manufacturer sites, technical manuals",
+        "social_media_usage": "YouTube (passive consumption), LinkedIn (minimal activity)",
+        "ecommerce_behavior": "High-value purchases, luxury goods focus",
+        "device_usage": "Desktop primary (Windows/Edge), mobile secondary",
+        "subscriptions": "Zillow alerts, aviation trade newsletters, luxury lifestyle channels"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Aircraft maintenance innovations, luxury real estate markets",
+        "hobbies": "Pilot training, yacht research, automotive customization",
+        "entertainment_preferences": "Luxury lifestyle documentaries, technical engineering content",
+        "content_consumption": "Technical manuals, real estate listings, product spec sheets",
+        "learning_style": "Self-directed research with vendor consultations"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Ultra-luxury purchases, planned investments",
+        "income_level": "$500k+ annually",
+        "investment_habits": "Real estate acquisition, transportation assets",
+        "financial_tools": "High-limit credit cards, private banking services"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Contract-based collaborations, authoritative style",
+        "family_structure": "Single, no children",
+        "friendship_circle": "Small network of high-net-worth individuals",
+        "community_involvement": "Aviation enthusiast groups",
+        "online_vs_offline_engagement": "Prefers transactional online interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Market news review, aviation weather checks",
+        "workday_habits": "Asset management, vendor negotiations",
+        "evening_and_leisure": "Technical research, luxury goods browsing",
+        "weekend_activities": "Property tours, aviation events",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Aviation medical certification maintained",
+        "mental_health": "Stress management through asset acquisition",
+        "work_life_balance": "Work-centric lifestyle",
+        "health_related_digital_behavior": "FAA requirement tracking only"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with brand preference bias",
+        "brand_loyalty": "Strong in automotive/aviation sectors",
+        "influence_factors": "Technical specifications, resale value",
+        "tech_adoption": "Early adopter in transportation tech",
+        "privacy_and_security_concerns": "High (encrypted communications)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, midwestern roots",
+        "travel_habits": "Frequent short-haul business flights",
+        "personal_projects": "Aircraft modernization portfolio",
+        "unexpected_behavioral_traits": "High technical sophistication paired with luxury brand obsession"
+    }
+}

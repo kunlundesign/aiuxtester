@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Unknown, USA",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Student/Part-Time Retail Worker",
+        "company": "Unknown",
+        "physical_attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Balayage blonde (Blond Forte product interest)",
+            "Skin color": "Fair",
+            "Facial features": "Youthful, minimal makeup",
+            "Dress Style": "Casual (Lane Bryant/Walmart/Target interactions)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (explores diverse topics: tech, travel, art)",
+            "conscientiousness": "Medium (systematic tech troubleshooting, planned purchases)",
+            "extraversion": "Low (limited social media signals)",
+            "agreeableness": "Medium",
+            "neuroticism": "Low (persistent problem-solving with file recovery)"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance (tech troubleshooting), cost-conscious consumerism",
+        "motivations": "Skill mastery ('how to master a skill' queries), home efficiency (stick vacuum research)",
+        "cognitive_style": "Structured problem-solver (step-by-step tech guides)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-device tech support (Windows/iOS), budget travel planning, home appliance research",
+        "ad_interactions": "High click-through on home goods (vacuums) and budget fashion (Lane Bryant)",
+        "preferred_content_sources": "How-to forums (Apple Community), MSN entertainment news, Wikipedia references",
+        "social_media_usage": "Limited (Facebook/Nextdoor via UETEvents)",
+        "ecommerce_behavior": "Price-comparison shopper (eBay/Amazon/Walmart cross-referencing)",
+        "device_usage": "Windows desktop (file recovery focus) + iPhone (IMEI checks)",
+        "subscriptions": "Microsoft Rewards, Capital One Shopping"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Basic tech literacy (file management queries)",
+        "hobbies": "Scrapbooking (EPEvents), casual cooking (recipe searches)",
+        "entertainment_preferences": "Celebrity culture (People.com/EW), psychological thrillers ('Severance')",
+        "content_consumption": "Step-by-step guides (tech support), listicles ('18 scenic drives')",
+        "learning_style": "Visual learner (video queries for iPhone issues)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused (Temu/Walmart use), waits for clearance sales (Kohl's UETEvent)",
+        "income_level": "Under $20k/year (student/part-time)",
+        "investment_habits": "Not applicable",
+        "financial_tools": "Credit cards (Capital One Shopping), reward programs"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-oriented (tech problem-solving patterns)",
+        "family_structure": "Likely lives with family (pet adoption interest without 'apartment' searches)",
+        "friendship_circle": "Small local network (Nextdoor engagement)",
+        "community_involvement": "Neighborhood-focused (Nextdoor activity)",
+        "online_vs_offline_engagement": "Online-dominant (extensive troubleshooting autonomy)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks MSN news (celebrity updates), tracks packages",
+        "workday_habits": "Balances studies with household management (vacuum research)",
+        "evening_and_leisure": "Streaming ('Severance'), hair care routines (Blond Forte)",
+        "weekend_activities": "Local travel planning (bridge/scenic drive articles), scrapbooking",
+        "sleep_schedule": "Night owl (late-night tech troubleshooting)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual interest in weight management ('30 Best Foods'), uses pain relief gel",
+        "mental_health": "Self-sufficient (no therapy signals)",
+        "work_life_balance": "Leisure-integrated routine (simultaneous shopping/research)",
+        "health_related_digital_behavior": "OTC solution research (Sub-Zero gel ads)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (compare Allegiant luggage policies)",
+        "brand_loyalty": "Value-driven (switches between Walmart/Amazon/eBay)",
+        "influence_factors": "Price comparisons, user forums (Apple Community)",
+        "tech_adoption": "Mainstream user (sticks with Windows/iOS)",
+        "privacy_and_security_concerns": "Basic caution (Apple account recovery focus)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Monolingual English speaker",
+        "travel_habits": "Budget domestic trips (Allegiant Airlines focus)",
+        "personal_projects": "Home organization (stick vacuum research), digital archiving (iTunes file management)",
+        "unexpected_behavioral_traits": "Combines analytical tech skills with creative scrapbooking hobby"
+    }
+}

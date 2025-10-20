@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Cynthia Taylor",
+        "age": 59,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Flemington, USA",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "Community College of New Jersey"
+        },
+        "occupation": "Part-Time Office Administrator",
+        "company": "Local Healthcare Provider",
+        "physical attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Round face with glasses",
+            "dress_style": "Casual practical (jeans/knit tops)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Fiscal conservatism, home ownership pride, health consciousness",
+        "motivations": "Maintaining independence, preserving assets, staying informed",
+        "cognitive_style": "Practical problem-solver with technical aptitude"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical vehicle troubleshooting, local services, health solutions",
+        "ad_interactions": "High engagement with automotive/health ads (Ford F-150, hypnosis clinics)",
+        "preferred_content_sources": "Manufacturer forums (Ford F150), MSNBC, medical sites (Mayo Clinic)",
+        "social_media_usage": "Facebook (daily checkins), YouTube (technical tutorials)",
+        "ecommerce_behavior": "Budget-conscious (Costco/Walmart), occasional big-ticket items",
+        "device_usage": "Windows 11 PC + Android phone, Edge browser",
+        "subscriptions": "Xfinity Internet, Netflix, Amazon Prime"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare administration trends, retirement planning",
+        "hobbies": "Vehicle maintenance, local history research, home improvement",
+        "entertainment_preferences": "Network dramas, classic rock (Badfinger references via Joey Molland search)",
+        "content_consumption": "Technical manuals + political news analysis",
+        "learning_style": "Forum-based troubleshooting (Ford F150 Forum)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases (Costco), planned major expenses",
+        "income_level": "$45k-$55k annually",
+        "investment_habits": "Moderate-risk (T. Rowe Price retirement accounts)",
+        "financial_tools": "Bank of America, Credit Cards, Medicare"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Reliable team member, prefers structured roles",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Close-knit local community connections",
+        "community_involvement": "Hunterdon County Facebook groups",
+        "online_vs_offline_engagement": "Balanced (local service research online + in-person errands)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSNBC/New York Post news check",
+        "workday_habits": "Afternoon shift with morning home maintenance",
+        "evening_and_leisure": "Vehicle forum browsing, Prime Video viewing",
+        "weekend_activities": "Home projects, visiting Doylestown Ford dealers",
+        "sleep_schedule": "Regular 11PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages chronic conditions (frequent Drugs.com visits)",
+        "mental_health": "Exploring hypnosis for anxiety management",
+        "work_life_balance": "Structured part-time schedule",
+        "health_related_digital_behavior": "Medical research (Hunterdon Health), Fitbit tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (TSB reports analysis)",
+        "brand_loyalty": "Strong (Ford vehicles, Microsoft ecosystem)",
+        "influence_factors": "Technical documentation, local peer recommendations",
+        "tech_adoption": "Mainstream user (Windows 11 early updater)",
+        "privacy_and_security_concerns": "Moderate (uses antivirus but reuses passwords)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Northeastern US cultural norms",
+        "travel_habits": "Regional road trips (Bar Harbor hotel research)",
+        "personal_projects": "Vintage aircraft research (Pinehurst Airlines history)",
+        "unexpected_behavioral_traits": "Technical vehicle diagnostician despite non-mechanical career"
+    }
+}

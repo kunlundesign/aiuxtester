@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Robert Johnson",
+        "age": 71,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Bakersfield, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "California State University, Bakersfield"
+        },
+        "occupation": "Small Business Owner/Consultant",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes, clean-shaven",
+            "Dress Style": "Casual (collared shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, fiscal responsibility",
+        "motivations": "Business sustainability, maintaining independence",
+        "cognitive_style": "Structured problem-solving with emphasis on official procedures"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Business compliance (45%), tech tools (30%), finance/taxes (15%), automotive (10%)",
+        "ad_interactions": "High engagement with business services/data protection ads",
+        "preferred_content_sources": "Government portals (IRS, DMV), Microsoft templates, MSN news",
+        "social_media_usage": "Minimal (Facebook for basic connections)",
+        "ecommerce_behavior": "Budget-focused (Amazon automotive accessories, Walmart)",
+        "device_usage": "Desktop (Windows/Edge for business tasks), mobile secondary",
+        "subscriptions": "Carbonite backup, AAA membership, Microsoft 365"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Business law compliance, financial management tools",
+        "hobbies": "RV maintenance, light gardening, basic photography",
+        "entertainment_preferences": "Political/news commentary, classic rock",
+        "content_consumption": "Factual government guidelines + opinion-based news analysis",
+        "learning_style": "Self-guided through official templates/documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with occasional automotive splurges",
+        "income_level": "Middle-class retirement + business income",
+        "investment_habits": "Conservative (real estate/business assets over stocks)",
+        "financial_tools": "Online banking (MTB), credit cards, CareCredit"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with occasional client consultations",
+        "family_structure": "Likely lives with spouse/partner",
+        "friendship_circle": "Small group of longtime local connections",
+        "community_involvement": "AAA community events, RV park networks",
+        "online_vs_offline_engagement": "Prefers in-person for important matters"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN news check, email triage",
+        "workday_habits": "Document preparation, compliance research, template updates",
+        "evening_and_leisure": "Local news, light Amazon shopping, account management",
+        "weekend_activities": "RV maintenance, day trips, hardware store visits",
+        "sleep_schedule": "Early riser (6 AM) with afternoon nap"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking, manages chronic conditions via CareCredit",
+        "mental_health": "Structured routine as coping mechanism",
+        "work_life_balance": "Semi-retired but maintains business oversight",
+        "health_related_digital_behavior": "Prescription research via Drugs.com"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Procedure-driven (DMV/IRS compliance focus)",
+        "brand_loyalty": "Microsoft/Carbonite user, shifts automotive brands",
+        "influence_factors": "Government guidelines over social proof",
+        "tech_adoption": "Mainstream user (adopts proven business tools)",
+        "privacy_and_security_concerns": "Moderate (uses Keeper password manager)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Central Valley cultural influences",
+        "travel_habits": "Regional RV trips within California",
+        "personal_projects": "Maintaining vintage Dodge Ram 2500",
+        "unexpected_behavioral_traits": "Simultaneously meticulous (IRS compliance) and risk-tolerant (political news consumption)"
+    }
+}

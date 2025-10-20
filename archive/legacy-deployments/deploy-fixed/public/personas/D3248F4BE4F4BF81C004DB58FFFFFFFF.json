@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Maria Oliveira",
+        "age": 28,
+        "gender": "Female",
+        "nationality": "American (Brazilian heritage)",
+        "current_residence": "Newark, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Early Childhood Education",
+            "institution": "Essex County College"
+        },
+        "occupation": "Childcare Coordinator",
+        "company": "Newark Board of Education",
+        "physical_attributes": {
+            "Height": "5'2\"",
+            "Body shape": "Petite",
+            "Hairstyle": "Shoulder-length straight hair",
+            "Skin color": "Olive",
+            "Facial features": "Warm smile, light makeup",
+            "Dress Style": "Casual and practical (jeans, blouses, sneakers)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Family-centric values, education advocacy, health awareness",
+        "motivations": "Providing stable environment for children, professional development in education",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Parenting resources, local services, health queries, budget travel",
+        "ad_interactions": "High engagement with childcare activities, affordable fashion, home furniture",
+        "preferred_content_sources": "MSN News, Etsy tutorials, NJ.com, Zillow",
+        "social_media_usage": "Pinterest for DIY ideas, Facebook for local updates (1-2 hrs/day)",
+        "ecommerce_behavior": "Frequent budget purchases at Target/Temu, compares prices",
+        "device_usage": "Mobile-first (Android), Edge browser for work-related tasks",
+        "subscriptions": "MSN News alerts, Etsy seller updates, local school newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Educational frameworks, child development research",
+        "hobbies": "Craft projects, community events, budget travel planning",
+        "entertainment_preferences": "Children's educational shows, light political news, Latin music",
+        "content_consumption": "Practical guides (PDFs), local news articles, how-to videos",
+        "learning_style": "Structured courses for certifications + hands-on workshops"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (TJ Maxx/Five Below), plans major purchases",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (savings accounts, no high-risk investments)",
+        "financial_tools": "Credit card for online purchases, Wise for international transfers"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player, mentors new staff",
+        "family_structure": "Single parent with 1-2 young children",
+        "friendship_circle": "Small group of parent friends from school",
+        "community_involvement": "Volunteers at school events, follows local politics",
+        "online_vs_offline_engagement": "Balances online research with in-person parent meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/MSN headlines, prepares kids for school",
+        "workday_habits": "Coordinates after-school programs, handles administrative tasks",
+        "evening_and_leisure": "Crafts with kids, watches light TV shows, browses Zillow",
+        "weekend_activities": "Library visits, local parks, apartment hunting",
+        "sleep_schedule": "Regular schedule (11 PM - 6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light exercise (walks with kids), monitors family allergies",
+        "mental_health": "Uses mindfulness apps during breaks",
+        "work_life_balance": "Strict separation between work and family time",
+        "health_related_digital_behavior": "Researches allergy management, uses Healthline"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (compares multiple sources)",
+        "brand_loyalty": "Prefers trusted brands like Target but open to Temu deals",
+        "influence_factors": "Teacher recommendations, product reviews",
+        "tech_adoption": "Mainstream user (adopts proven tools like eFax)",
+        "privacy_and_security_concerns": "Cautious with children's data online"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Portuguese), follows Brazilian traditions",
+        "travel_habits": "Researches family-friendly resorts, interested in Punta Cana",
+        "personal_projects": "Creating emergency preparedness plan for local parents",
+        "unexpected_behavioral_traits": "Enjoys abstract interior design despite practical lifestyle"
+    }
+}

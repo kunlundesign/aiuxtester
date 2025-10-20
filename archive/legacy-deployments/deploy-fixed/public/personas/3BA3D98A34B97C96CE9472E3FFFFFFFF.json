@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "David Harper",
+        "age": 45,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "O'Fallon, United States",
+        "education": {
+            "degree": "MD",
+            "major": "Psychiatry",
+            "institution": "Southern Illinois University Edwardsville"
+        },
+        "occupation": "Psychiatrist",
+        "company": "Private Practice",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short, neat",
+            "Skin_color": "Fair",
+            "Facial_features": "Clean-shaven with rectangular glasses",
+            "Dress_Style": "Business casual (collared shirts, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Mental health advocacy, scientific pragmatism, spiritual curiosity",
+        "motivations": "Patient care excellence, financial stability, continuous learning",
+        "cognitive_style": "Analytical with holistic thinking (evidenced by psychiatry practice and stock market analysis)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on mental health topics, technical photography queries, financial market analysis",
+        "ad_interactions": "High engagement with medical software and insurance ads",
+        "preferred_content_sources": "Medical journals (NIMH), news aggregators (Daily Mail, MSN), sports analytics (ESPN)",
+        "social_media_usage": "Limited professional use (LinkedIn), passive news consumption",
+        "ecommerce_behavior": "Targeted purchases (medical supplies, tech gadgets)",
+        "device_usage": "Desktop-focused (Practice Fusion usage), Microsoft Edge browser",
+        "subscriptions": "Amazon Prime, Zoho Mail, ESPN+"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Telemental health innovations, conduct disorder research",
+        "hobbies": "Astrophotography, NCAA basketball analysis, stock market tracking",
+        "entertainment_preferences": "Classical music (Tim Janis), political documentaries",
+        "content_consumption": "Long-form medical articles blended with quick sports updates",
+        "learning_style": "Self-directed research (evidenced by DSM-5 queries and photography tutorials)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with strategic splurges (EHR software investment)",
+        "income_level": "$200,000-$250,000 (psychiatrist salary range)",
+        "investment_habits": "Market-aware (Magnificent Seven stock interest)",
+        "financial_tools": "Traditional banking, Synchrony credit products"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent practitioner with referral networks",
+        "family_structure": "Likely single (intensive Zillow searches for smaller properties)",
+        "friendship_circle": "Professional colleagues and sports enthusiasts",
+        "community_involvement": "Mental health advocacy via online forums",
+        "online_vs_offline_engagement": "Hybrid model (virtual patient sessions with in-person consultations)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "News scanning (Daily Mail/ESPN), EHR review",
+        "workday_habits": "Patient sessions interspersed with research",
+        "evening_and_leisure": "Stock market tracking, photography experiments",
+        "weekend_activities": "Property hunting, NCAA games analysis",
+        "sleep_schedule": "Structured (10 PM - 6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work offset by weekend photography expeditions",
+        "mental_health": "Mindfulness practice (visualization queries), professional self-care",
+        "work_life_balance": "Compartmentalized (strict EHR login patterns)",
+        "health_related_digital_behavior": "Medication databases (Drugs.com), teletherapy platforms"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based (clinical research patterns)",
+        "brand_loyalty": "High for medical tools (Practice Fusion), flexible elsewhere",
+        "influence_factors": "Peer-reviewed studies, patient outcomes data",
+        "tech_adoption": "Mainstream professional user (Cloud EHR but no AI tools beyond Copilot)",
+        "privacy_and_security_concerns": "Heightened (malware removal ad engagement)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, basic medical Spanish",
+        "travel_habits": "Domestic nature trips (Jotunheimen National Park research)",
+        "personal_projects": "Home security optimization (Tapo camera research)",
+        "unexpected_behavioral_traits": "Rational clinician who enjoys abstract stock market patterns"
+    }
+}

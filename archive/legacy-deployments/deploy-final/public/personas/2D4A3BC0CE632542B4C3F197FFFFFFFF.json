@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Thompson",
+        "age": 52,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Shelby, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Business Administration",
+            "institution": "Local Community College"
+        },
+        "occupation": "Small Business Owner / Dog Sports Organizer",
+        "company": "Custom Apparel & Dog Sports LLC",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brown hair",
+            "skin_color": "Fair",
+            "facial_features": "Glasses, smile lines",
+            "dress_style": "Casual practical (dog-friendly attire with branded T-shirts)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Animal welfare advocacy, support for small businesses",
+        "motivations": "Entrepreneurial success, canine community building",
+        "cognitive_style": "Practical problem-solver with creative execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Dog sports regulations + eCommerce tools (45% queries), Custom apparel production (30%), Local business services (25%)",
+        "ad_interactions": "High engagement with print-on-demand platforms and dog-related merchandise ads",
+        "preferred_content_sources": "AKC/NADD official sites, YouTube tutorials, Etsy seller forums",
+        "social_media_usage": "Facebook (daily for event coordination), YouTube (weekly for tutorials)",
+        "ecommerce_behavior": "Bulk material purchases (Gildan apparel), specialty dog equipment",
+        "device_usage": "Desktop (80% business tasks), Mobile (20% event coordination)",
+        "subscriptions": "GoDaddy Pro, Adobe Creative Cloud, AKC Premium Membership"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Textile customization techniques, canine sports governance",
+        "hobbies": "Competitive dock diving, machine embroidery, DIY home projects",
+        "entertainment_preferences": "Dog sports documentaries, classic rock playlists",
+        "content_consumption": "Tutorial videos + official guidelines documents",
+        "learning_style": "Workshop attendance + peer knowledge sharing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic bulk purchases with premium service subscriptions",
+        "income_level": "$45,000-$60,000 annually",
+        "investment_habits": "Reinvests 30% profits into business equipment",
+        "financial_tools": "QuickBooks Online, PayPal Business, Chase Ink Card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leader in dog sports committees",
+        "family_structure": "Lives with spouse and 2 dogs",
+        "friendship_circle": "Close-knit dog enthusiast community",
+        "community_involvement": "AKC event judge, local chamber of commerce member",
+        "online_vs_offline_engagement": "Hybrid (online business management + in-person dog events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "6:30 AM dog exercise, 7:30 AM email/order processing",
+        "workday_habits": "Mornings: production tasks, Afternoons: client meetings/event planning",
+        "evening_and_leisure": "Dog training sessions, embroidery projects",
+        "weekend_activities": "Travel to regional dog competitions, vendor markets",
+        "sleep_schedule": "10:30 PM - 6:00 AM (Early riser)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through dog sports, semi-vegetarian diet",
+        "mental_health": "Stress management through crafting activities",
+        "work_life_balance": "Integrated lifestyle (business overlaps with personal interests)",
+        "health_related_digital_behavior": "Yoga video searches, occasional fitness tracker use"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with peer validation",
+        "brand_loyalty": "High for dog sports brands, moderate for tech tools",
+        "influence_factors": "Industry certification standards, customer testimonials",
+        "tech_adoption": "Early mainstream adopter (business necessity driven)",
+        "privacy_and_security_concerns": "Moderate (prioritizes business data protection)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American English, basic Spanish",
+        "travel_habits": "Regional traveler for dog events (5-8 states annually)",
+        "personal_projects": "Developing line of dog breed-themed apparel patterns",
+        "unexpected_behavioral_traits": "Technical business operator who hand-embroiders show ribbons"
+    }
+}

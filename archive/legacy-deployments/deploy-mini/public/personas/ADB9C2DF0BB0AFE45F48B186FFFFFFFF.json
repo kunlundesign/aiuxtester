@@ -1,0 +1,156 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Thompson",
+        "age": 49,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Santa Clarita, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "California State University, Northridge"
+        },
+        "occupation": "Automotive Sales Manager",
+        "company": "unknown",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, professional cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Business casual"
+        },
+        "reasoning": {
+            "education": "Inferred from job level and interest in management software/tax forms",
+            "occupation": "Explicitly stated in Basic User Profile job searches",
+            "physical_attributes": "Assumed based on age/gender norms"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": [
+            "Free market economics",
+            "Technology optimism"
+        ],
+        "motivations": [
+            "Career advancement",
+            "Financial security"
+        ],
+        "cognitive_style": "Analytical with practical implementation focus",
+        "reasoning": {
+            "personality": "High conscientiousness from job application rigor; medium openness from ChatGPT/economic queries",
+            "mbti": "Inferred from structured job searches and tariff analysis"
+        }
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": [
+            "Automotive industry trends",
+            "Economic metrics",
+            "Job market"
+        ],
+        "ad_interactions": [
+            "Luxury vehicles",
+            "Home improvement services"
+        ],
+        "preferred_content_sources": [
+            "MSN News",
+            "Bloomberg",
+            "Dealership websites"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "LinkedIn",
+                "Twitter"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive news consumption"
+        },
+        "ecommerce_behavior": {
+            "spending": "Research-intensive purchases",
+            "categories": [
+                "Vehicles",
+                "Home services"
+            ]
+        },
+        "device_usage": "Desktop (Edge browser)",
+        "subscriptions": [
+            "MSN News alerts",
+            "Job search notifications"
+        ],
+        "reasoning": {
+            "search_patterns": "From BingEvents GDP/tariff queries",
+            "ad_interactions": "AdEvents clicks on Mercedes/GMC ads"
+        }
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Tariff impacts",
+            "EV market trends"
+        ],
+        "hobbies": [
+            "Car customization",
+            "Current events analysis"
+        ],
+        "entertainment_preferences": [
+            "Political commentary",
+            "Auto shows"
+        ],
+        "content_consumption": "Long-form articles with data visualization",
+        "learning_style": "On-the-job training with industry reports",
+        "reasoning": {
+            "hobbies": "From 13-month Katzkin/audio upgrade searches"
+        }
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious luxury",
+        "income_level": "$85,000-$110,000",
+        "investment_habits": "Moderate risk tolerance",
+        "financial_tools": [
+            "Credit unions",
+            "Traditional banking"
+        ],
+        "reasoning": {
+            "income": "Estimated from CA automotive management salaries"
+        }
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-oriented leadership",
+        "family_structure": "Unknown",
+        "friendship_circle": "Professional network-focused",
+        "community_involvement": "None evident",
+        "online_vs_offline_engagement": "Hybrid with digital preference"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/industry news review",
+        "workday_habits": "Split between job applications/dealership research",
+        "evening_and_leisure": "Vehicle research, political content",
+        "weekend_activities": "Dealership visits, home maintenance",
+        "sleep_schedule": "Night owl (late-night searches observed)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work habits",
+        "mental_health": "Stress management via routine",
+        "work_life_balance": "Work-focused",
+        "health_related_digital_behavior": "Minimal observed"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with industry benchmarks",
+        "brand_loyalty": "Situation-dependent",
+        "influence_factors": "Economic impact projections",
+        "tech_adoption": "Mainstream pragmatist",
+        "privacy_and_security_concerns": "Low (extensive tracking observed)"
+    },
+    "Other Unique Attributes": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Domestic (DC property search noted)",
+        "personal_projects": "Career transition strategy",
+        "unexpected_behavioral_traits": "Combines practical job search with speculative crypto news consumption"
+    }
+}

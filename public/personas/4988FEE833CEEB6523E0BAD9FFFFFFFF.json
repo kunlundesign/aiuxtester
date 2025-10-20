@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 28,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Toledo, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Health Administration",
+            "institution": "University of Toledo"
+        },
+        "occupation": "Healthcare Administrator",
+        "company": "Promedica Health System",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length blonde waves",
+            "Skin color": "Fair",
+            "Facial features": "Oval face, light freckles",
+            "Dress Style": "Casual sporty (golf polos, athleisure)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical problem-solving, community health advocacy, technological efficiency",
+        "motivations": "Improving patient care systems, mastering golf technique, maintaining financial stability",
+        "cognitive_style": "Analytical with methodical execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical golf equipment research (70%), local healthcare services (20%), home/insurance planning (10%)",
+        "ad_interactions": "High engagement with golf equipment ads, medium with healthcare products",
+        "preferred_content_sources": "Specialist golf forums (GolfWRX), local news (Toledo Blade), medical portals (Mayo Clinic)",
+        "social_media_usage": "Passive Facebook user, active in golf equipment groups",
+        "ecommerce_behavior": "Researches thoroughly before purchasing mid-range golf gear",
+        "device_usage": "70% mobile (iOS), 30% desktop (Windows/Edge)",
+        "subscriptions": "MSN Premium, Yahoo News, Golf Digest Digital"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare facility management, medical supply chains",
+        "hobbies": "Competitive golf, club customization, thrift shopping",
+        "entertainment_preferences": "Golf tournaments, true crime documentaries",
+        "content_consumption": "Technical articles (75%), news briefs (25%)",
+        "learning_style": "Video tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented for daily items, invests in quality golf equipment",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative (401k match, high-yield savings)",
+        "financial_tools": "KeyBank checking, Amazon Prime Card, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader in healthcare settings",
+        "family_structure": "Lives with aging parent requiring care",
+        "friendship_circle": "Small group of golf buddies + healthcare colleagues",
+        "community_involvement": "Volunteers at Nine Lives Resale shop",
+        "online_vs_offline_engagement": "60% offline (golf/work), 40% online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Toledo Blade eBlade, pre-round stretching",
+        "workday_habits": "Coordinates patient care schedules, 2-3 meetings daily",
+        "evening_and_leisure": "Analyzes golf swing videos, shops online",
+        "weekend_activities": "Local golf tournaments, estate sale hunting",
+        "sleep_schedule": "11 PM - 6 AM (7 hrs, uses sleep tracker)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Low-impact cardio via golf, pescatarian diet",
+        "mental_health": "Uses Calm app, no current therapy",
+        "work_life_balance": "Strict 8-hour workday enforcement",
+        "health_related_digital_behavior": "Tracks steps via Fitbit, researches neuropathy treatments"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison charts for major purchases",
+        "brand_loyalty": "Strong in golf (Mizuno/KBS), switches healthcare suppliers",
+        "influence_factors": "Peer recommendations + expert reviews",
+        "tech_adoption": "Mainstream user (waits for v2 releases)",
+        "privacy_and_security_concerns": "Uses ADT signs, avoids public WiFi for financials"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, basic medical Spanish",
+        "travel_habits": "Regional Allegiant Air flights for golf events",
+        "personal_projects": "Building custom golf club set",
+        "unexpected_behavioral_traits": "Combines technical golf analytics with abstract swing artistry"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 52,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Prosper, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of Texas"
+        },
+        "occupation": "Financial Manager",
+        "company": "Texas Bank and Trust Company",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray side-parted",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Business-casual (collared shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Fiscal responsibility, community engagement, technological pragmatism",
+        "motivations": "Financial security, maintaining home/community, staying informed",
+        "cognitive_style": "Analytical with structured decision-making"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex queries (tax deductions, vehicle specs), recurring political/news topics",
+        "ad_interactions": "High engagement with footwear, home decor, and financial services",
+        "preferred_content_sources": "MSN News, Forbes Advisor, Expedia, banking portals",
+        "social_media_usage": "Passive Nextdoor engagement, no active public platforms",
+        "ecommerce_behavior": "Strategic bulk purchases (Sam's Club), seasonal home goods",
+        "device_usage": "Desktop-primary (banking/work), mobile-secondary (news)",
+        "subscriptions": "MSN Premium, Expedia+ Gold, Wine Enthusiast newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Financial management tools, enterprise software (Smartsheet)",
+        "hobbies": "Home improvement projects, fantasy sports, birdwatching",
+        "entertainment_preferences": "Political thrillers, classic rock, Texas sports teams",
+        "content_consumption": "Long-form political analysis, sports draft research",
+        "learning_style": "Self-guided research through official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven bulk purchases, planned upgrades (truck research)",
+        "income_level": "$90,000-$110,000 annually",
+        "investment_habits": "Moderate-risk (Fisher Investments interest)",
+        "financial_tools": "Multiple credit cards (Citi, Bank of America), digital wallets"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative leadership with emphasis on protocol",
+        "family_structure": "Married with adult children",
+        "friendship_circle": "Close-knit community group through Nextdoor",
+        "community_involvement": "Attends town meetings, follows local sports",
+        "online_vs_offline_engagement": "Balanced digital/in-person interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN News review, account balance checks",
+        "workday_habits": "Structured financial analysis blocks, video conferences",
+        "evening_and_leisure": "Sports highlights viewing, home project planning",
+        "weekend_activities": "Hardware store trips, fantasy sports management",
+        "sleep_schedule": "Regular 11PM-6AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity (gardening), balanced diet",
+        "mental_health": "News-informed stress management",
+        "work_life_balance": "Compartmentalized work/personal time",
+        "health_related_digital_behavior": "Occasional medical billing research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparisons (vehicle specs, tax rules)",
+        "brand_loyalty": "Sticks with proven brands (Ram Trucks, Bank of America)",
+        "influence_factors": "Expert specifications, local community trends",
+        "tech_adoption": "Mainstream user with enterprise tool familiarity",
+        "privacy_and_security_concerns": "Bank-level security prioritization"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Texan cultural identity",
+        "travel_habits": "Domestic US focus with European cruise aspirations",
+        "personal_projects": "Purple Martin habitat development, home theater setup",
+        "unexpected_behavioral_traits": "Political conservative with Taylor Swift fandom"
+    }
+}

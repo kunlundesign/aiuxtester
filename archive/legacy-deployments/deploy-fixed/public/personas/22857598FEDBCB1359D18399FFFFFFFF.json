@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Lucas Mendes",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "Portuguese-American",
+        "current_residence": "Elizabeth, USA",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Retail Associate / Part-Time Student",
+        "company": "Unknown",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Slender",
+            "Hairstyle": "Short fade",
+            "Skin color": "Olive",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual with occasional formalwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, cultural preservation",
+        "motivations": "Financial independence, style consciousness",
+        "cognitive_style": "Detail-oriented with practical decision-making"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused searches for formalwear, banking services, and entertainment news",
+        "ad_interactions": "High engagement with fashion/retail ads (Clicked 7/9 fashion-related ads)",
+        "preferred_content_sources": "Brand websites (78% of domains visited), news portals (AP News, MSN)",
+        "social_media_usage": "Limited (Only Twitch in preferred domains)",
+        "ecommerce_behavior": "Mid-range spending (Nordstrom/Bloomingdale's with budget options like Target)",
+        "device_usage": "Desktop dominant (Banking/fashion research requires larger screens)",
+        "subscriptions": "Banking alerts, retail newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Personal finance management",
+        "hobbies": "Online gaming (Poki.com), fashion research",
+        "entertainment_preferences": "Award shows, political commentary",
+        "content_consumption": "Mix of product specs and political news",
+        "learning_style": "Self-guided online research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious splurger (Combines luxury gowns with budget retailers)",
+        "income_level": "Lower-middle class (Multiple bank logins suggest account monitoring)",
+        "investment_habits": "Conservative (Only fidelity.netbenefits access)",
+        "financial_tools": "Multiple bank accounts, credit cards (Chase/Discover)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused (Banking searches show systematic approach)",
+        "family_structure": "Likely living with family (Multiple utility logins)",
+        "friendship_circle": "Small group (Limited social media presence)",
+        "community_involvement": "Portuguese diaspora connections (Lusitania Bank/Credito Agricola)",
+        "online_vs_offline_engagement": "Predominantly online transactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check banking/utility accounts",
+        "workday_habits": "Split between work/school/research",
+        "evening_and_leisure": "Online shopping sessions, gaming",
+        "weekend_activities": "Family responsibilities, event preparation",
+        "sleep_schedule": "Night owl (Gaming/online activity patterns)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Average (No fitness-related searches)",
+        "mental_health": "Stable (Consistent routines)",
+        "work_life_balance": "Leisure-integrated workflow",
+        "health_related_digital_behavior": "Minimal engagement"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison-driven (Multiple retail site visits)",
+        "brand_loyalty": "Situational (Mix of luxury and budget brands)",
+        "influence_factors": "Product details over social proof",
+        "tech_adoption": "Mainstream user",
+        "privacy_and_security_concerns": "Basic precautions (Multiple bank security checks)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (Portuguese/English)",
+        "travel_habits": "Limited (Flight search for TAP Portugal suggests family visits)",
+        "personal_projects": "Family financial management",
+        "unexpected_behavioral_traits": "Teen male demonstrating sophisticated formalwear purchasing patterns"
+    }
+}

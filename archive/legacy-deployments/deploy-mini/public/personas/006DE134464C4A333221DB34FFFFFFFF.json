@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Carter",
+        "age": 58,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Apex, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Culinary Arts",
+            "institution": "Wake Technical Community College"
+        },
+        "occupation": "Part-Time Catering Coordinator",
+        "company": "Local Event Planning Company",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length blonde waves",
+            "skin_color": "Fair",
+            "facial_features": "Round face with smile lines",
+            "dress_style": "Casual-chic with patterned blouses and comfortable Skechers slip-ons"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESFJ",
+        "beliefs_and_values": "Community-oriented values, practicality in resource management, importance of social connections",
+        "motivations": "Maintaining social connections, exploring new culinary experiences, achieving financial stability",
+        "cognitive_style": "Practical problem-solving with emotional intelligence"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical local searches (parks/services) combined with celebrity/entertainment queries",
+        "ad_interactions": "Engages with local services, beauty products, and employment opportunities",
+        "preferred_content_sources": "Facebook, AOL Mail, MSN lifestyle articles, local news sites",
+        "social_media_usage": "Daily Facebook engagement (photos/events), passive MSN browsing",
+        "ecommerce_behavior": "Budget-conscious online shopper (Temu/Amazon), occasional splurges on Skechers/Chico's",
+        "device_usage": "Windows desktop with Edge browser, secondary mobile use",
+        "subscriptions": "Amazon Prime, DoorDash occasional user, local news alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Hospitality industry trends, food cost management",
+        "hobbies": "Experimental cooking, park walks, following celebrity news",
+        "entertainment_preferences": "Reality TV (American Idol), Jennifer Lopez documentaries, true crime articles",
+        "content_consumption": "Quick recipes videos, long-form local news articles",
+        "learning_style": "Hands-on cooking experimentation with occasional online tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with selective quality investments (home services/shoes)",
+        "income_level": "$35,000-$45,000 annually",
+        "investment_habits": "Conservative (real estate interest but no visible investments)",
+        "financial_tools": "USAA banking, Amazon Store Card, basic retirement account"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player in catering events",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Close-knit local friends with weekly social gatherings",
+        "community_involvement": "Church volunteer, local food bank contributor",
+        "online_vs_offline_engagement": "Balanced mix with preference for in-person interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking AOL Mail and local weather",
+        "workday_habits": "Mid-morning to afternoon shifts coordinating food deliveries",
+        "evening_and_leisure": "Facebook browsing, recipe testing, MSN true crime reads",
+        "weekend_activities": "Farmers market visits, family dinners, park walks",
+        "sleep_schedule": "Regular 11PM-7AM schedule"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light cardio through daily errands, Mediterranean-inspired diet",
+        "mental_health": "Social connection as primary support, recent grief management research",
+        "work_life_balance": "Clear separation between part-time work and personal time",
+        "health_related_digital_behavior": "Occasional health food research, no fitness trackers"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with social validation (reads reviews/testimonials)",
+        "brand_loyalty": "Sticks with known brands (Skechers/Chico's) but price-sensitive",
+        "influence_factors": "Friend recommendations, online reviews, practical needs",
+        "tech_adoption": "Mainstream adopter (uses basic smartwatch features)",
+        "privacy_and_security_concerns": "Basic precautions (McAfee) but shares on social media"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English with Irish cultural appreciation",
+        "travel_habits": "Regional trips to Maine/NC coast, rare international travel",
+        "personal_projects": "Compiling family recipe book, community cookouts",
+        "unexpected_behavioral_traits": "Enjoys edgy true crime content despite conventional appearance"
+    }
+}

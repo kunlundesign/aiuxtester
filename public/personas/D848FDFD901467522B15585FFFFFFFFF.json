@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jeremy Carter",
+        "age": 39,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Phoenixville, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Computer Science/Data Management",
+            "institution": "California State University"
+        },
+        "occupation": "Freelance Data Analyst",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic build",
+            "hairstyle": "Short, neat cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Casual sportswear with tech accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology ethics advocate, supports creative commons principles",
+        "motivations": "Intellectual curiosity, creative problem-solving",
+        "cognitive_style": "Analytical thinker with creative implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (chemistry calculations, game modding) combined with entertainment research",
+        "ad_interactions": "Engages with educational/tech ads (Photoshop, SAT prep), ignores fashion ads",
+        "preferred_content_sources": "Reddit forums, YouTube tutorials, academic wikis",
+        "social_media_usage": "Passive Twitter/Reddit browsing, active Twitch viewership",
+        "ecommerce_behavior": "Mid-range sports equipment purchases, occasional tech splurges",
+        "device_usage": "Windows desktop primary, Android phone secondary",
+        "subscriptions": "Twitch Prime, Spotify Premium, Crunchbase Pro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Data visualization techniques, AI ethics debates",
+        "hobbies": "Model airplane building, retro gaming mods, hiking trails documentation",
+        "entertainment_preferences": "Indie folk music (Noah Kahan), sports documentaries",
+        "content_consumption": "Long-form technical guides with video supplements",
+        "learning_style": "Self-directed project-based learning"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven tech purchases, splurges on concert experiences",
+        "income_level": "$65,000-$80,000 annually",
+        "investment_habits": "Conservative index fund investor",
+        "financial_tools": "PayPal, Apple Pay, Fidelity investment account"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Remote collaboration via Slack/Discord",
+        "family_structure": "Single, lives alone in apartment",
+        "friendship_circle": "Online gaming community friends",
+        "community_involvement": "Local hiking group meetups",
+        "online_vs_offline_engagement": "80% digital/20% in-person interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks sports news and academic alerts with coffee",
+        "workday_habits": "Pomodoro technique with gaming breaks",
+        "evening_and_leisure": "Mods Minecraft worlds while streaming music",
+        "weekend_activities": "Day hikes with photography, local concerts",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Weekend hiker, uses Dick's Sporting Goods equipment",
+        "mental_health": "Sudoku for stress relief, gaming community support",
+        "work_life_balance": "Strict evening digital detox",
+        "health_related_digital_behavior": "Fitness tracker synced with Google Sheets"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with spreadsheet comparisons",
+        "brand_loyalty": "Adidas/Apple for tech, experiments with indie brands",
+        "influence_factors": "Reddit community reviews, technical specifications",
+        "tech_adoption": "Mainstream adopter after prototype testing",
+        "privacy_and_security_concerns": "Uses VPN for gaming, minimal social sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with basic Spanish",
+        "travel_habits": "Regional road trips to national parks",
+        "personal_projects": "Building historic weapon replicas in Minecraft",
+        "unexpected_behavioral_traits": "Analytical data worker who creates abstract furry art"
+    }
+}

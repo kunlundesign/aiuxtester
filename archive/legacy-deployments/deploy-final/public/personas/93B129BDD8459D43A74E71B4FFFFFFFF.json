@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 44,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "West Hartford, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Education or Mathematics",
+            "institution": "University of Connecticut"
+        },
+        "occupation": "Education Coordinator/Sports Coach",
+        "company": "Local School District/Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, trimmed",
+            "skin_color": "Light complexion",
+            "facial_features": "Clean-shaven, rectangular glasses",
+            "dress_style": "Casual (polos/khakis) for work, Lakers apparel for leisure"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Education advocacy, family-first mentality, civic engagement",
+        "motivations": "Youth development, maintaining work-life balance, staying politically informed",
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Education tools (88 math solver sessions), travel planning, political news verification",
+        "ad_interactions": "High engagement with educational tools/sports apparel ads",
+        "preferred_content_sources": "CNN (49 visits), POLITICO (41 visits), Microsoft education portals",
+        "social_media_usage": "Limited to news consumption via MSN/YouTube (8 visits)",
+        "ecommerce_behavior": "Budget-conscious (Temu orders), family-focused purchases",
+        "device_usage": "Windows/Edge dominant (48 Bing visits), mobile for email management",
+        "subscriptions": "Microsoft 365, Hulu/Apple TV, Prodigy Math premium features"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "EdTech integration, youth baseball program development",
+        "hobbies": "Hiking (AllTrails usage), DIY home projects, basketball fandom",
+        "entertainment_preferences": "Political documentaries, classic rock, family comedies",
+        "content_consumption": "Long-form political analysis (POLITICO), educational tutorials",
+        "learning_style": "Hands-on application (Prodigy/MathFactLab usage)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (Temu/Amazon deal comparisons), planned family expenses",
+        "income_level": "$65K-$85K (education/coaching composite income)",
+        "investment_habits": "Conservative (401k focus, no crypto activity observed)",
+        "financial_tools": "Credit cards (Amazon Prime usage), Google Pay"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team-builder (SportsEngine management)",
+        "family_structure": "Married with school-age children (Little League involvement)",
+        "friendship_circle": "Parent networks through sports/education",
+        "community_involvement": "Little League coach, local Democratic chapter member",
+        "online_vs_offline_engagement": "70% digital news consumption, 30% in-person community events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/news check (33 Gmail logins), school prep",
+        "workday_habits": "Split between classroom coordination and after-school sports",
+        "evening_and_leisure": "Family dinner, Prodigy progress tracking, news catch-up",
+        "weekend_activities": "Hiking trips, Little League games, home projects",
+        "sleep_schedule": "10:30 PM - 6:30 AM (early riser)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active lifestyle (hiking), occasional gym visits",
+        "mental_health": "News-informed stress management",
+        "work_life_balance": "Structured separation (email boundaries)",
+        "health_related_digital_behavior": "AllTrails tracking, occasional WebMD checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (cross-referenced news consumption)",
+        "brand_loyalty": "Microsoft ecosystem user, Target for family shopping",
+        "influence_factors": "Expert reviews (education tools), peer recommendations",
+        "tech_adoption": "Mainstream adopter (waits for proven solutions)",
+        "privacy_and_security_concerns": "Basic precautions (Google account management)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, New England cultural identity",
+        "travel_habits": "Annual family vacations (Disney/Cruise research)",
+        "personal_projects": "Youth baseball stats tracking system development",
+        "unexpected_behavioral_traits": "Conservative dresser with bold Lakers fandom expression"
+    }
+}

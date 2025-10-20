@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 48,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Pasadena, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Construction Management",
+            "institution": "Houston Community College"
+        },
+        "occupation": "Construction Contractor/Property Manager",
+        "company": "Self-Employed",
+        "physical_attributes": {
+            "Height": "6'1\"",
+            "Body_shape": "Athletic build",
+            "Hairstyle": "Short cropped hair",
+            "Skin_color": "Fair",
+            "Facial_features": "Square jawline with light stubble",
+            "Dress_Style": "Work boots, durable jeans, and casual plaid shirts"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, fiscal conservatism",
+        "motivations": "Business expansion, family security, mastery of technical skills",
+        "cognitive_style": "Structured problem-solving with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Construction materials (alloy X-750, naval brass), property management tools, vehicle customization",
+        "ad_interactions": "High engagement with construction equipment (press brakes), baseball gear, smart home tech",
+        "preferred_content_sources": "Manufacturer websites (McMaster-Carr), financial portals (Bankrate), MSN News",
+        "social_media_usage": "Passive Facebook engagement for local news/politics",
+        "ecommerce_behavior": "Bulk purchases of construction materials, occasional luxury items",
+        "device_usage": "Desktop Chrome user with secondary mobile use",
+        "subscriptions": "MSN Weather, Yahoo Mail, construction industry newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Metalworking techniques, real estate market trends, construction tech",
+        "hobbies": "Woodworking projects, recreational shooting, classic country line dancing",
+        "entertainment_preferences": "Country artists (Zach Top, George Strait), military history documentaries",
+        "content_consumption": "Technical guides with diagrams, local political news updates",
+        "learning_style": "Workshop-based training supplemented by manufacturer tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic business investments with selective luxury purchases (Lincoln vehicles)",
+        "income_level": "$85,000-$110,000 annually",
+        "investment_habits": "Commercial property acquisitions, equipment upgrades",
+        "financial_tools": "Business banking (Prosperity Bank), QuickBooks, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Project-based collaboration with subcontractors",
+        "family_structure": "Married with school-age children",
+        "friendship_circle": "Small group of tradespeople and hunting buddies",
+        "community_involvement": "Local business association member",
+        "online_vs_offline_engagement": "Prefers in-person deal-making with digital coordination"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/MSN News with coffee, reviews job sites",
+        "workday_habits": "On-site project supervision with afternoon office hours",
+        "evening_and_leisure": "Helps kids with math homework, watches DIY tutorials",
+        "weekend_activities": "Property maintenance, youth baseball games, range shooting",
+        "sleep_schedule": "Early riser (5:30 AM) with 11 PM bedtime"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength from manual labor, grilling/BBQ diet",
+        "mental_health": "Stress relief through physical projects",
+        "work_life_balance": "Blurred boundaries due to self-employment",
+        "health_related_digital_behavior": "Occasional OSHA guideline searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis with vendor reputation consideration",
+        "brand_loyalty": "Prefers established tool brands (Klein Tools, Leviton)",
+        "influence_factors": "Peer recommendations, warranty terms",
+        "tech_adoption": "Mainstream user favoring proven business solutions",
+        "privacy_and_security_concerns": "Basic precautions for financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Fourth-generation Texan with basic Portuguese phrases",
+        "travel_habits": "Regional road trips for equipment auctions",
+        "personal_projects": "Building custom utility sheds, restoring vintage ATVs",
+        "unexpected_behavioral_traits": "Analytical contractor who creates abstract metal sculptures"
+    }
+}

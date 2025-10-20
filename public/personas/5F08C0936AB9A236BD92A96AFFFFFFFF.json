@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 41,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Goshen, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Education or History",
+            "institution": "Pensacola Christian College (inferred from interest in Christian colleges)"
+        },
+        "occupation": "Homeschool Educator/Curriculum Coordinator",
+        "company": "Braintree Academy (inferred from repeated access to academy resources)",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average build",
+            "hairstyle": "Short, conservative cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Casual-professional (polo shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (explores diverse educational materials and luxury cars)",
+            "conscientiousness": "High (structured curriculum planning, budget tracking via YNAB)",
+            "extraversion": "Medium (community involvement in youth soccer but no social media prominence)",
+            "agreeableness": "High (family-oriented activities, educational focus)",
+            "neuroticism": "Low (consistent long-term real estate research)"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Educational empowerment, family-centric values, appreciation for historical legacy",
+        "motivations": "Providing quality education for children, financial stability through real estate",
+        "cognitive_style": "Structured yet curious (blends curriculum standards with exploratory history lessons)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep-dive research on educational standards, cross-referenced real estate listings",
+        "ad_interactions": "Engages with travel accommodations (Airbnb/Vrbo) and educational furniture ads",
+        "preferred_content_sources": "Zillow, WORLD Watch News, educational portals (Typing.com, ArgoPrep)",
+        "social_media_usage": "Minimal (Facebook for community connections)",
+        "ecommerce_behavior": "Research-intensive (compares tire specs, collects diecast models)",
+        "device_usage": "Desktop-focused (Google Slides/Docs usage, complex research tasks)",
+        "subscriptions": "YNAB for budgeting, Microsoft Office suite, Epic Games (child-related)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Homeschool curriculum development, Indiana Core 40 standards",
+        "hobbies": "Model car collecting, youth soccer coaching, historical research",
+        "entertainment_preferences": "Family-friendly theme parks (Universal Studios), Christian music",
+        "content_consumption": "Long-form educational resources mixed with practical tutorials",
+        "learning_style": "Structured self-learning (evolved from typing lessons to complex curriculum design)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious planner (compares hotel deals, tracks budget rigorously)",
+        "income_level": "Middle-class (educator salary with real estate investment aspirations)",
+        "investment_habits": "Conservative (focuses on tangible assets like property)",
+        "financial_tools": "YNAB budgeting, Chase banking services, cautious credit card use"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative educator (coordinates with Braintree Academy vendors)",
+        "family_structure": "Married with school-age children (youth soccer involvement)",
+        "friendship_circle": "Small community network (church and homeschool groups)",
+        "community_involvement": "First Baptist Church member, youth sports organizer",
+        "online_vs_offline_engagement": "Balanced (digital research complements in-person teaching)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Reviews educational materials with coffee, checks WORLD Watch News",
+        "workday_habits": "Structured teaching blocks interspersed with property research",
+        "evening_and_leisure": "Family meals, soccer practice coordination, model-building hobbies",
+        "weekend_activities": "Local trips to Indiana Beach Amusement Park, church events",
+        "sleep_schedule": "Early riser (aligns with educator/family routine)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through youth sports involvement, prefers homemade energy bites",
+        "mental_health": "Structured coping (religious community support, budget control)",
+        "work_life_balance": "Purposeful integration (blends teaching with family activities)",
+        "health_related_digital_behavior": "Researches liver-safe supplements, monitors news health alerts"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven comparison (evident in prolonged real estate research)",
+        "brand_loyalty": "Selective (prefers Google Workspace but shops tires competitively)",
+        "influence_factors": "Expert reviews (educational standards), practical needs (family size)",
+        "tech_adoption": "Mainstream user (adopts proven tools like Google Slides/Zillow)",
+        "privacy_and_security_concerns": "Moderate (uses mainstream platforms but limits social exposure)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern American, English monolingual",
+        "travel_habits": "Regional explorer (Michigan lake towns), occasional Orlando trips",
+        "personal_projects": "Developing homeschool history curriculum with Viking exploration focus",
+        "unexpected_behavioral_traits": "Combines conservative values with interest in daring fashion trends (noted MSN celebrity coverage)"
+    }
+}

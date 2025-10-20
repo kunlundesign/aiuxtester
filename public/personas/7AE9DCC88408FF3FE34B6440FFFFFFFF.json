@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 38,
+        "gender": "Female",
+        "nationality": "United States",
+        "current_residence": "Colorado Springs, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Healthcare Administration",
+            "institution": "Pikes Peak State College"
+        },
+        "occupation": "Remote Healthcare Coordinator",
+        "company": "Kantime Health",
+        "physical attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Shoulder-length straight hair",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup with focus on lip products",
+            "dress_style": "Casual athleisure mixed with edgy accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Work-life balance, privacy protection, accessible education",
+        "motivations": "Financial stability, professional development, family care",
+        "cognitive_style": "Structured problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent searches for retail discounts, healthcare resources, and math conversions",
+        "ad_interactions": "High engagement with grocery delivery and beauty product ads",
+        "preferred_content_sources": "Retail websites, healthcare portals, MSN drone videos",
+        "social_media_usage": "Passive Facebook/Youtube use for connection maintenance",
+        "ecommerce_behavior": "Budget-focused with coupon hunting across fashion/beauty",
+        "device_usage": "Mobile-first with Edge browser on Windows OS",
+        "subscriptions": "IPSY Glam Bag, DoorDash DashPass, Pogo rewards"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Telehealth platforms, autism support resources",
+        "hobbies": "Casual gaming (Pogo), bargain hunting, experimental cooking",
+        "entertainment_preferences": "Drone cinematography, Transformers movies",
+        "content_consumption": "Short tutorial videos + long-form health articles",
+        "learning_style": "Self-directed through online tutorials and webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious splurger on select beauty/fashion items",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative saver",
+        "financial_tools": "Shop Pay, PayPal Credit"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with collaborative telehealth teams",
+        "family_structure": "Single parent with school-aged children",
+        "friendship_circle": "Small trusted group maintaining digital connections",
+        "community_involvement": "Autism support network participant",
+        "online_vs_offline_engagement": "80% digital/20% in-person interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks work emails while coordinating family schedules",
+        "workday_habits": "Balances patient coordination with personal errands",
+        "evening_and_leisure": "Online gaming sessions after children's bedtime",
+        "weekend_activities": "Thrift shopping and meal prepping",
+        "sleep_schedule": "10:30 PM - 6:30 AM with occasional late-night browsing"
+    },
+    "Health & Well-being": {
+        "physical_health": "Intermittent yoga practice, on-the-go nutrition",
+        "mental_health": "Uses retail therapy as stress relief",
+        "work_life_balance": "Strict boundary enforcement after work hours",
+        "health_related_digital_behavior": "Researches prescription options and autism resources"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison shopper with impulse buys in beauty category",
+        "brand_loyalty": "Selective loyalty to Lululemon/Bath & Body Works",
+        "influence_factors": "Price comparisons, limited-time offers",
+        "tech_adoption": "Mainstream adopter favoring established platforms",
+        "privacy_and_security_concerns": "Selective use of tracking blockers"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in European trends",
+        "travel_habits": "Occasional domestic trips, cruise research",
+        "personal_projects": "Developing online math tutoring side hustle",
+        "unexpected_behavioral_traits": "Combines strict budgeting with high-end makeup splurges"
+    }
+}

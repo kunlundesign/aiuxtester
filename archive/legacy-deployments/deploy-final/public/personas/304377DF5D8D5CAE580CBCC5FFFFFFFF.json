@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Linda McCartney",
+        "age": 58,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Louisville, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "Local Ohio University"
+        },
+        "occupation": "Real Estate Agent",
+        "company": "John R. Wood Properties (Naples, FL)",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Chic short hair",
+            "skin_color": "Fair",
+            "facial_features": "Minimal wrinkles, wears light makeup",
+            "dress_style": "Business-casual with orthopedic footwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Financial responsibility, community support through furniture donations",
+        "motivations": "Career stability, maintaining professional reputation in real estate",
+        "cognitive_style": "Structured thinker with practical problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep product research (shoes/real estate), financial monitoring",
+        "ad_interactions": "High engagement with footwear ads and Amazon Prime",
+        "preferred_content_sources": "CNN, MSN, Zillow, banking portals",
+        "social_media_usage": "Passive Facebook engagement for news/community updates",
+        "ecommerce_behavior": "Budget-conscious with targeted purchases (7E shoes)",
+        "device_usage": "Desktop for real estate work, mobile for quick searches",
+        "subscriptions": "Amazon Prime, Citizens Bank alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Florida real estate market trends, MLS Matrix analytics",
+        "hobbies": "Interior decorating, Cuban cuisine exploration",
+        "entertainment_preferences": "Royal family documentaries, feel-good news stories",
+        "content_consumption": "Long-form real estate articles, celebrity lifestyle updates",
+        "learning_style": "Self-learning through industry portals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with splurges on travel/quality footwear",
+        "income_level": "Upper-middle class (historically)",
+        "investment_habits": "Conservative (Fidelity retirement accounts)",
+        "financial_tools": "PayPal, Synchrony Bank credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with client-focused approach",
+        "family_structure": "Empty nester (children possibly independent)",
+        "friendship_circle": "Small group of close confidants",
+        "community_involvement": "Furniture donations to St. Matthew's House",
+        "online_vs_offline_engagement": "Balanced mix with preference for in-person client meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks AOL email and market news",
+        "workday_habits": "MLS Matrix analysis between client appointments",
+        "evening_and_leisure": "MSN celebrity news, online shopping",
+        "weekend_activities": "Home decoration projects, Naples happy hours",
+        "sleep_schedule": "Early riser (6:00 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Requires orthopedic footwear, moderate walking",
+        "mental_health": "Uses real estate work as cognitive exercise",
+        "work_life_balance": "Blurred boundaries due to remote work habits",
+        "health_related_digital_behavior": "Researches podiatry services and ergonomic solutions"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with multiple product comparisons",
+        "brand_loyalty": "Strong for footwear brands offering 7E widths",
+        "influence_factors": "Professional reviews, product specifications",
+        "tech_adoption": "Mainstream user (comfortable with essential tools)",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern values with Florida seasonal exposure",
+        "travel_habits": "International cultural trips (UNESCO sites)",
+        "personal_projects": "Maintaining Naples real estate network remotely",
+        "unexpected_behavioral_traits": "Combines analytical real estate work with interest in celebrity lifestyle content"
+    }
+}

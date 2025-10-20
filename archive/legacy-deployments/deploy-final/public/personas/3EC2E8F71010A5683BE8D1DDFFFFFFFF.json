@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 22,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Roseburg, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Real Estate Assistant/Student",
+        "company": "Unknown",
+        "physical_attributes": {
+            "height": "5'8\"",
+            "body_shape": "Average",
+            "hairstyle": "Practical medium-length",
+            "skin_color": "Fair",
+            "facial_features": "Neutral expression with focused eyes",
+            "dress_style": "Casual-functional (jeans, hiking shoes, tactical gear brands)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, educational attainment, military service values",
+        "motivations": "Career advancement via military academy, financial stability through real estate",
+        "cognitive_style": "Analytical (SAT prep, GPA calculations) blended with creative fandom engagement"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches (military academies, vehicle specs), recurring fantasy universe exploration",
+        "ad_interactions": "High engagement with educational tools, vehicle ads, and book collections",
+        "preferred_content_sources": "Educational portals (College Board), automotive news (Torque News), real estate platforms (RMLSweb)",
+        "social_media_usage": "Limited professional use (LinkedIn), no visible mainstream platform activity",
+        "ecommerce_behavior": "Research-heavy (trucks, tactical gear), occasional branded apparel purchases",
+        "device_usage": "Desktop-focused (PDF management, real estate workflows), Android (Z Fold interest)",
+        "subscriptions": "Tesla updates, real estate listing alerts, fantasy book news"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Military career paths, real estate transactions, electric vehicle engineering",
+        "hobbies": "Fantasy literature analysis, outdoor gear customization, tactical vehicle mods",
+        "entertainment_preferences": "YA book-to-screen adaptations (Hunger Games), historical dark fantasy",
+        "content_consumption": "Long-form technical guides (SAT prep), bite-sized fandom content (ACOTAR quizzes)",
+        "learning_style": "Tool-driven self-learning (Desmos, converter apps), structured military training interest"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented major purchases (truck research), impulse buys on fantasy merchandise",
+        "income_level": "Lower-middle (student/entry-level real estate role)",
+        "investment_habits": "Conservative (education-focused), exploring real estate as asset class",
+        "financial_tools": "Traditional banking (auto loan applications), basic budgeting apps"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Detail-oriented collaborator (real estate document coordination)",
+        "family_structure": "Likely lives with family (Roseburg residency, military academy applications)",
+        "friendship_circle": "Niche interest groups (fantasy readers, tactical gear enthusiasts)",
+        "community_involvement": "Limited (focus on career/education goals)",
+        "online_vs_offline_engagement": "Prefers anonymous online research over social media visibility"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Weather checks, email triage (Gmail activity peaks)",
+        "workday_habits": "Split between academic prep and real estate support tasks",
+        "evening_and_leisure": "Fandom engagement (quizzes, book news), vehicle research",
+        "weekend_activities": "Property inspections, outdoor gear testing, college prep",
+        "sleep_schedule": "Balanced (9PM-6AM pattern implied by productivity)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active (hiking shoe research), no indicated medical concerns",
+        "mental_health": "Stress management via structured planning (SAT schedules)",
+        "work_life_balance": "Disciplined compartmentalization",
+        "health_related_digital_behavior": "Fitness tracking through outdoor gear purchases"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-validated (college requirements analysis, truck specs comparison)",
+        "brand_loyalty": "Hybrid (Tesla enthusiasm vs. price-conscious apparel choices)",
+        "influence_factors": "Institutional authority (military sources), technical specifications",
+        "tech_adoption": "Early mainstream (Z Fold interest, productivity tools)",
+        "privacy_and_security_concerns": "Basic precautions (no visible VPN/encryption use)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with Norwegian cultural curiosity",
+        "travel_habits": "Local (Oregon real estate focus), hypothetical Norway interest",
+        "personal_projects": "Military academy applications, vehicle modification plans",
+        "unexpected_behavioral_traits": "Combines tactical pragmatism with vivid fantasy imagination"
+    }
+}

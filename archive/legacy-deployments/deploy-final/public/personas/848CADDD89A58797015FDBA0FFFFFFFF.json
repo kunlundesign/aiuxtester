@@ -1,0 +1,131 @@
+{
+    "Core Identity": {
+        "full_name": "Jason Mitchell",
+        "age": 32,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Wilkinson Terrace, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Mechanical Engineering",
+            "institution": "Community College of Virginia"
+        },
+        "occupation": "Firearms Technician",
+        "company": "Virginia Arms & Custom",
+        "physical_attributes": {
+            "Height": "5'11\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short crew cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual workwear with utility pockets"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": [
+            "Second Amendment advocacy",
+            "Fiscal conservatism",
+            "Environmental conservation"
+        ],
+        "motivations": [
+            "Firearm craftsmanship mastery",
+            "Financial independence",
+            "Staying informed on geopolitical events"
+        ],
+        "cognitive_style": "Technical problem-solver with systems thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed technical queries (firearm schematics) combined with local weather checks and deal hunting",
+        "ad_interactions": "High engagement with firearms accessories and sports equipment ads",
+        "preferred_content_sources": [
+            "Specialized firearms forums",
+            "NBC12 local news",
+            "YouTube technical channels"
+        ],
+        "social_media_usage": {
+            "Platforms": [
+                "YouTube",
+                "Reddit"
+            ],
+            "frequency": "Daily",
+            "active_vs_passive": "Passive content consumption with occasional forum participation"
+        },
+        "ecommerce_behavior": "Research-intensive purchases for firearms parts and grocery deals",
+        "device_usage": "Desktop-dominant (85%) using Windows 11 and Edge browser",
+        "subscriptions": [
+            "NBC12 Weather Alerts",
+            "Guns.com newsletter",
+            "Kroger digital coupons"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Firearm ballistics",
+            "Precision machining techniques",
+            "Industry trade regulations"
+        ],
+        "hobbies": [
+            "Target shooting",
+            "Home gunsmithing",
+            "Meal prep cooking"
+        ],
+        "entertainment_preferences": {
+            "Music genres": "Country rock",
+            "Movie types": "Action documentaries",
+            "Favorite authors": "Massad Ayoob (firearms expert)"
+        },
+        "content_consumption": "Technical manuals and political commentary videos",
+        "learning_style": "Self-taught through video tutorials and specialist forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven with premium spending on firearms components",
+        "income_level": "$55,000 annual (skilled trades range)",
+        "investment_habits": "Conservative (CDs and treasury bonds)",
+        "financial_tools": [
+            "Kroger Rewards Card",
+            "Citi Double Cash Card",
+            "Wells Fargo checking"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor with mentoring junior staff",
+        "family_structure": "Single without children",
+        "friendship_circle": "Small group of shooting range companions",
+        "community_involvement": "NRA member, local food bank volunteer",
+        "online_vs_offline_engagement": "Balanced mix with preference for in-person technical discussions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks NBC12 weather and global news while coffee brewing",
+        "workday_habits": "Structured workshop time with afternoon parts inventory management",
+        "evening_and_leisure": "Firearm maintenance sessions and deal hunting for groceries",
+        "weekend_activities": "Range practice, automotive maintenance, bulk meal prep",
+        "sleep_schedule": "Night owl (12am-7am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular weight training, high-protein diet with meal prepping",
+        "mental_health": "Stress relief through precision hobbies",
+        "work_life_balance": "Compartmentalized work/personal time",
+        "health_related_digital_behavior": "WebMD symptom checks, fitness tracking via smartphone"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison-driven with technical specifications focus",
+        "brand_loyalty": "Strong preference for Browning and Tanfoglio firearms",
+        "influence_factors": "Peer recommendations in specialist forums",
+        "tech_adoption": "Early majority adopter for work-related tools",
+        "privacy_and_security_concerns": "Selective data sharing for loyalty programs"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Russian culture",
+        "travel_habits": "Regional road trips for shooting competitions",
+        "personal_projects": "Custom .22LR pistol modification",
+        "unexpected_behavioral_traits": "Combines tactical gear enthusiasm with gourmet cooking interest"
+    }
+}

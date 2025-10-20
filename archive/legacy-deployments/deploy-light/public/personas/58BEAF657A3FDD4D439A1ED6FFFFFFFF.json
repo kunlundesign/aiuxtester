@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 49,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Portland, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Finance/Economics",
+            "institution": "University of Oregon"
+        },
+        "occupation": "Financial Analyst/Advisor",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Average",
+            "hairstyle": "Short, graying",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Business casual"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Environmental conservation, financial literacy, disaster preparedness",
+        "motivations": "Financial independence, staying informed on global risks, adventure travel",
+        "cognitive_style": "Analytical with structured risk assessment"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex financial queries, location-specific travel research, technical disaster preparedness terms",
+        "ad_interactions": "High engagement with travel deals, tech gadgets, financial services",
+        "preferred_content_sources": "CNBC, MarketWatch, federal news networks, academic financial papers",
+        "social_media_usage": "LinkedIn for professional networking, X/Twitter for market trends",
+        "ecommerce_behavior": "Mid-to-high budget purchases on travel gear and tech accessories",
+        "device_usage": "Desktop-dominant (financial analysis), Edge browser",
+        "subscriptions": "CNBC Pro, Expedia+ rewards, Fidelity research tools"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Semiconductor ETFs, Bitcoin markets, federal energy policies",
+        "hobbies": "Hiking national parks, amateur photography, disaster preparedness planning",
+        "entertainment_preferences": "Documentaries about technology innovations, financial podcasts",
+        "content_consumption": "Long-form technical analyses with data visualization",
+        "learning_style": "Self-directed research through white papers and market reports"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious luxury (premium travel experiences, durable gear)",
+        "income_level": "$120k-$150k",
+        "investment_habits": "Aggressive in tech ETFs, conservative in real estate",
+        "financial_tools": "Fidelity/Schwab platforms, cryptocurrency wallets, mobile banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with collaborative client meetings",
+        "family_structure": "Married with teenage children",
+        "friendship_circle": "Small network of outdoor enthusiasts and finance professionals",
+        "community_involvement": "Local disaster response volunteer groups",
+        "online_vs_offline_engagement": "Online for research, offline for recreational activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "CNBC market open analysis, portfolio checks",
+        "workday_habits": "Three focused analysis blocks with client calls",
+        "evening_and_leisure": "Trip planning, technical hiking gear research",
+        "weekend_activities": "Mountain biking, family camping trips",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular hiking, low-carb diet with intermittent fasting",
+        "mental_health": "Outdoor activity for stress relief, no digital detox",
+        "work_life_balance": "Work-integrated lifestyle (60% work focus)",
+        "health_related_digital_behavior": "AllTrails app premium user, wilderness first aid research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with historical pattern analysis",
+        "brand_loyalty": "High in financial services (Schwab/Fidelity), medium in travel",
+        "influence_factors": "Technical white papers, SEC filings, expert technical analysis",
+        "tech_adoption": "Early mainstream adopter (waits for v1.1 products)",
+        "privacy_and_security_concerns": "High (uses 2FA, avoids social media oversharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, basic Spanish for travel",
+        "travel_habits": "Annual adventure trips (Costa Rica/Norway), prefers ecological lodges",
+        "personal_projects": "DIY home safety upgrades, local hiking trail mapping",
+        "unexpected_behavioral_traits": "Combines quantitative financial analysis with qualitative environmental risk assessments"
+    }
+}

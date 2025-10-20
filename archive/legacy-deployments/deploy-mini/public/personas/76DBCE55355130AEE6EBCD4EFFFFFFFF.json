@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Carter",
+        "age": 33,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Vacaville, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "California State University"
+        },
+        "occupation": "Logistics Coordinator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short fade",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual (graphic tees, jeans, sports watches)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical problem-solving, value-for-money consumerism",
+        "motivations": "Financial security, maintaining independence, automotive enthusiasm",
+        "cognitive_style": "Analytical with hands-on learning preference"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services mapping, product research, wrestling updates",
+        "ad_interactions": "High engagement with watches, automotive parts, bulk retailers",
+        "preferred_content_sources": "MSN News, WWE.com, automotive blogs",
+        "social_media_usage": "Passive Twitter/X user for news",
+        "ecommerce_behavior": "Budget-conscious bulk purchases (Sam's Club), occasional premium accessories",
+        "device_usage": "Windows desktop with Edge browser",
+        "subscriptions": "Netflix basic plan, WWE Network"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Supply chain optimization, freelance market trends",
+        "hobbies": "Classic car restoration, wrestling fandom, cooking experiments",
+        "entertainment_preferences": "WWE events, 80s rock music, car racing documentaries",
+        "content_consumption": "Factual articles with technical specifications",
+        "learning_style": "YouTube tutorials and manufacturer documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused bulk purchases with occasional splurges on watches",
+        "income_level": "$55,000-$65,000 annually",
+        "investment_habits": "Conservative 401(k) contributions",
+        "financial_tools": "Sam's Club membership, Visa credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with project-based collaboration",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small group of car enthusiasts",
+        "community_involvement": "Local car meetups",
+        "online_vs_offline_engagement": "Balanced with weekly in-person activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking traffic/weather, MSN news scan",
+        "workday_habits": "Multiple short task batches with map-based logistics planning",
+        "evening_and_leisure": "WWE streaming, auto parts research, pizza takeout",
+        "weekend_activities": "Car maintenance, Sam's Club shopping, wrestling PPV events",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Intermittent gym visits, high-protein diet",
+        "mental_health": "Stress relief through automotive projects",
+        "work_life_balance": "Flexible schedule with work-leisure integration",
+        "health_related_digital_behavior": "Occasional medical center research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with product comparison",
+        "brand_loyalty": "Established brands for tools, open to new options in apparel",
+        "influence_factors": "Professional reviews and peer recommendations",
+        "tech_adoption": "Mainstream user with selective upgrades",
+        "privacy_and_security_concerns": "Basic precautions without obsessiveness"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, California suburban culture",
+        "travel_habits": "Regional road trips for car events",
+        "personal_projects": "1980s Ford Mustang restoration",
+        "unexpected_behavioral_traits": "Combines mechanical precision with wrestling fandom"
+    }
+}

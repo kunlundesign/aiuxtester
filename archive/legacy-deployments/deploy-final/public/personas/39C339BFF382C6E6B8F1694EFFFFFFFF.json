@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Danielle Carter",
+        "age": 34,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Waldorf, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Psychology",
+            "institution": "University of Maryland"
+        },
+        "occupation": "Project Coordinator",
+        "company": "HITT Contracting",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Curvy",
+            "hairstyle": "Shoulder-length box braids",
+            "skin_color": "Medium brown",
+            "facial_features": "Round face with almond-shaped eyes",
+            "dress_style": "Casual chic with coquette-inspired details"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Advocacy for mental health awareness, support for Black cultural representation",
+        "motivations": "Child welfare improvement, maintaining organized home life, preserving nostalgic connections",
+        "cognitive_style": "Detail-oriented problem solver with emotional intelligence"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on ADHD management + doll collecting, combination of medical/educational queries and pop culture searches",
+        "ad_interactions": "High engagement with ADHD resources, moderate with fashion/beauty",
+        "preferred_content_sources": "Medical journals (WebMD), mainstream news (MSN), specialized forums (ADHD support groups)",
+        "social_media_usage": "Moderate Pinterest/YouTube use for DIY/organization content",
+        "ecommerce_behavior": "Budget-conscious for home goods, premium spending on collectibles",
+        "device_usage": "Mobile-first with desktop for research tasks, Android/Windows user",
+        "subscriptions": "Netflix, Canva Pro, ADHD parenting newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Construction industry trends, workplace mental health initiatives",
+        "hobbies": "Doll restoration, vintage TV show analysis, home organization projects",
+        "entertainment_preferences": "90s R&B (EarthGang), supernatural dramas, Black cinema",
+        "content_consumption": "Long-form parenting articles + quick DIY tutorials",
+        "learning_style": "Visual learner using Canva templates + hands-on workshops"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Strategic splurging on collectibles, price comparisons for household items",
+        "income_level": "$65,000-$75,000 annually",
+        "investment_habits": "Conservative with 401(k), experimental with collectible doll market",
+        "financial_tools": "Credit cards with rewards, PayPal for online purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player with strong deadline management",
+        "family_structure": "Single parent with elementary-aged child",
+        "friendship_circle": "Small group of childhood friends + online collector communities",
+        "community_involvement": "ADHD parent support groups, local performing arts volunteering",
+        "online_vs_offline_engagement": "Balanced mix, prefers online research but values in-person family time"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Medication management, NPR news briefings, packed lunch preparation",
+        "workday_habits": "Structured task lists with Google Calendar reminders, afternoon research breaks",
+        "evening_and_leisure": "Netflix binge-watching (Ghost Whisperer), doll customization projects",
+        "weekend_activities": "Thrift store hunts, skating center visits, recipe experimentation",
+        "sleep_schedule": "Night owl with 12am-7am pattern"
+    },
+    "Health & Well-being": {
+        "physical_health": "Intermittent yoga practice, pescatarian diet attempts",
+        "mental_health": "Mindful coloring for stress relief, online therapy consultations",
+        "work_life_balance": "Strict 6pm digital detox during weekdays",
+        "health_related_digital_behavior": "ADHD symptom tracking apps, WebMD symptom checker"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with pediatrician consultations",
+        "brand_loyalty": "Strong to Sanrio/American Girl, switches frequently for household goods",
+        "influence_factors": "Medical professionals' advice + collector community reviews",
+        "tech_adoption": "Early mainstream adopter (waits 6-12 months after launch)",
+        "privacy_and_security_concerns": "Selectively protective (medical data) but shares hobby content openly"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "African American with interest in Black cultural history",
+        "travel_habits": "Regional day trips to historical sites, avoids air travel",
+        "personal_projects": "Creating ADHD-friendly doll storage solutions",
+        "unexpected_behavioral_traits": "Analytical project manager who believes in supernatural phenomena from Ghost Whisperer"
+    }
+}

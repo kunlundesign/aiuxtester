@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ryan Carter",
+        "age": 34,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Rocklin, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Finance or Business Administration",
+            "institution": "Unknown"
+        },
+        "occupation": "Freelance Financial Consultant",
+        "company": "Upwork",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short, neat cut",
+            "Skin_color": "Fair",
+            "Facial_features": "Clean-shaven",
+            "Dress_style": "Business casual"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial pragmatism, career autonomy",
+        "motivations": "Career stability, debt management, side income opportunities",
+        "cognitive_style": "Analytical with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Tax preparation, real estate, professional certifications",
+        "ad_interactions": "High engagement with financial services, education, and luxury goods",
+        "preferred_content_sources": "Government portals (edfinancial), news sites (SacBee), e-commerce platforms",
+        "social_media_usage": "Passive consumption on Facebook and MSN",
+        "ecommerce_behavior": "Frequent purchases of practical items and collectibles",
+        "device_usage": "Desktop-centric (government/job sites), Windows/Edge",
+        "subscriptions": "OnlyFans, local news newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tax law updates, freelance marketplace trends",
+        "hobbies": "Collecting memorabilia, following celebrity news",
+        "entertainment_preferences": "True crime documentaries, tech industry news",
+        "content_consumption": "Factual long-form articles (tax guides) and brief news updates",
+        "learning_style": "Self-directed research with certification goals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional luxury splurges (watches)",
+        "income_level": "$60k-$80k annually",
+        "investment_habits": "Conservative (student debt focus)",
+        "financial_tools": "Credit cards (American Express), online banking (US Bank)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with client-focused interactions",
+        "family_structure": "Single, lives alone",
+        "friendship_circle": "Small group with shared professional interests",
+        "community_involvement": "Minimal formal engagement",
+        "online_vs_offline_engagement": "Primarily digital communication"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks email/news, monitors freelance job boards",
+        "workday_habits": "Client meetings, tax documentation, certification studying",
+        "evening_and_leisure": "Online shopping, celebrity news browsing",
+        "weekend_activities": "Estate planning research, local classifieds browsing",
+        "sleep_schedule": "Late night (11PM-7AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work habits, no explicit fitness routine",
+        "mental_health": "Stress management through structured work",
+        "work_life_balance": "Work-leaning with scheduled downtime",
+        "health_related_digital_behavior": "Reactive searches for ergonomic solutions"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with documented verification",
+        "brand_loyalty": "Mixed (trusts financial institutions, explores new e-commerce)",
+        "influence_factors": "Official guidelines (IRS), platform reviews",
+        "tech_adoption": "Mainstream user with selective upgrades",
+        "privacy_and_security_concerns": "Moderate (uses financial portals but engages with unsecured platforms)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, California cultural influences",
+        "travel_habits": "Local day trips, no frequent long-distance travel",
+        "personal_projects": "CDL certification pursuit, secondary income streams",
+        "unexpected_behavioral_traits": "Combines meticulous financial management with impulsive entertainment consumption"
+    }
+}

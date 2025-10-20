@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 35,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Fontana, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "California State University"
+        },
+        "occupation": "IT Specialist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short beard, trimmed hair",
+            "Skin color": "Light Brown",
+            "Facial features": "Clean-shaven face with defined jawline",
+            "Dress Style": "Casual techwear (gaming/graphic tees, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology optimism, pragmatic individualism",
+        "motivations": "Efficiency in personal/professional tools, staying current with tech trends",
+        "cognitive_style": "Analytical problem-solver with hands-on learning preference"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical comparisons (e.g., grooming tools), entertainment research (films/games), sports news",
+        "ad_interactions": "High engagement with grooming/tech ads",
+        "preferred_content_sources": "Wikipedia (technical specs), Reddit/YouTube (guides), MSN (sports/news)",
+        "social_media_usage": "Passive Instagram/Twitch consumption, active OnlyFans engagement",
+        "ecommerce_behavior": "Mid-range spending on tech/grooming, comparison shops",
+        "device_usage": "Windows desktop for research, mobile for social media",
+        "subscriptions": "OnlyFans creators, Xbox Game Pass, Twitch streamers"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Hardware optimization, streaming tech (OBS/Streamlabs)",
+        "hobbies": "Gaming (Fortnite/Valorant), film analysis, DIY tech projects",
+        "entertainment_preferences": "Action films (Marvel/Netflix), sports documentaries, EDM music",
+        "content_consumption": "Technical guides (YouTube), sports analysis (MSN), gaming streams",
+        "learning_style": "YouTube tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused tech/grooming purchases, impulse streaming subscriptions",
+        "income_level": "$65k-$80k annually",
+        "investment_habits": "Conservative (index funds), some crypto curiosity",
+        "financial_tools": "Credit cards, PayPal, cryptocurrency wallets"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor, collaborates via digital tools",
+        "family_structure": "Lives alone, maintains distant family ties",
+        "friendship_circle": "Online gaming communities, small local group",
+        "community_involvement": "Tech forums moderator, esports event volunteer",
+        "online_vs_offline_engagement": "80% digital (gaming/streaming), 20% local sports bars"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks sports news (MLB/Lakers), grooms beard",
+        "workday_habits": "Blocks time for client work/tech troubleshooting",
+        "evening_and_leisure": "Gaming sessions, Twitch streams, film streaming",
+        "weekend_activities": "Local tech meetups, gaming marathons, gym visits",
+        "sleep_schedule": "Night owl (1-2am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Gym 3x/week, protein-focused diet",
+        "mental_health": "Decompresses via gaming, avoids stress-tracking apps",
+        "work_life_balance": "Blurs lines due to freelance work",
+        "health_related_digital_behavior": "Men's Health articles, fitness YouTube channels"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Feature comparison tables + Reddit reviews",
+        "brand_loyalty": "Switches based on specs (e.g., Manscaped vs Freebird)",
+        "influence_factors": "Technical specifications, gamer influencer endorsements",
+        "tech_adoption": "Early mainstream adopter (waits for initial reviews)",
+        "privacy_and_security_concerns": "Basic precautions (VPN), trades data for convenience"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English (native), basic Spanish",
+        "travel_habits": "Regional tech conventions, Las Vegas esports events",
+        "personal_projects": "Custom PC builds, Twitch streaming setup optimization",
+        "unexpected_behavioral_traits": "Combines meticulous tech research with impulse streaming subscriptions"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jennifer Kimball",
+        "age": 48,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Wentzville, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Accounting",
+            "institution": "University of Missouri"
+        },
+        "occupation": "Certified Public Accountant",
+        "company": "K&R CPA",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Glasses, minimal makeup",
+            "dress_style": "Business casual (blouses, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, family-oriented values",
+        "motivations": "Professional accuracy, client trust, financial stability",
+        "cognitive_style": "Structured and detail-oriented"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Tax compliance, real estate valuations, automotive pricing, home improvement",
+        "ad_interactions": "High engagement with automotive/tax ads",
+        "preferred_content_sources": "Government portals (IRS), financial software (QuickBooks), Zillow",
+        "social_media_usage": "Minimal (Facebook for family connections)",
+        "ecommerce_behavior": "Researched purchases (cars, home goods)",
+        "device_usage": "Desktop (Edge browser, Windows OS)",
+        "subscriptions": "TurboTax, CanopyTax, Shutterfly"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Tax law updates, accounting software features",
+        "hobbies": "Home renovation, photo preservation",
+        "entertainment_preferences": "Oscars coverage, military history documentaries",
+        "content_consumption": "Factual articles (tax codes) > opinion pieces",
+        "learning_style": "Software tutorials, IRS webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious investments (real estate)",
+        "income_level": "$80,000-$100,000",
+        "investment_habits": "Conservative (property ownership)",
+        "financial_tools": "Chase Online, EFTPS, QuickBooks"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-focused, independent operator",
+        "family_structure": "Married with college-aged children",
+        "friendship_circle": "Small professional network",
+        "community_involvement": "School district substitute management",
+        "online_vs_offline_engagement": "Prefers email/portals over in-person meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks K&R CPA emails, reviews tax deadlines",
+        "workday_habits": "Client invoicing, payroll management, tax filings",
+        "evening_and_leisure": "Photo book creation, MSN news browsing",
+        "weekend_activities": "Property maintenance, car research",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work balanced with weekend home projects",
+        "mental_health": "Methodical approach to stress management",
+        "work_life_balance": "Strict separation via scheduled hours",
+        "health_related_digital_behavior": "AmbetterHealth portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (KBB valuations, MLS comparisons)",
+        "brand_loyalty": "Sticks with proven tools (TurboTax, QuickBooks)",
+        "influence_factors": "Official guidelines (IRS), Zillow analytics",
+        "tech_adoption": "Mainstream user (adopts vetted professional tools)",
+        "privacy_and_security_concerns": "High (uses secure client portals)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English speaker",
+        "travel_habits": "Occasional business trips (Denver address change)",
+        "personal_projects": "Family photo archiving via Shutterfly",
+        "unexpected_behavioral_traits": "Enjoys military aviation news despite non-combat career"
+    }
+}

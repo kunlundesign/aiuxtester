@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Rachel Cohen",
+        "age": 25,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Lexington, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Religious Studies",
+            "institution": "University of Kentucky"
+        },
+        "occupation": "Freelance Content Researcher",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Medium-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Round glasses, minimal makeup",
+            "Dress Style": "Casual-modest (long skirts, cardigans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Religious conservatism blended with intellectual curiosity",
+        "motivations": "Spiritual fulfillment, mastery of niche interests, maintaining cultural traditions",
+        "cognitive_style": "Conceptual synthesizer (connects disparate ideas through research)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep theological research, practical DIY queries, niche hobby deep-dives",
+        "ad_interactions": "Engages with tabletop gaming supplies, home improvement deals",
+        "preferred_content_sources": "Wikipedia, religious texts, specialty cooking blogs, D&D wikis",
+        "social_media_usage": "Passive Facebook user, niche forum lurker",
+        "ecommerce_behavior": "Budget-conscious specialty purchases (gaming miniatures, kitchen tools)",
+        "device_usage": "Windows desktop primary, Edge browser with multiple tabs",
+        "subscriptions": "MyJewishLearning.com, Dungeons & Dragons Beyond"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Comparative religion, semantic analysis of ancient texts",
+        "hobbies": "Tabletop RPG campaigns, experimental kosher cooking",
+        "entertainment_preferences": "80s cult films, military history documentaries",
+        "content_consumption": "Long-form analytical articles with cross-referenced sources",
+        "learning_style": "Self-directed research with structured note-taking"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with occasional splurges on hobby materials",
+        "income_level": "$35,000-$45,000",
+        "investment_habits": "Conservative saver",
+        "financial_tools": "Credit card rewards optimization, browser-based coupon finders"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor with periodic collaboration",
+        "family_structure": "Lives with immediate family",
+        "friendship_circle": "Close-knit gaming group and religious community",
+        "community_involvement": "Synagogue volunteer, local D&D meetup organizer",
+        "online_vs_offline_engagement": "Blended interaction (online research, in-person community activities)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Scripture study with coffee, local news check",
+        "workday_habits": "Block-scheduled research sessions interspersed with recipe testing",
+        "evening_and_leisure": "Campaign planning, moderated online forum participation",
+        "weekend_activities": "Family meals, gaming sessions, library visits",
+        "sleep_schedule": "Night owl (active until 1AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work balanced with weekly nature walks",
+        "mental_health": "Meditative prayer practices, community support networks",
+        "work_life_balance": "Strict Sabbath observance as boundary mechanism",
+        "health_related_digital_behavior": "Recipe nutrition analysis, ergonomic workspace research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with ethical framework evaluation",
+        "brand_loyalty": "Niche brand allegiance (D&D accessories, specific cookware)",
+        "influence_factors": "Religious authority alignment, peer-reviewed sources",
+        "tech_adoption": "Early majority adopter with privacy considerations",
+        "privacy_and_security_concerns": "Selective data sharing (avoids social media tracking)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Ashkenazi Jewish heritage, basic Hebrew literacy",
+        "travel_habits": "Cultural heritage trips (Israel planning), regional US explorations",
+        "personal_projects": "Creating kosher-D&D crossover recipe blog",
+        "unexpected_behavioral_traits": "Devout religious practice coexisting with edgy humor appreciation"
+    }
+}

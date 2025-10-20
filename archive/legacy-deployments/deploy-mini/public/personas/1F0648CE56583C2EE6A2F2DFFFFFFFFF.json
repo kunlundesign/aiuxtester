@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 29,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Mays Landing, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Graphic Design",
+            "institution": "Rowan University"
+        },
+        "occupation": "Freelance Graphic Designer",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short blonde pixie cut",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup with bold brows",
+            "dress_style": "Casual-chic with occasional edgy accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENFP",
+        "beliefs_and_values": "Animal welfare advocacy, Technology-enhanced creativity",
+        "motivations": "Creative expression, Pet care excellence, Home environment optimization",
+        "cognitive_style": "Visual thinker with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-platform research (celebrity news, MMA stats, graphic design tools)",
+        "ad_interactions": "High engagement with pet products/home decor",
+        "preferred_content_sources": "Reddit forums, MSN Entertainment, YouTube tutorials",
+        "social_media_usage": "Active Facebook Reels creator/passive Instagram scroller",
+        "ecommerce_behavior": "Strategic bargain hunter (Walmart/Amazon price comparisons)",
+        "device_usage": "Windows desktop primary/Frequent mobile checking",
+        "subscriptions": "Adobe Creative Cloud, Chewy Autoship, MSN Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "UI/UX trends, Freelance platform updates",
+        "hobbies": "Valorant esports spectating, MMA analysis, Pet photography",
+        "entertainment_preferences": "Celebrity documentaries, EDM remixes, True crime podcasts",
+        "content_consumption": "Quick video tutorials/In-depth Reddit threads mix",
+        "learning_style": "YouTube tutorial visual learner with Reddit peer validation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused splurger on pet/home items",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative 401(k) contributor",
+        "financial_tools": "PayPal, Visa Rewards card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Remote collaboration enthusiast",
+        "family_structure": "Single with two cats",
+        "friendship_circle": "Tight-knit online gaming community",
+        "community_involvement": "Local animal shelter volunteer",
+        "online_vs_offline_engagement": "70% digital/30% in-person blend"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking MMA news/design briefs",
+        "workday_habits": "Creative bursts between client Zooms",
+        "evening_and_leisure": "Valorant streams with Reddit sidebar browsing",
+        "weekend_activities": "Pet park outings/Craigslist furniture flipping",
+        "sleep_schedule": "Night owl (1AM-9AM rhythm)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Collagen supplement user/Light yoga practitioner",
+        "mental_health": "Pet therapy/Online community support",
+        "work_life_balance": "Flexible but project-driven",
+        "health_related_digital_behavior": "Red light mask research/Pet health forums"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Review aggregator with impulse exceptions",
+        "brand_loyalty": "Adobe/Canon loyalist, new pet product experimenter",
+        "influence_factors": "Reddit consensus/YouTube creator endorsements",
+        "tech_adoption": "Mainstream-plus early adopter",
+        "privacy_and_security_concerns": "Basic precautions enthusiast"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with gaming slang fluency",
+        "travel_habits": "Regional road trips with pet-friendly Airbnbs",
+        "personal_projects": "Animal shelter promo material design",
+        "unexpected_behavioral_traits": "MMA statistics analyst who creates Facebook Reels dance content"
+    }
+}

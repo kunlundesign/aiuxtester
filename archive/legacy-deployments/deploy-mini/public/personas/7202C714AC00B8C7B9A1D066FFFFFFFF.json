@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 78,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Huffman, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Mechanical Engineering",
+            "institution": "unknown"
+        },
+        "occupation": "Retired Marine Mechanic",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short grey hair",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles, clean-shaven",
+            "Dress Style": "Casual (polo shirts, work boots)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, nostalgia for vintage Americana",
+        "motivations": "Equipment maintenance mastery, preserving collectible value",
+        "cognitive_style": "Technical problem-solving with hands-on approach"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Complex technical queries (e.g., 'Suzuki DF250 fault codes'), collectible valuation research",
+        "ad_interactions": "High engagement with marine parts/repair ads, moderate with travel deals",
+        "preferred_content_sources": "Manufacturer forums (SuzukiOutboardForum), eBay, Fox News",
+        "social_media_usage": "Passive Facebook use for Messenger",
+        "ecommerce_behavior": "Budget-conscious parts/collectibles purchases",
+        "device_usage": "Desktop PC with Microsoft Edge",
+        "subscriptions": "DIRECTV STREAM, Netflix (limited use)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Marine engine diagnostics, outboard maintenance communities",
+        "hobbies": "Boat maintenance, vintage magazine collecting",
+        "entertainment_preferences": "Classic rock, Western films",
+        "content_consumption": "Technical manuals, nostalgic listicles",
+        "learning_style": "Self-taught through repair forums"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused (Sam's Club, eBay bids)",
+        "income_level": "Middle-class retiree",
+        "investment_habits": "Conservative (CDs/local bank)",
+        "financial_tools": "ACU of Texas banking, Chase credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent problem-solver",
+        "family_structure": "Likely widowed/living alone",
+        "friendship_circle": "Small group of fishing/boating peers",
+        "community_involvement": "Local rodeo attendance",
+        "online_vs_offline_engagement": "Prefers face-to-face hardware store interactions"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "AOL Mail check, local news review",
+        "workday_habits": "Boat maintenance projects, parts ordering",
+        "evening_and_leisure": "DIRECTV news watching, eBay browsing",
+        "weekend_activities": "Fishing trips, rodeo events",
+        "sleep_schedule": "Early riser (6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through boat maintenance",
+        "mental_health": "Stable (no indicated distress signals)",
+        "work_life_balance": "Leisure-focused retirement",
+        "health_related_digital_behavior": "MyChart medical portal usage"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (cross-references eBay prices)",
+        "brand_loyalty": "Strong (Suzuki, AOL)",
+        "influence_factors": "Peer recommendations, historical value data",
+        "tech_adoption": "Selective (adopts practical smart home tech)",
+        "privacy_and_security_concerns": "Low (uses Edge security features)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Texan cultural identity",
+        "travel_habits": "Caribbean resort trips (Jamaica research)",
+        "personal_projects": "Restoring vintage outboard motors",
+        "unexpected_behavioral_traits": "Combines mechanical pragmatism with Playboy collectible curation"
+    }
+}

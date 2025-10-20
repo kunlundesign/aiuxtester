@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Littleton, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Accounting or Public Administration",
+            "institution": "unknown"
+        },
+        "occupation": "Government Auditor or Compliance Officer",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "unknown",
+            "Body shape": "unknown",
+            "Hairstyle": "unknown",
+            "Skin color": "unknown",
+            "Facial features": "unknown",
+            "Dress Style": "Business casual for office work"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Government accountability, legal compliance, professional integrity",
+        "motivations": "Career advancement in public sector, mastery of regulatory frameworks",
+        "cognitive_style": "Analytical with structured problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Government audit standards, legal processes, municipal codes (e.g., 'Yellow Book standards', 'class 1 municipal offense')",
+        "ad_interactions": "High engagement with government job listings, legal services, and professional tools (Adobe Acrobat)",
+        "preferred_content_sources": "Government portals (GAO, Colorado Judicial Branch), MarketWatch, legal databases",
+        "social_media_usage": "Low activity; passive news consumption via MSN",
+        "ecommerce_behavior": "Software purchases (Adobe, McAfee), budget-conscious spending",
+        "device_usage": "Windows/Edge dominant (per Microsoft domains)",
+        "subscriptions": "CPE courses, government job alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Audit compliance, municipal law, public sector career development",
+        "hobbies": "Political news analysis, local community engagement",
+        "entertainment_preferences": "Documentaries on governance, tech tutorials",
+        "content_consumption": "Long-form legal documents and procedural guides",
+        "learning_style": "Structured professional certifications (CPE credits)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Practical purchases aligned with career needs",
+        "income_level": "$45,000-$60,000 (entry-level government role)",
+        "investment_habits": "Conservative (no observed financial risk-taking)",
+        "financial_tools": "Traditional banking, employer benefits"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor with compliance focus",
+        "family_structure": "Likely lives alone (no familial search patterns)",
+        "friendship_circle": "Small professional network",
+        "community_involvement": "Follows local policy matters (Colorado consumer complaints)",
+        "online_vs_offline_engagement": "Prefers digital workflows but attends in-person court proceedings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks government email/portals, reviews audit documentation",
+        "workday_habits": "Structured tasks with legal research components",
+        "evening_and_leisure": "Job applications, software troubleshooting (Adobe issues)",
+        "weekend_activities": "Local errands (parking searches), light political news reading",
+        "sleep_schedule": "Regular hours aligned with office job"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary desk job with occasional walks (parking-related searches)",
+        "mental_health": "Stress management through structured workflows",
+        "work_life_balance": "Moderate separation (work-related searches dominate)",
+        "health_related_digital_behavior": "Basic cybersecurity focus (McAfee usage)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Rule-based (adherence to audit standards)",
+        "brand_loyalty": "Microsoft ecosystem (Edge, Xfinity email)",
+        "influence_factors": "Government guidelines, professional certifications",
+        "tech_adoption": "Mainstream user (Adobe tools, McAfee)",
+        "privacy_and_security_concerns": "Moderate (antivirus use but no advanced measures)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Local Colorado focus (Pueblo/Denver area queries)",
+        "personal_projects": "Legal record expungement efforts",
+        "unexpected_behavioral_traits": "Combines rigid compliance work with interest in volatile political news"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Vanessa Houston-Pearsall",
+        "age": 33,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Statesboro, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "General Studies",
+            "institution": "Georgia Connections Academy"
+        },
+        "occupation": "Freelance Digital Content Moderator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Black box braids",
+            "skin_color": "Medium brown",
+            "facial_features": "Round face with full lips",
+            "dress_style": "Casual graphic tees and jeans"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technology accessibility, social justice reform",
+        "motivations": "Financial stability, creative expression through gaming",
+        "cognitive_style": "Practical problem-solver with technical aptitude"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Gaming hacks, tax guidance, music lyrics, VR tech",
+        "ad_interactions": "High engagement with gaming/tech ads, moderate with adult content",
+        "preferred_content_sources": "YouTube tutorials, gaming wikis, government portals",
+        "social_media_usage": "YouTube (daily), Reddit (weekly), Facebook (occasionally)",
+        "ecommerce_behavior": "Budget-focused tech purchases, occasional gaming microtransactions",
+        "device_usage": "Windows desktop primary, Android mobile secondary",
+        "subscriptions": "YouTube Premium, Roblox Premium, TurboTax"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "VR development, content moderation tools",
+        "hobbies": "Roblox modding, anime fan art, DIY tech repairs",
+        "entertainment_preferences": "Funk music, anime adaptations, horror games",
+        "content_consumption": "Gaming tutorials > news articles > short memes",
+        "learning_style": "Video tutorials with hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Cost-conscious but invests in gaming/tech",
+        "income_level": "$35k-$45k annually",
+        "investment_habits": "Conservative with retirement accounts",
+        "financial_tools": "PayPal, prepaid debit cards, TurboTax"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with multiple clients",
+        "family_structure": "Single mother with two school-age children",
+        "friendship_circle": "Online gaming communities > local contacts",
+        "community_involvement": "Monitors local school board initiatives",
+        "online_vs_offline_engagement": "80% digital/20% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Georgia Gateway benefits portal, manages kids' virtual school logins",
+        "workday_habits": "Alternates between content moderation tasks and gaming sessions",
+        "evening_and_leisure": "Roblox parenting with children, anime streaming",
+        "weekend_activities": "Local park tech meetups, gaming marathons",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work offset by weekend walks",
+        "mental_health": "Uses gaming as stress relief, no formal therapy",
+        "work_life_balance": "Blurred boundaries due to freelance nature",
+        "health_related_digital_behavior": "Occasional WebMD searches, no fitness trackers"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Utilitarian with risk/reward analysis",
+        "brand_loyalty": "Prefers established tech brands but hunts deals",
+        "influence_factors": "User reviews > influencer opinions",
+        "tech_adoption": "Early majority adopter",
+        "privacy_and_security_concerns": "Basic antivirus use, limited data protection"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "African American Southern English",
+        "travel_habits": "Regional day trips, no international travel",
+        "personal_projects": "Developing Roblox obstacle courses, anime fan edits",
+        "unexpected_behavioral_traits": "Combines adult content consumption with strict parental controls for children"
+    }
+}

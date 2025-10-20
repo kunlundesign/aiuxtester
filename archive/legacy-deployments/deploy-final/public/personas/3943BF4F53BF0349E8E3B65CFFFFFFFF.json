@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Alexandra Carter",
+        "age": 21,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Spring, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Graphic Design",
+            "institution": "Lone Star College"
+        },
+        "occupation": "Freelance Digital Artist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "165cm",
+            "body_shape": "Slim",
+            "hairstyle": "Long dyed pastel highlights",
+            "skin_color": "Fair",
+            "facial_features": "Round glasses, minimal makeup",
+            "dress_style": "Casual anime/gaming graphic tees with jeans"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, creative expression",
+        "motivations": "Mastery of gaming systems, artistic creation",
+        "cognitive_style": "Analytical problem-solving combined with visual creativity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep vertical searches on game mechanics (83% Arcane Lineage queries)",
+        "ad_interactions": "Engages with anime merchandise/LEGO ads (6/8 clicked ads)",
+        "preferred_content_sources": "Fandom wikis, YouTube tutorials, Reddit communities",
+        "social_media_usage": "YouTube (daily), Reddit (weekly), Discord (daily)",
+        "ecommerce_behavior": "Mid-range spending on hobby materials",
+        "device_usage": "Windows PC + mobile, Edge browser",
+        "subscriptions": "YouTube Premium, Discord Nitro"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Character design, game asset creation",
+        "hobbies": "Roblox modding, D&D campaign design, anime cosplay",
+        "entertainment_preferences": "Jujutsu Kaisen, RPG soundtracks, MoistCr1TiKAL streams",
+        "content_consumption": "15-30 minute YouTube guides + wiki deep dives",
+        "learning_style": "Experimental tinkering with documented references"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused but invests in core hobbies",
+        "income_level": "$25k-$35k annually",
+        "investment_habits": "Conservative",
+        "financial_tools": "PayPal, Affirm installment payments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Solo creator collaborating through Discord",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "Online gaming communities > IRL friends",
+        "community_involvement": "Active in Roblox modding groups",
+        "online_vs_offline_engagement": "90% digital interaction"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check Discord/YouTube notifications during breakfast",
+        "workday_habits": "Afternoon/evening creative sessions with ASMR background",
+        "evening_and_leisure": "Guild raids, character builds, wiki editing",
+        "weekend_activities": "Multi-hour gaming sessions, Etsy shopping",
+        "sleep_schedule": "Night owl (1-3am bedtime)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary lifestyle mitigated by VR gaming",
+        "mental_health": "Uses ASMR for stress management",
+        "work_life_balance": "Blurred boundaries due to passion projects",
+        "health_related_digital_behavior": "Occasional fitness app experiments"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with community validation",
+        "brand_loyalty": "Prefers niche gaming/anime brands",
+        "influence_factors": "YouTuber recommendations, wiki consensus",
+        "tech_adoption": "Early majority for gaming tech",
+        "privacy_and_security_concerns": "Basic precautions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with anime JP phrases",
+        "travel_habits": "Virtual tourism through gaming worlds",
+        "personal_projects": "Developing custom Roblox assets",
+        "unexpected_behavioral_traits": "Combines mechanical engineering interest (LEGO/gearbox articles) with fantasy gaming"
+    }
+}

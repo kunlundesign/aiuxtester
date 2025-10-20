@@ -1,0 +1,127 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Tucson, USA",
+        "education": {
+            "degree": "Associate's Degree in Progress",
+            "major": "Wildlife and Fisheries Management",
+            "institution": "Pima Community College"
+        },
+        "occupation": "Part-Time Retail Associate",
+        "company": "Unknown",
+        "physical attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, casual cut",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven with rectangular glasses",
+            "dress_style": "Casual workwear (jeans, graphic tees, utility jacket)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": [
+            "Practical craftsmanship",
+            "Financial freedom aspiration"
+        ],
+        "motivations": [
+            "Mastering woodworking skills",
+            "Achieving financial independence"
+        ],
+        "cognitive_style": "Solution-oriented tinkerer"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision tool searches + exploratory travel planning",
+        "ad_interactions": "High engagement with automotive/maker-space ads",
+        "preferred_content_sources": [
+            "YouTube tutorials",
+            "Niche woodworking forums",
+            "Autotrader listings"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "Facebook Marketplace",
+                "Reddit DIY communities"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive browsing, active marketplace interactions"
+        },
+        "ecommerce_behavior": "Budget-focused tool acquisitions",
+        "device_usage": "Desktop for project research, mobile for quick purchases",
+        "subscriptions": [
+            "Microsoft 365",
+            "Woodcraft newsletter"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "Sustainable material sourcing",
+            "Tool maintenance techniques"
+        ],
+        "hobbies": [
+            "Pallet furniture creation",
+            "Vintage tool restoration"
+        ],
+        "entertainment_preferences": [
+            "Maker YouTube channels",
+            "Travel documentaries"
+        ],
+        "content_consumption": "Detailed project guides > quick tips",
+        "learning_style": "Experimental trial-and-error"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk material purchases",
+        "income_level": "$18k-$24k annually",
+        "investment_habits": "Conservative",
+        "financial_tools": [
+            "PayPal",
+            "Entry-level credit card"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Task-focused collaborator",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "Small maker community connections",
+        "community_involvement": "Local woodworking meetups",
+        "online_vs_offline_engagement": "70% digital/30% in-person"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks lottery results > scans tool marketplace alerts",
+        "workday_habits": "Balances shift work with evening projects",
+        "evening_and_leisure": "Workshop sessions 8-10pm",
+        "weekend_activities": "Scrap material hunts > project prototyping",
+        "sleep_schedule": "12am-7am (varies with project deadlines)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength from workshop labor",
+        "mental_health": "Stress relief through creative projects",
+        "work_life_balance": "Project-driven time allocation",
+        "health_related_digital_behavior": "Ergonomics research for tool use"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost/benefit analysis with occasional gambling",
+        "brand_loyalty": "Hybrid (tools: brand-specific, general: price-driven)",
+        "influence_factors": [
+            "User reviews",
+            "Project feasibility"
+        ],
+        "tech_adoption": "Practical early adopter (AI woodworking assistants)",
+        "privacy_and_security_concerns": "Low (prioritizes convenience)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southwest US cultural influences",
+        "travel_habits": "Domestic road trips to source materials",
+        "personal_projects": "Building modular workshop storage system",
+        "unexpected_behavioral_traits": "Combines mechanical precision with lottery risk-taking"
+    }
+}

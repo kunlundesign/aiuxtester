@@ -1,0 +1,85 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Johnson",
+        "age": 22,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Gettysburg, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Elementary Education",
+            "institution": "Local Pennsylvania University"
+        },
+        "occupation": "Elementary School Teacher",
+        "company": "Local Elementary School",
+        "physical_attributes": "unknown"
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Education accessibility, financial pragmatism",
+        "motivations": "Career stability, budget travel, home improvement",
+        "cognitive_style": "Analytical planner with practical execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Travel logistics (airlines/hotels), home improvement, education resources",
+        "ad_interactions": "High engagement with travel/hotel deals (12/15 ad clicks)",
+        "preferred_content_sources": "MSN News, airline/hotel sites, educational platforms",
+        "social_media_usage": "Facebook for passive connection (EPEvents)",
+        "ecommerce_behavior": "Budget-focused (Walmart/Lowe's searches, Marshalls domain)",
+        "device_usage": "Windows/Edge desktop (Bing/Edge dominance)",
+        "subscriptions": "MSN News, Southwest Airlines alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Bilingual education tools (Spanish resources searches)",
+        "hobbies": "Home decoration, lottery participation, trip planning",
+        "entertainment_preferences": "News analysis, travel shows",
+        "content_consumption": "Factual articles (MSNEvents) with practical applications",
+        "learning_style": "Resource curation (classroom material searches)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (park-sleep-fly comparisons, Walmart/Lowe's use)",
+        "income_level": "$35k-$45k (PA teacher salary range)",
+        "investment_habits": "unknown",
+        "financial_tools": "PNC Bank (EPEvents), credit cards (travel bookings)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative educator (Spanish resource sharing)",
+        "family_structure": "unknown",
+        "friendship_circle": "Small close group (limited social media traces)",
+        "community_involvement": "Education-focused (teaching materials research)",
+        "online_vs_offline_engagement": "Balanced (trip planning vs local restaurant searches)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Weather check (daily MSN Weather visits)",
+        "workday_habits": "Classroom preparation, student engagement",
+        "evening_and_leisure": "Travel research, home projects",
+        "weekend_activities": "Local dining (Chinese food searches), lottery participation",
+        "sleep_schedule": "unknown"
+    },
+    "Health & Well-being": {
+        "physical_health": "unknown",
+        "mental_health": "unknown",
+        "work_life_balance": "Moderate (scheduled trip planning alongside work)",
+        "health_related_digital_behavior": "Weather tracking for activity planning"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (multiple hotel/airline comparisons)",
+        "brand_loyalty": "Opportunistic (Wyndham/Southwest/Choice Hotels interactions)",
+        "influence_factors": "Price comparisons, package deals",
+        "tech_adoption": "Mainstream user (dominant platform usage)",
+        "privacy_and_security_concerns": "Basic caution (banking logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English native, Spanish teaching focus",
+        "travel_habits": "Regional trips (PA/MD locations), budget-conscious",
+        "personal_projects": "Classroom decoration (Walmart blinds search)",
+        "unexpected_behavioral_traits": "Analytical planner who regularly plays lottery games"
+    }
+}

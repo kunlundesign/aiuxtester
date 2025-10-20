@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Leilani Kahanamoku",
+        "age": 18,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Kaneohe, USA",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Student/Part-time Worker",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Long wavy black hair",
+            "Skin color": "Medium tan",
+            "Facial features": "Round face with almond-shaped eyes",
+            "Dress Style": "Casual (graphic tees, shorts) with occasional floral patterns"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFP",
+        "beliefs_and_values": "Technology optimism, interest in Hawaiian cultural preservation",
+        "motivations": "Creative expression through art, financial independence through casino gaming",
+        "cognitive_style": "Creative problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic searches (gaming strategies, tax preparation, floral arrangement tutorials)",
+        "ad_interactions": "High engagement with casino/sweepstakes ads, responds to tax service promotions",
+        "preferred_content_sources": "YouTube tutorials, gaming forums, MSN news headlines",
+        "social_media_usage": "Passive YouTube consumption, occasional Facebook/Instagram browsing",
+        "ecommerce_behavior": "Microtransactions in gaming platforms, sweepstakes entries",
+        "device_usage": "Mobile-first (Android), Edge browser for casino access",
+        "subscriptions": "YouTube Music, multiple social casino platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Real estate career exploration, gaming industry trends",
+        "hobbies": "Digital art creation, car customization in Drift Hunters, floral arrangement",
+        "entertainment_preferences": "Reggae music, comedy shorts, competitive gaming streams",
+        "content_consumption": "Short-form video tutorials, gaming strategy content",
+        "learning_style": "Visual learning through YouTube demonstrations"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with occasional gambling splurges",
+        "income_level": "Low (student/part-time income)",
+        "investment_habits": "Risk-tolerant in gaming investments",
+        "financial_tools": "Cash App transactions, prepaid debit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative in team gaming contexts",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "Online gaming community connections",
+        "community_involvement": "Passive interest in local environmental issues",
+        "online_vs_offline_engagement": "Primarily digital socialization"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks YouTube notifications with breakfast",
+        "workday_habits": "Balances school/work with gaming sessions",
+        "evening_and_leisure": "Art creation and multiplayer gaming",
+        "weekend_activities": "Beach outings, extended gaming tournaments",
+        "sleep_schedule": "Variable (night owl tendencies)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual outdoor activities, inconsistent exercise routine",
+        "mental_health": "Uses gaming as stress relief, occasional mindfulness through art",
+        "work_life_balance": "Moderate digital consumption management",
+        "health_related_digital_behavior": "Occasional fitness video consumption"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Impulsive in gaming, analytical in financial matters",
+        "brand_loyalty": "Switches based on promotional offers",
+        "influence_factors": "Social media trends, gaming community recommendations",
+        "tech_adoption": "Early adopter of gaming platforms",
+        "privacy_and_security_concerns": "Low priority for convenience"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Hawaiian Pidgin English speaker, basic Japanese understanding",
+        "travel_habits": "Local island exploration preferred",
+        "personal_projects": "Developing digital art portfolio, custom game mods",
+        "unexpected_behavioral_traits": "Combines strategic tax research with high-risk gaming behavior"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 32,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Greenwood, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Computer Science",
+            "institution": "unknown"
+        },
+        "occupation": "IT Specialist/Freelance RPG Content Creator",
+        "company": "Freelance",
+        "physical attributes": {
+            "height": "6'1\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, neat",
+            "skin_color": "Caucasian",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual (golf polos, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Technology optimism, interest in strategic problem-solving",
+        "motivations": "Intellectual mastery of RPG systems, golf skill improvement",
+        "cognitive_style": "Analytical with creative system-building tendencies"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep RPG rule research, local news monitoring, golf equipment comparisons",
+        "ad_interactions": "High engagement with golf equipment ads, occasional tech/entertainment clicks",
+        "preferred_content_sources": "D&D Beyond, Pathfinder Wiki, Yahoo News, PGA Tour",
+        "social_media_usage": "Reddit/Discord for RPG communities, passive Twitter/X browsing",
+        "ecommerce_behavior": "Mid-range spending on hobby equipment, compares prices",
+        "device_usage": "Desktop primary (RPG tools), Edge browser",
+        "subscriptions": "D&D Beyond Master Tier, Foundry VTT modules"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Virtual tabletop tech optimization, game mechanics design",
+        "hobbies": "Dungeon Mastering campaigns, golfing, guitar effects tinkering",
+        "entertainment_preferences": "Fantasy novels, classic rock, strategy games",
+        "content_consumption": "Long-form RPG guides blended with quick sports updates",
+        "learning_style": "Self-directed research with community feedback"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused on gear, splurges on premium RPG content",
+        "income_level": "$55k-$70k annually",
+        "investment_habits": "Conservative with 401(k), no visible risk investments",
+        "financial_tools": "Credit cards, PayPal, Venmo"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor, occasional team coordination",
+        "family_structure": "Likely single, no children",
+        "friendship_circle": "Close-knit gaming group, golf buddies",
+        "community_involvement": "Local game store events organizer",
+        "online_vs_offline_engagement": "80% digital interaction, 20% in-person hobbies"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while scanning Yahoo News/PGA updates",
+        "workday_habits": "Block scheduling for client work/RPG prep",
+        "evening_and_leisure": "Online gaming sessions, guitar practice",
+        "weekend_activities": "Saturday golf rounds, Sunday campaign hosting",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through golf, monitors cardiac health",
+        "mental_health": "Stress relief through creative world-building",
+        "work_life_balance": "Blurred lines due to hobby-as-work",
+        "health_related_digital_behavior": "Occasional medical research, fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with RPG-inspired contingency planning",
+        "brand_loyalty": "Prefers established golf brands, experiments with indie RPG content",
+        "influence_factors": "Niche community endorsements, technical specs",
+        "tech_adoption": "Early adopter for gaming tools, gradual for other tech",
+        "privacy_and_security_concerns": "Low priority outside financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern US English, basic Spanish comprehension",
+        "travel_habits": "Occasional domestic golf trips, Hawaii research noted",
+        "personal_projects": "Homebrew RPG campaign setting, guitar pedal modifications",
+        "unexpected_behavioral_traits": "Combines analytical system mastery with artistic world-building"
+    }
+}

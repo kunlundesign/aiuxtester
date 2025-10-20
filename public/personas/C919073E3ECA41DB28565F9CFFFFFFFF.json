@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Maria Gonzalez",
+        "age": 50,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Weslaco, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Job Seeker (Transitioning Careers)",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Medium-length straight hair",
+            "skin_color": "Olive",
+            "facial_features": "Warm smile with laugh lines",
+            "dress_style": "Casual practical clothing with occasional bold accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Family-oriented, values practical self-improvement",
+        "motivations": "Career reinvention, maintaining household stability",
+        "cognitive_style": "Practical problem-solver with creative hobbies"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed product research combined with job/career queries",
+        "ad_interactions": "High engagement with apparel, home goods, and financial services",
+        "preferred_content_sources": "Temu, Amazon, MSN News, YouTube tutorials",
+        "social_media_usage": "Passive Facebook/Pinterest usage for deals/inspiration",
+        "ecommerce_behavior": "Value-focused across clothing, crafts, and home goods",
+        "device_usage": "Mobile-first with desktop for job applications",
+        "subscriptions": "Kindle Unlimited, Temu deal alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Office administration, entry-level tech roles",
+        "hobbies": "Jewelry-making, romance novels, home gardening",
+        "entertainment_preferences": "Werewolf romance novels, Disney content",
+        "content_consumption": "Practical tutorials combined with escapist fiction",
+        "learning_style": "Self-taught through online tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with occasional indulgent purchases",
+        "income_level": "Lower-middle class",
+        "investment_habits": "Conservative (focused on essential spending)",
+        "financial_tools": "Traditional banking with Medicare-related planning"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player",
+        "family_structure": "Likely multigenerational household",
+        "friendship_circle": "Close-knit local community ties",
+        "community_involvement": "Limited formal involvement",
+        "online_vs_offline_engagement": "Primarily offline social connections"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking job listings/news",
+        "workday_habits": "Job search mixed with household management",
+        "evening_and_leisure": "Reading and craft projects",
+        "weekend_activities": "Family meals, lawn care, bargain shopping",
+        "sleep_schedule": "Regular nighttime routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Basic maintenance through diet monitoring",
+        "mental_health": "Uses crafting/reading as stress relief",
+        "work_life_balance": "Household-focused with career aspirations",
+        "health_related_digital_behavior": "Researches preventive care options"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price sensitivity",
+        "brand_loyalty": "Switches for better deals",
+        "influence_factors": "User reviews and practical demonstrations",
+        "tech_adoption": "Mainstream user of essential tools",
+        "privacy_and_security_concerns": "Basic caution without extreme measures"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish)",
+        "travel_habits": "Cruise-focused vacations",
+        "personal_projects": "Handmade jewelry creation",
+        "unexpected_behavioral_traits": "Enjoys paranormal romance despite practical nature"
+    }
+}

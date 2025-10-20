@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Johnson",
+        "age": 47,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Rock Hill, United States",
+        "education": {
+            "degree": "Master's Degree",
+            "major": "Clinical Psychology",
+            "institution": "University of South Carolina"
+        },
+        "occupation": "Licensed Mental Health Counselor",
+        "company": "Mojo Therapeutics",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Glasses, minimal makeup",
+            "dress_style": "Business casual with cardigans"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Social justice advocacy, mental health accessibility",
+        "motivations": "Client empowerment, professional development",
+        "cognitive_style": "Analytical with empathetic client focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on mental health policies, educational programs, and clinical resources",
+        "ad_interactions": "Medium engagement with office supplies and family-oriented products",
+        "preferred_content_sources": "APA journals, government health portals, practice management platforms",
+        "social_media_usage": "Facebook for professional networking (4+ weekly logins)",
+        "ecommerce_behavior": "Frequent organizational product purchases (Amazon Prime user)",
+        "device_usage": "Desktop Chrome user with mobile email checks",
+        "subscriptions": "SimplePractice Premium, Availity Essentials"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Trauma-informed care, art therapy certifications",
+        "hobbies": "Home organization, community education workshops",
+        "entertainment_preferences": "Psychology podcasts, documentary films",
+        "content_consumption": "Long-form clinical guides mixed with quick policy updates",
+        "learning_style": "Structured CE courses with peer collaboration"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious professional purchases with occasional quality splurges",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Conservative retirement planning",
+        "financial_tools": "Credit cards with healthcare rewards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader supervising interns",
+        "family_structure": "Married with school-aged children",
+        "friendship_circle": "Close-knit professional peers",
+        "community_involvement": "Youth mental health initiatives",
+        "online_vs_offline_engagement": "Balanced (virtual sessions + in-person workshops)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Client chart review with coffee",
+        "workday_habits": "Back-to-back sessions with insurance paperwork blocks",
+        "evening_and_leisure": "Family dinner, CE webinars",
+        "weekend_activities": "School events, thrift store shopping",
+        "sleep_schedule": "Regular 11PM-6AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Yoga practitioner, pescatarian diet",
+        "mental_health": "Peer supervision for stress management",
+        "work_life_balance": "Structured time blocking",
+        "health_related_digital_behavior": "Telehealth platform power user"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with client input",
+        "brand_loyalty": "Sticks with validated clinical tools",
+        "influence_factors": "APA guidelines, client outcomes data",
+        "tech_adoption": "Early majority for practice tools",
+        "privacy_and_security_concerns": "HIPAA-compliant workflows"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern English with basic Spanish",
+        "travel_habits": "Regional conferences 3-4x/year",
+        "personal_projects": "Developing school-based mental health curriculum",
+        "unexpected_behavioral_traits": "Enjoys true crime documentaries despite clinical focus"
+    }
+}

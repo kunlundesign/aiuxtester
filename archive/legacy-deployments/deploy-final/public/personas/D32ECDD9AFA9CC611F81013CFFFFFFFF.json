@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Liam Nguyen",
+        "age": 18,
+        "gender": "Male",
+        "nationality": "Vietnamese-American",
+        "current_residence": "Tukwila, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "N/A",
+            "institution": "Local Washington High School"
+        },
+        "occupation": "Part-Time Tutor/Property Management Assistant",
+        "company": "Family-Owned Business",
+        "physical attributes": {
+            "Height": "5'9\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, neat cut",
+            "Skin color": "Light brown",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual (jeans + t-shirt) for tutoring, work boots/collared shirts for property inspections"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Multicultural appreciation, educational empowerment, financial responsibility",
+        "motivations": "Supporting family business, mastering practical skills, cultural preservation",
+        "cognitive_style": "Detail-oriented problem solver who cross-references official documents (evidenced by frequent property/permits searches)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision searches (e.g., exact addresses), regulatory compliance terms, bilingual queries (French/Vietnamese)",
+        "ad_interactions": "High engagement with local services (80% property/construction ads clicked vs 20% leisure)",
+        "preferred_content_sources": "Government portals (67% of domains), trade suppliers (WebstaurantStore), educational platforms (IXL/Preply)",
+        "social_media_usage": "Facebook for family connections, MSN/Yahoo for news, no visible Instagram/TikTok use",
+        "ecommerce_behavior": "B2B purchases (commercial sinks/ovens), budget-conscious for personal spending",
+        "device_usage": "Desktop-focused workflow (permit applications/CAD files), mobile for quick translations",
+        "subscriptions": "IXL Math, Preply French tutor, WebstaurantStore Pro account"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Commercial property development, restaurant health codes, septic system innovations",
+        "hobbies": "Cooking fusion dishes (Mexican-Vietnamese), French literature analysis, basketball trivia",
+        "entertainment_preferences": "Vietnamese fairy tales, Hunger Games lore, 90s NBA documentaries",
+        "content_consumption": "Technical manuals > videos, cross-checks news between VnExpress/US outlets",
+        "learning_style": "Application-first (e.g., learns French through recipe translations)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Bulk spending on business inventory, uses Redfin/Zillow deal alerts for personal purchases",
+        "income_level": "$25k-$35k (part-time work + family stipend)",
+        "investment_habits": "Conservative (focuses on tangible assets like property)",
+        "financial_tools": "Square Dashboard for transactions, FreshBooks for invoicing"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Relies on subcontractor networks (searches for Palensky Dozing/Fast Cats)",
+        "family_structure": "Lives with parents/siblings involved in family businesses",
+        "friendship_circle": "Small bilingual group from cultural community",
+        "community_involvement": "Volunteers at Vietnamese cultural center tutoring",
+        "online_vs_offline_engagement": "Prefers in-person for business, virtual for learning"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks permit application statuses, reviews French vocabulary",
+        "workday_habits": "Balances property inspections with tutoring sessions",
+        "evening_and_leisure": "Tests new recipes while watching sports analysis",
+        "weekend_activities": "Family restaurant quality checks, lake visits from property searches",
+        "sleep_schedule": "Night owl (late-night permit application filings)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through property site visits, enjoys phở nutrition",
+        "mental_health": "Uses language learning as cognitive exercise",
+        "work_life_balance": "Integrated through family business involvement",
+        "health_related_digital_behavior": "Researches restaurant hygiene standards obsessively"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Regulation-compliant (triple-checks building codes)",
+        "brand_loyalty": "Sticks with Autodesk/WebstaurantStore for professional tools",
+        "influence_factors": "Combines county guidelines with family experience",
+        "tech_adoption": "Early adopter for productivity tools (ChatGPT), traditional otherwise",
+        "privacy_and_security_concerns": "High (avoids social media oversharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Trilingual (English/Vietnamese/French basics)",
+        "travel_habits": "Local WA focus, dreams of Florence architecture tour",
+        "personal_projects": "Developing bilingual teaching materials",
+        "unexpected_behavioral_traits": "Teenage construction permit expert who analyzes French fairy tales"
+    }
+}

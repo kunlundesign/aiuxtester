@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Thompson",
+        "age": 62,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "New York, USA",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Mechanical Engineering",
+            "institution": "Community College of New York"
+        },
+        "occupation": "Retired Mechanic",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short gray hair",
+            "Skin color": "Olive complexion",
+            "Facial features": "Wrinkles around eyes, clean-shaven",
+            "Dress Style": "Casual workwear (denim shirts, utility pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, environmental sustainability through EV adoption, civic responsibility",
+        "motivations": "Maintaining independence through DIY skills, staying informed about technology and current events",
+        "cognitive_style": "Analytical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical troubleshooting (45%), travel planning (30%), automotive research (25%)",
+        "ad_interactions": "High engagement with travel/auto parts ads (Click-through rate 80% on relevant queries)",
+        "preferred_content_sources": "YouTube tutorials, manufacturer websites (Toyota/Boeing), news aggregators (MSN)",
+        "social_media_usage": "Passive YouTube consumption (10+ hrs/week), no active social posting",
+        "ecommerce_behavior": "Budget-conscious bulk purchases (Lowe's/Costco), occasional eBay auctions for rare parts",
+        "device_usage": "Desktop (Windows 10) for research, mobile (Android) for quick checks",
+        "subscriptions": "AOL Mail Premium, Lowe's for Pros, World Athletics newsletter"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Emerging EV technologies, aviation safety standards",
+        "hobbies": "Home renovation projects, vintage car restoration, track athletics spectating",
+        "entertainment_preferences": "Engineering documentaries, 70s rock music, political thrillers",
+        "content_consumption": "Detailed YouTube tutorials (15-30 min), manufacturer technical specs",
+        "learning_style": "Hands-on experimentation with supplemental video guidance"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases (Home Depot), plans major EV investment",
+        "income_level": "Middle-class retirement ($45k-$60k/year)",
+        "investment_habits": "Conservative (Municipal Credit Union accounts, no cryptocurrency)",
+        "financial_tools": "JetBlue Plus Card, eBay/PayPal integration, NY lottery tickets"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent problem-solver, occasional mentor to younger mechanics",
+        "family_structure": "Empty nester (adult children living independently)",
+        "friendship_circle": "Small group of tradespeople and Jamaican community members",
+        "community_involvement": "Local hardware store workshop host, track meet volunteer",
+        "online_vs_offline_engagement": "75% offline (in-person projects), 25% online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking MSN Weather and political headlines",
+        "workday_habits": "3-4 hours daily on home/auto projects, afternoon YouTube learning sessions",
+        "evening_and_leisure": "MSN political commentary viewing, parts inventory management",
+        "weekend_activities": "Jamaican community events, DIY project completions",
+        "sleep_schedule": "Early riser (5:30 AM) with 7-hour sleep cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor, monitors diet via Costco bulk purchases",
+        "mental_health": "Stress relief through focused mechanical work",
+        "work_life_balance": "Structured retirement routine with project milestones",
+        "health_related_digital_behavior": "Occasional medical supply searches (no chronic conditions noted)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive (compares 5+ sources for major purchases)",
+        "brand_loyalty": "Strong preference for Toyota/Home Depot, switches airlines based on price",
+        "influence_factors": "Manufacturer certifications, Jamaican community recommendations",
+        "tech_adoption": "Mainstream adopter (waits for 2nd-gen EV models)",
+        "privacy_and_security_concerns": "Basic precautions (avoids financial data storage)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Jamaican-American (2nd generation), English only",
+        "travel_habits": "Biannual Caribbean visits, domestic RV trip planning",
+        "personal_projects": "Convert garage to EV workshop, backyard rainwater collection system",
+        "unexpected_behavioral_traits": "Mechanical pragmatist who enjoys abstract engineering challenges"
+    }
+}

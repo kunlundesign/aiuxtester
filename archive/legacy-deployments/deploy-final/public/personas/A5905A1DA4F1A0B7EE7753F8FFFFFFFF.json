@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Diane Kaufman",
+        "age": 52,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Clarence, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "unknown"
+        },
+        "occupation": "Real Estate Investor/Property Manager",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Fair",
+            "facial_features": "Minimal makeup, practical appearance",
+            "dress_style": "Casual-functional (jeans/blouses for property inspections)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial independence, hands-on problem solving",
+        "motivations": "Wealth preservation, automotive passion projects",
+        "cognitive_style": "Analytical-practical (combines stock analysis with mechanical troubleshooting)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision technical queries (e.g., '2003 Taurus PCV tube') + financial research",
+        "ad_interactions": "High engagement with investment/car part ads",
+        "preferred_content_sources": "Yahoo Finance, Zillow, Facebook Marketplace",
+        "social_media_usage": "Facebook (Marketplace-focused), passive MSN news consumption",
+        "ecommerce_behavior": "Strategic purchases (car parts/real estate), uses Amazon for essentials",
+        "device_usage": "Desktop-focused (financial management), Edge browser",
+        "subscriptions": "FloRacing, DIRTVision, Schwab alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "REIT trends, commercial lease law updates",
+        "hobbies": "Classic car restoration, NASCAR event attendance",
+        "entertainment_preferences": "Racing documentaries, 80s rock (Night Ranger searches)",
+        "content_consumption": "Financial news deep-dives + quick mechanical guides",
+        "learning_style": "Video tutorials for car repairs + formal financial webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious investments (Facebook Marketplace bargains)",
+        "income_level": "$80k-$120k (multiple income streams)",
+        "investment_habits": "Dividend stock focus (PHK/PFL), crypto-curious",
+        "financial_tools": "Schwab/Citizens Bank portals, CoinMarketCap tracking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent negotiator (direct lease agreements)",
+        "family_structure": "Likely empty nester (time for cars/investments)",
+        "friendship_circle": "NASCAR enthusiast network",
+        "community_involvement": "Local car show participation",
+        "online_vs_offline_engagement": "Online research fuels offline projects"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Market watch (pre-market trading)",
+        "workday_habits": "Split between property mgmt + mechanical tinkering",
+        "evening_and_leisure": "MSN political/news analysis",
+        "weekend_activities": "Auto flea markets, Hamburg car shows",
+        "sleep_schedule": "Early riser (aligns with market hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through car maintenance labor",
+        "mental_health": "Pragmatic stress management (project-focused)",
+        "work_life_balance": "Integrated (hobbies generate income)",
+        "health_related_digital_behavior": "Reactive research (anxiety meds query)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven but trusts mechanical intuition",
+        "brand_loyalty": "Selective (Progressive Insurance, Holley parts)",
+        "influence_factors": "Technical forums + earnings reports",
+        "tech_adoption": "Mainstream user (adopts tools when proven)",
+        "privacy_and_security_concerns": "Cautious (frequent banking logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-only, Upstate NY cultural influences",
+        "travel_habits": "Seasonal Florida trips (Ft Myers real estate views)",
+        "personal_projects": "1973 Corvette restoration",
+        "unexpected_behavioral_traits": "Combines financial analytics with grease-monkey hands-on work"
+    }
+}

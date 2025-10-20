@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Brandon Snodgrass",
+        "age": 22,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Hays, United States",
+        "education": {
+            "degree": "Vocational Certificate",
+            "major": "Phlebotomy",
+            "institution": "Pinnacle Career Institute"
+        },
+        "occupation": "Phlebotomist",
+        "company": "Local Hospital/Clinic",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average",
+            "Hairstyle": "Short, neat",
+            "Skin_color": "Caucasian",
+            "Facial_features": "Clean-shaven",
+            "Dress_Style": "Casual (jeans, t-shirts, work boots)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Christian faith, financial responsibility, community involvement",
+        "motivations": "Career stability, religious community engagement, DIY self-sufficiency",
+        "cognitive_style": "Practical problem-solver with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Car maintenance tools, medical supplies, local maps, event tickets",
+        "ad_interactions": "High engagement with automotive tools, budget shopping deals, religious events",
+        "preferred_content_sources": "MSN news, YouTube tutorials, manufacturer websites (Buick), religious blogs",
+        "social_media_usage": "Passive Facebook use for Marketplace, YouTube for entertainment",
+        "ecommerce_behavior": "Budget-focused (Temu, Walmart), frequent small purchases",
+        "device_usage": "Mobile (Android) for quick searches, desktop for detailed research",
+        "subscriptions": "Dillons Food Stores coupons, Christian comedy YouTube channels"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare certification programs, medical equipment",
+        "hobbies": "DIY car maintenance, local sports events, bargain hunting",
+        "entertainment_preferences": "Christian stand-up comedy, baseball history, political commentary",
+        "content_consumption": "Mix of quick how-to videos and long-form news analysis",
+        "learning_style": "Hands-on practice supplemented by online tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with planned purchases",
+        "income_level": "$35,000-$45,000 annually",
+        "investment_habits": "Conservative (bank savings accounts)",
+        "financial_tools": "Bank of Hays checking account, U.S. Bank credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented in medical settings",
+        "family_structure": "Lives independently",
+        "friendship_circle": "Small group from church and work",
+        "community_involvement": "Church volunteer, local auction participant",
+        "online_vs_offline_engagement": "Balanced mix with preference for in-person church activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather (Wunderground) and MSN headlines",
+        "workday_habits": "Structured shifts with equipment preparation time",
+        "evening_and_leisure": "YouTube comedy specials, Facebook Marketplace browsing",
+        "weekend_activities": "Church events, car maintenance projects, local auctions",
+        "sleep_schedule": "Early riser (6:00 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Basic fitness through work activity, OTC medication user",
+        "mental_health": "Church community support, comedy as stress relief",
+        "work_life_balance": "Clear separation between medical work and personal time",
+        "health_related_digital_behavior": "Researches medical topics (e.g., cancer types), uses Walmart pharmacy"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Prefers trusted budget brands (Equate, Harbor Freight)",
+        "influence_factors": "User reviews, religious values, local community trends",
+        "tech_adoption": "Mainstream user (adopts proven tools like UET tracking)",
+        "privacy_and_security_concerns": "Basic caution with financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English, church community influence",
+        "travel_habits": "Regional traveler (Kansas/Nebraska), cabin vacations",
+        "personal_projects": "Car restoration, reselling auction finds",
+        "unexpected_behavioral_traits": "Combines medical precision with enjoyment of slapstick Christian comedy"
+    }
+}

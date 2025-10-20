@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Thompson",
+        "age": 22,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Saint Petersburg, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Interior Design",
+            "institution": "University of Florida"
+        },
+        "occupation": "Freelance Interior Designer",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length blonde waves",
+            "Skin color": "Fair",
+            "Facial features": "Round face with light freckles",
+            "Dress Style": "Casual-chic with vintage accents"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ENFJ",
+        "beliefs_and_values": "Historical preservation, sustainable living, community engagement",
+        "motivations": "Creative expression through design, financial independence, cultural exploration",
+        "cognitive_style": "Visual-spatial thinker with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep research on niche topics (historical architecture, HVAC systems), combination of practical DIY queries and luxury product investigations",
+        "ad_interactions": "High engagement with home improvement, fashion, and automotive ads",
+        "preferred_content_sources": "Reddit communities, CNN, AP News, architecture blogs, real estate platforms",
+        "social_media_usage": "Pinterest for design inspiration, Twitter/X for news, Facebook for local connections",
+        "ecommerce_behavior": "Mid-range spending with occasional luxury splurges (jewelry, designer clothing)",
+        "device_usage": "Desktop for research, mobile for social media, Edge browser",
+        "subscriptions": "Realtor.com Premium, MSN News, The New York Times Cooking"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Historic preservation techniques, sustainable materials in design",
+        "hobbies": "Halloween prop creation, vintage furniture restoration, college football analytics",
+        "entertainment_preferences": "True crime documentaries, historical fiction novels, indie folk music",
+        "content_consumption": "Long-form investigative journalism combined with visual tutorials",
+        "learning_style": "Project-based learning supplemented by professional certification courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven luxury: invests in quality home items while budgeting for travel",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative with retirement savings, experimental with small real estate ventures",
+        "financial_tools": "Credit cards with travel rewards, Venmo for freelance payments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative project teams with clear role divisions",
+        "family_structure": "Shares apartment with roommate(s)",
+        "friendship_circle": "Mix of design school colleagues and local history enthusiasts",
+        "community_involvement": "Volunteers at historic preservation society, neighborhood watch member",
+        "online_vs_offline_engagement": "Balances Reddit discussions with local town hall meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks weather/storm alerts, reviews design client emails, green tea",
+        "workday_habits": "Blocks time for client consultations and hands-on renovation projects",
+        "evening_and_leisure": "Pilates workouts, recipe testing from Italian cuisine blogs",
+        "weekend_activities": "Estate sale hunting, football game watch parties, coastal photography",
+        "sleep_schedule": "11 PM - 7 AM with occasional late-night research sessions"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular Pilates practice, pescatarian diet with keto experimentation",
+        "mental_health": "Uses creative projects as stress relief, tracks sleep patterns",
+        "work_life_balance": "Strict client boundaries with weekend project exceptions",
+        "health_related_digital_behavior": "Monitors FEMA alerts, participates in Reddit health communities"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with 3-proposal comparison approach",
+        "brand_loyalty": "Loyal to heritage brands in design, experimental with tech",
+        "influence_factors": "Architectural digest rankings, local historical society recommendations",
+        "tech_adoption": "Early mainstream adopter for productivity tools",
+        "privacy_and_security_concerns": "Uses VPN for client work but shares location services"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Third-generation Floridian with Sicilian ancestry",
+        "travel_habits": "Annual cultural immersion trips (recent focus: Tuscany)",
+        "personal_projects": "Documenting historic St. Petersburg homes through photography",
+        "unexpected_behavioral_traits": "Combines data-driven real estate analysis with whimsical Halloween installations"
+    }
+}

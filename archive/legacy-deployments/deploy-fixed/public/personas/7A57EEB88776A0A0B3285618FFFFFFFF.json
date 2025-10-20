@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Rodriguez",
+        "age": 18,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "New York, USA",
+        "education": {
+            "degree": "High School Diploma (in progress)",
+            "major": "N/A",
+            "institution": "Richmond Hill High School"
+        },
+        "occupation": "Student",
+        "company": "N/A",
+        "physical_attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Straight medium-length",
+            "Skin color": "Medium",
+            "Facial features": "Round face with glasses",
+            "Dress Style": "Casual collegiate (hoodies, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Educational equity, community participation, technological empowerment",
+        "motivations": "College readiness, financial independence, community impact",
+        "cognitive_style": "Practical problem-solver with strong research skills"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep academic research (financial aid procedures), fact-checking political figures, WWE trivia",
+        "ad_interactions": "High engagement with education/job ads",
+        "preferred_content_sources": "Government education portals, YouTube tutorials, Reddit communities",
+        "social_media_usage": "YouTube (educational/political content), Reddit (niche communities)",
+        "ecommerce_behavior": "Budget-conscious school supplies shopping",
+        "device_usage": "Chrome browser on Windows laptop",
+        "subscriptions": "Google Workspace, QuillBot Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Public policy, education administration, STEM careers",
+        "hobbies": "Participatory budgeting projects, WWE fandom",
+        "entertainment_preferences": "Wrestling events, political commentary YouTube channels",
+        "content_consumption": "Long-form policy documents, tutorial videos",
+        "learning_style": "Project-based learning with digital tools"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Extremely budget-conscious",
+        "income_level": "Under $20k (student)",
+        "investment_habits": "No current investments",
+        "financial_tools": "Student financial aid portals, scholarship trackers"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team member",
+        "family_structure": "Lives with family",
+        "friendship_circle": "School/community project peers",
+        "community_involvement": "Student government initiatives",
+        "online_vs_offline_engagement": "Balanced digital research and in-person school activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks school portals, reviews financial aid deadlines",
+        "workday_habits": "Balances coursework with college applications",
+        "evening_and_leisure": "Watches WWE content, researches scholarships",
+        "weekend_activities": "School supply drives, family responsibilities",
+        "sleep_schedule": "Night owl (academic research sessions)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary student lifestyle",
+        "mental_health": "Stress management through project work",
+        "work_life_balance": "Academic-focused with scheduled breaks",
+        "health_related_digital_behavior": "Occasional Healthline consultations"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse planner",
+        "brand_loyalty": "Education-focused tech tools",
+        "influence_factors": "Official government sources, teacher recommendations",
+        "tech_adoption": "Early mainstream adopter",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish)",
+        "travel_habits": "Local commuter, no major travel",
+        "personal_projects": "School participatory budgeting initiatives",
+        "unexpected_behavioral_traits": "Combines WWE fandom with academic rigor"
+    }
+}

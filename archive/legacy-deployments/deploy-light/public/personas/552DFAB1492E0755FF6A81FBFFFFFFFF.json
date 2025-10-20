@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 24,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Boise, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Healthcare Administration",
+            "institution": "Boise State University"
+        },
+        "occupation": "Healthcare Coordinator",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length wavy brown",
+            "Skin color": "Fair",
+            "Facial features": "Round face with glasses",
+            "Dress Style": "Casual professional (blouses with jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Health literacy advocacy, practical sustainability",
+        "motivations": "Career stability, self-sufficiency, preventive healthcare",
+        "cognitive_style": "Structured problem-solving with empirical validation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed medical queries, relocation logistics, employment research",
+        "ad_interactions": "High engagement with moving services/health solutions",
+        "preferred_content_sources": "Medical journals, government health portals, Reddit communities",
+        "social_media_usage": "Reddit (active), MSN News (passive), limited other platforms",
+        "ecommerce_behavior": "Budget-conscious apparel/tech purchases",
+        "device_usage": "Desktop Edge browser with mobile research",
+        "subscriptions": "TrainAI University courses, health newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Healthcare systems optimization, remote work tools",
+        "hobbies": "Hiking national parks, experimental cooking, astronomy",
+        "entertainment_preferences": "Documentaries, true crime podcasts, country music",
+        "content_consumption": "Long-form medical guides with quick tech tutorials",
+        "learning_style": "Self-paced online courses with practical applications"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases, planned major expenses",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative index funds",
+        "financial_tools": "Credit cards with travel rewards, budgeting apps"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contributor seeking clear objectives",
+        "family_structure": "Single, lives alone with pet",
+        "friendship_circle": "Small group of close confidants",
+        "community_involvement": "Online health forums moderation",
+        "online_vs_offline_engagement": "Prefers digital communication but values monthly in-person meetups"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Health tracking apps check, protein-focused breakfast",
+        "workday_habits": "Block scheduling with medical research hours",
+        "evening_and_leisure": "Meal prepping while streaming documentaries",
+        "weekend_activities": "Day hikes, apartment deep-cleaning, job applications",
+        "sleep_schedule": "11 PM - 7 AM with sleep tracker"
+    },
+    "Health & Well-being": {
+        "physical_health": "Yoga 3x/week, pescatarian diet, chronic joint monitoring",
+        "mental_health": "Journaling, limited social media detoxes",
+        "work_life_balance": "Strict offline hours after 7 PM",
+        "health_related_digital_behavior": "Cross-references multiple medical sources for symptoms"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparison tables for major purchases",
+        "brand_loyalty": "Prefers established medical/financial brands",
+        "influence_factors": "Peer reviews in niche communities",
+        "tech_adoption": "Early majority adopter after validation",
+        "privacy_and_security_concerns": "Uses VPN for financial/medical searches"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with LDS cultural familiarity",
+        "travel_habits": "Regional road trips with national park focus",
+        "personal_projects": "Developing health literacy chatbot",
+        "unexpected_behavioral_traits": "Meticulous planner who enjoys impromptu stargazing"
+    }
+}

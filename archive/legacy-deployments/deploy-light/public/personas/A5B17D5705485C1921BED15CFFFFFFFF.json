@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Robert Carter",
+        "age": 41,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Morgantown, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Marketing or Computer Science",
+            "institution": "West Virginia University"
+        },
+        "occupation": "Digital Marketing Manager",
+        "company": "Freelance/Remote Tech Company",
+        "physical_attributes": {
+            "height": "unknown",
+            "body_shape": "unknown",
+            "hairstyle": "short, practical",
+            "skin_color": "unknown",
+            "facial_features": "unknown",
+            "dress_style": "Casual (graphic tees, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "INTP",
+        "beliefs_and_values": "Tech optimism, fiscal conservatism, DIY sustainability",
+        "motivations": "Professional growth, creative expression, family security",
+        "cognitive_style": "Analytical problem-solver with strategic long-term planning"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (Trex installation), gaming strategy deep-dives, political policy research",
+        "ad_interactions": "Practical project-related ads (Fiverr, Hobby Lobby), tech/hardware",
+        "preferred_content_sources": "Reddit communities, Stack Exchange networks, official game wikis, Trex technical docs",
+        "social_media_usage": "Reddit (active), LinkedIn (professional networking), YouTube tutorials",
+        "ecommerce_behavior": "Mid-range spending on tools/gaming gear, compares specs/prices",
+        "device_usage": "Desktop-primary (Windows 11/Edge), mobile secondary",
+        "subscriptions": "Kindle Unlimited, Humble Bundle, KiwiCo (family)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "SEO optimization, content marketing, indie game development trends",
+        "hobbies": "PC strategy games (Civ 7), D&D campaign design, woodworking",
+        "entertainment_preferences": "Retro-styled RPGs (Octopath Traveler), political podcasts, 90s sci-fi",
+        "content_consumption": "Long-form technical guides, strategy game analyses, Substack newsletters",
+        "learning_style": "Self-directed research via forums/O'Reilly books"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (quality tools), planned major purchases",
+        "income_level": "$75k-$95k/year",
+        "investment_habits": "Conservative (401k maxing), exploring tech ETFs",
+        "financial_tools": "Nextier Bank, PayPal, Amazon Store Card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Remote collaborator, async communication preference",
+        "family_structure": "Married with school-age children",
+        "friendship_circle": "Close-knit gaming group, DIY enthusiast network",
+        "community_involvement": "Local library board, youth STEM mentorship",
+        "online_vs_offline_engagement": "80% digital interaction, family-oriented offline"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while scanning Reddit/industry news",
+        "workday_habits": "Block-focused deep work periods, client Zoom calls",
+        "evening_and_leisure": "Family dinner, Civ 7 campaigns, Trex project work",
+        "weekend_activities": "Local hiking, board game nights, hardware store runs",
+        "sleep_schedule": "Night owl (1AM-8AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary job offset by weekend DIY projects",
+        "mental_health": "Gaming as stress relief, occasional meditation apps",
+        "work_life_balance": "Structured separation (no work devices after 7PM)",
+        "health_related_digital_behavior": "MyFitnessPal logging, WebMD symptom checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive, compares 3+ sources",
+        "brand_loyalty": "Tools (Trex), gaming platforms (Steam), browsers (Edge)",
+        "influence_factors": "Expert forums (r/DIY), aggregate review scores",
+        "tech_adoption": "Mid-cycle upgrader (waits for v2 products)",
+        "privacy_and_security_concerns": "Uses VPN for public Wi-Fi, avoids biometric logins"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Appalachian roots, basic German comprehension",
+        "travel_habits": "Regional road trips (Philadelphia museums, DC monuments)",
+        "personal_projects": "Co-writing fantasy novel, Unity-based tactics game prototype",
+        "unexpected_behavioral_traits": "Political conservative who plays avant-garde indie games"
+    }
+}

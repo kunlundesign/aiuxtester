@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Steven Williams",
+        "age": 63,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Tampa, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Florida"
+        },
+        "occupation": "E-commerce Entrepreneur",
+        "company": "Board Shorts World (Shopify Store)",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average build",
+            "Hairstyle": "Short grey hair",
+            "Skin color": "Caucasian",
+            "Facial features": "Rectangular glasses, clean-shaven",
+            "Dress Style": "Casual resort wear with printed shirts"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTJ",
+        "beliefs_and_values": "Entrepreneurial spirit, technology adoption in small business",
+        "motivations": "Business growth, financial security, creative expression through product design",
+        "cognitive_style": "Analytical problem-solver with structured execution"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (CPU comparisons), financial management, travel planning",
+        "ad_interactions": "High engagement with travel/tech ads (Clicked 12/12 ads)",
+        "preferred_content_sources": "MSN News, Wikipedia, Shopify forums, financial portals",
+        "social_media_usage": "Passive Facebook/Instagram browsing, Reddit for tech solutions",
+        "ecommerce_behavior": "Bulk purchases via Sam's Club, premium tech gadgets",
+        "device_usage": "Windows desktop primary device, Edge browser",
+        "subscriptions": "Microsoft 365, Shopify Plus, Sam's Club membership"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "E-commerce optimization, textile innovation, retail trends",
+        "hobbies": "Boat charter planning, custom fabric design, Florida tourism",
+        "entertainment_preferences": "Business documentaries, baseball news, true crime content",
+        "content_consumption": "Long-form technical articles + bite-sized market updates",
+        "learning_style": "Self-guided research through vendor documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious luxury (premium products at discount channels)",
+        "income_level": "$85,000-$110,000 annually",
+        "investment_habits": "Conservative (CDs/money markets via Chase/Capital One)",
+        "financial_tools": "Multi-card rewards optimization (7+ credit card logins)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Solo operator with freelance contractors",
+        "family_structure": "Empty nester (children grown/moved out)",
+        "friendship_circle": "Small network of fellow entrepreneurs",
+        "community_involvement": "Local Tampa Bay business groups",
+        "online_vs_offline_engagement": "70% digital communication preference"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news check, order fulfillment, supplier emails",
+        "workday_habits": "Batch processing: AM product development, PM financial management",
+        "evening_and_leisure": "Tech research (CPU benchmarks), inventory planning",
+        "weekend_activities": "Boat show visits, prototype testing at local beaches",
+        "sleep_schedule": "Early riser (5:30 AM) with 7-hour sleep"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking routine, Florida seafood-heavy diet",
+        "mental_health": "Problem-focused coping through business analytics",
+        "work_life_balance": "Integrated lifestyle (business=personal passion)",
+        "health_related_digital_behavior": "Occasional WebMD searches, no trackers"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven cross-comparisons (CPU specs, fabric costs)",
+        "brand_loyalty": "Stick with proven solutions (Microsoft/Intel/Shopify stack)",
+        "influence_factors": "Technical specifications > marketing claims",
+        "tech_adoption": "Strategic early adopter (implements proven business tech)",
+        "privacy_and_security_concerns": "Basic precautions (antivirus) without obsession"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Florida coastal culture",
+        "travel_habits": "Frequent Bahamas charters, prefers water-accessible locations",
+        "personal_projects": "Developing RFID inventory system for swimwear business",
+        "unexpected_behavioral_traits": "Combines senior tech literacy with Gen Z brand interest (JoJo Siwa)"
+    }
+}

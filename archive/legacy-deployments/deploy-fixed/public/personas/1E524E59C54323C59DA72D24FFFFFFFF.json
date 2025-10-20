@@ -1,0 +1,107 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 44,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Dallas, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Automotive Technology",
+            "institution": "Dallas College"
+        },
+        "occupation": "Auto Repair Shop Owner",
+        "company": "Kalid Auto",
+        "physical_attributes": {
+            "Height": "5'11\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short fade",
+            "Skin color": "Medium complexion",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Casual workwear (polo shirts, cargo pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, skepticism of large institutions",
+        "motivations": "Business growth, mechanical problem-solving, financial independence",
+        "cognitive_style": "Systematic tinkerer (combines structured analysis with hands-on experimentation)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Specific technical queries (e.g., '2018 Land Rover Discovery headlight assembly'), frequent automotive part comparisons",
+        "ad_interactions": "High engagement with auto parts ads (clicked 6/6 relevant ads)",
+        "preferred_content_sources": "eBay tutorials, YouTube DIY channels, MSN geopolitical news",
+        "social_media_usage": {
+            "Platforms": [
+                "YouTube",
+                "Facebook"
+            ],
+            "frequency": "Daily",
+            "engagement": "Passive consumption (news/videos) with occasional marketplace interactions"
+        },
+        "ecommerce_behavior": "Frequent auto parts purchases, price comparisons across eBay/Craigslist",
+        "device_usage": "Desktop primary (technical searches), mobile secondary",
+        "subscriptions": [
+            "YouTube Premium",
+            "IAA auction alerts",
+            "Web-Est repair platform"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Vehicle restoration techniques, small business management software",
+        "hobbies": "Off-road vehicle customization, woodworking projects",
+        "entertainment_preferences": "Reggae music (Bob Marley), military history documentaries",
+        "content_consumption": "Technical manuals > video tutorials > news articles",
+        "learning_style": "Experimental trial-and-error with supplemental YouTube research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven bulk purchases for business, occasional splurges on premium auto tools",
+        "income_level": "$75,000-$90,000 annually",
+        "investment_habits": "Crypto-curious (Coinbase activity) but primarily conservative",
+        "financial_tools": [
+            "Bank of America",
+            "Coinbase",
+            "Robinhood"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Hands-on leader who works alongside employees",
+        "family_structure": "Married (marriage license search), no children indicated",
+        "friendship_circle": "Small group of automotive enthusiasts",
+        "community_involvement": "Local business networking groups",
+        "online_vs_offline_engagement": "Prefers face-to-face interactions for business, digital for research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking auction listings and repair orders",
+        "workday_habits": "Split between shop floor repairs and administrative tasks",
+        "evening_and_leisure": "YouTube geopolitical content consumption, parts research",
+        "weekend_activities": "4x4 trail testing, estate sales for repair tools",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional fitness from manual labor, protein-heavy diet",
+        "mental_health": "Stress relief through hands-on projects",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Occasional WebMD searches for ergonomic advice"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis with historical data",
+        "brand_loyalty": "Prefers OEM parts but will substitute aftermarket if proven reliable",
+        "influence_factors": "Peer recommendations in niche forums, demonstrated durability",
+        "tech_adoption": "Selective early adopter (adopted Web-Est platform)",
+        "privacy_and_security_concerns": "Basic precautions (banking security), otherwise pragmatic"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Texan English with basic Spanish repair terminology",
+        "travel_habits": "Regional road trips for auto auctions",
+        "personal_projects": "Restoring 1996 Toyota 4Runner with lift kit modifications",
+        "unexpected_behavioral_traits": "Mechanic who analyzes geopolitical strategy videos for cognitive patterns"
+    }
+}

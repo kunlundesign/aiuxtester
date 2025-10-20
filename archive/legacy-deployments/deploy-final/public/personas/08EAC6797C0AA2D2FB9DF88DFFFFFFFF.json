@@ -1,0 +1,125 @@
+{
+    "Core Identity": {
+        "full_name": "Linda Martinez",
+        "age": 65,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Tampa, Florida, USA",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Information Technology",
+            "institution": "University of South Florida"
+        },
+        "occupation": "Retired IT Specialist / Part-Time Real Estate Consultant",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray hair",
+            "skin_color": "Light",
+            "facial_features": "Glasses, warm smile",
+            "dress_style": "Casual yet polished (blouses, slacks, occasional statement jewelry)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Technology optimism",
+            "Financial security",
+            "Local community engagement"
+        ],
+        "motivations": [
+            "Maintaining intellectual activity",
+            "Financial stability",
+            "Health preservation"
+        ],
+        "cognitive_style": "Analytical problem-solver with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (NAS systems) + practical lifestyle searches (recipes, local services)",
+        "ad_interactions": "High engagement with real estate tools, moderate with fashion/health",
+        "preferred_content_sources": [
+            "MSN News",
+            "Amazon Business",
+            "Government portals",
+            "Technical forums"
+        ],
+        "social_media_usage": "Daily Facebook use (personal connections), passive MSN consumption",
+        "ecommerce_behavior": "Budget-conscious fashion (Belk/Gap Factory) + strategic tech investments",
+        "device_usage": "Desktop for technical work, mobile for shopping/news",
+        "subscriptions": [
+            "Microsoft 365",
+            "Amazon Prime",
+            "Florida Realtors membership"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": [
+            "NAS optimization",
+            "Commercial real estate trends",
+            "Small business tech solutions"
+        ],
+        "hobbies": [
+            "Gourmet cooking",
+            "Local tourism",
+            "Fashion trends analysis"
+        ],
+        "entertainment_preferences": [
+            "Celebrity news dramas",
+            "Olympic gymnastics",
+            "Political commentary"
+        ],
+        "content_consumption": "Detailed news articles + practical video tutorials",
+        "learning_style": "Self-directed research with hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented for daily needs, strategic splurges on tech/real estate tools",
+        "income_level": "Middle-class retiree with supplemental income",
+        "investment_habits": "Conservative with retirement funds, experimental with small real estate investments",
+        "financial_tools": [
+            "Online banking",
+            "Credit cards",
+            "Government assistance portals"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent consultant with collaborative local business network",
+        "family_structure": "Lives independently, adult children nearby",
+        "friendship_circle": "Mix of longtime local friends + online tech community contacts",
+        "community_involvement": "Active in Tampa business associations, disaster preparedness groups",
+        "online_vs_offline_engagement": "Balanced blend - virtual for tech/research, in-person for community matters"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN news review, NAS system maintenance checks",
+        "workday_habits": "Morning tech projects, afternoon real estate research, evening leisure",
+        "evening_and_leisure": "Cooking experiments, Facebook updates, political news analysis",
+        "weekend_activities": "Local parade attendance, Tampa Bay area exploration, family visits",
+        "sleep_schedule": "Early riser (6 AM) with consistent 7-hour sleep"
+    },
+    "Health & Well-being": {
+        "physical_health": "Low-impact walks, cholesterol-conscious diet, routine checkups",
+        "mental_health": "Puzzle-solving for cognitive maintenance, limited stress management needs",
+        "work_life_balance": "Structured retirement with purposeful projects",
+        "health_related_digital_behavior": "Researching nutritional science, medication interaction checks"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with backup contingency plans",
+        "brand_loyalty": "Strong with tech tools (Microsoft/TrueNAS), flexible with fashion",
+        "influence_factors": "Expert technical reviews + local business peer validation",
+        "tech_adoption": "Early mainstream adopter (proven business solutions)",
+        "privacy_and_security_concerns": "High for financial data, moderate for social media"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English (native), basic Spanish",
+        "travel_habits": "Regional Florida explorer, occasional Maine/National Park trips",
+        "personal_projects": "Home NAS server optimization, local business tech tutorials",
+        "unexpected_behavioral_traits": "Combines technical precision with creative cooking experimentation"
+    }
+}

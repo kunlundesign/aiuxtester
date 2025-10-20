@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 39,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Princeton, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Automotive Technology",
+            "institution": "West Virginia Vocational College"
+        },
+        "occupation": "Automotive Technician",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup, focused expression",
+            "Dress Style": "Utility-focused (work boots, mechanic jumpsuits)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Self-reliance, mechanical craftsmanship",
+        "motivations": "Mastery of automotive engineering, cost-effective solutions",
+        "cognitive_style": "Practical problem-solver with hands-on orientation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Specific technical queries (e.g., '6.7 Powerstroke mods'), vehicle registration processes",
+        "ad_interactions": "High engagement with automotive parts/accessories ads",
+        "preferred_content_sources": "YouTube tutorials, IAA auctions, eBay parts listings",
+        "social_media_usage": "YouTube (active), forums (passive)",
+        "ecommerce_behavior": "Frequent mid-price purchases (tools, truck parts)",
+        "device_usage": "Desktop (Edge browser, Windows OS)",
+        "subscriptions": "YouTube automotive channels, RacingJunk alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Diesel engine optimization, salvage vehicle restoration",
+        "hobbies": "Drag racing, DIY truck modifications",
+        "entertainment_preferences": "Automotive YouTube content, drag race events",
+        "content_consumption": "Technical tutorials, auction listings",
+        "learning_style": "Hands-on experimentation with video guidance"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (Harbor Freight/Rural King), strategic upgrades",
+        "income_level": "$45,000-$60,000",
+        "investment_habits": "Conservative (tools/vehicles as assets)",
+        "financial_tools": "PayPal, credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with specialized clients",
+        "family_structure": "Likely single/independent household",
+        "friendship_circle": "Small group of automotive enthusiasts",
+        "community_involvement": "Local racing events",
+        "online_vs_offline_engagement": "Balanced (online research, offline mechanic work)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Check weather/auction sites, plan workday",
+        "workday_habits": "Vehicle repairs/modifications, parts sourcing",
+        "evening_and_leisure": "YouTube automotive/gym prank videos",
+        "weekend_activities": "Drag strip visits, parts scouting",
+        "sleep_schedule": "Early riser (aligns with workshop hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through manual labor, no specific fitness regimen",
+        "mental_health": "Stress relief through hands-on projects",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Occasional medical device research (MedicPure)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based (product reviews, technical specs)",
+        "brand_loyalty": "Ford/Bridgestone preference with price sensitivity",
+        "influence_factors": "Peer recommendations, demonstrated performance",
+        "tech_adoption": "Mainstream user focused on automotive tech",
+        "privacy_and_security_concerns": "Moderate (uses financial tools cautiously)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Appalachian cultural influences",
+        "travel_habits": "Regional travel for automotive events",
+        "personal_projects": "Ford Super Duty customization, transmission upgrades",
+        "unexpected_behavioral_traits": "Enjoys gym prank humor despite technical focus"
+    }
+}

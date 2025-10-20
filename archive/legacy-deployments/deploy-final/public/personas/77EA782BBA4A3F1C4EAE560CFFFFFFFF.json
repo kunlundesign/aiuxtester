@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 66,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Appleton, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration",
+            "institution": "University of Wisconsin"
+        },
+        "occupation": "Retired Small Business Owner",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Short silver-gray curls",
+            "skin_color": "Fair",
+            "facial_features": "Warm smile with laugh lines",
+            "dress_style": "Casual practical clothing with seasonal accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Fiscal conservatism, veteran support, community resilience",
+        "motivations": "Financial security, maintaining independence, staying intellectually engaged",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Multi-topic research (sports trades, financial policies, cooking tech)",
+        "ad_interactions": "High engagement with kitchen appliances/outdoor gear ads",
+        "preferred_content_sources": "CNN, MSNBC, ESPN, NHL.com, eBay Seller Hub",
+        "social_media_usage": "Facebook (family connections), MSN/CNN comment sections",
+        "ecommerce_behavior": "Strategic seller on eBay, budget-conscious buyer",
+        "device_usage": "Desktop (Edge browser), iPhone for quick checks",
+        "subscriptions": "MSN Premium, eBay Seller Store, Navy Federal alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "E-commerce trends, Alaska real estate market",
+        "hobbies": "Recipe testing, seasonal crafting, freshwater fishing",
+        "entertainment_preferences": "Sports commentary, country music, political news analysis",
+        "content_consumption": "News articles with financial/political depth + quick sports updates",
+        "learning_style": "Experimental trial-and-error combined with tutorial videos"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-focused investments in home/equipment",
+        "income_level": "Middle-class retirement + eBay income",
+        "investment_habits": "Conservative with VA-backed options",
+        "financial_tools": "Navy Federal accounts, Chase credit cards, eBay payout system"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with strong client communication",
+        "family_structure": "Widowed with adult children in Midwest",
+        "friendship_circle": "Close-knit community/VA support group connections",
+        "community_involvement": "Veteran family support initiatives",
+        "online_vs_offline_engagement": "Online news engagement balanced with in-person church activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSNBC Morning Joe, eBay order processing",
+        "workday_habits": "Afternoon recipe testing interspersed with market research",
+        "evening_and_leisure": "Sports highlights viewing while crafting holiday decorations",
+        "weekend_activities": "Lake fishing trips, granddaughter's soccer games",
+        "sleep_schedule": "10 PM - 6 AM consistent routine"
+    },
+    "Health & Well-being": {
+        "physical_health": "Low-impact walking, pescatarian diet",
+        "mental_health": "Veteran support group participation",
+        "work_life_balance": "Structured retirement activities with downtime",
+        "health_related_digital_behavior": "My HealtheVet portal usage, arthritis management research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with veteran community consultation",
+        "brand_loyalty": "Trusts established brands (Breville, Carhartt)",
+        "influence_factors": "Consumer reports, grandkids' tech suggestions",
+        "tech_adoption": "Mainstream adopter after family vetting",
+        "privacy_and_security_concerns": "Cautious with financial data, relaxed on social media"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with basic Spanish cooking terms",
+        "travel_habits": "Regional road trips with Alaska reconnaissance missions",
+        "personal_projects": "Curating vintage cookware eBay store",
+        "unexpected_behavioral_traits": "Avid NHL trade analyst despite no hockey playing history"
+    }
+}

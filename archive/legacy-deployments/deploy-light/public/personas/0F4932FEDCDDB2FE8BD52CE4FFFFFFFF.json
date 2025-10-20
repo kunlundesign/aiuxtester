@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Susan Thompson",
+        "age": 59,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Dearborn, Michigan, USA",
+        "education": {
+            "degree": "Unknown",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Retired/Homemaker",
+        "company": "N/A",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, silver-gray",
+            "Skin color": "Fair",
+            "Facial features": "Glasses, warm expression",
+            "Dress Style": "Casual, practical with handmade accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Community support, traditional craftsmanship, fiscal responsibility",
+        "motivations": "Creative expression through crafts, maintaining family traditions, budget-conscious living",
+        "cognitive_style": "Practical problem-solving with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Fabric/crafting tutorials, retail store locations, seasonal recipes",
+        "ad_interactions": "High engagement with craft supplies (72% of ad clicks), moderate with kitchenware",
+        "preferred_content_sources": "Joann.com, eBay, MSN news, church/community sites",
+        "social_media_usage": "Passive Facebook use (150 visits/90 days), no observed active posting",
+        "ecommerce_behavior": "Frequent low-to-mid price purchases (fabric, baskets, kitchenware)",
+        "device_usage": "Desktop primary (Edge browser), secondary mobile use",
+        "subscriptions": "Joann email alerts, eBay saved searches, MSN newsfeed"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Textile arts communities, retail craft industry trends",
+        "hobbies": "Quilting, seasonal decorating, church craft groups, bargain hunting",
+        "entertainment_preferences": "Country music, Hallmark-style movies, Debbie Macomber novels",
+        "content_consumption": "Project tutorials, store circulars, local news",
+        "learning_style": "Video tutorials + printed patterns combination"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented (shops Aldi, Dollar Tree), waits for sales",
+        "income_level": "Middle-class retirement income",
+        "investment_habits": "Conservative (credit union membership)",
+        "financial_tools": "Discover Card, Downriver Community FCU, Capital One"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Former collaborative work style (based on team craft references)",
+        "family_structure": "Likely empty nester (frequent crafting time)",
+        "friendship_circle": "Church group and quilting circle members",
+        "community_involvement": "Parish activities (St. Maria Goretti visits), local shop hops",
+        "online_vs_offline_engagement": "70% offline community participation, 30% online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN news, check craft store emails",
+        "workday_habits": "Project planning, fabric shopping trips, recipe testing",
+        "evening_and_leisure": "Quilting while watching TV, eBay browsing",
+        "weekend_activities": "Church services, craft fairs, family visits",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary craft work balanced with light housekeeping",
+        "mental_health": "Crafting as stress relief, stable emotional patterns",
+        "work_life_balance": "Leisure-focused retirement routine",
+        "health_related_digital_behavior": "Occasional magnesium supplement research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Practical comparison shopper (multiple store visits)",
+        "brand_loyalty": "Strong to Joann/Hobby Lobby, moderate to eBay sellers",
+        "influence_factors": "Price comparisons, user reviews, fabric quality",
+        "tech_adoption": "Mainstream user (adopts tech when necessary for hobbies)",
+        "privacy_and_security_concerns": "Basic precautions (credit union use)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Midwest American values",
+        "travel_habits": "Day trips to Shipshewana, occasional Michigan shop hops",
+        "personal_projects": "Heirloom quilts, holiday decorations, church bazaar items",
+        "unexpected_behavioral_traits": "Combines traditional crafting with eBay reselling"
+    }
+}

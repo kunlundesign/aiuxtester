@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emma Johnson",
+        "age": 19,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Huntington, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "Unknown",
+            "institution": "Unknown"
+        },
+        "occupation": "Freelance Crafter/Student",
+        "company": "Freelance (Etsy shop operator)",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Shoulder-length waves",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup with artistic flair",
+            "Dress Style": "Casual-comfortable with handmade accessories"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "INFP",
+        "beliefs_and_values": "Supports creative entrepreneurship and environmental sustainability",
+        "motivations": "Creative expression, financial independence through craft",
+        "cognitive_style": "Creative problem-solving with practical implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on crafting supplies, floral biology, and pop culture (dragons)",
+        "ad_interactions": "High engagement with Etsy tools, home decor, and fashion ads",
+        "preferred_content_sources": "Etsy forums, BuzzFeed, IMDB, Wikipedia",
+        "social_media_usage": "Passive Pinterest/Instagram browsing for inspiration",
+        "ecommerce_behavior": "Frequent small purchases of craft materials and vintage items",
+        "device_usage": "Desktop-focused (Printful/Etsy management), Edge browser",
+        "subscriptions": "Canva Pro, Etsy Plus seller tools"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Handmade product trends, print-on-demand technologies",
+        "hobbies": "Paper flower crafting, fantasy fandom engagement",
+        "entertainment_preferences": "Dragon-themed media (How to Train Your Dragon), 90s nostalgia",
+        "content_consumption": "Tutorial videos and image-heavy guides",
+        "learning_style": "YouTube tutorials + hands-on experimentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for materials, occasional splurges on unique vintage finds",
+        "income_level": "Lower-middle ($15k-$25k annually from Etsy)",
+        "investment_habits": "Reinvests profits into shop supplies",
+        "financial_tools": "PayPal, Etsy Payments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with occasional Etsy seller collaborations",
+        "family_structure": "Lives with parents",
+        "friendship_circle": "Small group of creative friends",
+        "community_involvement": "Online crafting communities",
+        "online_vs_offline_engagement": "Primarily online for business, in-person craft fairs occasionally"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Etsy orders, plans crafting tasks",
+        "workday_habits": "Balances crafting with online shop management",
+        "evening_and_leisure": "Fandom wiki browsing while crafting",
+        "weekend_activities": "Thrift shopping for materials, movie nights",
+        "sleep_schedule": "Moderate night owl (1am-9am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work compensated with walking breaks",
+        "mental_health": "Uses crafting as mindfulness practice",
+        "work_life_balance": "Blurred boundaries due to home-based work",
+        "health_related_digital_behavior": "Researches ergonomic crafting setups"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven for business purchases",
+        "brand_loyalty": "Prefers niche crafting brands over mainstream",
+        "influence_factors": "Etsy seller reviews, tutorial creators",
+        "tech_adoption": "Early adopter of craft-related tools",
+        "privacy_and_security_concerns": "Moderate (uses VPN for transactions)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Italian papercraft",
+        "travel_habits": "Local day trips for materials, virtual travel through fandom worlds",
+        "personal_projects": "Developing fantasy-themed product line",
+        "unexpected_behavioral_traits": "Combines political awareness (MSN engagement) with escapist fandom interests"
+    }
+}

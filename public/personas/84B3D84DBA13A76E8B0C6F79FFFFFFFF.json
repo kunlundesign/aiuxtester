@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Maria Gonzalez",
+        "age": 44,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "South Gate, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Civil Engineering or Public Administration",
+            "institution": "unknown"
+        },
+        "occupation": "Municipal Project Manager/Construction Coordinator",
+        "company": "City Government (unknown specific)",
+        "physical_attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Professional cut",
+            "Skin color": "Medium",
+            "Facial features": "Neutral expression",
+            "Dress Style": "Business casual"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Civic responsibility, infrastructure improvement",
+        "motivations": "Public service efficiency, regulatory compliance",
+        "cognitive_style": "Structured problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Municipal services (65%), construction regulations (20%), productivity tools (15%)",
+        "ad_interactions": "Construction tools (60%), footwear (30%), software (10%)",
+        "preferred_content_sources": "Government portals, technical blogs, MSN Sports",
+        "social_media_usage": "Passive news consumption (MSN/Yahoo), no active posting",
+        "ecommerce_behavior": "Targeted purchases, price comparison",
+        "device_usage": "Desktop (80%), Edge browser",
+        "subscriptions": "Municipal alerts, Yahoo Mail Plus"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Urban planning, construction codes, public works",
+        "hobbies": "Casual jogging, local event attendance",
+        "entertainment_preferences": "Sports highlights, biographical tech news",
+        "content_consumption": "Regulatory documents, short news clips",
+        "learning_style": "On-the-job training, official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Practical purchases, durable goods",
+        "income_level": "$75k-$90k",
+        "investment_habits": "Conservative (401k, property)",
+        "financial_tools": "Bank of America accounts, auto loans"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Regulatory oversight, interdepartmental coordination",
+        "family_structure": "Homeowner with dependents",
+        "friendship_circle": "Professional network-focused",
+        "community_involvement": "Local government advisory roles",
+        "online_vs_offline_engagement": "Prefers in-person for work, digital for services"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage, municipal system checks",
+        "workday_habits": "Document reviews, contractor meetings",
+        "evening_and_leisure": "Sports highlights, shoe research",
+        "weekend_activities": "Home maintenance, local events",
+        "sleep_schedule": "11 PM - 6 AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional cardio, ergonomic workspace",
+        "mental_health": "Task-focused coping",
+        "work_life_balance": "Compartmentalized",
+        "health_related_digital_behavior": "Basic fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Regulation-compliant",
+        "brand_loyalty": "Nike footwear, municipal suppliers",
+        "influence_factors": "Compliance requirements, peer municipalities",
+        "tech_adoption": "Late majority for work tools",
+        "privacy_and_security_concerns": "Mandatory protocols only"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish)",
+        "travel_habits": "Regional conferences, family visits",
+        "personal_projects": "Home renovation planning",
+        "unexpected_behavioral_traits": "Technical professional with sneaker enthusiasm"
+    }
+}

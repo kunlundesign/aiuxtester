@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Yvette Lugo",
+        "age": 61,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Lynbrook, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Healthcare Technology",
+            "institution": "Medical Training Institute of New York"
+        },
+        "occupation": "Healthcare Technologist",
+        "company": "NewYork-Presbyterian Hospital",
+        "physical_attributes": {
+            "height": "5'5\"",
+            "body_shape": "Average",
+            "hairstyle": "Short gray bob",
+            "skin_color": "Light olive",
+            "facial_features": "Glasses, minimal wrinkles",
+            "dress_style": "Business casual with medical scrubs"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Education as empowerment, financial independence",
+        "motivations": "Career reinvention, debt management, skill development",
+        "cognitive_style": "Analytical problem-solver with structured learning preferences"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical healthcare certifications (67% of queries), local housing (22%), food delivery (11%)",
+        "ad_interactions": "High engagement with education/job ads (82% of clicks), moderate housing ads",
+        "preferred_content_sources": "Medical training portals, Indeed, MSN Finance, Zillow",
+        "social_media_usage": "LinkedIn (weekly), minimal other platforms",
+        "ecommerce_behavior": "Budget-conscious meal kits (HelloFresh), occasional luxury seafood",
+        "device_usage": "Desktop (Edge browser), Windows OS",
+        "subscriptions": "MSN News alerts, Medical Training Institute portal, Gmail premium storage"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Radiology certifications, sterile processing tech trends",
+        "hobbies": "Cooking Mediterranean cuisine, movie-themed side hustles",
+        "entertainment_preferences": "Financial news podcasts, medical dramas",
+        "content_consumption": "Long-form certification guides, quick financial tips",
+        "learning_style": "Hybrid programs combining online theory with clinical practice"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused housing searches, selective luxury purchases",
+        "income_level": "$65k-$75k annually",
+        "investment_habits": "Conservative 401(k) focus with emergency fund",
+        "financial_tools": "Chase credit cards, basic retirement calculators"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented with mentoring tendencies",
+        "family_structure": "Empty nester living alone",
+        "friendship_circle": "Small group of healthcare colleagues",
+        "community_involvement": "Hospital volunteer program",
+        "online_vs_offline_engagement": "Hybrid - job hunting online, family interactions offline"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/Job alerts, MSN financial news, certification coursework",
+        "workday_habits": "Hospital shifts with evening online classes",
+        "evening_and_leisure": "Meal kit cooking, housing market research",
+        "weekend_activities": "Apartment tours, continuing education",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity through work, Mediterranean diet",
+        "mental_health": "Financial planning as stress relief",
+        "work_life_balance": "Semi-structured with educational commitments",
+        "health_related_digital_behavior": "Hospital employee portals, nutrition tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with cost-benefit analysis",
+        "brand_loyalty": "Strong to educational institutions, cautious with housing",
+        "influence_factors": "Accreditation status, alumni success stories",
+        "tech_adoption": "Mainstream user with specific certification tools",
+        "privacy_and_security_concerns": "Cautious with financial data sharing"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English/Spanish bilingual",
+        "travel_habits": "Local exploration, planned Bermuda cultural trip",
+        "personal_projects": "Certification portfolio development",
+        "unexpected_behavioral_traits": "Tech certification pursuit at 61, EV interest despite automotive research focus"
+    }
+}

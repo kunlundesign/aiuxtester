@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Dr. Michael Carter",
+        "age": 40,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "New York, United States",
+        "education": {
+            "degree": "MD",
+            "major": "Anesthesiology",
+            "institution": "New York University School of Medicine"
+        },
+        "occupation": "Anesthesiologist",
+        "company": "Surgicare of Westside, LLC",
+        "physical_attributes": {
+            "Height": "5'11\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, professionally styled",
+            "Skin color": "Light",
+            "Facial features": "Clean-shaven with rectangular glasses",
+            "Dress Style": "Business casual during workdays, relaxed on weekends"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Technology optimism, professional integrity, financial independence",
+        "motivations": "Career advancement, intellectual challenges, financial security through diversified investments",
+        "cognitive_style": "Analytical with structured thinking"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Medical research (anesthesiology/orthopedics), cryptocurrency symbols, minimalist lifestyle guides",
+        "ad_interactions": "High engagement with medical equipment/IUD ads and crypto-related content",
+        "preferred_content_sources": "Medline, NYTimes, YouTube, MSN, Coinbase",
+        "social_media_usage": "Passive engagement on Pinterest/YouTube, minimal active posting",
+        "ecommerce_behavior": "Researches high-value medical equipment, occasional luxury fashion items",
+        "device_usage": "Desktop-dominated workflow (medical software), mobile for casual browsing",
+        "subscriptions": "Henry Schein Medical, Coinbase Pro, Microsoft 365"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Surgical innovations, anesthesia monitoring systems, orthopedic collaborations",
+        "hobbies": "Cryptocurrency research, solving complex Sudoku puzzles, attending music festivals",
+        "entertainment_preferences": "Classic soul music (Sam Cooke/Otis Redding), Oscar-nominated films, wildlife documentaries",
+        "content_consumption": "Long-form medical journals paired with quick news updates",
+        "learning_style": "Structured professional certifications combined with self-directed crypto research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious for daily expenses, strategic splurges on tech/medical tools",
+        "income_level": "High ($250k-$350k annually)",
+        "investment_habits": "Moderate risk-taker in cryptocurrency markets",
+        "financial_tools": "Traditional banking with Coinbase for crypto investments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader in surgical settings",
+        "family_structure": "Married with children",
+        "friendship_circle": "Small group of close professional associates",
+        "community_involvement": "Pro bono medical consultations, no formal volunteering",
+        "online_vs_offline_engagement": "Prefers in-person professional interactions but active online researcher"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Medical journal review with coffee, checks crypto markets",
+        "workday_habits": "Surgery schedules interspersed with administrative tasks",
+        "evening_and_leisure": "Sudoku sessions, cryptocurrency research, family time",
+        "weekend_activities": "Bakery visits, museum trips, skiing vacations",
+        "sleep_schedule": "Early riser (5:30 AM) with consistent 7-hour sleep"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular skiing workouts, Mediterranean diet",
+        "mental_health": "Stress management through puzzles and music",
+        "work_life_balance": "Strict boundaries between OR time and personal life",
+        "health_related_digital_behavior": "Monitors CPR/BLS certifications online"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based in medicine, calculated risks in investments",
+        "brand_loyalty": "High for medical equipment, experimental with tech brands",
+        "influence_factors": "Peer-reviewed research for medical decisions, market trends for crypto",
+        "tech_adoption": "Early adopter of AI medical tools, mainstream crypto user",
+        "privacy_and_security_concerns": "High awareness for patient data, moderate personal privacy"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in Jamaican culture",
+        "travel_habits": "Seasonal ski trips to Vermont, regional music festivals",
+        "personal_projects": "Developing anesthesia tracking algorithms, crypto logo design",
+        "unexpected_behavioral_traits": "Methodical medical professional who creates cryptocurrency artwork"
+    }
+}

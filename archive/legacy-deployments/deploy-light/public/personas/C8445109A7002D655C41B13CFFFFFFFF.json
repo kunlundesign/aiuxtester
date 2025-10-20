@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Michael Carter",
+        "age": 57,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Mechanicsville, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "Virginia Commonwealth University"
+        },
+        "occupation": "Financial Advisor",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average build",
+            "Hairstyle": "Short, graying",
+            "Skin_color": "Caucasian",
+            "Facial_features": "Clean-shaven",
+            "Dress_Style": "Casual (polo shirts, khakis)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, Second Amendment support, Practical self-reliance",
+        "motivations": "Maintaining financial security, Staying informed on current events, Preserving independence",
+        "cognitive_style": "Structured thinking with practical application focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Sports statistics, Financial processes, Firearms-related technical queries",
+        "ad_interactions": "High engagement with financial services and sports streaming ads",
+        "preferred_content_sources": "ESPN, IMDB, Wikipedia, MSN News, Financial institution websites",
+        "social_media_usage": "Facebook (passive engagement with video content)",
+        "ecommerce_behavior": "Budget-conscious purchases of outdoor gear and travel deals",
+        "device_usage": "Desktop (Windows/Edge) for research, Mobile for quick checks",
+        "subscriptions": "MLB.TV, ESPN+, Local news newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement planning strategies, Investment market trends",
+        "hobbies": "Firearms training, College sports following, Outdoor cooking",
+        "entertainment_preferences": "Sports documentaries, Action films from 80s-90s era",
+        "content_consumption": "Factual sports analysis and political news articles",
+        "learning_style": "Self-guided research through official documentation"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Planned purchases with comparison shopping",
+        "income_level": "Upper-middle class",
+        "investment_habits": "Conservative long-term portfolio management",
+        "financial_tools": "Fidelity investments, Multiple credit cards, Online banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent consultant with client-focused approach",
+        "family_structure": "Married with adult children",
+        "friendship_circle": "Small group of longtime local friends",
+        "community_involvement": "Youth sports booster programs",
+        "online_vs_offline_engagement": "Prefers in-person interactions but maintains digital news literacy"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking sports scores and financial news",
+        "workday_habits": "Client meetings interspersed with market research",
+        "evening_and_leisure": "Sports event streaming, Firearms forum participation",
+        "weekend_activities": "Local sports events, Shooting range visits, Family meals",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Moderate activity through recreational shooting and walking",
+        "mental_health": "Stress management through structured routines",
+        "work_life_balance": "Clear separation between professional and personal time",
+        "health_related_digital_behavior": "Research on practical first aid/safety measures"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse with multiple verification steps",
+        "brand_loyalty": "Sticks with proven financial institutions and outdoor brands",
+        "influence_factors": "Expert certifications, Historical performance data",
+        "tech_adoption": "Mainstream user with focus on practical utility",
+        "privacy_and_security_concerns": "Cautious about financial data but accepts mainstream platforms"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern U.S. cultural influences, English monolingual",
+        "travel_habits": "Domestic trips to sports events and family destinations",
+        "personal_projects": "Maintaining local sports statistics database",
+        "unexpected_behavioral_traits": "Combines financial conservatism with enthusiasm for tactical gear"
+    }
+}

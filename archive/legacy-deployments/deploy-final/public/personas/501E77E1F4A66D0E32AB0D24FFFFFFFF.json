@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Helen Kowalski",
+        "age": 79,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Warren, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Office Administration",
+            "institution": "Macomb Community College"
+        },
+        "occupation": "Retired Office Manager",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'4\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short silver perm",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes from frequent smiling",
+            "Dress Style": "Casual knitwear with Detroit Tigers memorabilia"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Strong community responsibility, fiscal conservatism, traditional American values",
+        "motivations": "Maintaining independence, staying informed, community service",
+        "cognitive_style": "Practical problem-solver with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Local services searches (70%), political/news verification (20%), nostalgia/entertainment (10%)",
+        "ad_interactions": "High engagement with home improvement (Rejuvenate floor products) and local sports merchandise",
+        "preferred_content_sources": "MSN News, Wikipedia, Facebook community groups",
+        "social_media_usage": "Daily Facebook use for community updates, passive engagement",
+        "ecommerce_behavior": "Frequent small purchases on Amazon/Temu (home goods, practical items)",
+        "device_usage": "Windows desktop with Chrome browser",
+        "subscriptions": "Detroit Tigers newsletter, Yahoo Mail Plus"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Local business support, property management",
+        "hobbies": "Casual gaming (solitaire), community event planning",
+        "entertainment_preferences": "Classic TV nostalgia (Boy Meets World), country music (Dolly Parton)",
+        "content_consumption": "Local news articles >3,000 words, fact-checking political claims",
+        "learning_style": "Self-guided research via official websites (.gov/.edu)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with occasional sports memorabilia splurges",
+        "income_level": "Fixed middle-class retirement income",
+        "investment_habits": "Conservative (CDs/municipal bonds)",
+        "financial_tools": "Chase credit card, Medicare/Medicaid"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative team leader",
+        "family_structure": "Widowed, lives alone near extended family",
+        "friendship_circle": "Church group and neighbors",
+        "community_involvement": "Volunteers at food pantry, follows city council meetings",
+        "online_vs_offline_engagement": "Balances Facebook groups with in-person church activities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee while checking weather/Yahoo emails",
+        "workday_habits": "Home maintenance tasks between news checks",
+        "evening_and_leisure": "Detroit Tigers games/Solitaire with nightly news",
+        "weekend_activities": "Church fish fries, visiting local factory tours",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages hypertension (Hydrochlorothiazide), uses walker",
+        "mental_health": "Strong social network, puzzles for cognitive maintenance",
+        "work_life_balance": "Structured daily routine",
+        "health_related_digital_behavior": "Researches Medicare policies, Beaumont Health portal"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-intensive with community validation",
+        "brand_loyalty": "Strong local business preference",
+        "influence_factors": "Church community opinions, Snopes fact-checks",
+        "tech_adoption": "Competent with essential tools but avoids new apps",
+        "privacy_and_security_concerns": "Cautious about financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Second-generation Polish-American",
+        "travel_habits": "Regional Midwest road trips (Philly factory tours)",
+        "personal_projects": "Archiving local Detroit history",
+        "unexpected_behavioral_traits": "Proficient tech user despite age"
+    }
+}

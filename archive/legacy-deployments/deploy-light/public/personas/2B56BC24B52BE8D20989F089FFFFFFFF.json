@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Forde",
+        "age": 53,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Riverdale, USA",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration/Finance",
+            "institution": "Rutgers University"
+        },
+        "occupation": "Insurance Agent",
+        "company": "Plymouth Rock Assurance",
+        "physical attributes": {
+            "Height": "5'6\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short practical cut",
+            "Skin color": "Fair",
+            "Facial features": "Minimal makeup",
+            "Dress Style": "Business casual"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, interest in traditional/natural health solutions",
+        "motivations": "Professional competence, health maintenance, financial stability",
+        "cognitive_style": "Detail-oriented analytical thinker with interest in historical patterns"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical queries (insurance policy details, thyroid biochemistry), repeated property tax investigations",
+        "ad_interactions": "High engagement with insurance services, home improvement, and skincare ads",
+        "preferred_content_sources": "Industry portals (Plymouth Rock Agent Web), Zillow, Wikipedia, MSNBC",
+        "social_media_usage": "Passive LinkedIn for professional networking, occasional Facebook use",
+        "ecommerce_behavior": "Budget-conscious home/health purchases (Walmart, Kohl's)",
+        "device_usage": "Desktop-focused with Edge browser",
+        "subscriptions": "Microsoft 365, Plymouth Rock industry updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Insurance industry trends, real estate markets",
+        "hobbies": "Botanical perfumery, herb gardening, historical research",
+        "entertainment_preferences": "Classic rock documentaries, historical dramas",
+        "content_consumption": "Long-form technical articles mixed with quick news scans",
+        "learning_style": "Self-directed research with occasional structured courses"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-conscious with strategic investments in home/property",
+        "income_level": "$65,000-$80,000",
+        "investment_habits": "Real estate-focused with moderate risk tolerance",
+        "financial_tools": "Wells Fargo banking, Schwab investments"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with team coordination when required",
+        "family_structure": "Likely single/empty nester given Flint, MI obituary searches",
+        "friendship_circle": "Small trusted group (professional peers/local community)",
+        "community_involvement": "Insurance industry groups, historical preservation",
+        "online_vs_offline_engagement": "Balanced digital research with in-person client meetings"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage, MSN news scan, thyroid medication",
+        "workday_habits": "Policy management alternating with property research",
+        "evening_and_leisure": "Chair yoga, herbal remedy preparation, documentary viewing",
+        "weekend_activities": "Gardening, local historical sites, mattress maintenance projects",
+        "sleep_schedule": "Regular 11PM-6AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Manages Hashimoto's thyroiditis with medical/herbal regimen",
+        "mental_health": "Stress management through structured routines",
+        "work_life_balance": "Clear separation with scheduled downtime",
+        "health_related_digital_behavior": "Medical research papers, herbalism forums"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Risk-averse data collector",
+        "brand_loyalty": "Strong allegiance to Plymouth Rock Assurance",
+        "influence_factors": "Professional certifications, peer recommendations",
+        "tech_adoption": "Mainstream user with specific domain expertise",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual with interest in ancient Mediterranean cultures",
+        "travel_habits": "Domestic Northeast US trips, historical destination interest",
+        "personal_projects": "Developing botanical scent blends, local property investments",
+        "unexpected_behavioral_traits": "Combines actuarial precision with interest in UFO phenomena"
+    }
+}

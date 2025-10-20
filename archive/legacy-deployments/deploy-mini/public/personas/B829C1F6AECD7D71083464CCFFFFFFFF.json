@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Carter",
+        "age": 27,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Orlando, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Finance or Business Administration",
+            "institution": "unknown"
+        },
+        "occupation": "Insurance Agent/Advisor",
+        "company": "unknown",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, professional cut",
+            "Skin color": "Medium",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Business casual"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial security, professional responsibility",
+        "motivations": "Career advancement, client trust-building",
+        "cognitive_style": "Structured and detail-oriented"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Frequent insurance/banking queries, court record searches",
+        "ad_interactions": "High engagement with insurance/financial job ads",
+        "preferred_content_sources": "Government portals (myfloridalicense), financial institutions",
+        "social_media_usage": "Passive news consumption (MSN)",
+        "ecommerce_behavior": "Occasional food delivery (DoorDash), budget-conscious",
+        "device_usage": "Desktop (frequent PDF handling), Windows/Edge",
+        "subscriptions": "Microsoft 365, Zoom"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Insurance regulations, financial planning",
+        "hobbies": "Genealogy research, travel planning",
+        "entertainment_preferences": "Local news, political commentary",
+        "content_consumption": "Form-heavy documents, procedural guides",
+        "learning_style": "Structured webinars (Kaplan Financial)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with essential services prioritization",
+        "income_level": "$45,000-$60,000",
+        "investment_habits": "Conservative (bank-focused searches)",
+        "financial_tools": "Credit monitoring (Equifax), BNPL services (Affirm)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Client-focused (multiple consent forms)",
+        "family_structure": "Likely single (frequent food delivery)",
+        "friendship_circle": "Small professional network",
+        "community_involvement": "unknown",
+        "online_vs_offline_engagement": "Balanced (digital work tools, in-person client meetings)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email triage (high Gmail activity)",
+        "workday_habits": "Document processing (PDF scans), client meetings",
+        "evening_and_leisure": "Food delivery usage, Ancestry research",
+        "weekend_activities": "Local errands, professional development",
+        "sleep_schedule": "Regular (aligned with professional hours)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Sedentary work habits (extended screen time)",
+        "mental_health": "Stress management through structured routines",
+        "work_life_balance": "Work-leaning (high email volume)",
+        "health_related_digital_behavior": "Insurance provider portals (Aetna, HealthSherpa)"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Procedure-driven (court record checks)",
+        "brand_loyalty": "Service-oriented (spectrum.net repeated logins)",
+        "influence_factors": "Regulatory compliance, official documentation",
+        "tech_adoption": "Mainstream user (common productivity tools)",
+        "privacy_and_security_concerns": "Data-conscious (fraud alert searches)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Domestic focus (Canadian tour research as exception)",
+        "personal_projects": "Genealogy mapping (Ancestry activity)",
+        "unexpected_behavioral_traits": "Combines analytical insurance work with creative family history research"
+    }
+}

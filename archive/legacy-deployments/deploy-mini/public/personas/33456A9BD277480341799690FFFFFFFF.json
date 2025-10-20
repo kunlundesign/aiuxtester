@@ -1,0 +1,101 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Charleroi, United States",
+        "education": {
+            "degree": "Bachelor of Science",
+            "major": "Biology/Chemistry (Dual Major)",
+            "institution": "Penn State University"
+        },
+        "occupation": "Undergraduate Student",
+        "company": "Penn State University",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, trimmed",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven, rectangular glasses",
+            "Dress Style": "Casual (hoodies/jeans) with occasional outdoor gear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Science-driven worldview, environmental conservation, educational equity",
+        "motivations": "Academic excellence, practical skill development, financial independence",
+        "cognitive_style": "Analytical with strong pattern recognition"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Academic (biology/chemistry), health/nutrition, local real estate, and outdoor gear",
+        "ad_interactions": "High engagement with educational tools, outdoor equipment, and emergency preparedness",
+        "preferred_content_sources": "Academic platforms (Labflow), encyclopedic resources (Wikipedia), MSN health/fitness articles",
+        "social_media_usage": "Limited active engagement; passive consumption via news platforms",
+        "ecommerce_behavior": "Budget-conscious for essentials, occasional splurges on outdoor gear",
+        "device_usage": "Desktop-oriented (academic work), Edge browser with Bing integration",
+        "subscriptions": [
+            "Netflix",
+            "Amazon Prime",
+            "Top Hat",
+            "Labflow"
+        ]
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Molecular biology, ecological adaptations, scientific research methodologies",
+        "hobbies": "Hiking, amateur mycology, survival skills practice",
+        "entertainment_preferences": "Documentaries, sci-fi genres, science podcasts",
+        "content_consumption": "Long-form research papers paired with instructional videos",
+        "learning_style": "Structured coursework supplemented with AI tools (ChatGPT)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with strategic investments in education/outdoor gear",
+        "income_level": "Student-level (part-time jobs/grants)",
+        "investment_habits": "Conservative (TreasuryDirect/Upromise usage)",
+        "financial_tools": [
+            "Student banking apps",
+            "Credit cards",
+            "529 college plans"
+        ]
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative study groups, prefers structured roles",
+        "family_structure": "Lives with parents (retirement planning searches)",
+        "friendship_circle": "Small academic-focused group",
+        "community_involvement": "University biology clubs, local conservation efforts",
+        "online_vs_offline_engagement": "Balanced (virtual classes + outdoor activities)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Academic review sessions, protein-focused breakfast",
+        "workday_habits": "Structured study blocks with Labflow/Top Hat usage",
+        "evening_and_leisure": "Streaming educational content, meal prepping",
+        "weekend_activities": "Field research, hiking, property evaluation (real estate interest)",
+        "sleep_schedule": "Consistent 11PM-7AM cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active lifestyle (hiking), Mediterranean diet adherence",
+        "mental_health": "Stress management through structured routines",
+        "work_life_balance": "Disciplined academic focus with scheduled downtime",
+        "health_related_digital_behavior": "Nutrient tracking, fitness article consumption"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with academic validation",
+        "brand_loyalty": "Prefers proven educational/research tools",
+        "influence_factors": "Peer-reviewed studies, expert endorsements",
+        "tech_adoption": "Early mainstream adopter (AI tools in academics)",
+        "privacy_and_security_concerns": "Moderate (academic data protection focus)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English-native, basic scientific Spanish terminology",
+        "travel_habits": "Regional hiking destinations, campus-adjacent locations",
+        "personal_projects": "Independent species adaptation research",
+        "unexpected_behavioral_traits": "Combines survivalist interests with molecular biology studies"
+    }
+}

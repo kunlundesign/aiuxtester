@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "James Carter",
+        "age": 50,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Saint Augustine, USA",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Automotive Technology",
+            "institution": "Unknown vocational school"
+        },
+        "occupation": "Automotive Technician",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Average build",
+            "Hairstyle": "Short, practical cut",
+            "Skin_color": "Fair",
+            "Facial_features": "Clean-shaven",
+            "Dress_Style": "Casual workwear (e.g., polo shirts, utility pants)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical problem-solving, reliability in tools/equipment",
+        "motivations": "Mastery of technical skills, maintaining mechanical systems",
+        "cognitive_style": "Structured problem-solver with attention to OEM specifications"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical part numbers, vehicle repair solutions, sports news",
+        "ad_interactions": "High engagement with automotive parts ads (Ford, Walker Exhaust)",
+        "preferred_content_sources": "Manufacturer technical docs (ALLDATA), parts suppliers (Waytek), sports news (MSN)",
+        "social_media_usage": "Limited; MSN for news aggregation",
+        "ecommerce_behavior": "Frequent purchases of niche automotive parts (eBay, Amazon)",
+        "device_usage": "Desktop preferred for repair research, Windows OS",
+        "subscriptions": "ALLDATA Repair, MLB updates"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Commercial vehicle maintenance, electrical systems",
+        "hobbies": "Following MLB (Yankees), classic country music",
+        "entertainment_preferences": "Sports analytics shows, 1970s-2000s country music",
+        "content_consumption": "Factual repair guides combined with opinion-based sports analysis",
+        "learning_style": "Hands-on troubleshooting with manual reference"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented for tools, splurges on OEM parts",
+        "income_level": "$45,000-$60,000 annually",
+        "investment_habits": "Conservative (precious metals interest via silver/gold news)",
+        "financial_tools": "Credit cards for online parts purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent contractor with client networks",
+        "family_structure": "Unknown",
+        "friendship_circle": "Small group of automotive professionals",
+        "community_involvement": "Local sports league discussions",
+        "online_vs_offline_engagement": "Prefers in-person work but uses digital repair communities"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks sports news (Yankees updates) with coffee",
+        "workday_habits": "Scheduled repairs with diagnostic time blocks",
+        "evening_and_leisure": "Monitors sports trades, listens to country music",
+        "weekend_activities": "Attends local games, vehicle restoration projects",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active job maintains baseline fitness",
+        "mental_health": "Stress relief through mechanical problem-solving",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Minimal except ergonomic equipment research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (OEM specifications adherence)",
+        "brand_loyalty": "Strong for Ford/Gates parts",
+        "influence_factors": "Technical forums, manufacturer guidelines",
+        "tech_adoption": "Mainstream user with focus on practical tools",
+        "privacy_and_security_concerns": "Low (frequent parts site logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Southern US cultural influences",
+        "travel_habits": "Regional trips for sports events/parts sourcing",
+        "personal_projects": "Restoring commercial vehicles",
+        "unexpected_behavioral_traits": "Combines analytical mechanical work with passion for creative country music lyrics analysis"
+    }
+}

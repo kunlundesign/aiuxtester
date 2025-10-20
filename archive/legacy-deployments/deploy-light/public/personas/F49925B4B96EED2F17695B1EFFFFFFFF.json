@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Sarah Mitchell",
+        "age": 40,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Kenosha, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Automotive Technology",
+            "institution": "Gateway Technical College"
+        },
+        "occupation": "Auto Repair Shop Owner/Technician",
+        "company": "Mitchell's Auto Care (Freelance)",
+        "physical_attributes": {
+            "height": "5'7\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short practical cut",
+            "skin_color": "Caucasian",
+            "facial_features": "Weather-lined face with keen eyes",
+            "dress_style": "Utility workwear with tool pockets"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Technological progressivism, environmental sustainability, self-reliance",
+        "motivations": "Business growth, technical mastery, equipment optimization",
+        "cognitive_style": "Systems-oriented problem solver with hands-on practicality"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical specifications comparison, OEM part numbers, tool benchmarking",
+        "ad_interactions": "High engagement with professional automotive tools/equipment ads",
+        "preferred_content_sources": "Manufacturer technical docs, trade forums, equipment review channels",
+        "social_media_usage": "LinkedIn for business, YouTube for tutorials, minimal personal use",
+        "ecommerce_behavior": "Bulk tool purchases, compares distributor pricing, values durability",
+        "device_usage": "Desktop for research/orders, mobile for shop floor reference",
+        "subscriptions": "Tool market newsletters, welding equipment updates, automotive diagnostic platforms"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Advanced diagnostic systems, welding tech innovations, tool distribution networks",
+        "hobbies": "Motorcycle restoration, DIY home improvement projects, tactical shooting",
+        "entertainment_preferences": "True crime podcasts, action movies, classic rock",
+        "content_consumption": "Technical manuals > video tutorials > industry blogs",
+        "learning_style": "Experimental trial-and-error with structured manufacturer training"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven capital investments, leases high-end equipment",
+        "income_level": "$65k-$85k annually",
+        "investment_habits": "Reinvests profits into shop equipment upgrades",
+        "financial_tools": "Business credit cards, equipment financing plans"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative with suppliers, authoritative with apprentices",
+        "family_structure": "Single homeowner with two dogs",
+        "friendship_circle": "Trade association colleagues, motorcycle enthusiasts",
+        "community_involvement": "Local business alliances, veterans support initiatives",
+        "online_vs_offline_engagement": "Offline-first but maintains crucial digital supply chains"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Shop system checks with black coffee, scans industry alerts",
+        "workday_habits": "Mornings: complex repairs. Afternoons: equipment maintenance",
+        "evening_and_leisure": "Shop cleanup, motorcycle tinkering, geopolitical news digestion",
+        "weekend_activities": "Property maintenance, test rides, tool auctions",
+        "sleep_schedule": "Early riser (5:30 AM) with 6-7 hours sleep"
+    },
+    "Health & Well-being": {
+        "physical_health": "Functional strength training through manual labor",
+        "mental_health": "Stress relief through mechanical problem-solving",
+        "work_life_balance": "Shop-integrated lifestyle with clear client boundaries",
+        "health_related_digital_behavior": "Occupational safety research, ergonomic equipment searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Cost-benefit analysis focused on ROI durability",
+        "brand_loyalty": "Commitment to Milwaukee/TOPDON but shops Harbor Freight for disposables",
+        "influence_factors": "Trade publication reviews, peer recommendations, warranty terms",
+        "tech_adoption": "Early majority adopter after prototype testing",
+        "privacy_and_security_concerns": "Basic cyber hygiene focused on business continuity"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Midwestern English with technical jargon fluency",
+        "travel_habits": "Regional tool expos, occasional Amtrak business trips",
+        "personal_projects": "Converting Ram Promaster into mobile repair unit",
+        "unexpected_behavioral_traits": "Military news enthusiast who avoids conflict resolution"
+    }
+}

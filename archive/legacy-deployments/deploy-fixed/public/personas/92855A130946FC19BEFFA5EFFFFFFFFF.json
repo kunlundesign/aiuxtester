@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Eugene Park",
+        "age": 23,
+        "gender": "Male",
+        "nationality": "United States",
+        "current_residence": "Minneapolis, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Analytics or Finance",
+            "institution": "Washington State University (inferred from search query)"
+        },
+        "occupation": "Consultant or Financial Analyst",
+        "company": "Gypsum Consulting (frequent domain visits)",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, styled",
+            "skin_color": "Light",
+            "facial_features": "Clean-shaven",
+            "dress_style": "Casual sportswear (Nike/Calvin Klein interest)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High (tech/crypto interest, travel curiosity)",
+            "conscientiousness": "High (financial planning, job applications)",
+            "extraversion": "Medium (solo chess/analytical activities but follows sports communities)",
+            "agreeableness": "Medium",
+            "neuroticism": "Low (data-driven decision-making)"
+        },
+        "mbti": "ENTP (analytical yet curious, enjoys debating MMA/sports)",
+        "beliefs_and_values": "Technology optimism, career advancement focus",
+        "motivations": "Career growth, financial independence, intellectual mastery",
+        "cognitive_style": "Analytical with structured thinking (advanced Google Docs/Excel usage)"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep dives into sports analytics, geopolitical conflicts (WW3/Ukraine), and technical tutorials",
+        "ad_interactions": "High engagement with sportswear (Nike), travel gear, and crypto ads",
+        "preferred_content_sources": "ESPN, LinkedIn, MSNBC, Wikipedia, Fidelity",
+        "social_media_usage": "YouTube (music/sports), LinkedIn (professional networking), passive MSN/Chess.com engagement",
+        "ecommerce_behavior": "Budget-conscious (Target/Amazon) but invests in quality gear (Nike backpacks)",
+        "device_usage": "Desktop-centric (heavy Google Docs/Fidelity usage), Chrome/Edge",
+        "subscriptions": "Netflix, Spotify (implied via music.youtube.com), chess.com Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Consulting strategies, cryptocurrency markets, data analysis",
+        "hobbies": "MMA/boxing, chess, urban exploration, Asian pop culture",
+        "entertainment_preferences": "Hip-hop (Post Malone, Future), combat sports (UFC), travel vlogs",
+        "content_consumption": "Long-form geopolitical articles, technical tutorials, sports highlights",
+        "learning_style": "Self-learning via YouTube/documentation (advanced Google Docs queries)"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven (Target/Amazon), invests in career development tools",
+        "income_level": "$55k-$70k (entry-level consulting)",
+        "investment_habits": "Moderate risk (crypto/Fidelity engagement)",
+        "financial_tools": "Fidelity brokerage, Wells Fargo banking, cryptocurrency"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative but independent (frequent LinkedIn activity)",
+        "family_structure": "Likely single, urban apartment dweller",
+        "friendship_circle": "Small group with shared MMA/sports interests",
+        "community_involvement": "None evident",
+        "online_vs_offline_engagement": "Balanced (online research/chess vs. gym/social sports)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks ESPN/Gmail, reviews financial portfolios",
+        "workday_habits": "Data analysis tasks, LinkedIn networking, spreadsheet management",
+        "evening_and_leisure": "Watches UFC/boxing matches, practices chess, listens to hip-hop",
+        "weekend_activities": "Gym sessions, explores Asian cuisine (BCD Tofu House queries), travel planning",
+        "sleep_schedule": "Night owl (late-night research/MMA content)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Regular gym-goer (sportswear ads), balanced diet with Asian food interest",
+        "mental_health": "Stress management through chess/analytical activities",
+        "work_life_balance": "Leans toward workaholic (high LinkedIn/Fidelity activity)",
+        "health_related_digital_behavior": "Fitness-focused YouTube content, no evident medical research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (analytical skills queries, Fidelity research)",
+        "brand_loyalty": "Selective (Nike/Calvin Klein vs. budget retailers)",
+        "influence_factors": "Expert analysis (Fundstrat's Tom Lee), technical documentation",
+        "tech_adoption": "Early adopter (SpaceX/crypto interest)",
+        "privacy_and_security_concerns": "Moderate (spam management queries)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Korean-American (Asian cuisine/travel focus, surname Park)",
+        "travel_habits": "Aspires to visit Seoul/Tokyo (repeated search patterns)",
+        "personal_projects": "Self-education in analytics, crypto portfolio management",
+        "unexpected_behavioral_traits": "Combines MMA passion with chess strategy (aggressive/analytical duality)"
+    }
+}

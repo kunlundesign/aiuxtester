@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Emily Carter",
+        "age": 29,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Pittsburgh, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Sports Science",
+            "institution": "University of Pittsburgh"
+        },
+        "occupation": "Outdoor Equipment Sales Manager",
+        "company": "REI Co-op",
+        "physical attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Shoulder-length brunette",
+            "Skin color": "Fair",
+            "Facial features": "Sharp jawline, minimal makeup",
+            "Dress Style": "Casual sportswear with technical fabrics"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Environmental sustainability, health consciousness",
+        "motivations": "Maintaining peak physical performance, finding quality/value balance",
+        "cognitive_style": "Analytical decision-maker with practical implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical cycling components (rim tape, bike frames), seasonal sales",
+        "ad_interactions": "High engagement with cycling gear/outdoor equipment ads",
+        "preferred_content_sources": "Specialized retailer sites, manufacturer blogs, Facebook groups",
+        "social_media_usage": "Facebook daily (269 domain visits), passive newsfeed scrolling",
+        "ecommerce_behavior": "Frequent mid-price purchases (3-6 visits/month to major retailers)",
+        "device_usage": "Desktop (detailed product research), Mobile (quick checks)",
+        "subscriptions": "Competitive Cyclist alerts, REI membership, Amazon Prime"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Lightweight materials innovation, e-bike adoption trends",
+        "hobbies": "Mountain biking, gear customization, weekend trail exploration",
+        "entertainment_preferences": "Documentaries about endurance sports, indie folk music",
+        "content_consumption": "Detailed product specs > marketing claims",
+        "learning_style": "YouTube tutorials + manufacturer workshops combination"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-driven quality investments (e.g., $140 boots bought at $79)",
+        "income_level": "$65,000-$75,000",
+        "investment_habits": "Conservative (prioritizes equipment over stocks)",
+        "financial_tools": "Store credit cards, PayPal, mobile banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Team-oriented problem solver",
+        "family_structure": "Single, lives with roommate(s)",
+        "friendship_circle": "Mid-size outdoor enthusiast group",
+        "community_involvement": "Local cycling safety initiatives",
+        "online_vs_offline_engagement": "Offline activity coordination via online platforms"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email/Sale alerts check, pre-work ride",
+        "workday_habits": "Product research blocks, customer consultations",
+        "evening_and_leisure": "Gear maintenance, Facebook group moderation",
+        "weekend_activities": "Group rides, retailer visits, sale hunting",
+        "sleep_schedule": "10 PM - 6 AM regular cycle"
+    },
+    "Health & Well-being": {
+        "physical_health": "Cardio-focused training, high-protein diet",
+        "mental_health": "Stress relief through outdoor activities",
+        "work_life_balance": "Activity-integrated lifestyle",
+        "health_related_digital_behavior": "Monitors equipment-related ergonomic research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis across 3+ sources",
+        "brand_loyalty": "Specialized/45NRTH preferred but compares alternatives",
+        "influence_factors": "User reviews > expert opinions",
+        "tech_adoption": "Mainstream user with selective early adoption (e-bikes)",
+        "privacy_and_security_concerns": "Basic precautions (no financial data saving)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Appalachian outdoor culture",
+        "travel_habits": "Regional trail destinations (Leadville events)",
+        "personal_projects": "Building custom gravel bike",
+        "unexpected_behavioral_traits": "Technical gear enthusiast who dislikes political/tech innovation news"
+    }
+}

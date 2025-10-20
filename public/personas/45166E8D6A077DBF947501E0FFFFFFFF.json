@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 58,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Pennington, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Agricultural Management",
+            "institution": "Rutgers University"
+        },
+        "occupation": "Farm Manager/Agricultural Equipment Specialist",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'7\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes from outdoor work",
+            "Dress Style": "Casual workwear (jeans, flannels, boots)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Practical self-reliance, preservation of agricultural traditions",
+        "motivations": "Maintaining farm operational efficiency, staying current with equipment technology",
+        "cognitive_style": "Analytical problem-solver with hands-on implementation focus"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep technical research (equipment specs), local agricultural regulations, leisure travel planning",
+        "ad_interactions": "High engagement with farming equipment, tech deals, and travel services",
+        "preferred_content_sources": "Industry-specific forums (AgTalk), government portals (nj.gov), equipment marketplaces",
+        "social_media_usage": "Limited to Facebook Marketplace for equipment sales",
+        "ecommerce_behavior": "Major purchases via specialized auction sites, routine orders on Amazon",
+        "device_usage": "Desktop-focused (equipment research), secondary mobile use (MSN news)",
+        "subscriptions": "FloRacing, Hulu, agricultural auction alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Combine mechanics, farmland leasing regulations, auction strategies",
+        "hobbies": "Motorsports spectating, puzzle games, tactical gear research",
+        "entertainment_preferences": "Country music documentaries, automotive racing news",
+        "content_consumption": "Technical manuals > opinion pieces, auction catalogs > general news",
+        "learning_style": "Peer forums + manufacturer documentation cross-referencing"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases with occasional premium equipment splurges",
+        "income_level": "$75k-$95k/year (farm management contracts)",
+        "investment_habits": "Conservation-focused land use investments",
+        "financial_tools": "Business credit cards, agricultural loans"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Contract-based collaborations with multiple farms",
+        "family_structure": "Empty nester living with spouse",
+        "friendship_circle": "Local farming community connections",
+        "community_involvement": "Agricultural extension programs, land conservation boards",
+        "online_vs_offline_engagement": "Offline deal-making supplemented by online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "MSN news check with coffee, auction site monitoring",
+        "workday_habits": "Equipment maintenance coordination, lease documentation review",
+        "evening_and_leisure": "FloRacing streams, equipment forum participation",
+        "weekend_activities": "Farm equipment auctions, local motorsport events",
+        "sleep_schedule": "Early riser (5:30 AM) with midday power naps"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active outdoor work maintains baseline fitness",
+        "mental_health": "Stress management through puzzle games and routine",
+        "work_life_balance": "Integrated lifestyle (work/leisure overlap)",
+        "health_related_digital_behavior": "Occasional alternative medicine research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Comparative analysis across 3+ sources",
+        "brand_loyalty": "Strong preference for John Deere equipment",
+        "influence_factors": "Peer testimonials, warranty terms",
+        "tech_adoption": "Late mainstream adopter (proven solutions only)",
+        "privacy_and_security_concerns": "Minimal outside financial transactions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Multigenerational New Jersey farming family",
+        "travel_habits": "Annual winter Key West trips with motorsport detours",
+        "personal_projects": "Vintage farm equipment restoration",
+        "unexpected_behavioral_traits": "Combines practical farming work with tactical hunting gear interest"
+    }
+}

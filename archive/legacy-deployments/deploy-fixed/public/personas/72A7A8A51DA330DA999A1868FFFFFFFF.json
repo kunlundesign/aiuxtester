@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Priya Suresh",
+        "age": 24,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "San Jose, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Dental Hygiene",
+            "institution": "University of the Pacific"
+        },
+        "occupation": "Dental Assistant",
+        "company": "Oakland Smile Dentistry",
+        "physical_attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Medium-length straight hair",
+            "Skin color": "Medium tan",
+            "Facial features": "Round face with dimples",
+            "Dress Style": "Casual chic with occasional traditional Tamil elements"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Medium"
+        },
+        "mbti": "INFJ",
+        "beliefs_and_values": "Holistic health integration, cultural preservation, financial preparedness",
+        "motivations": "Healthcare career advancement, managing familial health needs, maintaining cultural connections",
+        "cognitive_style": "Research-driven with systematic implementation"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Deep-dive medical research (Parkinson's supplements), localized service comparisons (dental offices), multilingual queries (English-Spanish translation)",
+        "ad_interactions": "High engagement with healthcare ads (78% of clicked ads)",
+        "preferred_content_sources": "Medical News Today, Yelp reviews, academic portals (.edu domains)",
+        "social_media_usage": "YouTube (music/tutorials), Reddit (niche communities), passive engagement",
+        "ecommerce_behavior": "Targeted purchases of healthcare products and tech accessories",
+        "device_usage": "Desktop-centric (83% of sessions) on Windows/Edge",
+        "subscriptions": "Spotify Premium, YouTube Premium, Medical News Today newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Dental technology advancements, Parkinson's disease management protocols",
+        "hobbies": "Bollywood dance, pool maintenance, Tamil film music curation",
+        "entertainment_preferences": "Tamil cinema, electronic dance music, true crime podcasts",
+        "content_consumption": "Long-form medical research papers with supplementary video explanations",
+        "learning_style": "Blended approach: online courses supplemented with clinical observations"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented healthcare spending with occasional tech splurges",
+        "income_level": "$45,000-$55,000",
+        "investment_habits": "Conservative (high-yield savings accounts, 401k contributions)",
+        "financial_tools": "Credit cards with healthcare rewards, PayPal, Venmo"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Supportive team player in clinical settings",
+        "family_structure": "Multigenerational household with elder care responsibilities",
+        "friendship_circle": "Close-knit Tamil community group + online gaming friends",
+        "community_involvement": "Tamil cultural association volunteer, online Parkinson's support groups",
+        "online_vs_offline_engagement": "70% online health communities, 30% in-person cultural events"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Medication management, Tamil news scan, commute preparation",
+        "workday_habits": "Patient scheduling, dental equipment sterilization, lunchtime research sessions",
+        "evening_and_leisure": "Pool maintenance, Spotify playlist curation, medical forum participation",
+        "weekend_activities": "Family meals, Tamil film screenings, gaming sessions",
+        "sleep_schedule": "Night owl (12am-7am) with weekend sleep compensation"
+    },
+    "Health & Well-being": {
+        "physical_health": "Low-impact yoga, pescatarian diet, vitamin regimen",
+        "mental_health": "Music therapy, online support groups, mindfulness apps",
+        "work_life_balance": "Structured separation with emergency caregiving flexibility",
+        "health_related_digital_behavior": "Fitness tracker integration, medication cost comparison tools"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Evidence-based with caregiver consensus",
+        "brand_loyalty": "Healthcare brand loyalist, tech switcher",
+        "influence_factors": "Clinical studies, caregiver testimonials, cultural norms",
+        "tech_adoption": "Mainstream-plus adoptor (waits for security patches)",
+        "privacy_and_security_concerns": "Data-conscious with encrypted medical communications"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (Tamil/English), third-generation immigrant family",
+        "travel_habits": "Domestic medical conferences, biennial Tamil Nadu visits",
+        "personal_projects": "Curating Tamil music playlists, DIY pool maintenance blog",
+        "unexpected_behavioral_traits": "Maintains rigorous healthcare research discipline while engaging in casual torrenting for cultural content"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Maria Gonzales",
+        "age": 73,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Los Lunas, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "University of New Mexico"
+        },
+        "occupation": "Retired Administrative Assistant",
+        "company": "Freelance",
+        "physical_attributes": {
+            "Height": "5'4\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short gray curls",
+            "Skin color": "Light olive",
+            "Facial features": "Warm smile with glasses",
+            "Dress Style": "Casual practical wear (denim shirts, slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial independence, home security, civic responsibility",
+        "motivations": "Maintaining self-sufficiency, preserving home value, staying informed",
+        "cognitive_style": "Structured problem-solver with practical creativity"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Precision queries (e.g., '12 x 24 above ground pool'), repeated utility management searches",
+        "ad_interactions": "High engagement with home improvement ads (locks/pools), occasional financial services",
+        "preferred_content_sources": "MSN News, YouTube tutorials, retailer websites (Amazon/Walmart)",
+        "social_media_usage": "Limited (passive YouTube use for tutorials)",
+        "ecommerce_behavior": "Budget-conscious bulk purchases (Lowe's/Walmart), seasonal buys (pool supplies)",
+        "device_usage": "Desktop for bills/planning, mobile for quick searches",
+        "subscriptions": "MyChart health portal, PNM bill alerts, Walmart weekly ads"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Retirement financial management, home maintenance techniques",
+        "hobbies": "Gardening (Christmas cactus care), DIY home projects, pool maintenance",
+        "entertainment_preferences": "Political news analysis, NBA updates, home improvement shows",
+        "content_consumption": "Factual how-to guides, local news, product comparison articles",
+        "learning_style": "Visual tutorials (YouTube), community workshops"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused with planned major purchases (pool installation)",
+        "income_level": "Fixed middle-class retirement income",
+        "investment_habits": "Conservative (credit union accounts, CD investments)",
+        "financial_tools": "Online banking (Kirtland/Nusenda CU), Synchrony credit"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Methodical collaborator (historical admin experience)",
+        "family_structure": "Likely lives alone (self-managed home projects)",
+        "friendship_circle": "Small local group (Albuquerque Craigslist community interactions)",
+        "community_involvement": "Credit union member, follows local sports (New Mexico Lobos)",
+        "online_vs_offline_engagement": "Balanced (online research, in-store purchases)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN political news, bill payments",
+        "workday_habits": "Scheduled home maintenance (pool care/lock installations)",
+        "evening_and_leisure": "Gardening, Walmart deal hunting, sports highlights",
+        "weekend_activities": "Local hardware store trips, family video calls",
+        "sleep_schedule": "Early riser (5:30 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light gardening as exercise, balanced home-cooked meals",
+        "mental_health": "Routine-focused stress management, MyChart medical tracking",
+        "work_life_balance": "Structured retirement schedule",
+        "health_related_digital_behavior": "MyChart usage, Cleveland Clinic research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven (compares pool specs/lock reviews)",
+        "brand_loyalty": "Trusts established retailers (Amazon/Walmart)",
+        "influence_factors": "Product ratings, tutorial availability",
+        "tech_adoption": "Mainstream user (adopts necessary tools like keypad locks)",
+        "privacy_and_security_concerns": "Cautious (avoids unnecessary account creation)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southwestern US English speaker",
+        "travel_habits": "Local focus (Albuquerque area services)",
+        "personal_projects": "Backyard pool installation, home security upgrades",
+        "unexpected_behavioral_traits": "Tech-capable senior installing mechanical keyless locks"
+    }
+}

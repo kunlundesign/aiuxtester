@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 87,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Fort Myers, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Business Administration",
+            "institution": "University of Florida"
+        },
+        "occupation": "Retired Financial Advisor",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'4\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short silver perm",
+            "Skin color": "Fair",
+            "Facial features": "Wrinkles around eyes, reading glasses",
+            "Dress Style": "Casual knitwear with practical footwear"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial independence, practical home maintenance, privacy",
+        "motivations": "Maintaining home value, staying financially informed, independent living",
+        "cognitive_style": "Analytical with structured comparison shopping"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed product specifications (shower door dimensions/glass thickness), local service providers",
+        "ad_interactions": "High engagement with home improvement ads (87% of clicks)",
+        "preferred_content_sources": "CNBC, Build.com, Walmart product pages, financial advisories",
+        "social_media_usage": "Minimal (occasional Tumblr visits)",
+        "ecommerce_behavior": "Budget-conscious big-ticket home purchases",
+        "device_usage": "Desktop (detailed spec comparisons), Windows/Edge",
+        "subscriptions": "Charles Schwab updates, home improvement newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Stock market trends, retirement portfolio management",
+        "hobbies": "Home improvement projects, gardening propagation",
+        "entertainment_preferences": "Financial news analysis, DIY tutorials",
+        "content_consumption": "Product specification sheets, investment strategy articles",
+        "learning_style": "Self-guided research through vendor comparisons"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented for durable goods, invests in home maintenance",
+        "income_level": "Upper-middle class (retirement investments)",
+        "investment_habits": "Conservative dividend stocks, monitors AI/quantum computing trends",
+        "financial_tools": "Chase checking accounts, Schwab investment portal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Formerly collaborative (financial advising team)",
+        "family_structure": "Lives alone (widowed)",
+        "friendship_circle": "Small circle of neighborhood acquaintances",
+        "community_involvement": "Non-active in local groups",
+        "online_vs_offline_engagement": "Prefers online shopping/research over in-store"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "AOL email checks with coffee, CNBC market updates",
+        "workday_habits": "Scheduled home maintenance tasks, financial research",
+        "evening_and_leisure": "Product research sessions, MSN financial articles",
+        "weekend_activities": "Light gardening, appliance maintenance",
+        "sleep_schedule": "Early riser (6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Uses posture support belt, limited mobility",
+        "mental_health": "Cognitive exercises through financial analysis",
+        "work_life_balance": "Structured daily routine",
+        "health_related_digital_behavior": "Researches ergonomic home modifications"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Methodical comparison of 5+ options before purchase",
+        "brand_loyalty": "Seeks value over brand (shops Walmart/Build.com/Wayfair equally)",
+        "influence_factors": "Product specifications, professional installation options",
+        "tech_adoption": "Mainstream user (avoids cutting-edge)",
+        "privacy_and_security_concerns": "Basic caution (uses mainstream financial portals)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Florida retiree culture",
+        "travel_habits": "Homebody with local service radius",
+        "personal_projects": "Bathroom renovation research, stock portfolio optimization",
+        "unexpected_behavioral_traits": "Combines conservative financial management with unconventional adult content consumption"
+    }
+}

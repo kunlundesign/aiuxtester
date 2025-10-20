@@ -1,0 +1,85 @@
+{
+    "Core Identity": {
+        "full_name": "Maria Gonzalez",
+        "age": 23,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Chiefland, United States",
+        "education": {
+            "degree": "Associate Degree",
+            "major": "Automotive Technology",
+            "institution": "Unknown"
+        },
+        "occupation": "Automotive Service Advisor",
+        "company": "Labelle Dodge Chrysler Jeep Ram",
+        "physical attributes": "Unknown"
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Environmental awareness (mangrove forest/tulip searches), practical problem-solving",
+        "motivations": "Career advancement in automotive industry, financial stability",
+        "cognitive_style": "Structured thinking (detailed vehicle part queries), technical analysis"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical automotive queries (oil types/part numbers), local business searches, employment forms",
+        "ad_interactions": "High engagement with auto parts/repair ads (23/36 ads clicked), footwear marketing",
+        "preferred_content_sources": "Autonews.com, YouTube music, dealer management systems (vAuto/RouteOne)",
+        "social_media_usage": "Passive Facebook/Marketplace use (78 domain visits), YouTube music consumption",
+        "ecommerce_behavior": "Budget-conscious (eBay/Amazon), automotive tools purchases",
+        "device_usage": "Desktop (Edge browser dominance), Windows OS",
+        "subscriptions": "YouTube Music, Amazon Prime (71 domain visits)"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Dealership operations, automotive financing, recalls/regulations",
+        "hobbies": "Car customization, bass fishing (Bass Elite 2025 query), Latin music",
+        "entertainment_preferences": "Reggae (Bob Marley), Latin pop (Ñengo Flow), 2000s R&B (Akon)",
+        "content_consumption": "Technical manuals > entertainment (3:1 automotive vs leisure queries)",
+        "learning_style": "Hands-on practice (vehicle repair queries), on-the-job training"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-focused (Amazon/Ebay dominance), selective splurges on footwear",
+        "income_level": "$35k-$45k (service advisor role)",
+        "investment_habits": "Conservative (no signals)",
+        "financial_tools": "Credit cards (Discover ads), PexCard (34 domain visits)"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative (employee portal access), customer-facing role",
+        "family_structure": "Likely lives with family (Florida-centric searches)",
+        "friendship_circle": "Small group (limited social signals beyond work)",
+        "community_involvement": "Local automotive events (Cars and Coffee PB visits)",
+        "online_vs_offline_engagement": "Balanced (professional online tools, in-person dealership work)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks dealership systems (GlobalConnect/UETEvents), CNN news",
+        "workday_habits": "Parts ordering, customer service, vehicle history reports",
+        "evening_and_leisure": "YouTube music playlists, Facebook Marketplace browsing",
+        "weekend_activities": "Local fishing (Bass Elite), car shows, family meals",
+        "sleep_schedule": "Night owl (late YouTube/employee portal access)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Casual fitness (arch support shoe searches), no intense regimen",
+        "mental_health": "Music as stress relief (YouTube playlists)",
+        "work_life_balance": "Moderate (professional queries dominate leisure)",
+        "health_related_digital_behavior": "None observed"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven (part number specificity), risk-averse purchases",
+        "brand_loyalty": "Strong for automotive tools (Snap-on), flexible elsewhere",
+        "influence_factors": "Expert reviews (prodemand.com), dealership protocols",
+        "tech_adoption": "Mainstream user (UET tags/Edge), resists unnecessary upgrades",
+        "privacy_and_security_concerns": "Low (extensive tracker-enabled site visits)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (Spanish music/content queries)",
+        "travel_habits": "Local Florida travel (West Palm Beach/U-Haul queries)",
+        "personal_projects": "Car restoration (vintage stereo/1991 F250 searches)",
+        "unexpected_behavioral_traits": "Technical automotive expertise paired with Latin music passion"
+    }
+}

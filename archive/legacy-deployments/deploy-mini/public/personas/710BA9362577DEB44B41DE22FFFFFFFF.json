@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Rogers",
+        "age": 62,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Federal Way, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Mechanical Engineering",
+            "institution": "University of Washington"
+        },
+        "occupation": "Retired Aerospace Technician",
+        "company": "Boeing (Former)",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, gray",
+            "Skin color": "Fair",
+            "Facial features": "Clean-shaven, glasses",
+            "Dress Style": "Casual (flannels, jeans)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Political conservatism, financial prudence, civic engagement",
+        "motivations": "Maintaining independence, staying informed, preserving historical artifacts",
+        "cognitive_style": "Detail-oriented with practical problem-solving"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Practical queries (bill payments, DIY projects), political contacts, vintage items",
+        "ad_interactions": "High engagement with antique firearms, home improvement, financial services",
+        "preferred_content_sources": "MSN News, eBay forums, government websites",
+        "social_media_usage": "Facebook (daily), Instagram (weekly), passive consumption",
+        "ecommerce_behavior": "Budget-conscious (eBay, Temu), collects vintage firearms",
+        "device_usage": "Desktop (Windows), Edge browser",
+        "subscriptions": "Amazon Prime, MSN Premium"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Aerospace history, manufacturing techniques",
+        "hobbies": "Firearms restoration, fishing, home improvement projects",
+        "entertainment_preferences": "Political commentary podcasts, classic Hollywood films",
+        "content_consumption": "Factual long-form articles, local news briefings",
+        "learning_style": "Hands-on experimentation with technical manuals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with splurges on collectibles",
+        "income_level": "Middle-class retirement",
+        "investment_habits": "Conservative (CDs, municipal bonds)",
+        "financial_tools": "BECU credit union, PayPal"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent worker, respected for technical expertise",
+        "family_structure": "Lives with spouse, adult children nearby",
+        "friendship_circle": "Small group of fishing/hunting buddies",
+        "community_involvement": "Local Republican party events",
+        "online_vs_offline_engagement": "Prefers in-person interactions but maintains digital connections"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN News, check financial accounts",
+        "workday_habits": "Morning home projects, afternoon research",
+        "evening_and_leisure": "Firearm restoration, Prime Video documentaries",
+        "weekend_activities": "Fishing trips, hardware store visits",
+        "sleep_schedule": "Early riser (6 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Light walking, manages joint pain",
+        "mental_health": "Stress relief through hobbies",
+        "work_life_balance": "Structured retirement routine",
+        "health_related_digital_behavior": "Researches arthritis management"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with historical precedent consideration",
+        "brand_loyalty": "Strong (Boeing, Craftsman tools)",
+        "influence_factors": "Technical specifications, peer recommendations",
+        "tech_adoption": "Mainstream user (avoids cutting-edge)",
+        "privacy_and_security_concerns": "Cautious with financial data"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual, Pacific Northwest values",
+        "travel_habits": "Regional camping trips, historical site visits",
+        "personal_projects": "Restoring WWII-era firearms",
+        "unexpected_behavioral_traits": "Technical precision in firearms restoration paired with appreciation for travel photography"
+    }
+}

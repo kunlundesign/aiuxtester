@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 24,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Garland, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Management",
+            "institution": "Dallas College"
+        },
+        "occupation": "Small Business Owner",
+        "company": "Freelance",
+        "physical_attributes": {
+            "height": "5'10\"",
+            "body_shape": "Athletic",
+            "hairstyle": "Short, side-parted",
+            "skin_color": "Fair",
+            "facial_features": "Clean-shaven, rectangular face",
+            "dress_style": "Casual (graphic tees, jeans) with occasional business-casual attire"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "Medium",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ESTP",
+        "beliefs_and_values": "Entrepreneurial independence, appreciation for craftsmanship in design and mixology",
+        "motivations": "Business growth, creative expression through music and design",
+        "cognitive_style": "Practical problem-solver with creative flair"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Business finance, automotive parts, music tutorials, and design tools",
+        "ad_interactions": "High engagement with luxury watches, auto parts, and travel deals",
+        "preferred_content_sources": "YouTube tutorials, Zillow, NFL.com, e-commerce platforms",
+        "social_media_usage": "Passive YouTube consumption, occasional Reddit browsing",
+        "ecommerce_behavior": "Mid-range spending on business tools and occasional luxury items",
+        "device_usage": "Desktop (Chase/design work), mobile (music/entertainment)",
+        "subscriptions": "YouTube Premium, NFL Game Pass"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Small business management, graphic design trends",
+        "hobbies": "Karaoke hosting, guitar playing, sports analysis",
+        "entertainment_preferences": "Country music (Luke Combs), 90s rock (Nirvana), Latin cumbias",
+        "content_consumption": "Video tutorials, sports highlights, short-form business articles",
+        "learning_style": "Hands-on experimentation with design software and mixology"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for business expenses, occasional luxury splurges",
+        "income_level": "$45,000-$60,000 annually",
+        "investment_habits": "Conservative (focuses on business reinvestment)",
+        "financial_tools": "Chase Business Checking, Capital One credit card"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative but maintains final decision authority",
+        "family_structure": "Lives alone in rental property (721 Donald Dr)",
+        "friendship_circle": "Moderate group centered around sports and music",
+        "community_involvement": "Local business networking groups",
+        "online_vs_offline_engagement": "Balanced mix (online research, in-person events)"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks business accounts, watches sports highlights",
+        "workday_habits": "Manages business operations, designs promotional materials",
+        "evening_and_leisure": "Practices guitar, researches automotive parts",
+        "weekend_activities": "Attends Cowboys games, hosts karaoke nights",
+        "sleep_schedule": "Night owl (1am-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional gym visits, fast-food diet during work hours",
+        "mental_health": "Uses music as stress relief, no formal practices",
+        "work_life_balance": "Work-leaning (70/30 split)",
+        "health_related_digital_behavior": "Occasional fitness YouTube searches"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven for business, impulsive for personal luxuries",
+        "brand_loyalty": "Prefers established brands (Chase, AutoZone) but explores alternatives",
+        "influence_factors": "Peer recommendations, product durability reviews",
+        "tech_adoption": "Mainstream user with selective early adoption (design tools)",
+        "privacy_and_security_concerns": "Moderate (uses 2FA for financial accounts)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish basics)",
+        "travel_habits": "Domestic trips for business/sports events",
+        "personal_projects": "Developing Y2K-themed bar menu designs",
+        "unexpected_behavioral_traits": "Combines analytical financial management with creative karaoke hosting"
+    }
+}

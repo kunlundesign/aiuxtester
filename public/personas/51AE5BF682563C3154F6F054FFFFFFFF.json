@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Jennifer Martinez",
+        "age": 44,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "West Palm Beach, United States",
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Social Work/Community Development",
+            "institution": "Florida State University"
+        },
+        "occupation": "Senior Care Coordinator",
+        "company": "Florida Senior Living Advisors",
+        "physical_attributes": {
+            "height": "5'6\"",
+            "body_shape": "Average",
+            "hairstyle": "Shoulder-length brunette",
+            "skin_color": "Light olive",
+            "facial_features": "Rectangular face with smile lines",
+            "dress_style": "Business casual with comfortable flats"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISFJ",
+        "beliefs_and_values": "Advocate for senior rights, value family caregiving, practical environmentalism",
+        "motivations": "Ensuring quality elderly care, financial stability for family, community building",
+        "cognitive_style": "Detail-oriented planner with strong organizational skills"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Detailed housing comparisons, repeated location-specific senior care queries",
+        "ad_interactions": "High engagement with senior living/auto ads, medium with meal services",
+        "preferred_content_sources": "MSN News, real estate portals, senior care blogs",
+        "social_media_usage": "Occasional Facebook for community updates",
+        "ecommerce_behavior": "Budget-conscious, researches before purchasing",
+        "device_usage": "Desktop for research, mobile for quick checks",
+        "subscriptions": "A Place for Mom alerts, real estate newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Aging-in-place solutions, Florida property laws",
+        "hobbies": "Community volunteering, budget travel planning",
+        "entertainment_preferences": "Local news, biographical documentaries",
+        "content_consumption": "Detailed comparison articles, policy updates",
+        "learning_style": "Practical workshops/webinars"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented bulk purchases",
+        "income_level": "$55,000-$65,000",
+        "investment_habits": "Conservative (CDs/municipal bonds)",
+        "financial_tools": "Credit cards with rewards, mobile banking"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader",
+        "family_structure": "Multigenerational household",
+        "friendship_circle": "Small close-knit group",
+        "community_involvement": "Senior center volunteer",
+        "online_vs_offline_engagement": "Balanced mix"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Email checks, news scan",
+        "workday_habits": "Client meetings, property tours",
+        "evening_and_leisure": "Meal prep, family time",
+        "weekend_activities": "Open houses, beach walks",
+        "sleep_schedule": "Regular 11PM-6AM"
+    },
+    "Health & Well-being": {
+        "physical_health": "Walking for exercise, Mediterranean diet",
+        "mental_health": "Journaling, support groups",
+        "work_life_balance": "Structured separation",
+        "health_related_digital_behavior": "Medication tracking apps"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven",
+        "brand_loyalty": "Trusts established brands",
+        "influence_factors": "Expert reviews, peer recommendations",
+        "tech_adoption": "Mainstream user",
+        "privacy_and_security_concerns": "Moderately cautious"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Bilingual (English/Spanish)",
+        "travel_habits": "Regional road trips",
+        "personal_projects": "Creating senior care guidebook",
+        "unexpected_behavioral_traits": "Enjoys Renaissance art despite practical nature"
+    }
+}

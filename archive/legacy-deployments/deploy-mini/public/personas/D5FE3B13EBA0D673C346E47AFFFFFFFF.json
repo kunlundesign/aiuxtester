@@ -1,0 +1,190 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 25,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Glenwood Springs, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Civil Engineering/Construction Management",
+            "institution": "Colorado State University"
+        },
+        "occupation": "Fleet Operations Manager",
+        "company": "Colorado Department of Transportation (CDOT)",
+        "physical_attributes": {
+            "Height": "5'10\"",
+            "Body_shape": "Athletic",
+            "Hairstyle": "Short, practical cut",
+            "Skin_color": "Caucasian",
+            "Facial_features": "Clean-shaven with rectangular glasses",
+            "Dress_Style": "Casual workwear (flannels/utility pants) during week, outdoor gear weekends"
+        }
+    },
+    "Psychographics_&_Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Medium"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": [
+            "Environmental conservation (evidenced by Earth Day/condor preservation interest)",
+            "Technological pragmatism (Microsoft tools/fleet management portal usage)",
+            "Civic responsibility (frequent government site visits)"
+        ],
+        "motivations": [
+            "Professional competence in infrastructure management",
+            "Outdoor exploration balance",
+            "Food safety awareness"
+        ],
+        "cognitive_style": "Detail-oriented problem solver (concrete specs/waterstop comparisons)"
+    },
+    "Digital_Behavior_&_Online_Habits": {
+        "search_patterns": [
+            "Technical construction queries (Octaform/Kryton comparisons)",
+            "Regulatory compliance (CDOT standards/Real ID)",
+            "Outdoor gear research (salmon fishing equipment)"
+        ],
+        "ad_interactions": {
+            "engagement_level": "High for outdoor/fishing gear",
+            "preferred_ad_categories": [
+                "Fishing equipment",
+                "Outdoor apparel",
+                "Construction tools"
+            ]
+        },
+        "preferred_content_sources": [
+            "Government portals (CDOT/GJCity)",
+            "Outdoor retailers (Cabela's/Bass Pro Shops)",
+            "Technical construction sites"
+        ],
+        "social_media_usage": {
+            "platforms": [
+                "LinkedIn",
+                "Reddit (outdoor/fishing communities)"
+            ],
+            "frequency": "Moderate",
+            "engagement": "Passive information gathering"
+        },
+        "ecommerce_behavior": {
+            "spending_habits": "Value-conscious quality seeker",
+            "product_categories": [
+                "Fishing gear",
+                "Work equipment",
+                "Outdoor apparel"
+            ]
+        },
+        "device_usage": {
+            "primary_device": "Desktop (work-related research)",
+            "secondary_device": "Mobile (field use)",
+            "os": "Windows 11",
+            "browser": "Microsoft Edge"
+        },
+        "subscriptions": [
+            "Microsoft 365",
+            "Fishing equipment newsletters",
+            "CDOT alerts"
+        ]
+    },
+    "Interests_&_Preferences": {
+        "professional_interests": [
+            "Concrete construction innovations",
+            "Fleet maintenance optimization",
+            "Transportation infrastructure regulations"
+        ],
+        "hobbies": [
+            "Fly fishing (Kenai River research)",
+            "Bird watching (Backyard Bird Count participation)",
+            "Experimental cooking (garlic-infused recipes)"
+        ],
+        "entertainment_preferences": {
+            "Movies": "Documentaries (construction/engineering)",
+            "Reading": "Outdoor magazines/technical manuals"
+        },
+        "content_consumption": "Detailed technical guides during work hours, light news/recipes evenings",
+        "learning_style": "Hands-on experimentation (evidenced by tool research/recipe testing)"
+    },
+    "Economic_&_Financial_Profile": {
+        "spending_patterns": "Practical investments in durable goods",
+        "income_level": "$55,000-$65,000 (Colorado public sector estimate)",
+        "investment_habits": "Conservative (401k through employer)",
+        "financial_tools": [
+            "Direct deposit",
+            "Credit card (outdoor gear purchases)",
+            "Government retirement plans"
+        ]
+    },
+    "Social_&_Relational_Dynamics": {
+        "work_relationships": "Team-oriented problem solver (fleet coordination needs)",
+        "family_structure": "Lives independently, periodic family visits",
+        "friendship_circle": "Small group of outdoor/hobby enthusiasts",
+        "community_involvement": [
+            "Local environmental initiatives",
+            "Bird count citizen science"
+        ],
+        "online_vs_offline_engagement": "Balanced (work online, hobbies offline)"
+    },
+    "Daily_&_Lifestyle_Patterns": {
+        "morning_routine": [
+            "Check weather/road conditions",
+            "Microsoft Teams work coordination"
+        ],
+        "workday_habits": [
+            "Field inspections",
+            "Fleet maintenance tracking",
+            "Regulatory compliance checks"
+        ],
+        "evening_and_leisure": [
+            "Recipe experimentation",
+            "Fishing gear maintenance",
+            "MSN news browsing"
+        ],
+        "weekend_activities": [
+            "Rocky Mountain fishing trips",
+            "Local hiking trails",
+            "Meal prepping"
+        ],
+        "sleep_schedule": "Early riser (5:30 AM work starts)"
+    },
+    "Health_&_Well-being": {
+        "physical_health": [
+            "Active outdoor lifestyle",
+            "High-protein diet (evidenced by cooking interest)"
+        ],
+        "mental_health": "Stress management through nature activities",
+        "work_life_balance": "Structured separation (work device usage patterns)",
+        "health_related_digital_behavior": [
+            "Weather monitoring for outdoor safety",
+            "Food safety alerts"
+        ]
+    },
+    "Decision-Making_&_Behavioral_Insights": {
+        "decision_making_style": "Research-intensive (technical product comparisons)",
+        "brand_loyalty": "Trusts established outdoor brands (Cabela's/Penn)",
+        "influence_factors": [
+            "Professional requirements",
+            "Product durability",
+            "Environmental impact"
+        ],
+        "tech_adoption": "Early majority (work-mandated tools)",
+        "privacy_and_security_concerns": "High (government portal usage patterns)"
+    },
+    "Other_Unique_Attributes_&_Contextual_Information": {
+        "cultural_and_linguistic_background": [
+            "English native",
+            "Basic Spanish (Colorado demographics)"
+        ],
+        "travel_habits": [
+            "Domestic fishing destinations",
+            "Disaster- preparedness-focused (earthquake research)"
+        ],
+        "personal_projects": [
+            "Custom fishing gear modifications",
+            "Local infrastructure improvement suggestions"
+        ],
+        "unexpected_behavioral_traits": "Combines analytical construction work with creative cooking experiments"
+    }
+}

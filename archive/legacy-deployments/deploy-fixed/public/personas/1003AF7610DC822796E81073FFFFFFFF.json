@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Margaret Thompson",
+        "age": 69,
+        "gender": "Female",
+        "nationality": "American",
+        "current_residence": "Frankfort, United States",
+        "education": {
+            "degree": "Associate's Degree",
+            "major": "Business Administration",
+            "institution": "[REMOVED] University"
+        },
+        "occupation": "Office Manager",
+        "company": "Liberty Telephone & Security",
+        "physical attributes": {
+            "Height": "5'5\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, silver-gray waves",
+            "Skin color": "Fair",
+            "Facial features": "Warm smile with glasses",
+            "Dress Style": "Casual yet polished (cardigans, floral blouses, comfortable slacks)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "Medium",
+            "conscientiousness": "High",
+            "extraversion": "Low",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial prudence, Southern cultural preservation, practical problem-solving",
+        "motivations": "Maintaining independence, staying informed, nurturing community connections",
+        "cognitive_style": "Structured thinking with attention to detail"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Financial services (50%), practical troubleshooting (30%), entertainment/trivia (20%)",
+        "ad_interactions": "High engagement with footwear (75%), moderate with financial products (25%)",
+        "preferred_content_sources": "MSN News, Southern Living Digital, institutional portals (banks/universities)",
+        "social_media_usage": "Limited (occasional Facebook for family updates)",
+        "ecommerce_behavior": "Budget-conscious Amazon purchases (household items, books)",
+        "device_usage": "Desktop for work tasks, iPhone for mobile browsing",
+        "subscriptions": "Southern Living magazine, Trivia Today emails, bank alerts"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Office management tools, workplace security systems",
+        "hobbies": "Gardening, trivia competitions, recipe curation",
+        "entertainment_preferences": "'60s rock retrospectives, Oscar fashion analysis, true crime documentaries",
+        "content_consumption": "Short news articles (70%), long-form recipes/crafts (30%)",
+        "learning_style": "Task-specific online tutorials"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious with splurges on quality footwear",
+        "income_level": "$45,000-$55,000 annually",
+        "investment_habits": "Conservative (CDs, treasury bonds)",
+        "financial_tools": "American Express, CareCredit, multiple store credit cards"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team leader with 15+ years tenure",
+        "family_structure": "Empty nester (adult children living out-of-state)",
+        "friendship_circle": "Small group of lifelong Southern friends",
+        "community_involvement": "Local garden club member",
+        "online_vs_offline_engagement": "Prefers in-person interactions but maintains digital connections"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Coffee with MSN News, email triage",
+        "workday_habits": "Scheduled Zoom meetings, invoice management",
+        "evening_and_leisure": "Southern Living reading, trivia games",
+        "weekend_activities": "Gardening, family Zoom calls, church attendance",
+        "sleep_schedule": "Early riser (5:30 AM bed by 10 PM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Daily walks, arthritis management",
+        "mental_health": "Gardening as stress relief",
+        "work_life_balance": "Strict 5 PM logoff ritual",
+        "health_related_digital_behavior": "Orthopedic footwear research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with price comparisons",
+        "brand_loyalty": "Strong (LL Bean, Skechers, Big O Tires)",
+        "influence_factors": "Product longevity reviews, Southern cultural alignment",
+        "tech_adoption": "Mainstream user (adopts proven technologies)",
+        "privacy_and_security_concerns": "Cautious (avoids unnecessary data sharing)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Southern American English with basic Spanish",
+        "travel_habits": "Regional road trips (Tennessee, Carolinas)",
+        "personal_projects": "Compiling family recipe book",
+        "unexpected_behavioral_traits": "Enjoys edgy classic rock despite conservative appearance"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Ethan Carter",
+        "age": 19,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "Beckley, United States",
+        "education": {
+            "degree": "High School Diploma",
+            "major": "unknown",
+            "institution": "unknown"
+        },
+        "occupation": "Automotive/Powersports Technician",
+        "company": "Local Powersports Dealership",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Athletic",
+            "Hairstyle": "Short, practical cut",
+            "Skin color": "Caucasian",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Casual workwear with brand logos (Carhartt, Dickies)"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "High",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTP",
+        "beliefs_and_values": "Practical self-reliance, mechanical craftsmanship",
+        "motivations": "Vehicle customization mastery, sports fandom engagement",
+        "cognitive_style": "Hands-on problem solver with technical precision"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Technical parts searches (70%), sports news (20%), local services (10%)",
+        "ad_interactions": "High engagement with powersports parts/accessories",
+        "preferred_content_sources": "Manufacturer forums (MaverickForums.net), ESPN, parts supplier blogs",
+        "social_media_usage": "Passive ESPN content consumer, forum participant",
+        "ecommerce_behavior": "Frequent mid-price parts purchases ($50-$300 range)",
+        "device_usage": "Windows/Edge desktop primary, Android secondary",
+        "subscriptions": "PeacockTV (sports content), Parts Unlimited newsletters"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "ATV/UTV mechanical innovations, aftermarket modifications",
+        "hobbies": "Off-roading, softball, vehicle maintenance",
+        "entertainment_preferences": "NFL games, motorsports documentaries",
+        "content_consumption": "Technical guides > video tutorials > forum discussions",
+        "learning_style": "Hands-on experimentation with supplemental forum research"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Value-oriented with planned upgrades",
+        "income_level": "$25k-$35k annually",
+        "investment_habits": "Tools/equipment over financial instruments",
+        "financial_tools": "Debit card primary, PayPal for online purchases"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Collaborative team player in shop environment",
+        "family_structure": "Lives with parents/siblings",
+        "friendship_circle": "Small group of motorsports enthusiasts",
+        "community_involvement": "Traphill Little League supporter",
+        "online_vs_offline_engagement": "Offline hobby focus with targeted online research"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks sports scores, plans workday tasks",
+        "workday_habits": "Split between shop repairs and customer consultations",
+        "evening_and_leisure": "Forum browsing, vehicle maintenance projects",
+        "weekend_activities": "Off-road excursions, local softball games",
+        "sleep_schedule": "Night owl (midnight-8am)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Active through work/hobbies, fast food diet",
+        "mental_health": "Stress relief through mechanical tinkering",
+        "work_life_balance": "Work-as-lifestyle integration",
+        "health_related_digital_behavior": "Occasional sports injury research"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Research-driven with forum validation",
+        "brand_loyalty": "Can-Am enthusiast open to performance upgrades",
+        "influence_factors": "Mechanic recommendations, user reviews",
+        "tech_adoption": "Mainstream user with specialty tool interest",
+        "privacy_and_security_concerns": "Low awareness beyond basic precautions"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "Appalachian English dialect",
+        "travel_habits": "Regional off-road trail exploration",
+        "personal_projects": "Can-Am X3 customization build",
+        "unexpected_behavioral_traits": "Technical precision coexists with casual sports fandom"
+    }
+}

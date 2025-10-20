@@ -1,0 +1,92 @@
+{
+    "Core Identity": {
+        "full_name": "Michael Thompson",
+        "age": 33,
+        "gender": "Male",
+        "nationality": "American",
+        "current_residence": "El Cajon, United States",
+        "education": {
+            "degree": "Bachelor's Degree",
+            "major": "Business Administration/Real Estate",
+            "institution": "San Diego State University"
+        },
+        "occupation": "Property Manager/Real Estate Investor",
+        "company": "Freelance",
+        "physical attributes": {
+            "Height": "5'10\"",
+            "Body shape": "Average",
+            "Hairstyle": "Short, neat",
+            "Skin color": "Olive",
+            "Facial features": "Clean-shaven",
+            "Dress Style": "Business casual"
+        }
+    },
+    "Psychographics & Personality": {
+        "personality_traits": {
+            "openness": "High",
+            "conscientiousness": "High",
+            "extraversion": "Medium",
+            "agreeableness": "Medium",
+            "neuroticism": "Low"
+        },
+        "mbti": "ISTJ",
+        "beliefs_and_values": "Financial responsibility, legal compliance, technological efficiency",
+        "motivations": "Wealth accumulation through real estate, operational efficiency in property management",
+        "cognitive_style": "Analytical and structured"
+    },
+    "Digital Behavior & Online Habits": {
+        "search_patterns": "Focused on legal procedures (judgments), property management tools, banking services",
+        "ad_interactions": "High engagement with financial services, real estate, and document management tools",
+        "preferred_content_sources": "Banking portals, legal databases (sdcourt.ca.gov), real estate platforms (Zillow)",
+        "social_media_usage": "Facebook (passive engagement), MSN News",
+        "ecommerce_behavior": "Budget-conscious for business tools, occasional luxury dining (Ruth Chris Steakhouse)",
+        "device_usage": "Desktop (Microsoft Edge), Windows OS",
+        "subscriptions": "Stessa property management, pdffiller"
+    },
+    "Interests & Preferences": {
+        "professional_interests": "Rental market trends, lease agreement automation, financial compliance",
+        "hobbies": "Real estate research, casual gaming (DOOM series)",
+        "entertainment_preferences": "True crime documentaries, tech podcasts",
+        "content_consumption": "Factual legal/financial articles with occasional long-form news",
+        "learning_style": "Self-learning through documentation portals"
+    },
+    "Economic & Financial Profile": {
+        "spending_patterns": "Budget-conscious for business expenses, planned purchases",
+        "income_level": "$75,000-$95,000 annually",
+        "investment_habits": "Conservative real estate investments",
+        "financial_tools": "Multiple bank accounts (Wells Fargo, Chase), Zelle transfers"
+    },
+    "Social & Relational Dynamics": {
+        "work_relationships": "Independent operator with contractor networks",
+        "family_structure": "Unknown",
+        "friendship_circle": "Small professional network",
+        "community_involvement": "Local landlord associations",
+        "online_vs_offline_engagement": "Prefers digital transactions with occasional in-person property visits"
+    },
+    "Daily & Lifestyle Patterns": {
+        "morning_routine": "Checks Yahoo Mail, reviews property alerts",
+        "workday_habits": "Batch-processing tenant requests, court document preparation",
+        "evening_and_leisure": "News consumption, PDF form automation projects",
+        "weekend_activities": "Property maintenance coordination, market research",
+        "sleep_schedule": "Early riser (6:00 AM)"
+    },
+    "Health & Well-being": {
+        "physical_health": "Occasional gym visits (searched gym hiring), standard American diet",
+        "mental_health": "Stress management through task completion",
+        "work_life_balance": "Work-integrated lifestyle",
+        "health_related_digital_behavior": "Basic fitness tracking"
+    },
+    "Decision-Making & Behavioral Insights": {
+        "decision_making_style": "Data-driven with legal compliance focus",
+        "brand_loyalty": "Prefers established financial institutions",
+        "influence_factors": "Regulatory requirements, financial calculators",
+        "tech_adoption": "Early mainstream adopter (Microsoft Copilot interest)",
+        "privacy_and_security_concerns": "High (multiple secure banking logins)"
+    },
+    "Other Unique Attributes & Contextual Information": {
+        "cultural_and_linguistic_background": "English monolingual",
+        "travel_habits": "Local focus (San Diego County)",
+        "personal_projects": "Automating lease agreement workflows",
+        "unexpected_behavioral_traits": "Interested in space exploration news despite practical profession"
+    }
+}
