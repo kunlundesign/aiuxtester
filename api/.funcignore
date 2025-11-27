@@ -1,0 +1,30 @@
+# Azure Functions 部署时忽略的文件
+# 这些文件不会被包含在部署包中
+
+# 本地设置（包含敏感信息）
+local.settings.json
+
+# TypeScript 源文件（只部署编译后的 dist/）
+src/
+*.ts
+tsconfig.json
+
+# 开发依赖和配置
+.git
+.gitignore
+.vscode/
+*.md
+*.log
+
+# 测试文件
+__tests__/
+*.test.js
+*.test.ts
+*.spec.js
+*.spec.ts
+coverage/
+
+# 其他
+.DS_Store
+.env
+.env.*

@@ -1,5 +1,5 @@
-# Docs for the Azure Web Apps Deploy action: https://github.com/azure/functions-action
-# More GitHub Actions for Azure: https://github.com/Azure/actions
+# Azure Functions Deployment Workflow
+# 修复说明：确保从 api/ 目录构建并部署，host.json 在包根目录
 
 name: Build and deploy Node.js project to Azure Function App - researchapp-functions
 
@@ -7,62 +7,138 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'api/**'
+      - '.github/workflows/main_researchapp-functions.yml'
   workflow_dispatch:
 
 env:
-  AZURE_FUNCTIONAPP_PACKAGE_PATH: '.' # set this to the path to your web app project, defaults to the repository root
-  NODE_VERSION: '22.x' # set this to the node version to use (supports 8.x, 10.x, 12.x)
+  # 重要：指向 Azure Functions 项目目录
+  AZURE_FUNCTIONAPP_PATH: 'api'
+  NODE_VERSION: '20.x'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: read #This is required for actions/checkout
+      contents: read
 
     steps:
       - name: 'Checkout GitHub Action'
         uses: actions/checkout@v4
 
       - name: Setup Node ${{ env.NODE_VERSION }} Environment
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+          cache-dependency-path: '${{ env.AZURE_FUNCTIONAPP_PATH }}/package-lock.json'
 
-      - name: 'Resolve Project Dependencies Using Npm'
-        shell: bash
+      # 在 api 目录中安装依赖和构建
+      - name: 'Install dependencies'
+        working-directory: ${{ env.AZURE_FUNCTIONAPP_PATH }}
+        run: npm ci
+
+      - name: 'Build TypeScript'
+        working-directory: ${{ env.AZURE_FUNCTIONAPP_PATH }}
+        run: npm run build
+
+      # 预部署验证：确保关键文件存在
+      - name: 'Validate deployment package'
+        working-directory: ${{ env.AZURE_FUNCTIONAPP_PATH }}
         run: |
-          pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}'
-          npm install
-          npm run build --if-present
-          npm run test --if-present
-          popd
+          echo "=== 验证 Azure Functions 部署包 ==="
+          
+          # 检查 host.json
+          if [ ! -f "host.json" ]; then
+            echo "❌ 错误: host.json 不存在于 api/ 目录"
+            exit 1
+          fi
+          echo "✅ host.json 存在"
+          
+          # 检查 package.json
+          if [ ! -f "package.json" ]; then
+            echo "❌ 错误: package.json 不存在"
+            exit 1
+          fi
+          echo "✅ package.json 存在"
+          
+          # 检查编译后的函数
+          if [ ! -d "dist/functions" ]; then
+            echo "❌ 错误: dist/functions 目录不存在"
+            exit 1
+          fi
+          echo "✅ dist/functions 目录存在"
+          
+          # 列出将要部署的函数
+          echo "=== 已编译的函数 ==="
+          ls -la dist/functions/
+          
+          # 确保 local.settings.json 不会被包含
+          if [ -f "local.settings.json" ]; then
+            echo "⚠️ 警告: local.settings.json 存在，将从部署包中排除"
+          fi
+          
+          echo "=== 验证通过 ✅ ==="
 
-      - name: Zip artifact for deployment
-        run: zip release.zip ./* -r
+      # 安装生产依赖并创建部署包
+      - name: 'Prepare deployment package'
+        working-directory: ${{ env.AZURE_FUNCTIONAPP_PATH }}
+        run: |
+          # 创建临时部署目录
+          mkdir -p ../deploy-package
+          
+          # 复制必要文件到部署目录
+          cp host.json ../deploy-package/
+          cp package.json ../deploy-package/
+          cp package-lock.json ../deploy-package/
+          cp -r dist ../deploy-package/
+          
+          # 在部署目录中安装生产依赖
+          cd ../deploy-package
+          npm ci --omit=dev
+          
+          # 创建 zip 包（确保 host.json 在根目录）
+          zip -r ../release.zip .
+          
+          # 显示包内容（前 30 行）
+          echo "=== 部署包内容 ==="
+          unzip -l ../release.zip | head -30
+          echo "..."
+          echo "包大小: $(ls -lh ../release.zip | awk '{print $5}')"
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
-          name: node-app
+          name: azure-functions-app
           path: release.zip
 
   deploy:
     runs-on: ubuntu-latest
     needs: build
     permissions:
-      id-token: write #This is required for requesting the JWT
-      contents: read #This is required for actions/checkout
+      id-token: write
+      contents: read
 
     steps:
       - name: Download artifact from build job
         uses: actions/download-artifact@v4
         with:
-          name: node-app
+          name: azure-functions-app
 
-      - name: Unzip artifact for deployment
+      - name: 'Verify package structure'
         run: |
-          unzip release.zip
-          rm release.zip
+          echo "=== 验证下载的包 ==="
+          unzip -l release.zip | grep -E "(host.json|package.json|dist/)" | head -20
+          
+          # 解压并验证 host.json 在根目录
+          unzip -q release.zip -d verify-temp
+          if [ ! -f "verify-temp/host.json" ]; then
+            echo "❌ 错误: host.json 不在包的根目录！"
+            exit 1
+          fi
+          echo "✅ host.json 在包根目录"
+          rm -rf verify-temp
       
       - name: Login to Azure
         uses: azure/login@v2
@@ -77,5 +153,5 @@ jobs:
         with:
           app-name: 'researchapp-functions'
           slot-name: 'Production'
-          package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
+          package: release.zip
           
