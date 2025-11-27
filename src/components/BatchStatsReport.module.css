@@ -1,0 +1,324 @@
+.statsReportPanel {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 24px;
+}
+
+.reportHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.reportHeader h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.reportMeta {
+  display: flex;
+  gap: 16px;
+}
+
+.metaItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.metaLabel {
+  font-size: 12px;
+  color: #6b7280;
+  margin-bottom: 2px;
+}
+
+.metaValue {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.reportContent {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.scoreSummary h4,
+.scoreDistribution h4,
+.topIssues h4,
+.userSegments h4,
+.recommendations h4 {
+  margin: 0 0 16px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #374151;
+}
+
+.scoreGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.scoreItem {
+  background: #f9fafb;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+}
+
+.scoreItemOverall {
+  background: #eff6ff;
+  border: 2px solid #3b82f6;
+}
+
+.scoreLabel {
+  font-size: 14px;
+  color: #6b7280;
+  margin-bottom: 8px;
+}
+
+.scoreValue {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.scoreGrade {
+  font-size: 12px;
+  font-weight: 500;
+  color: #6b7280;
+}
+
+.distributionChart {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.distItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.distBar {
+  width: 200px;
+  height: 20px;
+  background: #e5e7eb;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.distFill {
+  height: 100%;
+  border-radius: 10px;
+  transition: width 0.3s ease;
+}
+
+.distInfo {
+  display: flex;
+  flex-direction: column;
+  min-width: 120px;
+}
+
+.distLabel {
+  font-size: 14px;
+  color: #374151;
+  margin-bottom: 2px;
+}
+
+.distCount {
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.issuesList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.issueItem {
+  background: #f9fafb;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.issueHeader {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.issueRank {
+  background: #3b82f6;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.issueText {
+  flex: 1;
+  font-size: 14px;
+  color: #374151;
+}
+
+.issueSeverity {
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.issueSeverityHigh {
+  background: #fef2f2;
+  color: #dc2626;
+}
+
+.issueSeverityMedium {
+  background: #fffbeb;
+  color: #d97706;
+}
+
+.issueSeverityLow {
+  background: #f0f9ff;
+  color: #0284c7;
+}
+
+.issueStats {
+  display: flex;
+  gap: 8px;
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.segmentsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+}
+
+.segment {
+  background: #f9fafb;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.segment h5 {
+  margin: 0 0 12px 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #374151;
+}
+
+.segmentContent {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.segmentItem {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+}
+
+.segmentLabel {
+  color: #6b7280;
+}
+
+.segmentCount {
+  color: #1f2937;
+  font-weight: 500;
+}
+
+.recommendationsList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.recommendationItem {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 12px;
+  background: #f0f9ff;
+  border-radius: 8px;
+  border-left: 4px solid #3b82f6;
+}
+
+.recommendationNumber {
+  background: #3b82f6;
+  color: white;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+
+.recommendationText {
+  font-size: 14px;
+  color: #374151;
+  line-height: 1.4;
+}
+
+.reportActions {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid #e5e7eb;
+  text-align: center;
+}
+
+.exportBtn {
+  background: #10b981;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.exportBtn:hover {
+  background: #059669;
+}
+
+@media (max-width: 768px) {
+  .reportHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .scoreGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .distBar {
+    width: 150px;
+  }
+
+  .segmentsGrid {
+    grid-template-columns: 1fr;
+  }
+}

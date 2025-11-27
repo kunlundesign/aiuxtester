@@ -1,0 +1,303 @@
+.sideBySideResults {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.resultsHeader {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.resultsHeader h2 {
+  margin: 0 0 16px 0;
+  color: #1f2937;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.winnerBadge {
+  display: inline-block;
+  padding: 8px 16px;
+  background: linear-gradient(135deg, #10b981, #059669);
+  color: white;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.comparisonGrid {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 32px;
+  margin-bottom: 32px;
+}
+
+.designColumn {
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 24px;
+  border: 2px solid #e5e7eb;
+}
+
+.designHeader {
+  text-align: center;
+  margin-bottom: 24px;
+  padding-bottom: 16px;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.designHeader h3 {
+  margin: 0 0 12px 0;
+  color: #1f2937;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.overallScore {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.scoreValue {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.scoreLabel {
+  font-size: 16px;
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.scoreBreakdown {
+  margin-bottom: 24px;
+}
+
+.scoreItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.scoreItem:last-child {
+  border-bottom: none;
+}
+
+.scoreCategory {
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.highlightsSection,
+.issuesSection {
+  margin-bottom: 20px;
+}
+
+.highlightsSection h5,
+.issuesSection h5 {
+  margin: 0 0 12px 0;
+  color: #1f2937;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.highlightsList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.highlightsList li {
+  padding: 8px 0;
+  color: #374151;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.highlightsList li:last-child {
+  border-bottom: none;
+}
+
+.issuesList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.issueItem {
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+  border-left: 4px solid #e5e7eb;
+}
+
+.issueSeverity {
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: #6b7280;
+}
+
+.issueText {
+  color: #374151;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.moreIssues {
+  text-align: center;
+  color: #6b7280;
+  font-size: 14px;
+  font-style: italic;
+  margin-top: 8px;
+}
+
+.vsDivider {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.vsText {
+  font-size: 24px;
+  font-weight: 700;
+  color: #6b7280;
+  background: #f3f4f6;
+  padding: 16px;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.confidenceBadge {
+  background: #3b82f6;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.analysisSummary {
+  background: #f8fafc;
+  border-radius: 12px;
+  padding: 24px;
+  border: 1px solid #e2e8f0;
+}
+
+.analysisSummary h3 {
+  margin: 0 0 20px 0;
+  color: #1f2937;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.keyDifferences,
+.recommendation,
+.abTestInfo {
+  margin-bottom: 20px;
+}
+
+.keyDifferences:last-child,
+.recommendation:last-child,
+.abTestInfo:last-child {
+  margin-bottom: 0;
+}
+
+.keyDifferences h4,
+.recommendation h4,
+.abTestInfo h4 {
+  margin: 0 0 12px 0;
+  color: #374151;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.keyDifferences ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.keyDifferences li {
+  padding: 6px 0;
+  color: #4b5563;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.keyDifferences li:last-child {
+  border-bottom: none;
+}
+
+.recommendation p {
+  margin: 0;
+  color: #4b5563;
+  line-height: 1.6;
+}
+
+.testMetrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.metric {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+.metricLabel {
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.metricValue {
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.riskLow {
+  color: #10b981;
+}
+
+.riskMedium {
+  color: #f59e0b;
+}
+
+.riskHigh {
+  color: #ef4444;
+}
+
+@media (max-width: 768px) {
+  .comparisonGrid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .vsDivider {
+    order: -1;
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  .testMetrics {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,9 +1,6 @@
-'use client';
-
 import React, { useState } from 'react';
 import { personas } from '@/data/personas';
-import { createAIAdapter } from '@/lib/ai-adapters';
-import { ModelProvider, EvalResult, UploadedImage, ImageEval, Persona } from '@/types';
+import { ModelProvider, EvalResult, UploadedImage, ImageEval, Persona, StatsReport } from '@/types';
 import ImageAnnotation from '@/components/ImageAnnotation';
 import SampleSizeSelector, { BatchConfig } from '@/components/SampleSizeSelector';
 import BatchProgress, { ProgressState } from '@/components/BatchProgress';
@@ -11,7 +8,6 @@ import BatchStatsReport from '@/components/BatchStatsReport';
 import SideBySideResults from '@/components/SideBySideResults';
 import { SideBySideResults as SideBySideResultsType } from '@/types';
 import { IntelligentReport } from '@/components/IntelligentReport';
-import { StatsReport } from '@/lib/stats-engine';
 
 // 统一的设计系统
 const designSystem = {
@@ -987,13 +983,6 @@ export default function HomePage() {
                 {loadingMessage}
               </div>
             )}
-            
-            <style jsx>{`
-              @keyframes spin {
-                0% { transform: rotate(0deg); }
-                100% { transform: rotate(360deg); }
-              }
-            `}</style>
           </div>
 
           {/* History Panel */}

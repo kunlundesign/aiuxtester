@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import styles from './BatchProgress.module.css';
 
 export interface ProgressState {
   currentStep: string;
@@ -71,52 +72,52 @@ export default function BatchProgress({ progress, onCancel }: BatchProgressProps
   };
 
   return (
-    <div className="batch-progress-panel">
-      <div className="progress-header">
+    <div className={styles.batchProgressPanel}>
+      <div className={styles.progressHeader}>
         <h3>🎭 批量评估进行中</h3>
-        <div className="progress-status">
-          <span className="phase-icon">{getPhaseIcon(progress.currentPhase)}</span>
-          <span className="phase-text">{getPhaseText(progress.currentPhase)}</span>
+        <div className={styles.progressStatus}>
+          <span className={styles.phaseIcon}>{getPhaseIcon(progress.currentPhase)}</span>
+          <span className={styles.phaseText}>{getPhaseText(progress.currentPhase)}</span>
         </div>
       </div>
 
-      <div className="progress-content">
-        <div className="progress-bar-container">
-          <div className="progress-bar">
+      <div className={styles.progressContent}>
+        <div className={styles.progressBarContainer}>
+          <div className={styles.progressBar}>
             <div 
-              className="progress-fill"
+              className={styles.progressFill}
               style={{ width: `${progressPercentage}%` }}
             ></div>
           </div>
-          <div className="progress-text">
+          <div className={styles.progressText}>
             {progress.completedPersonas} / {progress.totalPersonas} 个用户已完成
-            <span className="progress-percentage">({progressPercentage.toFixed(1)}%)</span>
+            <span className={styles.progressPercentage}>({progressPercentage.toFixed(1)}%)</span>
           </div>
         </div>
 
-        <div className="progress-details">
-          <div className="detail-row">
-            <span className="detail-label">当前步骤:</span>
-            <span className="detail-value">{progress.currentStep}</span>
+        <div className={styles.progressDetails}>
+          <div className={styles.detailRow}>
+            <span className={styles.detailLabel}>当前步骤:</span>
+            <span className={styles.detailValue}>{progress.currentStep}</span>
           </div>
           
-          <div className="detail-row">
-            <span className="detail-label">已用时间:</span>
-            <span className="detail-value">{formatTime(elapsedTime)}</span>
+          <div className={styles.detailRow}>
+            <span className={styles.detailLabel}>已用时间:</span>
+            <span className={styles.detailValue}>{formatTime(elapsedTime)}</span>
           </div>
           
-          <div className="detail-row">
-            <span className="detail-label">预计剩余:</span>
-            <span className="detail-value">{progress.estimatedTimeRemaining}</span>
+          <div className={styles.detailRow}>
+            <span className={styles.detailLabel}>预计剩余:</span>
+            <span className={styles.detailValue}>{progress.estimatedTimeRemaining}</span>
           </div>
         </div>
 
         {progress.errors.length > 0 && (
-          <div className="error-section">
+          <div className={styles.errorSection}>
             <h4>⚠️ 处理错误</h4>
-            <div className="error-list">
+            <div className={styles.errorList}>
               {progress.errors.map((error, index) => (
-                <div key={index} className="error-item">
+                <div key={index} className={styles.errorItem}>
                   {error}
                 </div>
               ))}
@@ -124,10 +125,10 @@ export default function BatchProgress({ progress, onCancel }: BatchProgressProps
           </div>
         )}
 
-        <div className="progress-actions">
+        <div className={styles.progressActions}>
           {onCancel && progress.currentPhase !== 'completed' && (
             <button 
-              className="btn-secondary cancel-btn"
+              className={styles.cancelBtn}
               onClick={onCancel}
             >
               取消评估
@@ -135,206 +136,13 @@ export default function BatchProgress({ progress, onCancel }: BatchProgressProps
           )}
           
           {progress.currentPhase === 'completed' && (
-            <div className="completion-message">
-              <span className="success-icon">🎉</span>
-              <span className="success-text">批量评估已完成！</span>
+            <div className={styles.completionMessage}>
+              <span className={styles.successIcon}>🎉</span>
+              <span className={styles.successText}>批量评估已完成！</span>
             </div>
           )}
         </div>
       </div>
-
-      <style jsx>{`
-        .batch-progress-panel {
-          background: white;
-          border-radius: 12px;
-          padding: 24px;
-          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-          margin-bottom: 24px;
-        }
-
-        .progress-header {
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          margin-bottom: 20px;
-        }
-
-        .progress-header h3 {
-          margin: 0;
-          font-size: 20px;
-          font-weight: 600;
-          color: #1f2937;
-        }
-
-        .progress-status {
-          display: flex;
-          align-items: center;
-          gap: 8px;
-        }
-
-        .phase-icon {
-          font-size: 20px;
-        }
-
-        .phase-text {
-          font-size: 14px;
-          font-weight: 500;
-          color: #6b7280;
-        }
-
-        .progress-content {
-          space-y: 16px;
-        }
-
-        .progress-bar-container {
-          margin-bottom: 20px;
-        }
-
-        .progress-bar {
-          width: 100%;
-          height: 8px;
-          background: #e5e7eb;
-          border-radius: 4px;
-          overflow: hidden;
-          margin-bottom: 8px;
-        }
-
-        .progress-fill {
-          height: 100%;
-          background: linear-gradient(90deg, #3b82f6, #10b981);
-          border-radius: 4px;
-          transition: width 0.3s ease;
-        }
-
-        .progress-text {
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          font-size: 14px;
-          color: #374151;
-        }
-
-        .progress-percentage {
-          font-weight: 600;
-          color: #3b82f6;
-        }
-
-        .progress-details {
-          background: #f9fafb;
-          border-radius: 8px;
-          padding: 16px;
-          margin-bottom: 20px;
-        }
-
-        .detail-row {
-          display: flex;
-          justify-content: space-between;
-          margin-bottom: 8px;
-        }
-
-        .detail-row:last-child {
-          margin-bottom: 0;
-        }
-
-        .detail-label {
-          font-size: 14px;
-          color: #6b7280;
-        }
-
-        .detail-value {
-          font-size: 14px;
-          font-weight: 500;
-          color: #1f2937;
-        }
-
-        .error-section {
-          margin-bottom: 20px;
-        }
-
-        .error-section h4 {
-          margin: 0 0 12px 0;
-          font-size: 14px;
-          font-weight: 600;
-          color: #dc2626;
-        }
-
-        .error-list {
-          max-height: 120px;
-          overflow-y: auto;
-        }
-
-        .error-item {
-          background: #fef2f2;
-          border: 1px solid #fecaca;
-          border-radius: 6px;
-          padding: 8px 12px;
-          margin-bottom: 8px;
-          font-size: 13px;
-          color: #dc2626;
-        }
-
-        .error-item:last-child {
-          margin-bottom: 0;
-        }
-
-        .progress-actions {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          padding-top: 16px;
-          border-top: 1px solid #e5e7eb;
-        }
-
-        .cancel-btn {
-          background: #ef4444;
-          color: white;
-          border: none;
-          padding: 8px 16px;
-          border-radius: 6px;
-          font-size: 14px;
-          font-weight: 500;
-          cursor: pointer;
-          transition: background-color 0.2s ease;
-        }
-
-        .cancel-btn:hover {
-          background: #dc2626;
-        }
-
-        .completion-message {
-          display: flex;
-          align-items: center;
-          gap: 8px;
-          font-size: 16px;
-          font-weight: 600;
-          color: #10b981;
-        }
-
-        .success-icon {
-          font-size: 20px;
-        }
-
-        .success-text {
-          color: #059669;
-        }
-
-        @media (max-width: 768px) {
-          .progress-header {
-            flex-direction: column;
-            align-items: flex-start;
-            gap: 8px;
-          }
-
-          .progress-details {
-            padding: 12px;
-          }
-
-          .detail-row {
-            flex-direction: column;
-            gap: 4px;
-          }
-        }
-      `}</style>
     </div>
   );
 }

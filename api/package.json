@@ -1,0 +1,25 @@
+{
+  "name": "ai-ux-tester-api",
+  "version": "1.0.0",
+  "description": "Azure Functions API for AI UX Tester",
+  "main": "dist/functions/*.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "func start",
+    "dev": "npm run build && func start",
+    "prestart": "npm run build"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0",
+    "@azure/storage-blob": "^12.17.0",
+    "@google/generative-ai": "^0.2.0",
+    "axios": "^1.6.0",
+    "openai": "^4.20.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "typescript": "^5.2.0"
+  }
+}
