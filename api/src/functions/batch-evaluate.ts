@@ -302,93 +302,213 @@ function generateIntelligentReport(personaInsights: PersonaInsight[]): Intellige
 
 async function loadPersonasFromBlobStorage(context: InvocationContext): Promise<{ id: string; data: RawPersonaData }[]> {
   const connectionString = process.env.AZURE_STORAGE_CONNECTION_STRING;
+  
+  context.log('📦 [Blob] Checking Azure Storage connection...');
+  
   if (!connectionString) {
-    context.warn('No Azure Storage connection string configured');
-    return [];
+    context.error('❌ [Blob] AZURE_STORAGE_CONNECTION_STRING is not configured');
+    throw new Error('Azure Storage connection string is not configured. Please set AZURE_STORAGE_CONNECTION_STRING in Application Settings.');
   }
+
+  context.log('✅ [Blob] Connection string found, connecting to Blob Storage...');
 
   try {
     const blobServiceClient = BlobServiceClient.fromConnectionString(connectionString);
     const containerClient = blobServiceClient.getContainerClient('personas');
     
+    // Check if container exists
+    const containerExists = await containerClient.exists();
+    if (!containerExists) {
+      context.error('❌ [Blob] Container "personas" does not exist');
+      throw new Error('Blob container "personas" does not exist. Please create the container and upload persona files.');
+    }
+    
+    context.log('✅ [Blob] Container "personas" found, listing blobs...');
+    
     const personas: { id: string; data: RawPersonaData }[] = [];
+    let blobCount = 0;
+    let errorCount = 0;
     
     for await (const blob of containerClient.listBlobsFlat()) {
-      if (blob.name.endsWith('.json')) {
+      blobCount++;
+      
+      if (!blob.name.endsWith('.json')) {
+        context.log(`⏭️ [Blob] Skipping non-JSON file: ${blob.name}`);
+        continue;
+      }
+      
+      try {
         const blobClient = containerClient.getBlobClient(blob.name);
-        const downloadResponse = await blobClient.download();
-        const content = await streamToString(downloadResponse.readableStreamBody!);
+        
+        // ✅ 使用 downloadToBuffer() 替代 streamToString，更可靠
+        const downloadResponse = await blobClient.downloadToBuffer();
+        const content = downloadResponse.toString('utf-8');
+        
+        // 验证 JSON 格式
         const data = JSON.parse(content) as RawPersonaData;
         const id = blob.name.replace('.json', '');
+        
         personas.push({ id, data });
+        
+        // 每加载 100 个输出一次进度
+        if (personas.length % 100 === 0) {
+          context.log(`📊 [Blob] Loaded ${personas.length} personas...`);
+        }
+      } catch (parseError) {
+        errorCount++;
+        context.warn(`⚠️ [Blob] Failed to parse ${blob.name}: ${parseError instanceof Error ? parseError.message : 'Unknown error'}`);
+        // 继续处理其他文件，不中断
       }
     }
     
-    context.log(`Loaded ${personas.length} personas from blob storage`);
+    context.log(`✅ [Blob] Finished loading personas:`);
+    context.log(`   - Total blobs scanned: ${blobCount}`);
+    context.log(`   - Successfully loaded: ${personas.length}`);
+    context.log(`   - Parse errors: ${errorCount}`);
+    
+    if (personas.length === 0) {
+      throw new Error(`No valid persona files found in "personas" container. Scanned ${blobCount} blobs, ${errorCount} parse errors.`);
+    }
+    
     return personas;
   } catch (error) {
-    context.error('Error loading personas from blob storage:', error);
-    return [];
+    context.error('❌ [Blob] Error loading personas:', error);
+    throw error; // 重新抛出，让调用方处理
   }
-}
-
-async function streamToString(readableStream: NodeJS.ReadableStream): Promise<string> {
-  return new Promise((resolve, reject) => {
-    const chunks: Buffer[] = [];
-    readableStream.on('data', (data) => chunks.push(Buffer.from(data)));
-    readableStream.on('end', () => resolve(Buffer.concat(chunks).toString('utf-8')));
-    readableStream.on('error', reject);
-  });
 }
 
 async function batchEvaluate(request: HttpRequest, context: InvocationContext): Promise<HttpResponseInit> {
   const startTime = Date.now();
-  context.log('Batch evaluation function processing request');
+  context.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+  context.log('🚀 [BatchEvaluate] Starting batch evaluation request');
+  context.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
   
   try {
-    const body = await request.json();
-    const validatedData = BatchEvaluateRequestSchema.parse(body);
-    
-    const { images, analysisType, designBackground, model, sampleSize, includeStats } = validatedData;
-
-    context.log(`🎭 Starting batch evaluation with ${sampleSize} personas`);
-
-    // Load personas from blob storage
-    const allPersonas = await loadPersonasFromBlobStorage(context);
-    
-    if (allPersonas.length === 0) {
+    // Step 1: Parse request body
+    context.log('📥 [Step 1] Parsing request body...');
+    let body: any;
+    try {
+      body = await request.json();
+      context.log(`✅ [Step 1] Request body parsed successfully`);
+      context.log(`   - images: ${body.images?.length || 0} image(s)`);
+      context.log(`   - model: ${body.model || 'openai (default)'}`);
+      context.log(`   - sampleSize: ${body.sampleSize || 100}`);
+      context.log(`   - analysisType: ${body.analysisType || 'auto-detect'}`);
+    } catch (parseError) {
+      context.error('❌ [Step 1] Failed to parse request body:', parseError);
       return {
         status: 400,
-        jsonBody: { success: false, error: 'No persona files found in storage' }
+        jsonBody: { 
+          success: false, 
+          error: 'Invalid JSON in request body',
+          details: parseError instanceof Error ? parseError.message : 'Unknown parse error'
+        }
+      };
+    }
+    
+    // Step 2: Validate request with Zod
+    context.log('🔍 [Step 2] Validating request schema...');
+    let validatedData;
+    try {
+      validatedData = BatchEvaluateRequestSchema.parse(body);
+      context.log('✅ [Step 2] Request validation passed');
+    } catch (validationError) {
+      context.error('❌ [Step 2] Request validation failed:', validationError);
+      if (validationError instanceof z.ZodError) {
+        return {
+          status: 400,
+          jsonBody: { 
+            success: false, 
+            error: 'Invalid request format',
+            details: validationError.errors.map(e => ({
+              field: e.path.join('.'),
+              message: e.message
+            }))
+          }
+        };
+      }
+      throw validationError;
+    }
+    
+    const { images, analysisType, designBackground, model, sampleSize: requestedSampleSize, includeStats } = validatedData;
+
+    // Step 3: Load personas from Blob Storage
+    context.log('📦 [Step 3] Loading personas from Blob Storage...');
+    let allPersonas: { id: string; data: RawPersonaData }[];
+    try {
+      allPersonas = await loadPersonasFromBlobStorage(context);
+      context.log(`✅ [Step 3] Loaded ${allPersonas.length} personas from Blob Storage`);
+    } catch (blobError) {
+      context.error('❌ [Step 3] Failed to load personas:', blobError);
+      return {
+        status: 500,
+        jsonBody: { 
+          success: false, 
+          error: 'Failed to load personas from storage',
+          details: blobError instanceof Error ? blobError.message : 'Unknown storage error'
+        }
       };
     }
 
-    // Random selection
+    // Step 4: Sample size adjustment (容错逻辑)
+    context.log('🎲 [Step 4] Adjusting sample size...');
+    const actualSampleSize = Math.min(requestedSampleSize, allPersonas.length);
+    if (actualSampleSize < requestedSampleSize) {
+      context.warn(`⚠️ [Step 4] Requested ${requestedSampleSize} personas but only ${allPersonas.length} available`);
+      context.warn(`   → Adjusted sample size to ${actualSampleSize}`);
+    } else {
+      context.log(`✅ [Step 4] Sample size: ${actualSampleSize} (requested: ${requestedSampleSize})`);
+    }
+
+    // Step 5: Random selection
+    context.log('🔀 [Step 5] Randomly selecting personas...');
     const selectedPersonas = allPersonas
       .sort(() => Math.random() - 0.5)
-      .slice(0, sampleSize);
+      .slice(0, actualSampleSize);
+    context.log(`✅ [Step 5] Selected ${selectedPersonas.length} personas for evaluation`);
 
-    context.log(`📁 Found ${allPersonas.length} personas, selected ${selectedPersonas.length} for evaluation`);
-
+    // Step 6: Initialize result containers
     const results: BatchEvalSuccess[] = [];
     const allScores: Scores[] = [];
     const allIssues: Array<{ stepHint: string; issue: string; severity: 'low' | 'medium' | 'high'; suggestion: string }> = [];
     const personaMetadata: Array<{ age: number; occupation: string; personalityType: string }> = [];
     const errors: BatchEvalError[] = [];
 
+    // Step 7: Create AI adapter
+    context.log(`🤖 [Step 6] Creating AI adapter for model: ${model}`);
     const CONCURRENT_LIMIT = 10;
-    const adapter = createAIAdapter(model as ModelProvider);
+    let adapter;
+    try {
+      adapter = createAIAdapter(model as ModelProvider);
+      context.log('✅ [Step 6] AI adapter created successfully');
+    } catch (adapterError) {
+      context.error('❌ [Step 6] Failed to create AI adapter:', adapterError);
+      return {
+        status: 500,
+        jsonBody: { 
+          success: false, 
+          error: 'Failed to initialize AI adapter',
+          details: adapterError instanceof Error ? adapterError.message : 'Unknown adapter error'
+        }
+      };
+    }
 
-    // Process in batches
+    // Step 8: Process personas in batches
+    const totalBatches = Math.ceil(selectedPersonas.length / CONCURRENT_LIMIT);
+    context.log(`🔄 [Step 7] Starting batch processing: ${totalBatches} batches of ${CONCURRENT_LIMIT}`);
+
     for (let i = 0; i < selectedPersonas.length; i += CONCURRENT_LIMIT) {
+      const batchIndex = Math.floor(i / CONCURRENT_LIMIT) + 1;
       const batch = selectedPersonas.slice(i, i + CONCURRENT_LIMIT);
       
-      context.log(`🔄 Processing batch ${Math.floor(i / CONCURRENT_LIMIT) + 1}`);
+      context.log(`   📦 Processing batch ${batchIndex}/${totalBatches} (${batch.length} personas)...`);
+      const batchStartTime = Date.now();
 
       const batchPromises = batch.map(async ({ id, data }) => {
         try {
           const standardPersona = convertToStandardPersona(data, id);
           const inferredType = analysisType || (images.length > 1 ? 'flow' : 'single');
+          
           const evaluationResult = await adapter.evaluate(images, standardPersona, designBackground, inferredType);
 
           const result: BatchEvalSuccess = {
@@ -398,17 +518,33 @@ async function batchEvaluate(request: HttpRequest, context: InvocationContext): 
             items: evaluationResult.items || []
           };
 
+          // ✅ 修复 firstItem 问题：确保 items 存在且有内容
           if (evaluationResult.items && evaluationResult.items.length > 0) {
             const firstItem = evaluationResult.items[0];
-            if (firstItem.scores) allScores.push(firstItem.scores);
+            
+            // 收集分数
+            if (firstItem.scores && typeof firstItem.scores === 'object') {
+              allScores.push({
+                usability: firstItem.scores.usability || 0,
+                accessibility: firstItem.scores.accessibility || 0,
+                visual: firstItem.scores.visual || 0,
+                overall: firstItem.scores.overall || 0
+              });
+            }
+            
+            // 收集问题
             if (Array.isArray(firstItem.issues)) {
               firstItem.issues.forEach((iss: any) => {
-                allIssues.push({
-                  stepHint: iss.stepHint || '',
-                  issue: iss.issue || 'Unknown issue',
-                  severity: (iss.severity || 'medium').toLowerCase() as 'low' | 'medium' | 'high',
-                  suggestion: iss.suggestion || ''
-                });
+                if (iss && typeof iss === 'object') {
+                  allIssues.push({
+                    stepHint: String(iss.stepHint || ''),
+                    issue: String(iss.issue || 'Unknown issue'),
+                    severity: (['low', 'medium', 'high'].includes(String(iss.severity).toLowerCase()) 
+                      ? String(iss.severity).toLowerCase() 
+                      : 'medium') as 'low' | 'medium' | 'high',
+                    suggestion: String(iss.suggestion || '')
+                  });
+                }
               });
             }
           }
@@ -419,97 +555,142 @@ async function batchEvaluate(request: HttpRequest, context: InvocationContext): 
             personalityType: standardPersona.personalityType || 'Unknown'
           });
           
-          return { success: true as const, data: result };
+          return { success: true as const, data: result, personaId: id };
         } catch (error) {
-          context.error(`Error evaluating persona ${id}:`, error);
+          const errorMessage = error instanceof Error ? error.message : 'Unknown evaluation error';
+          context.warn(`   ⚠️ Persona ${id} evaluation failed: ${errorMessage}`);
           return {
             success: false as const,
-            error: error instanceof Error ? error.message : 'Unknown error',
+            error: errorMessage,
             personaId: id
           };
         }
       });
 
+      // ✅ 优化 Promise.allSettled 结果收集
       const batchResults = await Promise.allSettled(batchPromises);
+      
+      let batchSuccess = 0;
+      let batchFailed = 0;
       
       batchResults.forEach((res) => {
         if (res.status === 'fulfilled') {
           if (res.value.success) {
             results.push(res.value.data);
+            batchSuccess++;
           } else {
-            errors.push({ personaId: res.value.personaId || 'unknown', error: res.value.error || 'Unknown error' });
+            errors.push({ 
+              personaId: res.value.personaId || 'unknown', 
+              error: res.value.error || 'Unknown error' 
+            });
+            batchFailed++;
           }
         } else {
-          errors.push({ personaId: 'unknown', error: res.reason?.message || 'Promise rejected' });
+          // Promise rejected
+          errors.push({ 
+            personaId: 'unknown', 
+            error: res.reason?.message || 'Promise rejected unexpectedly' 
+          });
+          batchFailed++;
         }
       });
+      
+      const batchTime = Date.now() - batchStartTime;
+      context.log(`   ✅ Batch ${batchIndex} completed in ${batchTime}ms: ${batchSuccess} success, ${batchFailed} failed`);
     }
 
-    // Generate statistics and intelligent report
+    context.log(`🎯 [Step 8] All batches processed: ${results.length} success, ${errors.length} failed`);
+
+    // Step 9: Generate statistics and intelligent report
     let stats: StatsReport | null = null;
     let intelligentReport: IntelligentReport | null = null;
     
     if (includeStats && results.length > 0) {
-      stats = generateStats(allScores, allIssues, personaMetadata);
+      context.log('📊 [Step 9] Generating statistics and intelligent report...');
       
-      const personaInsights: PersonaInsight[] = results.map((result, index) => ({
-        personaId: result.personaId,
-        personaName: result.personaName || result.personaId,
-        occupation: personaMetadata[index]?.occupation || 'Unknown',
-        personalityType: personaMetadata[index]?.personalityType || 'Unknown',
-        scores: result.items[0]?.scores || { usability: 0, accessibility: 0, visual: 0, overall: 0 },
-        highlights: result.items[0]?.highlights || [],
-        issues: result.items[0]?.issues?.map(i => ({
-          stepHint: i.stepHint,
-          issue: i.issue,
-          severity: (i.severity?.toLowerCase() || 'medium') as 'low' | 'medium' | 'high',
-          suggestion: i.suggestion
-        })) || []
-      }));
-      
-      intelligentReport = generateIntelligentReport(personaInsights);
+      try {
+        stats = generateStats(allScores, allIssues, personaMetadata);
+        context.log('   ✅ Stats report generated');
+        
+        const personaInsights: PersonaInsight[] = results.map((result, index) => ({
+          personaId: result.personaId,
+          personaName: result.personaName || result.personaId,
+          occupation: personaMetadata[index]?.occupation || 'Unknown',
+          personalityType: personaMetadata[index]?.personalityType || 'Unknown',
+          scores: result.items[0]?.scores || { usability: 0, accessibility: 0, visual: 0, overall: 0 },
+          highlights: result.items[0]?.highlights || [],
+          issues: (result.items[0]?.issues || []).map(i => ({
+            stepHint: i.stepHint || '',
+            issue: i.issue || 'Unknown',
+            severity: (String(i.severity || 'medium').toLowerCase()) as 'low' | 'medium' | 'high',
+            suggestion: i.suggestion || ''
+          }))
+        }));
+        
+        intelligentReport = generateIntelligentReport(personaInsights);
+        context.log('   ✅ Intelligent report generated');
+      } catch (statsError) {
+        context.error('   ⚠️ Error generating reports:', statsError);
+        // 不中断流程，继续返回结果
+      }
+    } else {
+      context.log('📊 [Step 9] Skipping statistics (includeStats=false or no results)');
     }
+
+    // Step 10: Build response
+    const processingTime = Date.now() - startTime;
+    const successRate = actualSampleSize > 0 
+      ? (results.length / actualSampleSize * 100).toFixed(1) 
+      : '0.0';
+    
+    context.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+    context.log(`🎉 [Complete] Batch evaluation finished in ${processingTime}ms`);
+    context.log(`   - Evaluated: ${results.length}/${actualSampleSize} personas`);
+    context.log(`   - Success rate: ${successRate}%`);
+    context.log(`   - Errors: ${errors.length}`);
+    context.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
 
     const response = {
       success: true,
       data: {
         totalEvaluated: results.length,
-        totalRequested: sampleSize,
-        successRate: (results.length / sampleSize * 100).toFixed(1),
+        totalRequested: requestedSampleSize,
+        totalAvailable: allPersonas.length,
+        actualSampleSize,
+        successRate,
         results,
         stats,
         intelligentReport,
         errors: errors.length > 0 ? errors : undefined,
         metadata: {
-          sampleSize: selectedPersonas.length,
+          sampleSize: actualSampleSize,
+          requestedSampleSize,
           analysisType: analysisType || 'auto-detect',
           model,
           timestamp: new Date().toISOString(),
-          processingTime: Date.now() - startTime
+          processingTimeMs: processingTime
         }
       }
     };
 
-    context.log(`🎉 Batch evaluation completed: ${results.length}/${sampleSize} successful`);
-
     return {
+      status: 200,
       jsonBody: response,
       headers: { 'Content-Type': 'application/json' }
     };
 
   } catch (error) {
-    context.error('Batch evaluation error:', error);
-    
-    if (error instanceof z.ZodError) {
-      return {
-        status: 400,
-        jsonBody: { success: false, error: 'Invalid request format', details: error.errors }
-      };
-    }
+    const processingTime = Date.now() - startTime;
+    context.error('❌ [Error] Unexpected error in batch evaluation:', error);
+    context.error(`   Processing time before error: ${processingTime}ms`);
 
     return {
       status: 500,
-      jsonBody: { success: false, error: error instanceof Error ? error.message : 'Unknown error' }
+      jsonBody: { 
+        success: false, 
+        error: error instanceof Error ? error.message : 'Unknown internal error',
+        processingTimeMs: processingTime
+      }
     };
   }
 }
